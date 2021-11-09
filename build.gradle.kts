@@ -4,7 +4,7 @@
 // project: https://asciidoctor.org/docs/asciidoctor-gradle-plugin/
 
 // -Ptarget=local
-val target = Target.byId(project.property("target") as String)
+val target: Target = Target.byId(project.findProperty("target") as? String ?: LocalTarget.id)
 
 repositories {
 //    jcenter() // don't delete, otherwise fails
