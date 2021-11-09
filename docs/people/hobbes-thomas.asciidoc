@@ -1,0 +1,21 @@
+= Thomas Hobbes
+
+[#img-hobbes]
+.Thomas Hobbes himself
+[link=https://en.wikipedia.org/wiki/Thomas_Hobbes]
+image::hobbes-thomas.png[Thomas Hobbes,200,100]
+
+== Facts
+
+* 1588-1679
+* English philosopher
+
+== Achievements
+
+* Main part in link:/introduction/ch1-background/index.html#sec-empiricism[British empiricism]
+* Came up with the philosophical theory of link:/introduction/ch1-background/index.html#sec-materialism[materialism]
+** An extension to link:/people/descartes-rene.html[Descartes]' dualism
+
+== Links
+
+* https://en.wikipedia.org/wiki/Thomas_Hobbes

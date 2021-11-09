@@ -1,1 +1,5 @@
-psychology notes, see https://github.com/christophpickl/psycho/wiki
+# Gradle Builds
+
+* `build`: trigger asciidoc HTML generation
+* `deploy`: FTP upload 
+* `linkCheck`: online checks all links

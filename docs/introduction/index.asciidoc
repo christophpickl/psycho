@@ -1,0 +1,59 @@
+= Introduction
+
+For a general introduction text, read through the link:lecture_introduction.html[lecture introduction] based on the university's pages.
+
+Sample link:exams.html[exams] can be mostly found in Dutch.
+
+== Book
+
+[#id-introduction-book]
+We use the book "Psychology" (8th edition) by Peter Gray and David F. Bjorklund (IBAN: 9781319015893).
+
+.Course book "Psychology"
+[link=https://www.amazon.com/Psychology-Peter-Gray/dp/1319015891/]
+image::book_psychology_gray.jpg[Psychology Book,200,100]
+
+The **content** (in alignment with the book) is split into 7 parts and 16 chapters in total, which are:
+
+// @formatter:off
+[upperroman]
+. Foundations
+[arabic]
+.. link:ch1-background/index.html[Background]
+.. link:ch2-methods/index.html[Methods]
+. Behavior based on Biology
+[arabic,start=3]
+.. link:ch3-genetics/index.html[Genetics, Evolution]
+.. link:ch4-neural/index.html[Neural Control]
+.. link:ch5-motivation/index.html[Motivation, Emotion]
+. Sensation, Perception
+[arabic,start=6]
+.. link:ch6-senses/index.html[Senses]
+.. link:ch7-vision/index.html[Vision]
+. Learning, Thinking
+[arabic,start=8]
+.. link:ch8-learning/index.html[Learning]
+.. link:ch9-memory/index.html[Memory, Attention, Consciousness]
+.. link:ch10-intelligence/index.html[Reasoning, Intelligence]
+. Development
+[arabic,start=11]
+.. link:ch11-development/index.html[Body/Thought/Language Development]
+.. link:ch12-social_development/index.html[Social Development]
+. Social, Personality
+[arabic,start=13]
+.. link:ch13-social_psychology/index.html[Social Psychology]
+.. link:ch14-personality/index.html[Personality]
+. Disorder, Treatment
+[arabic,start=15]
+.. link:ch15-disorders/index.html[Disorders]
+.. link:ch16-treatment/index.html[Treatments]
+// @formatter:on
+
+Each chapter comes along with a set of *focus questions* (about 40 each).
+Someone from the course made a compiled list (link:focus_questions_answers.pdf[PDF], 700kb) of all focus questions in a single document.
+
+== Further Resources
+
+You can also find the focus questions on link:https://quizlet.com/nl/603903561/psychology-flash-cards/[Quizlet].
+
+There is already a deck of 560 cards on link:https://ankiweb.net/shared/info/872250656[Anki] made by someone else.

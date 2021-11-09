@@ -1,0 +1,185 @@
+= Chapter 7 - Vision
+
+// keywords + check list in books
+// keypeople
+// people add content + back-reference here
+// pictures
+// check all for typos
+
+Subpages::
+
+* link:focus_questions.html[Focus Questions]
+
+.Mindmap of chapter 7 (link:https://app.wisemapping.com/c/maps/1209468/edit[Source])
+[link=images/mindmap.png]
+image::images/mindmap.png[Mind Map,100%,100]
+
+== Keywords
+
+- *foo*:
+
+== Keypeople
+
+// TODO people from contemporary experiments
+
+== Physiology
+
+* How it works.
+* Structures & function
+** Focus, retina
+*** Adjustable lens
+*** Cornea
+** Transduction
+*** Photoreceptors
+*** Light reaction
+*** Photochemicals
+*** Structural changes
+*** Chemical/electrical changes
+**** Action potential
+**** Optic nerve
+* Vision
+** Cones ("Kegeltjes")
+*** Bright light
+*** Accuity
+*** Color
+** Rods ("Stafjes")
+*** Dim light
+** Dark/light adaptation
+
+== Colors
+
+* Light are electromagnetic waves; or particles?
+* Trichromatic theory
+** From 3 primaries law
+** 3 receptor types
+*** 3 cone types
+* Wavelength
+** Different length => different color
+** Appear colored
+*** Pigment reflected
+*** Pigment absorbed
+** Color mixing
+*** 3 primaries law
+*** Law of complementary
+* Opponent-process theory
+** Law of complementary
+** Afterimages
+** Excite/inhibit
+** Visual neurons
+
+.YouTube Video: "Why Do We See Colors?", 9mins
+[link=https://www.youtube.com/watch?v=-Oo7W0TB-iI]
+image::https://img.youtube.com/vi/-Oo7W0TB-iI/0.jpg[Why Do We See Colors 3,300]
+
+== Development
+
+* At birth
+** Poor
+*** See max. 2m
+** Looking time
+*** Novelties longer
+*** For research
+**** Stimuli discrimination
+* Experience
+** Biological preparation
+*** 3D
+** Lack => underdeveloped
+** Experience-expectant process
+
+== Identification
+
+* Feature integration
+** Processing
+*** Parallel
+**** Fast, detection
+*** Serial
+**** Slow, spatial
+** Specific features = Specific neurons
+* Gestalt principle
+** Whole > Sum
+** Whole more important than parts
+** Grouping
+** Figure-ground
+// TODO list gestalt concepts
+* Top-down
+** Whole influences part
+** Unconscious inference
+** Illusory
+*** Contours
+*** Lightness difference
+* Recognition
+** Optic nerves
+*** Feature
+**** Integrate
+**** Perceptual whole
+**** = "Objects"
+** Visual agnosia
+*** Form
+*** Object
+* 2 processing streams
+** What
+*** Temporal lobe
+*** Recognition
+** Where-How
+*** Parietal lobe
+*** Action
+**** Grasp
+**** Move
+** (Bilateral) damage
+* Faces
+** Upright preference
+** Special mechanisms
+*** Psychological
+*** Neurological
+** Face area
+*** Fusiform: Familiar faces
+*** Occipital: New faces
+** Prosopagnosia
+*** Objects OK
+*** Familiar people NOK
+** Own-race bias
+*** Learned
+
+== Three Dimensions
+
+* Depth cues (=distance)
+** Binocular disparity
+*** Eyes displaced
+*** Different images
+** Motion parallax
+*** Head moves
+*** Also for single eye
+** Pictorial depth cues
+*** Even with 2D
+* Size perception
+** Size constancy
+*** Same size
+*** Different distance
+*** Depends on depth
+**** Inverse proporational
+** Illusions
+*** Moon
+*** Müller-Leyer
+*** Panzo
+*** Unconscious inference
+
+== Multisensory
+
+* Integration
+** Visual + auditiv mostly
+** link:/phenomena/mcgurk_effect.html[McGurk Effect]
+*** Visual dominance effect
+*** When in conflict: See lips, hear other
+** Bouba-Kiki
+*** Shapes + Sounds
+*** Mouth forming
+*** Cultural independent
+* Synesthesia
+** Art
+** Sense stimulus via other senses
+*** E.g. "blue monday"
+** Sensory cross-activation hypothesis
+
+== Additional Resources
+
+None.

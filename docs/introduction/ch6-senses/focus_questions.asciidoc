@@ -1,0 +1,122 @@
+= Focus Questions
+
+. How can the process of sensation be described as a chain of **three different** kids of **events**?
+** [hiddenAnswer]#(1) **Physical Stimulus**: energy of the physical world interact with sensory organs (2) **Physiological Response**: Chemial/electrical activity in organs/nerves (3) **Sensory Experience**: Subjective sensation/perception.#
+
+. In general, how do **physical stimuli** produce **action potentials** in sensory neurons?
+// TODO https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/36%3A_Sensory_Systems/36.1%3A_Sensory_Processes/36.1B%3A_Transduction_and_Perception
+** [hiddenAnswer]#**Transduction** translates sensory signals into action potentials, by compressing/bending dendrites, opening ion gates changing the receptor's electrical potential.#
+
+. In general, how do sensory systems code information about the amount and kind of stimulus energy?
+** [hiddenAnswer]#**Amount** (quantity) by stronger stimuli, thus larger receptor potentials and finally **faster** action potential rates.
+**Kind** (quality) by having different receptors which activate neurons.#
+
+. (a) What is the value of **sensory adaptation**? (b) How can you demonstrate that adaptation can occur in neurons in the **brain**, not just in receptors?
+** [hiddenAnswer]#(a) It makes us more sensitive/aware to changes which might be dangerous, rather than steady (non-dangerous) states. (b) The sensory experience produce activity in the cortex which can be measured.
+By exposing a constant stimuli, because of sensory adaption, the measured brain activity will be lower.#
+
+. (a) How did Weber derive a law from data on just-noticeable differences? (b) How can Weber's law be used to predict the degree to which two stimuli must differ for a person to tell them apart?
+** [hiddenAnswer]#(a) By letting subjects weight two different objects and let them guess which one is heaver.
+Thus figuring out when people can feel the difference. (b) By knowing the exact constant proportion number; for weight 1/30, for vision 1/100. #
+
+. How do (a) transduction, (b) qualitative coding (type), and (c) quantitative coding (intensity) occur for the sense of smell?
+** [hiddenAnswer]#(a) Transduction is via molecules binding to odorants (odorous substances) at a receptor site, changing the cell membrane, which leads to electrical change which triggers an action potential. (b) Quantity coding is done by activating a different pattern of our 400 types of olfactory sensory neurons, leading to a different **ratio**. (c) Quality coding is done by the total **amount of activity**.
+#
+
+. (a) How do we smell foods that are already in our mouths, and (b) what evidence indicates that smell contributes greatly to flavor?
+** [hiddenAnswer]#(a) Odorants reach through nostrils but also another route enters the mouth (nasal pharynx); also chewing pushes air up to the nasal cavity. (b) By closing the nose, the ability to taste is negatively impacted.#
+
+. How do sex, age, genetic differences, and experience affect sensitivity to smells?
+** [hiddenAnswer]#Women are more sensitive (esp. during pregnancy).
+Declines by age, starting by 30, noticable 70. Genetical differences affect production of receptors (e.g. androstenone, a testosterone derivative, which can be smelled in different quality/quantity; ultimately avoiding incest).
+By practicing smelling smells it can be improved.#
+
+. What is the evidence that (a) people can identify other individuals by smell; (b) that mothers can identify the scents of their infants very soon after birth; and (c) that infants quickly learn to identify their mother's scent?
+** [hiddenAnswer]#(a) By asking people to wear T-shirts, not using deos or perfumes, and let others identify who was worn that shirt. (b) Same here, even after 10-60 minutes mothers were able to identify their baby's undershirt. (c) Babies turn their heads towards their mothers cotton breast pads (even after 6 days).#
+
+. (a) From an evolutionary perspective, why might mice prefer to mate with others that smell most different from themselves? (b) What evidence suggests that the same might be true of humans?
+** [hiddenAnswer]#(a) Ultimately to prevent incest, someone with a different immune system, adding genetic variation. (b) Yet again, by T-shirts, and rating the pleasantness/sexiness of them, and comparing it the the assessed MHC (major histocompatibility complex) difference.#
+
+. (a) What human anatomical characteristics are consistent with the possibility that we produce and respond to pheromones? (b) What observations and reasoning suggest that we do not produce sex-attractant pheromones?
+** [hiddenAnswer]#(a) We have a rudimentary vomeronasal organ, in nasal cavities, which responds to pheromones.
+We also have glands in skin to secrete odorous substances (hair to improve its effect).
+Still, evidence is inconclusive wether pheromones function in our species or it's entirely vestigial. (b) Human mating is not tied to a specific season, that's why we don't need pheromones to indicate when it's time to do it.
+Also experiments have failed that sex-attractant pheromones work (despite promises of the industry).#
+
+. How does transduction generally occur in taste?
+** [hiddenAnswer]#Chemical substances dissolve in saliva, contact with appropriate taste receptors, trigger electrical change resulting in action potential, by synaptic transmission in sensory neurons to brain.
+(Anatomically: Taste receptor cells exist in fungiform papillae containing taste buds.) #
+
+. (a) What are the six primary tastes? (b) How, in general, does transduction occur in taste receptor cells?
+// TODO @TUTOR - is this a mistake in the book?
+** [hiddenAnswer]#(a) Sweet, salty, sour, bitter, umami (delicious) and fat. (b) See above.#
+
+. From an evolutionary perspective, (a) what is the function of each the primary tastes, (b) why do so many chemically diverse substances taste bitter, and (c) why does bitter sensation increase in women during pregnancy?
+** [hiddenAnswer]#(a) Pleasant tastes help us to get enough amounts of necessary nutrients, whereas unpleasant tastes prevent us from eating what is bad for us (bitter = toxic, bacterial decay produces acid). (b) Because we have about 25 different receptor types for bitterness. (c) Human fetuses are highly subject to damage by poison..#
+
+. (a) In what ways is pain a "body" sense, an emotion, and a drive? (b) How does observation of people born without pain sensitivity illustrate pain's value?
+** [hiddenAnswer]#It's even called "somatosense" (like touch or proprioception) as it can originate from all over the body, rather a specialized organ; also pain feels like coming from within the body (like injury from a cut), rather from the outside (like light).
+It's an emotion as it makes it harder to think, overwhelm our conscious mind and even has a facial expression.
+It's a drive to motivate us to reduce/avoid pain producing behavior (careless knie handling). (b) It's important for survival, to remove hand from a hot stove, refrain chewing on ones tongue, change body position regularly, relieve strain muscle/joint.
+They usually die young because of tissue deterioration and infections from wounds.#
+
+. What is the anatomical basis for a distinction between first and second pain?
+** [hiddenAnswer]#C fibers from thin/unmyelinated/slow-conducting, and A-delta fibers from thicker/myelinatedfaster-conducting neurons.
+Both respond to strong pressure and extreme temperatures, whereas C fibers also the chemicals on the skin.
+First pain is sharp and highly localized A-delta fibers, second pain is 1-2 seconds later a dull, burning, diffuse, longer-lasting from C fibers.#
+
+. What are three different components of pain experience, and what evidence links these to three different portions of the brain?
+** [hiddenAnswer]#(1) Sensory component is in the somatosensory cortex (processing touch/heat), quality/intensity/location of pain. (2) Primary emotional/motivational component is experienced immediately, in the cingulate/insular cortices.
+Damage here leads to "asymbolia for pain", perceive pain but not bother, lack of escaping pain (3) Secondary emotional/motivational component, worry caused by pain, concern meaning of pain and its future; by prefrontal cortex (planning, future); damage here feel pain, but oblivious meanings of pain.#
+
+. (a) How does *illness* produce a *general* increase in pain sensitivity, (b) and how does *injury* produce a *localized* increase in pain sensitivity?
+** [hiddenAnswer]#(a) Not sure, but maybe the immune system is acting on pain-enhancing neurons. (b) Chemicals from damaged cells released and acting on free nerve endings of C/A-delta fiber, making them more sensitive (respond to weaker stimuli).
+Additionally, second-order pain neurons (minutes-weeks) become sensitized by intense activation; even light touch intense pain.#
+
+. (a) How can *pain* input be *inhibited* at its entry into the central nervous system, and (b) how might *endorphins* be involved in this process?
+** [hiddenAnswer]#(a) The PAG (periaqueductal gray), a neural center, has an analgesic (pain-reducing) effect by inhibiting pain input at lower brainstem/spinal cord. (b) Endorphins are like morphine (endogenous morphine-like substance), bind on neurons in the PAG, and also the lower brainstem/spinal cord to inhibit pain.#
+
+. What is some evidence that *stress-induced analgesia* is at least partly mediated by *endorphins*?
+** [hiddenAnswer]#One experiment with rats, first stressing them out (electroshocks), then pain induced (heat on feet), with/without endorphin blocker: with blocker, they don't show stress-induced analgesia behavior.
+Another example is the "runner's high", after running very long distance, pain is notperceived anymore, but by endorphin blocker's that high is not experienced.#
+
+. What is some evidence that pain can be *reduced by belief*?
+** [hiddenAnswer]#Best shown by placebo effect, still endorphins released, but with endorphin-blockers no analgesia is happening.
+Also meditating is partly based on release of endorphins.#
+
+. What are the *functions* of the outer *ear*, middle ear, and inner ear?
+** [hiddenAnswer]#Outer: Receive (funnel for sound waves) and transport (inwards).
+Middle: Amplify (by increase pressure of sound waves on inner ear).
+Inner: Transduction ("translate from physical to electrical").#
+
+. How does *transduction* occur in the inner *ear*?
+** [hiddenAnswer]#(1) *Bone* (ossicles) vibration leads to (2) *vibration* in the *fluid* (in outer duct of cochlea).
+*Hairs* (cell) are *sandwiched* between membranes (basilar and tectorial) which (3) move in a wave motion. (4) Hairs *bend* when wave comes (as membranes are partly flexible).
+Because of the bending, (5) *channels open*, and (6) electrical charge changes. (7) *Neurotransmitter* are released by hair cells (upon auditory neurons), (8) increasing rate of action potentials.#
+
+. How do two kinds of *deafness* differ in their physiological bases and possible treatment?
+** [hiddenAnswer]#*Conduction deafness* ossicles of middle ear are too rigid, sounds can't move inward to the cochlea and can be treated by a conventional *hearing aid* magnifying the pressure.
+*Sensori-neural* deafness is damage to hair cells/auditory neurons and can be treated by a *cochlear implant* which does the transduction (sound wave to electrical impulse to stimulate auditory neurons).#
+
+. How does the *travelling-wave theory* explain the pattern of hearing *loss* that occurs as we get *older*?
+** [hiddenAnswer]#As low frequency travels the whole way through the cochlea, and high frequency only the first part, the first part hair cells get used more often and wear out earlier.
+Thus, elderly lose ability to hear higher frequency sounds.#
+
+. (a) How does the *timing* of action potential code for sound *frequency*? (b) How do *cochlear implants* produce perception of *pitch*?
+** [hiddenAnswer]#(a) For frequency below 4kHz (voice), every time a sound wave peaks, there will be an additional burst of action potentials.
+Each burst contributes to pitch perception. (b) Sound signal is broken into several frequency ranges, each sending an electrical pulse to portion of basilar membrane.#
+
+. (a) How is tone *frequency* represented in the primary auditory *cortex*? (b) What evidence suggests a close relationship between *musical pitch perception* and *visual space* perception?
+** [hiddenAnswer]#(a) Neurons are responsive for a specific frequency, and are *tonotopically* organized (systematically arranged), high on one, low on the other end. (b) There is a brain part (intraparietal sulcus) which receives input from primary auditory cortex, and also is involved in music and visual space perception.
+A tone deaf person badly performs at musical notes as well as visual-spatial (rotate objects inner eye) tests.
+Note: In language, we also say "high/low" notes (as we would for spatial objects; coincidence?!)#
+
+== Think Critically
+
+. (a) What might psychophysics be good for? (b) How might an understanding of psychophysics techniques be useful in the food or cosmetic industries?
+** [hiddenAnswer]#(a) To understand gives ability to treat in case of injury. (b) To be able to sell products better.
+Which texture, which smells lead to what kind of sensory experiences, in order to manipulate people at a much lower level.#
+
+. (a) Are all senses equally important for humans? (b) Why might the senses of humans and nonhuman animals differ in sensitivity? (c) Why don't all animals have "eagle-eye vision" or the keen sense of smell that dogs do?
+** [hiddenAnswer]#(a) No, vision is the most important (maybe that's even visible by involved brain parts for this single sense).
+Others might also be less evolved (smelling compared to dogs, hearing compared to bats). (b) Humans can reason about sensory experience, therefore not relying so much on superb senses. (c) Better senses mean higher maintenance costs (keep it simple/minimum, energy preservation, optimizing not maximizing, survival of the fittest).#

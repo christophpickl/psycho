@@ -1,0 +1,168 @@
+= Focus Questions
+
+. How can genes **affect behavioral** traits through their role in **protein synthesis**?
+** [hiddenAnswer]#Genes don't affect/control, they simply are associated with behavior through modifying **physical structures**, which in turn interact with the environment.
+Everything from sensory, motor, or nervous systems creates behavior, and is influenced by genes.#
+
+. (a) What does it mean to say that genes can **influence** behavioral traits only through interaction with the **environment**? (b) How are genes involved in long-term behavioral **changes** derived from **experience**?
+** [hiddenAnswer]#(a) Genes are turned on/off by the interaction with the environment/context, which results in behavioral through bodily changes. (b) Learning, a form of experience, also activates genes, which produce proteins, which change neural circuits, which change behavior.#
+
+. How can the same **genotype** produce various **phenotypes**?
+** [hiddenAnswer]#We don't know for sure... Maybe because not only genes (genotype = inherited genes) but also **environment** (e.g. early in the womb the different position of a twin lead to growth promotion through earlier nutrition) and the **mix of other genes** determines the phenotype (=observable properties).#
+
+. How does **meiosis** produce egg/sperm cells that are all genetically different from one another?
+** [hiddenAnswer]#Because there is a **random exchange** of genetic material between the chromosomes of each line, before the first cell division.#
+
+. What is the advantage of producing genetically **diverse offspring**?
+** [hiddenAnswer]#Better **adaptable** to constant changing environment ("Survival of the fittest") to improve rate of survival ("Don't put all your eggs in one basket").#
+
+. What is the difference between a **dominant** and a **recessive gene** (or allele)?
+** [hiddenAnswer]#Dominant gene/allele will be in **homozygous or heterozygous** condition; recessive only in **homozygous**.
+Explanation: Chromosomes come in pairs.
+They pair-like occupy the same location (locus/loci).
+When pairs on same locus are identical = homozygous, otherwise heterozygous.
+Alleles = Potentially pair-able genes on the same locus.#
+
+. Why do three-fourths of the offspring of two **heterozygous** parents show the dominant trait and one-fourth show the recessive trait?
+** [hiddenAnswer]#Because one of the four possible outcomes will be homozygous+recessive, and the rest there will be always at least partly a dominant gene present, leading to the dominant trait (thank you, Mendel).#
+
+. Why might a **disease** caused by two recessive genes **persist** in the gene pool?
+** [hiddenAnswer]#Because under certain conditions this can be even an advantage as this **improves adaption** to a specific environment.
+See for example the sickle-cell anemia disease (oxygen transportation is weakened), which leads to less likely death of malaria (erythrocytes poorly support growth of malaria parasite).#
+
+. How did Scott and Fuller show that the difference in **fearfulness** between cocker spaniels and basenji hounds is controlled by a **single gene locus**, with the "fear" allele dominant over the "non-fear" allele?
+// TODO i don't understand single-gene-locus with fearfulness dogs
+** [hiddenAnswer]#The crossbred dogs were as fearful as the purebred basenjis, thus the fear difference in the two purebred strains might be controlled by a single gene locus (allele promoting fear dominant over that promoting confidence).#
+
+. Why would it be a **mistake to conclude**, from Scott and Fuller's work, that fear in dogs is caused just by one gene or that it is caused just by genes and not by the environment?
+** [hiddenAnswer]#**Many different genes** must contribute, as well as the **environment** can have a big influence.
+Despite a genetic predisposition, behavior can even be manipulated towards its opposite.#
+
+. How do **genes** and the **environment** interact to affect individuals with PKU (phenylketonuria)?
+// TODO tutor lecture: why can adults eat without consequences? (because certain diet? every adult?)
+** [hiddenAnswer]#PKU = genetically inability to process a certain amino acid.
+Individuals can develop normally if following a phenylalanine-free diet.
+Adults can even consume phenylalanine without any negative consequence.#
+
+. How does the distribution of scores for a **polygenic trait** differ from that usually obtained for a **single-gene** trait?
+** [hiddenAnswer]#Polygenic continuous (measurable in degree), single-gene is categorical (sharply differentiated, binary).#
+
+. How are the characteristics of animals shaped through **selective breeding**?
+** [hiddenAnswer]#Let couples mate which show the desired characteristic. (single-gene = immediate; polygenic = gradual/cumulative effect)#
+
+. (a) How did **Tryon** produce "_maze bright_" and "_maze dull_" strains of rats? (b) How did he show that the difference was the result of genes, **not raising**?
+** [hiddenAnswer]#(a) He created two lines by mating the best-performing ("bright") and the worst-performing ("dull"). (b) By cross-fostering; the performance was as expected regardless which (other strained) mother raised them.#
+
+. Why is the strain difference produced by **Tryon not properly characterized** in terms of "brightness" or "dullness"?
+** [hiddenAnswer]#Performance in a maze doesn't necessarily reflect purely intelligence.
+It also requires skill in areas of sensory, motor, motivational and learning process.#
+
+. How might a better understanding of **epigenetics** change the way we view genetic inheritance?
+** [hiddenAnswer]#Inheritance is relativated (to which extend?) by the fact that the environment can turn genes on/off.#
+
+. (a) What insight led Darwin to his theory of **evolution**? (b) How is natural selection similar to and different from **artificial selection**?
+** [hiddenAnswer]#(a) We do artificial selection (breeding) and so does nature, by natural selection. (b) Similar as they use the same approach (produce changes over generations), different as natural selection is not driven by human deliberate goals (controlled, potential "devolution"), but rather by obstacles (predators, food, temperature) for survival/reproduction.#
+
+. (a) How are **genes** involved in evolution? (b) What are the sources of genetic **diversity** on which natural selection acts?
+** [hiddenAnswer]#(a) Genetical information is what is inherited and leads to the evolutionary process.
+Fun fact: Darwin knew nothing about genes, as Mendel did his work after he died. (b) One is **reshuffling** of genes (during meiosis), the other through **mutations** (errors during DNA replication).#
+
+. (a) How does change in the **environment affect** the direction and speed of evolution? (b) How did a study of **finches** illustrate the role of environmental change in evolution?
+** [hiddenAnswer]#(a) As evolution is based on natural selection, and it itself is based on adaption to the environment (to promote survival and reproduction) any change in the environment leads to change of evolution. (b) A drought lead to change in food supply lead to change in shape of beaks (=Schnabel), which happened quiet rapidly.#
+
+. What are three **mistaken beliefs** about evolution, all related to the misconception that **foresight** is involved?
+** [hiddenAnswer]#1) There is a predetermined end to a future purpose. 2) Ranking with humans being on top. 3) Natural selection is a moral force (good/bad).#
+
+. How does an understanding of evolution provide a basis for **functionalism** in psychology?
+** [hiddenAnswer]#Natural selection promotes characteristics (behavioral/anatomical) for survival/reproduction, things that serve a pragmatic function.#
+
+. How are **distal explanations** of behavior different from, but complementary to, **proximate** explanations?
+** [hiddenAnswer]#Distal (why) are concerned with something that helps next generations, whereas proximate explanations (how) are for immediate conditions.
+They act on different levels, thus not contradicting each other but work together.#
+
+. What are four reasons for the existence of **traits** or behaviors that do **not serve** survival and reproductive functions?
+** [hiddenAnswer]#Vestigial (outdated; e.g. fur grabbing as a baby), by-product (e.g. belly button), side-effect (e.g. art) and chance (genetic drift).#
+
+. What evidence supports the idea that many human **emotional expressions** are examples of **species-typical behaviors**?
+** [hiddenAnswer]#Same expressions in different cultures and blind born people.#
+
+. How do human emotional expressions illustrate the point that species-typical behaviors can be **modified by learning**?
+** [hiddenAnswer]#For example the eyebrow flash used by Japanese people only towards young children, thus emotional expressions can be controlled and modified in a certain cultural environment.#
+
+. How do the examples of (a) **two-legged walking and language** in humans, and (b) **singing** in white-crowned sparrows, illustrate the point that species-typical behaviors may depend on **learning**?
+** [hiddenAnswer]#(a) Babies have to practice a lot to be able to stand/balance/walk, and also language needs to be practiced, whatever specific language will be determined by the environment. (b) If young birds are not exposed to singing, they won't, and also adapt to different dialects.#
+
+. (a) How is the concept of **biological preparedness** related to that of species-typical behavior? (b) How do the **examples** of human walking and talking illustrate biological preparedness?
+** [hiddenAnswer]#(a) Species-typical behavior **depends** on biological preparedness for adequate performance. (b) Humans have anatomical features that prepares them to walking (hindlimbs, pelvis, neck), and talking (vocal chords).#
+
+. Why is the concept of species-typical behavior **relative** rather than absolute?
+** [hiddenAnswer]#Some experience with environment is always involved, it's never just from biological preparedness.
+#
+
+. (a) What is the difference between a **homology** and an **analogy**? (b) How can researchers tell whether a similarity between **two species** in some trait is one or the other?
+** [hiddenAnswer]#(a) Homology = Same/common ancestors, same characteristics.
+Analogy = Different ancestors, same characteristics (independent from each other); _convergent evolution_ = same environment, similar characteristics. (b) By looking at the common ancestor of both species, whether it also has this shared trait.#
+
+. How are **homologies** used for learning about (a) the **physiological** mechanisms and (b) the evolutionary pathways of **species-typical** traits?
+** [hiddenAnswer]#(a) Because it is possible to learn about homologous species by drawing conclusions between each other (e.g. experiments on chimpanzees => humans). (b) By comparing homologous species, it is possible to reconstruct evolution from simple to complex form.#
+
+. How do studies of homologies between humans and other primates support the view that the human **greeting smile** (silent bared-teeth display) and the human **happy smile** have separate evolutionary **origins**?
+// TODO ??? this one here is unclear. looks the opposite to me: has the same origin, but today different functions (human = express sympathy, chimpanzees = submission/de-escalation)
+** [hiddenAnswer]#TODO!#
+
+. How can we use **analogies** to make inferences about the **distal functions** of species-typical traits?
+** [hiddenAnswer]#If different species developed the same trait, it reveals commonalities of habitat/lifestyle that are clues to the distal function of that trait.#
+
+. What is Trivers' theory of **parental investment**?
+** [hiddenAnswer]#The higher the "cost of babies" (time/energy/survival-risk involved with produce/feed/care for offspring) the more selective (as more work); the lower, the more competing.#
+
+. Based on Trivers' theory of parental investment, why does high **investment** by the **female** lead to (a) polygyny, (b) large size of males, and (c) high selectivity in the female's choice of mate?
+** [hiddenAnswer]#(a) Females are the ones who choose, and only choose the strongest. (b) Due to competition (fight, hierarchy), right to reproduce, natural selection. (c) Relative lesser capacity for women (eggs VS sperm; sidenote: 1-2 mio eggs, at puberty 500k, release one egg per month, about 500 ovluate).#
+
+. (a) What conditions promote the evolution of **polyandry**? (b) How do **sex differences** within polyandrous species **support** Trivers' theory?
+** [hiddenAnswer]#(a) By shifting the investment, e.g. female fish lay plenty eggs (outside of her body) and leave the fertilized eggs with the male to be taken care of. (b) In polyandrous species, the female are more active/aggressive/larger/stronger/colored.#
+
+. (a) What conditions promote the evolution of **monogamy**? (b) Why are **sex differences** in size and strength generally lacking in monogamous species?
+** [hiddenAnswer]#(a) If the investment is the same for both sexes. (b) Because a consequence of equal investment is equal involvement in fights about mates, thus natural selection evolves both sexes equally in size and strength.#
+
+. For what evolutionary reasons might monogamously mated females and males sometimes **copulate** with partners **other** than their mates?
+** [hiddenAnswer]#Improve genetical information, and also to keep the regular partner to take care of the offspring (which is sometimes more reliable/responsibility).#
+
+. (a) What appear to be the evolutionary advantages of **promiscuity** for chimpanzees and bonobos? (b) In what ways is promiscuity **more** fully developed for **bonobos** than for chimpanzees?
+** [hiddenAnswer]#(a) Less competition therefor less fights and more harmony.
+The group together takes care of offspring.
+Paternity confusion: Avoid "new" father will kill offspring of "old" father. (b) Chimps control a female's sexuality (while she is fertile), whereas for bonobos sex is a reducer than a cause of aggression.
+Same sex activities lead to conflict de-escalation.#
+
+. (a) What evidence suggests that **humans** evolved as a **partly monogamous**, partly polygynous species? (b) How is this **consistent** with **Trivers'** parental investment theory?
+** [hiddenAnswer]#(a) In non-Western cultures there is still a mix of monogamy and polygamy.
+As a response to STDs, more types of white blood cells developed, humans being somewhere in the middle (harem-based gorilla and monogamous gibbon). (b) Male lag a bit behind females in regards to parental investment, thus more competition/fights, thus the sizes of both sexes are almost the same, with the male slightly bigger/stronger.#
+
+. (a) From an evolutionary perspective, what are the functions of romantic **love** and sexual **jealousy**? (b) How is this supported by **cross-species** comparisons? (c) How is sexual **unfaithfulness** explained?
+** [hiddenAnswer]#(a) Stronger bonds lead to bi-parental care of offspring.
+Jealousy protects the passing on of one's own genes. (b) Birds have anologous traits in regards to sexual love and jeaousy to us, whereas our ape-relatives have not evolved these emotions. (c) A pregnant female initiating an affair with a higher-status men which can provide and protect for the family.#
+
+. How is male **violence** (a) toward **infants**, (b) toward other **males**, and (c) toward **females** explained from an evolutionary perspective?
+** [hiddenAnswer]#(a) Kill infants fathered by others and make female fertile again. (b) To get access to female and rank up. (c) Control sexuality: Force copulation, prevent copulation with others.#
+
+. (a) How do the **kin selection** and reciprocity theories take the **altruism** out of "altruism"? (b) What **observations** show that both theories apply to **humans** as well as to other **animals**?
+** [hiddenAnswer]#(a) We are not really selfless but care to help relatives which are genetically close to us (selfish, a self serving reason). (b) Villages with collaborative arrangements, caring for young, assisting in fights, sharing food.
+The alarm calling of squirrels (draw attention of predator to oneself).#
+
+== Think Critically
+
+. Many scientists believed that once we had a full description of the **human genome** we would be able to **understand human** functioning, including human thought and psychopathology.
+Few believe this now.
+Why the **change**?
+What are the **advantages and limitations** of genetic knowledge on understanding human thought and behavior?
+** [hiddenAnswer]#At the beginning the enthusiasm was very high, especially after the human genome was sequenced (at least most of it as of today), there was the belief that behavior can be mapped 1:1 to DNA.
+Turned out it's not that simple... Also the raw information about genes is by far not enough to understand these aspects about humans.
+Advantages of it are: Genetical predispositions (for disease) can be detected, as well as opening the door to genetical engineering (e.g. lowering aggressiveness, increasing IQ) . Limitations are there due to the fact that human functioning is more than just genes, but also includes the environment.#
+
+. Does an evolutionary perspective of human thought and behavior imply **genetic determinism**?
+Why, why not?
+** [hiddenAnswer]#No, because human thought/behavior is more than just genes, as at least the big factor of environment is missing, among many more.
+It might give some limitations/pre-determinisms, a range of possibilities, but within this range humans can freely choose what to think and how to behave.
+Evolutionary psychologist seem to also conform with the view that thought/behavior is not deterministic.
+(Yes, because at the base of our existence are genes, which change molecules, protein productions, hormones and neuronal networks/neurotransmitter, which ultimately dictate our thoughts and behavior; we simply can't escape it.
+If everything can be reduced to genes, then we are who we are is because of an evolutionary process, and will be, forever.) #

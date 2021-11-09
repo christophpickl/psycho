@@ -1,0 +1,16 @@
+= McGurk Effect
+
+This perceptual phenomenon, named after Harry McGurk, happens when what you see and what you hear someone is saying doesn't match.
+In this case, due to *visual dominance*, what we see matters more.
+The same sound thus can seem different to us, depending on which lip movement we see.
+
+The video below demonstrates this effect quite nicely: Is it a "fa" or a "pa" sound?
+Well, depends on what you see 😉
+
+.YouTube Video: "McGurk effect - Auditory Illusion - BBC Horizon Clip", 2mins
+[link=https://www.youtube.com/watch?v=2k8fHR9jKVM]
+image::https://img.youtube.com/vi/2k8fHR9jKVM/0.jpg[MacGurk Effect,300]
+
+Further Reading::
+
+* https://en.wikipedia.org/wiki/McGurk_effect

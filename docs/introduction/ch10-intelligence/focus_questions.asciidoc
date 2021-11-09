@@ -1,0 +1,132 @@
+= Focus Questions
+
+. How would you construct a test to assess a person’s ability to perceive analogies?
+** [hiddenAnswer]#Either verbally, as in "X is to Y, as A is to ..." or visually with a Raven's problem (finish the sequence of graphics).#
+
+. What is some evidence concerning the usefulness of analogies in scientific reasoning?
+** [hiddenAnswer]#Charles Darwin, Johannes Kepler, both found their findings through analogies. Neuroscience used computer analogy to progress in understanding.#
+
+. (a) How are analogies useful in judicial and political reasoning?
+(b) What distinguishes a useful analogy from a misleading one?
+** [hiddenAnswer]#(a) It makes it easier to understand for the audience, as it is more concrete/tangible/reachable rather abstract. (b) As long as structural relationships hold true it's useful, otherwise it's misleading.#
+
+. (a) What is inductive reasoning, and (b) why is it also called hypothesis construction?
+(c) Why is reasoning by analogy inductive?
+** [hiddenAnswer]#(a) Infer new knowledge/principles by observing facts that serve as clues (from the specific to the general). (b) As it is an educated guess, and not certain/definite. (c) As it is founded by perceived analogies/similarities, based on (past) experiences, in order to compare things.#
+
+. What kinds of false inferences are likely to result from the availability bias?
+** [hiddenAnswer]#When relying on information which is available (VS ignore information which is less available), e.g. mass media.#
+
+. What are two different ways by which researchers have demonstrated the confirmation bias?
+** [hiddenAnswer]#(1) Take the sequence "2 4 6" and tell me the rule. People will try to verify, rather disprove their hypothesis. (2) The way researchers ask questions to subjects can influence the expected outcome. Suggestive questions like "Do you like/Do you feel shy about meeting new people?"#
+
+. How does a die-tossing game demonstrate the predictable-world bias?
+** [hiddenAnswer]#People go instead for maximizing (dices with 4 red and 2 green, thus going for red all the time), for matching (varying guesses matching the probability, 66% red, 33% green).#
+
+. How does deductive reasoning differ from inductive reasoning?
+How is it illustrated by series problems and syllogisms?
+** [hiddenAnswer]#Bar.#
+
+. What is evidence that the tendency to rely on real-world knowledge can overwhelm our deductive-reasoning ability?
+** [hiddenAnswer]#Bar.#
+
+. To what extent is the design stance with respect to tools a limitation to human cognition or an adaptation?
+** [hiddenAnswer]#Bar.#
+
+. What evidence suggests that solving insight problems is qualitatively different from deductive reasoning?
+How might mental priming be involved in achieving insight?
+** [hiddenAnswer]#Bar.#
+
+. What evidence suggests that happiness or playfulness helps to solve insight problems?
+According to "broaden-and-build" theory, how do positive emotions differ from negative emotions in their effects on perception and thought?
+** [hiddenAnswer]#Bar.#
+
+. How do unschooled members of non-Western cultures typically perform on classification problems?
+Why might we conclude that differences in classification are based more on preference than on ability?
+** [hiddenAnswer]#Bar.#
+
+. How have researchers documented a general difference between Westerners and East Asians in perception and memory?
+How might this difference affect reasoning?
+** [hiddenAnswer]#Bar.#
+
+. What sorts of subtests make up modern IQ tests, such as the Wechsler tests, and how is IQ determined?
+** [hiddenAnswer]#Bar.#
+
+. How have psychologists assessed the validity of IQ tests?
+What are the general results of such assessments?
+** [hiddenAnswer]#Bar.#
+
+. What was Spearman’s concept of general intelligence, or g?
+Why did Spearman think that g is best measured with a battery of tests rather than with any single test?
+** [hiddenAnswer]#Bar.#
+
+. What evidence led Cattell to distinguish between fluid intelligence and crystallized intelligence?
+** [hiddenAnswer]#Bar.#
+
+. What findings have revived Galton’s idea of mental quickness as a basis for general intelligence?
+** [hiddenAnswer]#Bar.#
+
+. How might executive functions provide a basis for individual differences in intelligence, and how might mental quickness affect that capacity?
+What evidence supports this logical possibility?
+** [hiddenAnswer]#Bar.#
+
+. What reasoning suggests that general intelligence is an adaptation for dealing with evolutionarily novel problems?
+** [hiddenAnswer]#Bar.#
+
+. What is the difference between the absurd form of the nature-nurture question and the reasonable form?
+Why is one absurd and the other reasonable?
+** [hiddenAnswer]#Bar.#
+
+. How is heritability defined?
+Why would we expect heritability to be higher in a population that shares a similar environment than in an environmentally diverse population?
+** [hiddenAnswer]#Bar.#
+
+. What is the logic of comparing identical and fraternal twins to study the heritability of traits?
+What difference is observed between identical and fraternal twins in IQ correlation?
+** [hiddenAnswer]#Bar.#
+
+. How can IQ heritability be estimated using the correlation coefficients for the IQs of identical and fraternal twins raised together?
+** [hiddenAnswer]#Bar.#
+
+. How can IQ heritability be estimated by studying identical twins who were adopted into different homes?
+** [hiddenAnswer]#Bar.#
+
+. How can a person's rearing environment influence the heritability of IQ?
+** [hiddenAnswer]#Bar.#
+
+. What is the evidence that the effect of a shared family environment on IQ correlations is lost in adulthood?
+How might this loss be explained?
+** [hiddenAnswer]#Bar.#
+
+. What evidence suggests that intellectual involvement can increase a person’s fluid intelligence over time?
+** [hiddenAnswer]#Bar.#
+
+. Why can't heritability coefficients found within groups be used to infer the source of differences between groups?
+** [hiddenAnswer]#Bar.#
+
+. What evidence suggests that the average IQ difference between black and white Americans derives from the environment, not genes?
+** [hiddenAnswer]#Bar.#
+
+. What is stereotype threat, and how does it explain differences in IQ between white and black Americans?
+** [hiddenAnswer]#Bar.#
+
+. What evidence suggests that the status of being an involuntary minority may be particularly detrimental to IQ development?
+** [hiddenAnswer]#Bar.#
+
+. How does history provide further evidence that IQ is highly susceptible to cultural influence?
+On which measures has IQ increased the most?
+** [hiddenAnswer]#Bar.#
+
+. How might the historical increase in fluid intelligence scores be explained?
+** [hiddenAnswer]#Bar.#
+
+== Think Critically
+
+. Foo
+** [hiddenAnswer]#Bar.#
+
+. Foo
+** [hiddenAnswer]#Bar.#
+
+. Foo
+** [hiddenAnswer]#Bar.#

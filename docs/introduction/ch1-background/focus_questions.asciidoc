@@ -1,0 +1,91 @@
+= Focus Questions
+
+. (a) What was *Descarte's* version of *dualism*? (b) How did it help **pave the way** for a science of psychology?
+** [hiddenAnswer]#(a) Original dualism is the strict separation of body (scientific, as inanimate matter) and mind (supernatural entity).
+Descarte gave more power to the body, he saw it as a *complex machine* which does *not need the soul* to, for example, move around or generate its own heat.
+His view resembles our current understanding of reflexes.
+He based his conclusions on the assumption that *animals have no soul*, still animals and humans perform some of the same actions, thus these activities can occur without a soul. (b) This "allowed" us to study the body, which is behavior and reflexes, with experiments relying on *natural laws*, which was now a bit more detached from the "holy", super-natural soul.#
+
+. What reasons can you think of for why *Descarte's theory*, despite its intuitive appeal, was *unsuitable* for a complete psychology?
+** [hiddenAnswer]#The mind, and its mental processes, were still inaccessible by science as it is part of the "esoteric".
+Behavior by mind, *mind by soul*, soul unreachable as its *immaterial concept*.#
+
+. How did *Hobbe's materialism* help lay the groundwork for a science of psychology?
+** [hiddenAnswer]#Materialism, as a follow-up of dualism, reduced not only the body but also the mind/thoughts, therefore *everything, to a physical level*, disregard the concept of an immaterial soul.
+"There is nothing but matter", and matter can be understood in terms of physical processes, obeying laws of nature, thus by science.#
+
+. How did the nineteenth-century understanding of the *nervous system* inspire a theory of behavior called *reflexology*?
+** [hiddenAnswer]# If there is no soul, then consciousness itself is also bound to human body.
+Thus, every behavior, nevertheless how complex, is just a **nervous reaction**, a reflex, to an environmental stimuli, called "reflexology".#
+
+. How did discoveries of *localization of function* in the brain help establish the idea that the mind can be studied *scientifically*?
+** [hiddenAnswer]#Instead of the soul, it was the **brain (matter)** which determined human behavior.
+Specific brain parts where responsible for different types of tasks, so behavior could be studied in greater detail.#
+
+. (a) How would you explain the *origin of complex ideas and thoughts* according to *British empiricism*? (b) What role did the law of *association by contiguity* play in this philosophy?
+** [hiddenAnswer]# (a) Children are born with a blank slate ("tabula rasa", John Locke, an "unfurnished room"), and all ideas/thoughts are mere **reflections of sensory experience** by the environment.
+Smaller ideas form more complex thoughts. (b) By reducing complex ideas into **a network of linked events**.
+When two ideas occured simultaneously (or right after each other, contiguously), they were associated by the mind, and one would trigger the other.
+Fragments of ideas, triggered by sensory input, build up complex ideas/thoughts.#
+
+. How would you describe the influence that *empiricist philosophy* has had on psychology?
+** [hiddenAnswer]#The approach of how we study psychology is still the same: By law of association by contiguity.
+It helped us fundamentally to understand how we *learn* (sensory input creating concepts) and *remember* (trigger of one resurfaces another).#
+
+. (a) Why is the ability to *learn* dependent on *inborn* knowledge? (b) In Kant's nativist philosophy, what is the distinction between *a priori* and *a posteriori* knowledge?
+** [hiddenAnswer]#(a) *Learning* itself *requires skill*, without that skill, learning itself wouldn't be possible. (b) "A priori" is something we are equipped when we were *born*, a pre-furnished room.
+"A posteriori" is acquired *after birth*, via sensory experience.#
+
+. (a) How did Darwin's theory of *natural selection* offer a scientific foundation for *explaining behavior* by describing its functions? (b) How did it provide a basis for understanding the origin of *a priori* knowledge?
+** [hiddenAnswer]#(a) Just like physical aspects, so is behavior passed on in order to *improve survival/reproduction*.
+Only what benefits it, will be preserved. (b) Thus, this *passing on* via *natural selection*, makes the next generation's behavior already pre-determined by tendencies because of a priori knowledge.#
+
+. (a) How do *neural, physiological, genetic and evolutionary* explanations differ from one another and how would you apply these explanations toward an understanding of *jealousy*?
+** [hiddenAnswer]#*Neural*: Behavior is based on central nervous system.
+Complex associations of past experience triggers a neural activity which could be considered jealousy. +
+*Physiological*: Based on hormones and other molecules/physical processes.
+Release of certain hormones (adrenalin) by glands when cognition determines a threat of a rivaling same-sex mating partner. +
+*Genetic*: Encoded at birth in DNA.
+Something like a "jealousy gene" will be passed to children. +
+*Evolutionary*: Anything that improves chance of survival and reproduction.
+Regarding jealousy; Neural: Certain brain areas (amygdala) show increased activity.
+For example for a man the uncertainty of whether it's his child, and for a woman the chance that children are being taken care of.#
+
+. (a) How do *learning and cognitive* explanations differ? (b)How would you apply each of them toward an understanding of *jealousy*?
+** [hiddenAnswer]# (a) Learning, in this context, has to do with stimulation from *external* events (environment), whereas the cognitive explanation only relies on *internal* mental processes (knowledge, believes). (b) Learning: By reinforcement of the experience of being successful to avoid pain inflicted by jealousy triggering stimulus.
+Cognitive: By observing parents and media/culture and imitate a behavior of jealousy.#
+
+. (a) How do *social and cultural* explanations differ? (b) How would you apply each of them toward an understanding of *jealousy*?
+** [hiddenAnswer]#(a) The social explanation is based on *individuals and groups* and there values (conformity, obedience).
+Whereas cultural observe an *entire culture*, like history, economy, religion or philosophy, and their settled social traditions. (b) Social: When parents, as *role models*, indicate jealousy being an appropriate behavioral response when the relationship is threatened.
+Culture: And that, on the other hand, is based on a religious-cultural background, what is considered to be *acceptable*.#
+
+. (a) What constitutes a *developmental* explanation? (b) How would you apply a developmental explanation toward an understanding of *jealousy*?
+** [hiddenAnswer]#(a) People go through certain stages while aging, with each having some specific *age-related behavior/changes* (in behavior, emotions and thoughts). (b) By a certain age a young person will feel different "kinds of" jealousy, e.g. regarding *toys*, *attention* from care-takers, in preparation to later on have also a feeling of *sexual* jealousy.#
+
+. What are some *research specialities* in psychology that are not defined primarily by the *level of analysis* employed?
+** [hiddenAnswer]#The 9 level of analysis rather determine the "how" research is done, whereas the other specialities mentioned are more about the "what" (topic), such as: sensory psychology, perceptual psychology, psychology of motivation or psychology of emotion.#
+
+. (a) What are the three *main divisions* of academic studies? (b) How does psychology link them together?
+** [hiddenAnswer]#(a) *Humanities, natural sciences, and social sciences*. (b) It links them by being the center of those three divisions (*hub science*) as our thinking and behavior influences all the other sciences (rather philosophy as one might assume).
+Humanities: As psychology is a study of what people do (creations, processes, influences).
+Natural sciences: Tied to biology and chemistry (via behavioral neuroscience/genetics, evolutionary psychology).
+Social sciences: sociology/anthropology (via social/cutural psychology).
+#
+
+== Think Critically
+
+. Why might a knowledge of the *history of philosophical* thought about human behavior benefit an understanding of modern psychology?
+** [hiddenAnswer]#Psychology *originated* from philosophy, it was part of it, emerged out of it.
+The early beginnings of philosophy of the mind, the thought, and Descarte's dualism, separating the body and the soul stem from philosophers and philosophical thinking of the past.
+To understand the present (why it is the way it is) it is useful (maybe even it requires) to understand the past (where it comes from and the cultural/historical background of the people where "minded" back then when modern, western psychology was developed).#
+
+. What, if anything, connects the various *areas of psychology* together?
+Is it reasonable to think of psychology as a *single discipline* or does it make more sense to view it as a *collection* of different scientific disciplines?
+** [hiddenAnswer]#The different areas can be imagined as taking a different perspectives from a different angle on the very same object, which is behavior and mind (see the "teapot story").
+The separation is artificial but still very useful, to specialize, to be taught and learned.
+Underneath still it is a single discipline, as the separation is artificial in the first place.#
+
+. The biologist E.O. Wilson referred to *consilience* footnote:[consilience = agreement between the approaches to a topic of different academic subjects, especially science and the humanities] as "the intrinsic unity of knowledge ... the linkage of the sciences and humanities." How might psychology fit into Wilson's scheme for the integration of knowledge from *physics to the humanities*?
+** [hiddenAnswer]#The brain is physical, it uses electricity, down below it's chemistry and physics (like layers on top of each other).
+Based on the physical brain, we have thoughts and behavior, which are studied by psychology/humanities and therefor integrating the two.#

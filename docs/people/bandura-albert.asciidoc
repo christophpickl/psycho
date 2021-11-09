@@ -1,0 +1,4 @@
+= Albert Bandura
+
+* social learning
+* see: link:/phenomena/bobo_doll.html[bobo doll experiment]

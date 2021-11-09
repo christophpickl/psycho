@@ -1,0 +1,173 @@
+= Focus Questions
+
+. What are the three phases of prenatal development and what are the major milestones of each phase?
+** [hiddenAnswer]#Bar.#
+
+. When is the unborn child most susceptible to the effects of teratogens and why?
+** [hiddenAnswer]#Bar.#
+
+. How might prenatal experience "prepare" a fetus for postnatal life?
+** [hiddenAnswer]#Bar.#
+
+. To what extent do different parts of the body develop at different rates?
+Why might this be so?
+** [hiddenAnswer]#Bar.#
+
+. How has the emergence of different aspects of puberty changed over historical time, and what is responsible for these changes?
+** [hiddenAnswer]#Bar.#
+
+. How does infants' behaviour reveal that they are actively exploring their environment with their eyes and that they remember what they have seen?
+** [hiddenAnswer]#Bar.#
+
+. How does infants' behaviour reveal that they are motivated to control their environments and are emotionally involved in retaining control?
+** [hiddenAnswer]#Bar.#
+
+. How do infants, beginning before 12 months of age, use their observations of adults’ behaviour to guide their own explorations?
+** [hiddenAnswer]#Bar.#
+
+. What is the violation-of-expectation method for studying infants’ knowledge of physical principles?
+With this method, what have researchers discovered about the knowledge of 2- to 4- month olds?
+** [hiddenAnswer]#Bar.#
+
+. How did Jean Piaget test infants' understanding of object permanence?
+What might explain the discrepancy between Piaget's results and the results of selective-looking experiments?
+** [hiddenAnswer]#Bar.#
+
+. What evidence suggests that self-produced locomotion promotes rapid development of infants' search abilities?
+** [hiddenAnswer]#Bar.#
+
+. In Piaget's theory, how do schemes develop through assimilation and accommodation?
+** [hiddenAnswer]#Bar.#
+
+. What is Piaget's "little scientist" view of children's behaviour?
+How is it illustrated by the examples of an infant playing with containers and by an experiment with preschool children allowed to play with a two-lever toy?
+** [hiddenAnswer]#Bar.#
+
+. In Piaget's theory, what is the special value of operations?
+** [hiddenAnswer]#Bar.#
+
+. In Piaget's theory, what are the four stages and the stages roughly associated with each?
+** [hiddenAnswer]#Bar.#
+
+. What are two ways, other than reversibility of operations, that preoperational and concrete operational children differ?
+** [hiddenAnswer]#Bar.#
+
+. Why do many of today's developmental psychologists doubt Piaget's theory of stages of mental development?
+** [hiddenAnswer]#Bar.#
+
+. How does Vygotsky's perspective on cognitive development differ from Piaget's?
+** [hiddenAnswer]#Bar.#
+
+. What is Vygotsky's concept of tools of intellectual adaptation?
+How can such tools influence the course of cognitive development?
+** [hiddenAnswer]#Bar.#
+
+. How might the number words of Asian languages help children learn the base-10 number system more easily than American and European children?
+What evidence suggests that they do learn the base-10 number system earlier?
+** [hiddenAnswer]#Bar.#
+
+. How might being a "digital native" influence how children today learn to think?
+** [hiddenAnswer]#Bar.#
+
+. What is the "zone of proximal development", and how does it relate to children's cognitive development?
+** [hiddenAnswer]#Bar.#
+
+. How does Vygotsky's "apprentice" view of child contrast with Piaget's "scientist" view?
+** [hiddenAnswer]#Bar.#
+
+. What is information-processing perspective on cognitive development, and how does it differ from Piaget's and Vygotsky's perspectives?
+** [hiddenAnswer]#Bar.#
+
+. Through what developmental steps do young children develop the capacity to form episodic memories?
+** [hiddenAnswer]#Bar.#
+
+. How do executive functions and speed of processing change with age during childhood and early adolescence?
+How might working-memory capacity depend on speed of processing?
+** [hiddenAnswer]#Bar.#
+
+. What do children younger than 3 years old understand about other people's minds?
+** [hiddenAnswer]#Bar.#
+
+. hat evidence suggests that children younger than age 4 usually do not understand that people can hold false beliefs?
+Why might false beliefs be particularly difficult for young children to understand?
+** [hiddenAnswer]#Bar.#
+
+. What logic and evidence suggest that engagement in pretend play, especially in role-play with other children, may help children acquire an understanding of false beliefs?
+** [hiddenAnswer]#Bar.#
+
+. How does research on people with autism support the premise that the understanding of minds and the understanding of physical objects are fundamentally different abilities?
+** [hiddenAnswer]#Bar.#
+
+. How does research on autism support the idea that an understanding of false beliefs may derive, in part, from prior engagement in pretend play?
+** [hiddenAnswer]#Bar.#
+
+. What are the universal characteristics of morphemes?
+How do morphemes differ from nonverbal signs?
+** [hiddenAnswer]#Bar.#
+
+. How can any sentence, in any language, be described as a four-level hierarchy?
+How can rules of grammar be described in relation to that hierarchy?
+** [hiddenAnswer]#Bar.#
+
+. What does it mean to say that knowledge of grammar is usually implicit rather than explicit?
+** [hiddenAnswer]#Bar.#
+
+. How have researchers shown that very young infants can distinguish between subtly different speech sounds?
+How do infants' abilities to distinguish among such speech sounds change during the second half-year of their lives?
+What is the value of these changes?
+** [hiddenAnswer]#Bar.#
+
+. What is the distinction between cooing and babbling?
+What are the reasons for thinking that these vocalizations are precursors to language production?
+** [hiddenAnswer]#Bar.#
+
+. What is evidence that babies begin to understand words well before they begin to speak?
+** [hiddenAnswer]#Bar.#
+
+. How do young children make the link between new words that they hear and appropriate referents in their environments?
+** [hiddenAnswer]#Bar.#
+
+. What are two reasons why children might overextend common nouns that they have learned?
+** [hiddenAnswer]#Bar.#
+
+. How do children demonstrate knowledge of grammatical rules in their early speech?
+How do some of their "mistakes" in grammar confirm that they know the rule and are not just mimicking?
+** [hiddenAnswer]#Bar.#
+
+. How did Noam Chomsky link the study of grammar to psychology?
+What did he mean by a language-acquisition device?
+** [hiddenAnswer]#Bar.#
+
+. How have studies of creole languages and studies of deaf children in Nicaragua supported the idea that children invent grammar in absence of a pre-existing grammatical language?
+** [hiddenAnswer]#Bar.#
+
+. What evidence supports the view that grammar is learned more readily in early childhood than later in life?
+** [hiddenAnswer]#Bar.#
+
+. How do parents in our culture modify their speech to infants?
+** [hiddenAnswer]#Bar.#
+
+. What evidence suggests that differences in the language environments provided by parents can affect the rates at which infants acquire language?
+** [hiddenAnswer]#Bar.#
+
+. What light has been shed on the LASS by cross-cultural research?
+** [hiddenAnswer]#Bar.#
+
+. What is the distinction between simultaneous and sequential bilinguals?
+** [hiddenAnswer]#Bar.#
+
+. What are some of the costs and benefits of bilingualism relative to speaking only one language?
+Do you think the costs outweigh the benefits?
+** [hiddenAnswer]#Bar.#
+
+
+== Think Critically
+
+. Foo
+** [hiddenAnswer]#Bar.#
+
+. Foo
+** [hiddenAnswer]#Bar.#
+
+. Foo
+** [hiddenAnswer]#Bar.#

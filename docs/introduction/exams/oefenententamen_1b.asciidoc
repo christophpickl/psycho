@@ -1,0 +1,211 @@
+= Oefententamen 1b
+
+. Wie wordt over het algemeen beschouwd als de grondlegger van de wetenschappelijke psychologie, omdat hij het eerste universitaire psychologisch laboratorium oprichtte? (p. 106)
+.. René Descartes
+.. Sigmund Freud
+.. Ivan Pavlov
+.. Wilhelm Wundt
+** [hiddenAnswer]#d.#
+. Bij welke stroming past het idee dat basale kennis is aangeboren en _niet_ verkregen wordt door ervaring? (p. 7)
+.. empirisme
+.. nativisme
+.. dualisme
+.. materialisme
+** [hiddenAnswer]#b.#
+. Gray en Bjorklund beschouwen psychologie als academische discipline hoofdzakelijk als een "hub" (schakelpunt) tussen de ... (p. 19)
+.. sociale en natuurwetenschappen.
+.. sociale en geesteswetenschappen (humanities).
+.. natuur- en geesteswetenschappen (humanities).
+.. sociale, natuur- en geesteswetenschappen (humanities).
+** [hiddenAnswer]#d.#
+. Een onderzoeker heeft psychologen regelmatig horen zeggen dat kinderen met autisme een grotere hoofdomtrek lijken te hebben, en wil onderzoek doen om te zien of deze stelling waar is. +
+Welk soort studie is in dit geval het meest efficiënt? (p. 35)
+.. correlationeel onderzoek
+.. een descriptieve studie
+.. veldonderzoek
+.. een laboratoriumexperiment
+** [hiddenAnswer]#a.#
+. Wanneer scores worden gerangschikt van de hoogste naar de laagste, dan is de middelste score ... (p. 41)
+.. het gemiddelde.
+.. de standaarddeviatie.
+.. de mediaan.
+.. de correlatiecoëfficiënt.
+** [hiddenAnswer]#c.#
+. Een intelligentietest wordt meerdere keren bij dezelfde persoon afgenomen, maar leidt elke keer tot een andere uitslag. +
+Wat is de belangrijkste tekortkoming van deze intelligentietest? (p. 47)
+.. De test is niet betrouwbaar (reliable).
+.. De validiteit van de test laat te wensen over.
+.. Er is geen onafhankelijke variabele opgenomen in het onderzoek.
+.. De uitslagen zijn niet statistisch significant.
+** [hiddenAnswer]#a. (as in replicable)#
+. De term "fenotype" verwijst naar ... (p. 62)
+.. alle observeerbare gedragsmatige en lichamelijke eigenschappen die veroorzaakt worden door omgeving en genen.
+.. alle niet-observeerbare lichamelijke eigenschappen die veroorzaakt worden door onze genen.
+.. uitsluitend die observeerbare gedragingen die veroorzaakt worden door omgevingsfactoren.
+.. het niet-observeerbare bouwplan voor ons lichaam zoals dat vastligt in onze genen.
+** [hiddenAnswer]#a.#
+. Wat is de samenhang tussen mutatie en natuurlijke selectie in het evolutionaire proces? (p. 73)
+.. Door natuurlijke selectie verdwijnen alle mutaties zodat de evolutie foutloos verloopt.
+.. Mutaties worden niet doorgegeven aan volgende generaties, waardoor natuurlijke selectie er geen grip op heeft.
+.. Mutaties zijn over het algemeen meer nuttig dan schadelijk, waardoor zij in het proces van natuurlijke selectie behouden blijven.
+.. Natuurlijke selectie leidt ertoe dat in volgende generaties nuttige mutaties behouden blijven en schadelijke mutaties verdwijnen.
+** [hiddenAnswer]#d.#
+. De meeste kinderen beginnen op een bepaalde leeftijd een taalvermogen te ontwikkelen.
+Dit uit zich in spontaan gebabbel. +
+Het leren van taal en spreken is waarschijnlijk een voorbeeld van ... (p. 82)
+.. natuurlijke selectie.
+.. convergente evolutie.
+.. homologie.
+.. "biological preparedness".
+** [hiddenAnswer]#d.#
+. Welk paarsysteem ontstaat wanneer de omstandigheden het onmogelijk maken voor één ouder om het nageslacht groot te brengen, terwijl dat voor twee ouders wel mogelijk is? (p. 90)
+.. polygynandrie
+.. polyandrie
+.. polygynie
+.. monogamie
+** [hiddenAnswer]#d.#
+. Welke term moet worden ingevuld voor een juiste bewering? +
+De snelle instroom van positief geladen natriumdeeltjes (sodium; Na+) in een cel kan leiden tot een tijdelijke omkering van de elektrische lading over een celmembraan.
+Dit vormt de __fase van een actiepotentiaal. (p. 107)
+.. depolarisatie
+.. repolarisatie
+.. hyperpolarisatie
+.. drempel
+** [hiddenAnswer]#a.#
+. Vlak voor en tijdens een tentamen is bij veel studenten de hartslag en bloeddruk iets hoger dan na afloop.
+Ook kan de bloedtoevoer naar spieren toenemen en verloopt de spijsvertering trager. +
+Welk deel van het (perifere) zenuwstelsel (nervous system) zorgt voor de genoemde veranderingen? (p. 121)
+.. sympathisch autonoom zenuwstelsel
+.. parasympatisch autonoom zenuwstelsel
+.. skeletsysteem
+.. ruggenmerg-reflexsysteem
+** [hiddenAnswer]#a.#
+. In de primaire motorcortex is de grootte van het corticale gebied dat betrokken is bij een bepaald lichaamsdeel afhankelijk van de ... (p. 127)
+.. grootte van het lichaamsdeel.
+.. sterkte van het lichaamsdeel.
+.. fijnheid van de motorische controle van het lichaamsdeel.
+.. evolutionaire verschijning van het lichaamsdeel.
+** [hiddenAnswer]#c.#
+. Welke term moet worden ingevuld voor een juiste bewering? +
+Een studie onder taxichauffeurs in Londen, beschreven in hoofdstuk 4 van het boek, suggereert dat extensief ruimtelijk leren bij mensen kan leiden tot een toename in grootte van ... (p. 143)
+.. de hippocampus.
+.. de amygdala.
+.. de hypofyse.
+.. het cerebellum.
+** [hiddenAnswer]#a.#
+. Nick voelt zich uitgedroogd na het lopen van een marathon.
+Net na de finish ziet hij een kraam met sportdrank en hij loopt er direct op af.
+Dorst is de interne motivationele staat die hem naar de sportdrank leidt. +
+De sportdrank zelf is de ... (p. 152)
+.. regulerende drive.
+.. niet-regulerende drive.
+.. motivator.
+.. incentive.
+** [hiddenAnswer]#d.#
+. De reden dat we een remslaap hebben, is volgens de brain-maintenance-theorie ... (p. 171)
+.. omdat bepaalde groepen neuronen in de hersenen regelmatig actief moeten blijven.
+.. om energie te behouden voor de volgende dag.
+.. om het lichaam helpen te herstellen.
+.. om het circadiaanse ritme van de hersenen te resetten.
+** [hiddenAnswer]#a.#
+. Een biologe vindt een plant waarvan werd gedacht dat deze was uitgestorven. +
+De __-theorie veronderstelt dat de positieve perceptie van deze gebeurtenis een lichamelijke reactie in haar lichaam teweegbrengt.
+Deze lichamelijke reactie zorgt er vervolgens voor dat ze de opwinding als emotie voelt. (p. 181)
+.. common-sense
+.. Ekman's facial feedback
+.. Schachter's cognition-plus-feedback
+.. James's peripheral feedback
+** [hiddenAnswer]#d.#
+. Wat is het kleinst waarneembare verschil voor de magnitude van een stimulus (stimulus magnitude) volgens de Wet van Weber? (p. 196)
+.. een constante proportie van de magnitude van de originele stimulus
+.. een proportioneel verschil tussen de originele stimulus en de vergelijkingsstimulus
+.. de magnitude van de originele stimulus tot de macht 3.42
+.. het gemiddelde van de waargenomen verschillen die via magnitudeschattingen zijn verkregen
+** [hiddenAnswer]#a.#
+. Welke stelling geeft het verband tussen smaak en reuk correct weer? (p. 200)
+.. Wanneer mensen ouder worden, neemt de geursensatie af maar de smaaksensatie niet.
+Dit suggereert dat deze twee zintuigen niet gerelateerd zijn.
+.. Kauwen en slikken duwt lucht in de mond omhoog naar de neus waar voedselmoleculen reukreceptoren stimuleren.
+.. Als we voedsel eten, worden de reukreceptoren als eerste geactiveerd, die daarna de smaakreceptoren in de mond activeren.
+.. Hoewel voedsel in de mond reukreceptoren kan stimuleren, is dit effect zo zwak dat het de smaak nauwelijks beïnvloedt.
+** [hiddenAnswer]#b.#
+. Wetenschappers weten dat een stress-geïnduceerde verdoving (analgesie) wordt bewerkstelligd door endorfine omdat ratten die een endorfine-injectie kregen ... (p. 212)
+.. geen stress ervaarden.
+.. tijdens stress onverminderde pijnsensaties hadden.
+.. tijdens stress geen pijn voelden als ze endorfineblokkers hadden gekregen.
+.. tijdens stress geen stress-geïnduceerde verdoving ervaarden als ze endorfineblokkers hadden gekregen.
+** [hiddenAnswer]#d.#
+. Wat doet een cochleair implantaat?
+Een cochleair implantaat ... (p. 217)
+.. vertaalt auditieve signalen naar elektrische impulsen die de cochlea stimuleren.
+.. stuurt auditieve elektrische signalen naar de cochlea.
+.. vertaalt cognitieve signalen van de cochlea naar auditieve geluiden en elektrische impulsen.
+.. stuurt elektrische signalen van de cochlea naar het middenoor.
+** [hiddenAnswer]#a.#
+. Wanneer Rick vanuit een lichte ruimte in een donkere ruimte stapt, kan hij bijna niets zien.
+Na een paar minuten begint hij echter steeds meer te zien.
+Dit is mogelijk doordat zijn __ gevoeliger worden. (p. 228)
+.. fotonen
+.. kegeltjes (cones)
+.. kenmerkdetectoren (feature detectors)
+.. staafjes (rods)
+** [hiddenAnswer]#d.#
+. Marieke kan een object (zoals een koffiezetapparaat) sneller identificeren als dit object onderdeel is van een betekenisvolle setting (zoals een keuken) dan wanneer het object onderdeel is van een losse verzameling objecten. +
+Deze observatie levert bewijs voor ... (p. 244)
+.. het belang van afzonderlijke kenmerken.
+.. het verwerken van betekenis voordat we er daadwerkelijk aandacht aan geven.
+.. de kracht van top-downverwerking.
+.. de kracht van bottom-up verwerking.
+// TODO i got this one wrong
+** [hiddenAnswer]#c.#
+. Prosopagnosie is ook bekend als ... (p. 250)
+.. gezichtsblindheid (face blindness).
+.. gezichtsherkenning (face area).
+.. gezichtsvoorkeur (familie area).
+.. gezichtsdiffusie (fusiformia).
+** [hiddenAnswer]#a.#
+. Visuele informatie wint het vaak van auditieve informatie als we conflicterende sensorische informatie binnenkrijgen. +
+Hoe noemen we dit? (p. 258)
+.. sight over sound phenomenon
+.. visual dominance effect
+.. sound suppressing effect
+.. visual command phenomenon
+** [hiddenAnswer]#b.#
+. Nadat een geconditioneerde respons is aangeleerd, wordt de geconditioneerde stimulus herhaaldelijk aangeboden zonder de ongeconditioneerde stimulus.
+Een specifiek effect treedt dan op. +
+Welk effect wordt bedoeld? (p. 268)
+.. habituatie
+.. shaping
+.. discriminatie
+.. extinctie
+** [hiddenAnswer]#d.#
+. In een klassiek experiment van John B. Watson werd baby Albert (little Albert) door middel van klassieke conditionering angstig gemaakt voor ratten.
+Deze angstrespons trad ook op bij het zien van andere harige dieren, zoals een konijn. +
+Hoe noemen we dit verschijnsel? (p. 274)
+.. habituatie
+.. tolerantie
+.. generalisatie
+.. evaluatieve conditionering
+** [hiddenAnswer]#c.#
+. Een zeer verlegen persoon krijgt van zijn therapeut de opdracht tien mensen vriendelijk te groeten.
+Deze persoon krijgt daarbij overwegend positieve reacties.
+Daardoor is het de dag erna al gemakkelijker om andere mensen te benaderen. +
+Deze aanpak is een voorbeeld van ... (p. 281)
+.. habituatie.
+.. klassieke conditionering.
+.. operante conditionering.
+.. observationeel leren.
+** [hiddenAnswer]#c.#
+. Een ongetrainde chimpansee die erbij was toen zijn moeder met mensen leerde te communiceren via symbolen, ging deze symbolen op een later tijdstip zelf ook gebruiken. +
+Dit is een voorbeeld van ... (p. 296)
+.. klassieke conditionering.
+.. habituatie.
+.. observationeel leren.
+.. latent leren.
+** [hiddenAnswer]#c.#
+. Imprinting is te beschouwen als een voorbeeld van ... (p. 305)
+.. klassieke conditionering.
+.. latent leren.
+.. gespecialiseerd leervermogen.
+.. instrumentele conditionering.
+** [hiddenAnswer]#c.#

@@ -1,0 +1,24 @@
+= René Descartes
+
+[#img-descartes]
+.Descartes
+[link=https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes]
+image::descartes-rene.jpg[Rene Descartes,200]
+
+== Facts
+
+* 1596-1650
+* French mathematician, physiologist, philosopher
+* Born in La Hague
+* Studied theology and science; got a law degree
+* Worked as a gentleman soldier, military engineering
+** Later meteorology, focusing on glacier formation
+
+== Achievements
+
+* Heavy impact on the development of psychology
+* Paving the way for science of psychology by challenging link:/introduction/ch1-background/index.html#sec-dualism[dualism].
+
+== Links
+
+* https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

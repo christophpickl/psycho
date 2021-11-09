@@ -1,0 +1,180 @@
+= Focus Questions
+
+. What are the main *components* of the *information-processing model* of the mind?
+** [hiddenAnswer]#The components consists of three memory stores: *Sensory*, *working* (short-term), and *long-term* memory.
+And additional processes: Attention, rehearsal, encoding, and retrieval.#
+
+. What is the *function* of the *sensory* memory?
+** [hiddenAnswer]#To hold on to (unconsciously) analyze/decide whether it's *worth* to continue processing (to the short-term).#
+
+. (a) What are the basic *functions* of *short-term* store, and (b) how is this memory store *equated with consciousness*?
+(c) How does working memory *resemble* the central processing unit of a *computer*?
+** [hiddenAnswer]#(a) Seat of consciousness (perceiving, feeling, comparing, computing, reasoning), where attention can direct its "spotlight" to and information is being worked on. (b) It is where consciousness is (happening), where attention is drawn to. (c) The computation/manipulation is done there, not the long storage.
+And the 7 +/- 2 rule of storage would equate to the processor's registers.
+Enormous amounts of data flow through in high speed, but low bandwidth.
+Also it is single-threaded but yet can context-switch quickly.
+Plus: Sensory store is the keyboard/mouse, hard-drive/SSD/RAM the long-term memory.#
+
+. In the information-processing model, what are the functions of *(1) attention, (2) encoding and (3) retrieval*?
+** [hiddenAnswer]#(1) Select/Filter: Restriction of info from sensory to working memory. (2) Save/store: Moving from short- to long-term. (3) Load/Remember: Load from long- to short-term memory.#
+
+. What are the major features of *"fast" and "slow" thinking*?
+** [hiddenAnswer]#Fast: automatic, unconscious, intuitive, inexact/fuzzy (approximation).
+Slow: Effortful, conscious, deliberate, precise.
+(As seen in dual-processing theories)#
+
+. (a) What two *competing needs* are met by our *attentional system*?
+(b) How do the concepts of *pre-attentive processing* and top-down control of the attentive gate relate to these *two needs*?
+** [hiddenAnswer]#(a) *Focus* mental resources on the task at hand.
+Versus: *Monitor* stimuli irrelevant to that task, shift attention when danger/benefit when outweight that task (see "Cocktail party phenomenon"). (b) Monitoring the environment is possible due to the pre-attentive processing (unconscious), so the task focus can happen in the working memory with consciousness.#
+
+. What *evidence* from research shows that people very effectively *screen out irrelevant* sounds and sights when *focusing* on a *difficult* perceptual task?
+** [hiddenAnswer]#Via selective listening/viewing.
+Best evidence ever is the *gorilla* when asked to count balls passed around.
+Also magicians use "inattentional blindness".#
+
+. (a) How does sensory memory permit us to *hear or see*, *retroactively*, what we were not paying attention to?
+(b) How have experimenters *measured* the *duration* of auditory and visual sensory memory?
+** [hiddenAnswer]#(a) Auditory sensory memory is also called "echoic memory", and as such it holds an echo for up to 10 seconds of any sound, kind of a buffer.
+Visual sensory memory is called "iconic memory" and does something similar, holding an "icon" for a brief memory (less than a second) after it has happened.
+Both have kind of an "ultra short storage". (b) For hearing, people had to focus on a task, while digits were spoken, they got interrupted and were asked about the digits.
+For visual, letters were flashed for a split of a second, then people were asked to name specific ones after flash was gone.
+PS: We are talking about unconscious, not paying attention (pre-attention) here, no deliberate focus, because that would be short-term memory.#
+
+. What is some *evidence* that concepts stored in *long-term* memory can be *primed* by stimuli that are not consciously perceived?
+** [hiddenAnswer]#People were flashed images containing a duck which are not consciously noticed.
+Being asked to draw a scene, they were more likely to draw a duck-related scene.#
+
+. How is the concept of automatic, *unconscious processing* of stimuli used to help explain (a) people's ability to do *more than one* task at once, and (b) the *Stroop interference* effect?
+** [hiddenAnswer]#(a) It frees up resources (e.g. eating while driving). (b) Difficulty focusing attention, as part of us automatically tries to pay attention (senses) on one domain (identify colors) while we deliberately try to pay attention to the other (read words).#
+
+. What three general conclusions have emerged from studies of *brain mechanisms* of *pre-attentive* processing and attention?
+** [hiddenAnswer]#(1) "Not attended to"-stimuli activate sensory/perceptual brain areas. (2) Attention increases neural activity for task relevant, and diminishes for task-irrelevant things. (3) Attention is being done in prefrontal cortex.#
+
+. What is some *evidence* that people keep information in the *phonological* loop through sub-vocal repetition?
+** [hiddenAnswer]#Evidence comes from comparing English with Chinese, where Chinese numbers are all single syllables, and thus they can hold information longer via sub-vocal repetition.
+PS: Analogy of spinning plates.#
+
+. Why is *working-memory* span usually two items *less* than (short-term) *memory span*?
+** [hiddenAnswer]#To work on information competes with mental resources needed to store information.
+One interferes with performing the other.#
+
+. What are three *subcomponents* of *executive functions*?
+** [hiddenAnswer]#(1) Updating, monitoring. (2) Switching, shifting. (3) Inhibition, prevention.
+PS: Executive functions is what makes us humans, cognitive tasks, planning, regulating behavior.#
+
+. What four general *conclusions* have been discovered for *executive functions*?
+** [hiddenAnswer]#(1) Unity, diversity. (2) Genetic component. (3) Clinical and societal outcomes. (4) Developmental stability.#
+
+. How does the case of *Phineas Gage* show that the prefrontal cortex is related to executive functions?
+** [hiddenAnswer]#He used to be a "normal" person, but after the accident became "crazy" (unable to plan; unfriendly, rude, lack of empathy), not being able to inhibit his impulses.
+PS: He lost his family, job and everything and became a circus attraction.#
+
+. What general roles does the *prefrontal cortex* play in *working memory*?
+** [hiddenAnswer]#Deliberately holding verbal/visual information in mind.#
+
+. (a) What are the *differences between explicit and implicit* memory, and (b) how is each memory type *assessed*?
+(c) In what sense are *implicit* memories *more context-dependent* than explicit memories?
+** [hiddenAnswer]#(a) Explicit is conscious, declarative. Implicit is unconscious, cannot be verbalized (e.g. riding bycle). (b) Explicit: Asked in tests. Implicit: Inferred from behavior. (c) Context-dependent: E.g. same environment/stimuli/tasks/problems where gained memory, recall memory. Explicit can recall voluntarily outside original context. Implicit relies more on context, because this is how memory then is being triggered.#
+
+. How do the two *subclasses of explicit memory differ* from one another?
+** [hiddenAnswer]#Episodic/Autobiographical: Experiences made in the past (time-travel). Semantic: Facts, meanings, ideas. Not tied to experience.#
+
+. (a) What sorts of experimental results was Collins and Loftus's *spreading-activation model* designed to explain?
+(b) How does the model expand on the idea that mental associations provide a *basis for memory and thought*?
+** [hiddenAnswer]#(a) Ability to recognize/recall words very quickly after exposure to other words (association, priming). (b) Activation of one neural circuit (concept) activates other circuits (concepts); the more they overlap, the more closely they are associated.#
+
+. (a) What are some *examples* of *procedural memory*, and (b) why are such memories classed as *implicit*?
+** [hiddenAnswer]#(a) Motor skills, habits, tacit/unconsciously learned rules: riding bicycle, hammering neals, weave a rug. (b) Improvement/changes retained/remembered implicitly/unaware over practice sessions. PS: "The nails you gave me an hour ago were softer as they bent easier."#
+
+. (a) Why is *priming* considered to be implicit memory? (b) What *function* does priming play in a person's *everyday thought*?
+** [hiddenAnswer]#(a) The activation is done unconsciously. (b) Keeping our thought-stream running along consistent, logical lines. Focus on relevant/similar memories/thoughts.#
+
+. How does the case of *H.M.* support the idea of a sharp distinction between *working memory* and *long-term memory*?
+** [hiddenAnswer]#By removing only certain parts of the brain, solely the long-term memory abilities were negatively affected.#
+// TODO hnery molaison, H.M. (just like phage guy), as a phenomena
+
+. What evidence indicates that the hippocampus, and temporal-lobe structures near it, are involved in encoding explicit long-term memories?
+** [hiddenAnswer]#Give people information to memorize, hippocampus&co have increased activity; plus: Positive correlation with chance to remember.#
+
+. Why does infantile amnesia cease around the age of 4?
+** [hiddenAnswer]#There are several explanations, but one main: Autobiographical memory requires language, which develops later.#
+
+. (a) How might a relative lack of episodic memory in early childhood and old age be explained?
+(b) How does episodic memory seem to distinguish humans from other species?
+** [hiddenAnswer]#(a) PFC is in youngsters not developed, as elderly it's damaged. (b) We are not only conscious, but self-conscious. We can think about past, present and future.#
+
+. What is some evidence, from the laboratory and from the classroom, that the more *deeply* a person *thinks* about an item of information, the more likely it is to be *encoded* into *long-term* memory?
+** [hiddenAnswer]#Lab experiments with tasks about remembering words by A) letters/print 20% B) rhyme/sound 50% and C) gap-fill/meaning 80%. School score better think about task, rather simply read several times. Deep thinking/elaboration creates more associations/more overlap of neural circuits.#
+
+. How can chunking be used to increase the amount of information that can be maintained in short-term memory or encoded into long-term memory?
+** [hiddenAnswer]#By reducing (via grouping/chunking) the number of separate items which need to be stored. (additionally, with elaborting, giving it meaning, even better)#
+
+. How does chunking figure into experts' excellent memories for information that is within their realm of expertise?
+** [hiddenAnswer]#E.g. chess board, floor plans, x-ray image. Long-term working memory, gained via experience, makes it easier to remember familiar patterns/formations (experts are not anyhow better with random patterns).#
+
+. (a) What is hierarchical organization, and (b) how can such an organization facilitate encoding into long-term memory?
+** [hiddenAnswer]#(a) Memories are clustered to form (recursive) categorization. (b) Grouping information by main features (structured/ordered/categorized), encoding and extraction is easier thus improved.#
+
+. How might *visualization* help *improve* memory for verbally presented information?
+** [hiddenAnswer]#1) Additional distinct visual memory trace, thus increasing chance of remembering. 2) Chunking verbally presented ideas into efficient ways. 3) Linking new information with old ("mental walk" as performed by memory championships). 4) Brains are better at recognizing objects, than remembering "raw words", with its massive visual store.#
+
+. What *evidence* supports the theory that long-term memories first exist in a labile (unstable), hippocampal-dependent state – and if then, if not lost, that they are gradually consolidated into a more stable form that doesn't depend on the hippocampus?
+** [hiddenAnswer]#Neuroimaging shows, when people recall new info, the hippocampus is active; when people recall old info, cerebral cortex (but not hippocampus) is active.#
+
+. What might be the value of the increased *modifiability* of long-term memories that occurs during *retrieval*?
+** [hiddenAnswer]#It's beneficial as it updates our memory to the actual present reality (e.g. appearance of my car). PS: Recalling (active) leads to better learning/grades than reading (passive).#
+
+. What is some evidence that sleep promotes the durability and quality of long-term memory?
+** [hiddenAnswer]#People were given a task, some slept, some didn't after it. The "sleeping group" achieved better results. (this occurs in deep sleep/non-REM sleep)#
+
+. (a) What do the principles of "association by contiguity" and "association by similarity" say about retrieval from long-term memory?
+(b) According to James, how does the second principle depend on the first?
+** [hiddenAnswer]#(a) *Contiguity* makes us remember/associate things that happened along with it (shortly after) in the past in terms of *time* (apple and seeing red, hearing sound, tasting sweet). *Similarity* makes us remember things which share common properties (apple, rose, due to redness), thus are stored "together" in *quality* but don't need to be experienced together (same time). (b) ???#
+// TODO second part of question not answered in book?!
+
+. (a) How might *elaborative encoding* facilitate retrieval?
+(b) How is the idea supported by a *memory testing experiment*?
+** [hiddenAnswer]#(a) Elaborative encoding: Learning by thinking deeply about it (rather than just passively suck in information). The more associations to the new info, the more ways there are to retrieve it. (b) People had to remember nouns, and they performed better when writing down hints themselves (3 better than 1), compared with hints written down by someone else (associations are very personal).#
+
+. (a) How is the effect of context on memory *adaptive*?
+(b) What is some evidence that retrieval is best when the retrieval context is similar to the encoding context?
+** [hiddenAnswer]#(a) Past experiences in a given context are often relevant to future experiences in the same context (environment, situation, etc). (b) Experiments gave people list of words to remember in a room with a certain smell (chocolate/cinnamon), and then asked them remember with/without that specific smell. Even simply imagining the encoding context (where learned) helps to improve retrieval.#
+
+. What does it mean to say that memories are constructed?
+** [hiddenAnswer]#It's not just like a tape recorder, exactly replaying old memories. Rather it's an active, inferential process guided by knowledge/intuitions about the world and by cues in the present environment. We fill in the gaps by logic/knowledge every time we retell.#
+
+. How did Bartlett demonstrate that culture-specific schemas affect the way that people remember a story?
+** [hiddenAnswer]#He told people a story, and they remembered details which are in align with their on knowledge/belief (culture-specific schemas), and dropped those which are not in alignment. Not only filling gaps, but removing/changing details.#
+
+. (a) What is some evidence that *eye-witnesses'* memories, even when very confidently expressed, are *not* always *reliable*?
+(b) What is some evidence that *suggestions* made after the event can *influence* eye-witnesses' memories?
+** [hiddenAnswer]#(a) After DNA testing began, many prisons (sexual abuse) had to be released in the US. (b) E.g. by complimenting being a good witness increases their confidence. By introducing misinformation repeatedly/subtly by detective/cross-examiner. (see study with "cars touching/crashing" while "driving/rushing" into each other with broken glass)#
+
+. (a) How have false memories for childhood experiences been implanted in experiments?
+(b) What evidence indicates that imagination can facilitate false-memory construction?
+** [hiddenAnswer]#(a) With hypnosis (and also psychotherapy), people can be made to remember false memories. People were made to be lost in a shopping mall, although this never happened. (b) People were asked to imagine a painful medical procedure, and then later asked to remember whether this procedure happened in childhood. 20% of the imagination condition said yes, compared to 5% of the control condition.#
+
+. How might (a) *source confusion* and (b) *social pressure* contribute to *false-memory* construction?
+** [hiddenAnswer]#(a) Information about same entity from different sources (first/second hand, reading, imagination) will be tried to align it, obscuring ties between each and its original source, thus memory becomes confounded with another memory. (b) Investigators/psychotherapists might gently pressure people to say what is expected from them. It's being repeated and we gt prais for recalling, thus the more confident we get about this false-memory.#
+
+. Why might differences in *executive functions* affect one’s *prospective memory* abilities?
+** [hiddenAnswer]#Prospective memory ("mental time travel") stages: Intention forming - Intention maintenance - Intention execution. Executive functions: Plan/regulate thinking/behavior. Intentions are stored in prospective memory, which uses up cognitive resources, thus poor executive functions lead to worse memory. Gets even worse with old age.#
+
+== Think Critically
+
+. To what extent do you think your *behavior* is governed by *unconscious* versus *conscious* thought?
+** [hiddenAnswer]#I agree here mostly with Freud's analogy of an iceberg: Most of our behavior is driven by unconscious thought which stays hidden, and only a tiny part is consciously accessible to us. What's the impact in regard to law or even free will? Can obese people be blamed for being fat? What about indirectly impact the unconscious parts? Practice, to make an effort, investment, habits (classical conditioning), discipline, self-control, can make the difference of actions, but to which extent?#
+
+. The philosopher René Descartes said "I think, therefore I am" ("Cogito ergo sum").
+Does cognitive research and theory address Descartes' statement?
+** [hiddenAnswer]#Bar.#
+
+. How might *knowing* that much of your behavior is motivated by *unconscious* processes help you modify your behavior to make you a *more effective (or self-aware) person*?
+** [hiddenAnswer]#I get more suspicious about my motivations/intentions.
+I always ask myself more than once "What's really going on here" and not give in easily with the first answer/intuition.
+I reflect more.
+Introspect.
+Self-investigate.
+TODO#
+// TODO think critically

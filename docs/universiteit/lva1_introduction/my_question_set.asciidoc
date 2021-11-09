@@ -1,0 +1,38 @@
+= My Question Set
+
+As an extension to the focus questions...
+
+== Chapter 1 - Background
+
+See: link:/introduction/ch1-background/index.html[Chapter 1 Summary]
+
+. What does it mean that psychology is a *hub science*?
+** [hiddenAnswer]#"Psychology is a discipline in which scientific research is cited by scientists in many other fields".
+It connects, by being the center, the three broad divisions of: Natural sciences, social sciences and humanities.#
+. What are the three *fundamental ideas* in psychology?
+** [hiddenAnswer]#1) Everything has physical causes and thus can be studied scientifically 2) Everything we do is shaped by experience through our environment 3) evolution is the driving force through natural selection.#
+. What was *John Locke*'s position, concepts and ideas?
+** [hiddenAnswer]#Mainly as a promoter of *British empiricism*, stating that there is no free will, but we are merely reflections of our experiences.
+He used the term "tabula rasa", newborns are empty slates, which need imprinting.
+The base for behaviorists like Skinner.#
+. What is *phrenology*?
+** [hiddenAnswer]#A pseudoscience (by Franz Joseph Gall) which claimed to be able to infer a person's character traits by the shape of their skull, taking the brain function localization to its extreme.#
+. What *level of analysis* are there, what are their causes and how to apply it to road-rage?
+** [hiddenAnswer]#Neural (amygdala fires), physiological (cortisol and adrenalin block PFC), genetic (tendency towards aggression), evolutionary (ensure survival and superiority); learning (seen it by father and TV), cognitive (beliefing to have not deserved to be treated like this), social (belief the other done it to attack personally), cultural (custom in Russia to do this), developmental (teenager still lacks inhibition and self-regulation, proving himself).#
+
+== Chapter 2 - Methods
+
+See: link:/introduction/ch2-methods/index.html[Chapter 2 Summary]
+
+. What is the difference between *face and criterion validity*?
+** [hiddenAnswer]#When a measurement measures the variable it supposed to measure, than that procedure has face validity.
+Criterion validity also correlates its scores to another index (that we wish to measure/predict), that index is called the criterion, the validity is called criterion validity.#
+. What does *statistical significance* mean?
+** [hiddenAnswer]#When a study's result p value is less than 0.05 (5%), meaning the probability that mere chance plays a role is less then 5%.#
+. What can be learned from the case of *Clever Hans*?
+** [hiddenAnswer]#The value of skepticism, of careful observations under controlled conditions and the problem of observer-expectancy effects.#
+. What are some basic *ethical considerations* to take into account when experimenting with people?
+** [hiddenAnswer]#Informed consent, privacy, anonymity, low discomfort/harm, minimum use of deception, debriefing.#
+. What is the difference between *within-subject* and *between-subject* experiments?
+** [hiddenAnswer]#In within-subject experiments (alias "repeated-measures experiments") every subject is tested for each condition, meaning everyone is tested multiple times.
+In between-subject experiments (alias "between-group experiments") there is a separate group for each condition.#

@@ -1,0 +1,286 @@
+= Oefententamen Vrije Universiteit Amsterdam 2013
+
+Questions marked with a "⚠️" I got wrong once.
+
+Attention: This exam used more than the book as a source.
+
+. Het achterste deel van de hersenen bevat welke kwab?
+.. Occipitaalkwab
+.. Parietaalkwab
+.. Temporaalkwab
+.. Frontaalkwab
+** [hiddenAnswer]#a.#
+. ⚠️ Kinderen van 2,5 tot 5 jaar maken vaak zogenaamde "over-regularisatiefouten".
+Welke van de onderstaande opties is daar een voorbeeld van?
+.. Een kind dat het woord "auto" alleen maar gebruikt voor de auto van zijn moeder.
+.. Een kind dat zegt "Morgen ik zwemmen".
+.. Een kind dat zegt "De hond loopte snel".
+.. Een kind dat het woord "dada" gebruikt voor alles wat beweegt.
+** [hiddenAnswer]#c.#
+. Op basis van een memory span task kan een inschatting worden verkregen van:
+.. de capaciteit van het werkgeheugen.
+.. de capaciteit van het lange-termijn geheugen.
+.. de verwerkingssnelheid in het werkgeheugen.
+.. de verwerkingssnelheid in het lange-termijn geheugen.
+** [hiddenAnswer]#a.#
+. Het primaire projectiegebied voor de visuele waarneming bevindt zich in de:
+.. frontale kwab
+.. pariëtalekwab
+.. occipitale kwab
+.. temporale kwab
+** [hiddenAnswer]#c.#
+. Wat zou er gebeuren wanneer wij alleen maar gebruik zouden kunnen maken van "top-down" verwerking?
+.. Wij zouden dan alleen maar perceptuele illusies waarnemen.
+.. We zouden alleen de individuele "features" van objecten waarnemen.
+.. We zouden alleen maar zien wat we verwachten.
+.. We zouden objecten twee-dimensionaal waarnemen.
+** [hiddenAnswer]#c.#
+. Welke van de volgende hersendelen behoort niet tot de voorhersenen (forebrain)?
+.. hypothalamus
+.. basale ganglia
+.. medulla
+.. cortex
+** [hiddenAnswer]#c.#
+. Motivatie kan een functie zijn van drive (interne motivatie) en van externe stimuli.
+Welke bevinding is niet in overeenstemming met het idee dat motivatie vooral een functie van drive is?
+.. Mensen gaan eten als ze honger hebben.
+.. Wanneer dieren pijn hebben, proberen ze deze pijn op te heffen.
+.. Mensen eten meer als hun voedsel er appetijtelijk uitziet.
+.. Apen vermijden angstige situaties.
+** [hiddenAnswer]#c.#
+. Afferente zenuwcellen dragen informatie van de:
+.. hersenen naar de spiercellen.
+.. hersenen naar de zintuigen.
+.. spiercellen naar de hersenen.
+.. zintuigen naar de hersenen.
+** [hiddenAnswer]#d.#
+. Wanneer een kind angst vertoont bij de aanblik van zijn eetstoel, dan is het waarschijnlijk dat:
+.. de eetstoel een ongeconditioneerde stimulus (US) is die leidt tot een geconditioneerde angstreactie (CR).
+.. de angstreactie een ongeconditioneerde response (UR) is als gevolg van de eetstoel (US).
+.. de eetstoel een geconditioneerde stimulus (CS) is die leidt tot een geconditioneerde angstreactie (CR).
+.. de eetstoel een geconditioneerde stimulus (CS) is die leidt tot een ongeconditioneerde angstreactie (UR).
+** [hiddenAnswer]#c.#
+. Het autonome zenuwstelsel heeft twee onderdelen: het sympathische en het parasympathische.
+Hierbij is het sympathische zenuwstelsel verantwoordelijk voor \__ en het parasympathische zenuwstelsel voor __.
+.. de aansturing van de klieren; de aansturing van de gladde spieren.
+.. positieve feedback; negatieve feedback.
+.. het herstel van homeostase; het activeren van het lichaam.
+.. een toename in lichaamsactiviteit; het herstel van de lichaamsactiviteit naar normaal.
+** [hiddenAnswer]#d.#
+. De fovea is het gebied van de retina waar:
+.. de blinde vlek zit.
+.. de oogzenuw het oog verlaat.
+.. de meeste staafjes zitten.
+.. de meeste kegeltjes zitten.
+** [hiddenAnswer]#d.#
+. ⚠️ Om na een periode van training een hoge respons-snelheid te creëren, dient men tijdens training gebruik te maken van een:
+.. volledig bekrachtigingschema (schedule of reinforcement).
+.. fixed-ratio schema
+.. variabel-ratio schema
+.. fixed-interval schema
+** [hiddenAnswer]#c.#
+. ⚠️ Het idee dat taal verworven wordt middels bekrachtiging (reinforcement) door de ouders kan niet goed verklaren dat
+.. kinderen het juiste woord zeggen als ze een object zien.
+.. kinderen ook moeilijke woorden kunnen uitspreken.
+.. kinderen zinnen gebruiken die ze nooit gehoord hebben.
+.. kinderen de namen van andere kinderen vaak sneller oppikken dan volwassenen dat doen.
+** [hiddenAnswer]#c.#
+. ⚠️ Studies naar de reactie van kinderen op deels bedekte (occluded) objecten laten zien dat:
+.. Piaget gelijk heeft dat kinderen geen enkele objectpermanentie bezitten tijdens het sensorisch- motorische stadium.
+.. Piaget gelijk heeft dat kinderen geen enkele objectpermanentie bezitten tijdens het preoperationele stadium.
+.. Piaget ongelijk heeft dat kinderen geen enkele objectpermanentie bezitten tijdens het sensorisch- motorische stadium.
+.. Piaget ongelijk heeft dat kinderen geen enkele objectpermanentie bezitten tijdens het preoperationele stadium.
+** [hiddenAnswer]#c.#
+. ⚠️ Door "wit" toe te voegen aan een kleur neemt
+.. de intensiteit (intensity) af.
+.. de helderheid (luminance) af.
+.. de kleurtoon (hue) toe.
+.. de verzadiging (saturation) af.
+** [hiddenAnswer]#d.#
+. Per jaar verongelukken meer mensen in motorongevallen dan in vliegtuigongevallen.
+Wanneer Jan op het nieuws hoort dat een vliegtuigongeluk is gebeurd, besluit hij met de motor in plaats van het vliegtuig van Amsterdam naar Berlijn te gaan.
+Jan maakt waarschijnlijk een redeneerfout die gebaseerd is op:
+.. de "availability" heuristiek.
+.. een mentale set.
+.. een syllogisme fout.
+.. een "framing" probleem.
+** [hiddenAnswer]#a.#
+. ⚠️ Veraf gelegen objecten lijken voor een waarnemer die beweegt langzamer te bewegen dan dichtbij gelegen objecten.
+Dit is:
+.. bewegingsparallax
+.. optic flow
+.. geïnduceerde beweging
+.. schijnbare beweging
+** [hiddenAnswer]#a.#
+. Welke van de volgende opties is een voorbeeld van klassieke conditionering?
+.. Teun houdt op met zijn studie als gevolg van het halen van een onvoldoende voor zijn laatste examen.
+.. De hond Jessy brengt iedere ochtend de krant naar zijn baasje en krijgt daarvoor een brokje Bonzo.
+.. Femke had tijdens haar laatste tandartsbezoek erg veel pijn geleden en krijgt nu iedere keer hartkloppingen bij het zien van het huis van de tandarts.
+.. Sander koopt iedere eerste vrijdag van de maand een lot omdat hij vier jaar geleden f 1000,- won met een lot dat hij op vrijdag gekocht had.
+** [hiddenAnswer]#c.#
+. ⚠️ De term "syntax" verwijst naar:
+.. de betekenis van woorden.
+.. de geluidsklanken van woorden.
+.. de regels volgens welke woorden gecombineerd kunnen worden.
+.. de symbolen die men gebruikt voor woorden.
+** [hiddenAnswer]#c.#
+. Normaal gesproken loopt een signaal dat binnenkomt bij een neuron achtereenvolgens langs
+.. axon, dendriet, cellichaam
+.. dendriet, axon, cellichaam
+.. dendriet, cellichaam, axon
+.. axon, cellichaam, dendriet
+** [hiddenAnswer]#c.#
+. ⚠️ Volgens Evans' theorie over de droomslaap geldt dat dromen
+.. het resultaat zijn van reorganisatie van informatie in het brein tijdens slaap
+.. het mogelijk maken om problemen op te lossen en narigheid ondervonden gedurende de dag te vergeten
+.. resulteren van onderdrukte wensen die binnenkomen in het bewustzijn
+.. worden veroorzaakt door REM activiteiten in het centrale zenuwstelsel
+** [hiddenAnswer]#a.#
+. Onder normale omstandigheden bevat een spermacel
+.. zowel een X als een Y chromosoom.
+.. twee geslachtschromosomen.
+.. de informatie die het geslacht van een kind bepaalt.
+.. Alle bovenstaande antwoorden zijn juist.
+** [hiddenAnswer]#c.#
+. Welke van de onderstaanden wordt geclassificeerd als psychoactieve middelen?
+.. heroïne
+.. kalmeringsmiddelen
+.. caffeïne
+.. alle bovengenoemde antwoorden
+** [hiddenAnswer]#d.#
+. Repetition priming is
+.. de toename in reactietijd na herhaalde aanbieding van woorden.
+.. de toename in reactietijd in een identificatie taak.
+.. de afname in reactietijd na herhaalde aanbieding van woorden.
+.. de afname in reactietijd in een identificatie taak.
+** [hiddenAnswer]#c.#
+. Tijdens een hersenoperatie wordt bij een patiënt een deel van het primaire motorgebied gestimuleerd.
+Als gevolg van deze stimulatie beweegt het linkerbeen van de patiënt.
+De meest waarschijnlijke plaats van stimulatie was het ... deel van de ... kwab
+.. linker; frontale
+.. rechter; frontale
+.. linker; pariëtale
+.. rechter; pariëtale
+** [hiddenAnswer]#b.#
+. Het inzicht missen een nagelvijl te gebruiken om een doosje te openen is een voorbeeld van
+.. een heuristische benadering.
+.. een mentale set.
+.. representationeel denken.
+.. de "availability" heuristiek.
+** [hiddenAnswer]#b.#
+. Wanneer u zich herinnert wat u precies deed toen u hoorde van de dood van prinses Diana, beroept u zich op uw
+.. generiek geheugen.
+.. episodisch geheugen.
+.. hiërarchisch geheugen.
+.. semantisch geheugen.
+** [hiddenAnswer]#b.#
+. Basje is een baby die iedere avond huilt.
+Nadat zijn ouders hem op bed hebben gelegd begint hij te huilen.
+Zijn ouders zijn de wanhoop nabij: ze hebben inmiddels van alles geprobeerd om het huilen te doen stoppen: direct gaan troosten, wachten met troosten, niet troosten etc.
+Volgens de behavioristen is het gedrag van Basje resistent tegen ... als gevolg van ....
+.. generalisatie; continue beloning (reinforcement)
+.. generalisatie; partiële beloning (reinforcement)
+.. extinctie; continue beloning (reinforcement)
+.. extinctie; partiële beloning (reinforcement)
+** [hiddenAnswer]#d.#
+. In het ... bevindt zich een vloeistof die door drukveranderingen gaat bewegen waardoor het ... gaat golven.
+.. middenoor; trommelvlies
+.. slakkenhuis; trommelvlies
+.. middenoor; basilair membraan
+.. slakkenhuis; basilair membraan
+** [hiddenAnswer]#d.#
+. ⚠️ Uit onderzoek blijkt dat wanneer mensen op een "crash dieet" zijn geweest en gewicht hebben verloren, zij veelal snel in gewicht toenemen nadat ze opgehouden zijn met het dieet.
+Verder verliezen mensen tijdens het dieet vaak minder gewicht dan je zou verwachten op basis van de hoeveelheid calorieën die zij tot zich nemen.
+Deze bevindingen vormen evidentie voor
+.. het bestaan van glucoreceptoren.
+.. voor de activiteit van neuropeptiden.
+.. voor het bestaan van meerdere hongerregulatie mechanismen.
+.. voor het bestaan van genetisch bepaalde set points.
+** [hiddenAnswer]#d.#
+. Welke van onderstaande beweringen is juist?
+.. Wetenschap houdt zich middels de wetenschappelijke methode slechts bezig met "zichtbare" zaken.
+.. Geloof houdt zich op een niet-wetenschappelijke manier slechts bezig met "onzichtbare" zaken.
+.. a en b zijn juist.
+.. a en b zijn onjuist.
+** [hiddenAnswer]#d.#
+. Wanneer er een wetenschappelijke rechtvaardiging bestaat voor een bepaald geloof betekent dit dat
+.. dit geloof gebaseerd is op een gecontroleerd laboratorium onderzoek.
+.. dit geloof gebaseerd is op de juiste toepassing van de wetenschappelijke methode.
+.. dit geloof betrekking heeft op "zichtbare" zaken.
+.. Alle bovenstaande opties zijn juist.
+** [hiddenAnswer]#b.#
+. ⚠️ Op basis van ondermeer een hypothese kan men middels ... komen tot een predictie.
+Op basis van data kan men middels ... komen tot een hypothese.
+.. inductie; deductie
+.. deductie; inductie
+.. afleiding; herleiding
+.. herleiding; afleiding
+** [hiddenAnswer]#b.#
+. Welke van de onderstaande opties is de juiste conclusie van het volgende conditionele argument: +
+Als P dan Q +
+niet Q
+.. P
+.. Q
+.. niet P
+.. niet Q
+** [hiddenAnswer]#c.#
+. Wereldkampioen schaken Alexander Alexandrowitz Aljechin was ervan overtuigd dat de aanwezigheid van zijn kater een positief effect had op een door hem te spelen partij.
+Als gevolg van deze overtuiging nam hij bij elke partij zijn kater mee.
+Stel nu dat Aljechin deelnam aan een toernooi en gedurende dit gehele toernooi zijn kater bij zich had.
+Welke van de onderstaande opties is juist?
+.. Hij won het toernooi.
+Er bestaat dus wetenschappelijke rechtvaardiging om de hypothese dat de kater van Aljechin een winstgevend organisme is, te accepteren.
+.. Hij won het toernooi.
+Er bestaat dus wetenschappelijke rechtvaardiging om de hypothese dat de kater van Aljechin een winstgevend organisme is, te verwerpen.
+.. Hij won het toernooi niet.
+Er bestaat dus wetenschappelijke rechtvaardiging om de hypothese dat de kater van Aljechin een winstgevend organisme is, te accepteren.
+.. Hij won het toernooi niet.
+Er bestaat dus wetenschappelijke rechtvaardiging om de hypothese dat de kater van Aljechin een winstgevend organisme is, te verwerpen.
+** [hiddenAnswer]#d.#
+. ⚠️ De variabele die in een experiment gemanipuleerd wordt, is de
+.. afhankelijke variabele.
+.. onafhankelijke variabele.
+.. contaminerende variabele.
+.. controle variabele.
+** [hiddenAnswer]#b.#
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Uit een artikel van 1995 in het Parool blijkt dat onder mensen met een lage opleiding driemaal zo vaak dementie voorkomt als onder mensen met een hoge opleiding.
+Deze conclusie is gebaseerd op een groot onderzoek waarin totaal 7528 inwoners van de Rotterdamse wijk Ommoord, in leeftijd variërend van 55 tot 106 jaar, deelnamen.
+Welke van de onderstaande opties is juist?
+.. Onderwijs beschermt tegen degeneratie van de hersencellen op latere leeftijd.
+.. Mensen die dement worden hebben al vanaf de geboorte hersenen van een "mindere" kwaliteit waardoor ze minder waarschijnlijk hoog opgeleid zijn.
+.. Opties a en b kunnen beide waar zijn.
+.. Opties a en b zijn geen van beide waar.
+** [hiddenAnswer]#c.#
+. Een nul-resultaat kan het gevolg zijn van
+.. een te zwakke manipulatie.
+.. een onbetrouwbare meting.
+.. een plafond effect.
+.. alle bovengenoemde factoren.
+** [hiddenAnswer]#d.#
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Excluded
+. Welke van de volgende variabelen is geen persoonsvariabele?
+.. leeftijd
+.. sexe
+.. geheugenvaardigheden
+.. rekeninstructies
+** [hiddenAnswer]#d.#

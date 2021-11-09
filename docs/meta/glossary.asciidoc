@@ -1,0 +1,14 @@
+= Glossary
+
+== Science Terminology
+
+* *Hypothesis*: A statement which is possible and needs further validation to be proven.
+Usually the conditions are stated as well which are needed for validation.
+* *Theory*: By verifying a hypothesis through empirical observations a new theory formed, like relativity theory or evolution theory.
+* *Thesis*: A claim which should be proven/disproven by means of scientific evidence.
+
+== Logic
+
+* *Deduction*:
+* *Induction*:
+* *Axiom* (postulate, assumption): A statement that is considered to be true, and to be used for further reasoning and arguments as a premise.

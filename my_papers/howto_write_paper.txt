@@ -1,0 +1,62 @@
+SCIENTIFIC PAPER
+==================
+
+* contents:
+	* author, background
+	* supervisors, reviewers
+	* conflict of interest
+	* dates (executed, published)
+	* location
+
+	* study methods; study selection; subjects
+	* grading scale
+	* used papers (how found)
+	* literature references
+
+	* inclusion/exclusion criteria
+	* used media/diagrams support point to make
+	* honesty (own insufficiencies)
+	* clearly stated, specific goal/question
+	* and actually being answered (on-topic)
+	* drawed conclusion (findings; missings; advices)
+
+* proper notation of references; [AUTHORs][DATE][TITLE][JOURNAL-italic][PAGES][LINK]
+	* e.g.: Kobayashi, D., Shimbo, T., Hayashi, H., and Takahashi, O. (2019). Shiatsu for chronic lower back pain: Randomized controlled study. Complementary therapies in medicine, 45, 33–37. https://doi.org/10.1016/j.ctim.2019.05.019
+	* e.g.: Robinson, N., Lorenc, A., and Liao, X. (2011). The evidence for Shiatsu: a systematic review of Shiatsu and acupressure. BMC complementary and alternative medicine, 11, 88. https://doi.org/10.1186/1472-6882-11-88
+
+* IMRaD 4 part structure:
+	// https://writingcenter.gmu.edu/guides/writing-an-imrad-report
+	1. Introduction - case making
+		* why is it important/necessary?
+		* what motivates me? (problem/situation)
+		* current research state
+		* reveal a gap
+		* hypothesis
+	2. Methods - what done
+		* how conducted study
+		* sample, population, methods, equipment, ... (able to reproduce for others)
+		* use past tense and passive voice
+	3. Results - what found
+		* only present/report facts, no interpretation/explanation/commentary (yet)
+		* tables/diagrams numbered and labeled (captions above tables, beneath figures)
+		* use past tense
+	4. Discussion
+		* summarize main findings + comment on them
+		* connect them to other research
+		* limitions of my study + suggest additional/future research
+	X. Abstract
+		* write at last, but put on top
+		* short overview of the entire paper
+		* about: report's purpose/importance, methods, main findings+implications
+	* common problems with IMRaD
+		* abstract lacks clear statement on findings
+		* introduction lacks why research is important
+		* method lacks details / is disorganized
+		* results contains comments/explanations (instead neutrally report)
+
+* medical sources:
+	* https://pubmed.ncbi.nlm.nih.gov/
+	* https://scholar.google.com/
+	* https://www.citethisforme.com/citation-generator/harvard
+	* https://libguides.murdoch.edu.au/systematic/PICO
+	* https://www.ebsco.com/

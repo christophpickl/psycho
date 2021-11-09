@@ -1,0 +1,23 @@
+= Charles Darwin
+
+[#img-darwin]
+.Charles Darwin himself
+image::darwin-charles.png[Charles Darwin,200,100]
+
+== Facts
+
+* 1809-1882
+* England
+* Biologist, naturalist, geologist
+
+== Achievements
+
+* Father of evolution theory, one of the most influential figures in human history.
+** First published 1859 in this book On the "_Origin of Species_".
+** Natural selection as nature's version of selective breeding (artificial selection).
+** Laid foundation for link:/introduction/ch1-background/index.html#sec-evolution[Psychology as a Science].
+* His book "_The Expression of the Emotions in Man and Animals_" illustrates how evolutionary thinking can contribute to a scientific understanding of human behavior.
+
+== Links
+
+https://en.wikipedia.org/wiki/Charles_Darwin

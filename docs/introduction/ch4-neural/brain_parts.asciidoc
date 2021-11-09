@@ -1,0 +1,124 @@
+= Brain Parts
+
+== Introduction
+
+* Brain is about 60% fat (myelin sheath), rest is water, protein, carbs and salts.
+* It contains blood vessels and nerves, including neurons and glial cells (Glia = Greek for glue).
+* Neuron (nerve cell) consists of a body (soma), dendrites (receivers) and axons (senders).
+** They are sometimes wrapped in a myelin sheath (protection, and fastens transmission 35x).
+* Gray matter are the neurons' bodies (lack insulation), white matter are their axons:
+
+.White and Gray Matter of the Brain
+image::images/whitegray.png[White Gray Matter,500,100]
+
+* The brain is covered in with different layers called "Meninges":
+
+.Meninges, "Skins" of the brain
+image::images/meninges.png[White Gray Matter,500,100]
+
+=== Terminology
+
+* *Cortex* = Latin for "bark"
+* *Gyri* = Ridges
+* *Sulci* = Folds
+
+=== Functional Parts of the Nervous System
+
+. *CNS*: Central Nervous System; brain and spinal cord
+. *PNS*: Peripheral Nervous System; transports messages to/from CNS
+.. *SNS*: Somatic Nervous System; afferent/sensory (info to CNS) and efferent/motor (voluntary muscles)
+.. *ANS*: Autonomic Nervous System; involuntary body functions (glands, heart, digestion, breath, sweat, ...); sensing internal functions
+... *SNS*: Sympathetic Nervous System; fight & flight; activate/arouse body, expend energy
+... *PSNS*: Parasympathetic Nervous System; rest & digest; calm body, conserve/maintain energy
+.. *Ganglia*: Neurons (somata and dendrites) in PNS forming plexus; relay center
+
+== Parts
+
+.The three main parts of the brain from the sagital axis (side).
+image::images/brainparts.png[Brain Parts,400,100]
+
+=== Hindbrain
+
+*Hindbrain*: Oldest, most primitive and lowest brain part.
+
+.The hindbrain from the side.
+image::images/hindbrain.png[Hindbrain,300,100]
+
+. *Spinal Cord* (upper part): Connects brain with rest of the body; simple reflexes
+. *Brainstem*: vital life functions; connects to spinal cord
+.. *Midbrain*: See next section.
+.. *Pons*: Sleep, arousal; carries lower/higher nervous system impulses
+.. *Medulla (Oblongata)*: Regulates vital functions (breath, heart rate/circulation)
+. *Cerebellum*: (fine) muscle movements, co-ordination, balance; learning, memory
+
+=== Midbrain
+
+*Midbrain*: Reflexes, eye movements; Cluster of sensory/motor neurons (relay visual/auditory); Uppermost part of the brainstem
+
+. *Reticular Formation*: A gate keeper, allowing stimulus/messages go forward/block through brain stem; e.g. stimulation of sleep/arousal
+. *Substantia nigra*: for reward/movement
+. *Colliculi*: Superior and inferior part
+. *PAG*: Peri-Aqueductal Gray, a neural center in the midbrain for pain inhibition.
+
+=== Forebrain
+
+*Forebrain*: Most advanced/developed (from evolutionary standpoint); also largest, anterior part
+
+.The forebrain from the side.
+image::images/forebrain.png[Lobes,500,100]
+
+. *Cerebrum*: Upper brain part; divided into 2 hemispheres; seat of motor/sensory functions and higher mental functions (consciousness, thought, reason, emotion, memory); largest brain part
+. *Hemispheres*: left = language/math, positive emotions; right = spatial, negative emotions; (see: split brain patients, cut through central sulcus)
+.. *Corpus Callosum*: Neural bridge between both; ("_hemispheric lateralization_": left/right forebrain separation, allowing specialization, greater localization of a function in L/R)
+. *Hypothalamus*: motivation/emotion (aggression); regulate basic biological needs (eat/drink, sleep, sex, body temperature); controls hormones, metabolism
+.. *Nucleus Accumbens*: Motivationally-relevant stimuli (reward; limbic-motor interface); function still not fully understood
+. *Pituitary Gland*: The "master gland" (organizing others), store/release (hypothalamus) and produce hormones (ant./post.)
+. *Limbic System*: satisfy desires/urges, motivation; co-ordinate behavior/actions according hypothalamus; memory (formerly known as "rhinencephalon", meaning "nose brain")
+.. *Thalamus*: "switchboard / relay center", organizing incoming sensory inputs and sends to specific brain areas
+.. *Amygdala*: motivation, emotional response (aggression, fear; alarm); almond shaped
+.. *Hippocampus*: "_memory hub_" 🦛 store/retrieve memories; learning
+*** also spatial memory enabling navigation ("how to get around the campus? via the hippocampus")
+
+.Primary Motor/Sensory Area.
+image::images/primary_areas.jpg[Primary Areas,500,100]
+
+== Lobes
+
+.The four lobes of the brain.
+image::images/lobes.png[Lobes,500,100]
+
+. *Frontal*: Planning, future, reasoning, short-term storage; behind the forehead; rearmost portion is motor area; left one is Broca's area
+. *Parietal*: Smelling, tasting, touch, temperature, movement; reading, arithmetic; just behind motor area are sensory areas
+. *Temporal*: Hearing and remembering sound; front of visual areas, under frontal/parietal lobes
+. *Occipital*: Visual, image processing
+
+== Other Structures
+
+.Homunculus shows assignment of motor/sensory brain parts to each body part
+image::images/homunculus.png[Homunculus,600,100]
+
+* *Cerebral Cortex*: Wrinkled outer (0.6cm) brain part, coating surface (gray matter = unmyelinated) of cerebrum and cerebellum; "Crowning feature" of brain development
+* *PreFrontalCortex* (PFC): Plan, self-control, executive functions; behind forehead; latest part (matured by 20 years)
+* *Primary Motor Cortex*: Voluntary movement (controls 600+ muscles)
+* *Somatosensory Motor Cortex*: receives sensory input (heat, touch, temp, balance, kinesthesis)
+** Kinesthesis = Movement; Proprioception = Position
+
+* *Pineal Gland*: Regulating hormonal functions, produces melatonin (circadian rhythm); size of a rice corn, between lobes of Thalamus
+* *Broca's area*: Speech production; frontal (left) lobe near motor cortex
+* *Wernicke's area*: Speech recognization; close to ear
+* *Basal Ganglia*: Nerve clusters around Thalamus; initiating/integrating movements (see Parkinson's)
+* *Arcuate Nucelus* (ARC): Part of hypothalamus.
+Hormones, especially leptin (hunger! energy balance, insulin).
+* *Suprachiasmatic Nucelus* (SCN): Part of hypothalamus.
+Sleep (circadian pacemaker).
+
+* *Brain Matter*: The white matter is (mostly) axons, whereas the gray matter are the cell bodies.
+
+.Neuroanatomy Nomenclatur (one possible way to group)
+image::images/neuroanatomy_nomenclature.png[Neuroanatomy Nomenclatur,600,100]
+
+== Resources
+
+.YouTube Video: "Limbic System" by Robert Sapolsky
+[link=https://www.youtube.com/watch?v=CAOnSbDSaOw]
+image::https://img.youtube.com/vi/CAOnSbDSaOw/0.jpg[Limbic System 3,300]

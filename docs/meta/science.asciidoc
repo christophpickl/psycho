@@ -1,0 +1,63 @@
+= Science
+
+"_Science is my religion, logic my god._"
+
+== Method
+
+The scientific method has five basic steps, plus one feedback step:
+
+. Make an *observation*.
+. Ask a *question*, basically a best-guess.
+. Form a *hypothesis*, or testable explanation.
+. Make a *prediction* based on the hypothesis.
+. *Test*/verify the prediction.
+
+*Iterate*: use the results to make new hypotheses or predictions.
+
+== Versus Pseudoscience
+
+"_When entering the lab, a good scientist leaves his hat at the door_."
+
+[width="100%"]
+|=======
+|Science |Pseudoscience
+
+|Follows *evidence* wherever it leads. +
+"_Let yourself be surprised._" +
+Just like Sherlock Holmes: First search for evidence, then draw conclusion.
+| Starts with a conclusion, then works backwards to confirm (*confirmation bias*).
+
+| Embraces *criticism*. +
+"_Kill my baby!_" Welcoming any attempt to destroy the hypothesis to harden it.
+| Hostile to criticism. +
+"_Don't ever question god's authority_!"
+
+| Uses *precise terminology* with clear definitions.
+| Uses *vague jargon* to confuse and evade. +
+"_Energy, Qi or Chakras.
+And nowadays abuses quantum physics._"
+
+| Claims are *conservative* and tentative.
+| *Grandiose claims* that go beyond the evidence.
+
+| Properly considers *all evidence* and arguments.
+| *Cherry picks* only favorable evidence, relies on testimonials or weak evidence.
+
+| Use rigorous and *repeatable methods*.
+| Uses *flawed* methods with unrepeatable results. +
+"_The influence of some higher energy makes it not testable._"
+
+| Engages with peers and *community*.
+| Lone mavericks working in *isolation*. +
+"_Moses from the hill, mormons leader looking into his hat_."
+
+| Follows careful and valid *logic*.
+| Uses *inconsistent* and invalid logic.
+(Cognitive Dissonance) "_Just feel the truth_."
+
+| *Changes* with new evidence.
+(Dunning Kruger Effect) +
+"_Be honest about not knowing_".
+| *Dogmatic* and unyielding.
+
+|=======

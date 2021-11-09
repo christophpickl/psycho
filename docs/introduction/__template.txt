@@ -1,0 +1,28 @@
+= Chapter X - Xxxxxx
+
+Subpages::
+
+* link:cheatsheet.html[Cheatsheet]
+* link:focus_questions.html[Focus Questions]
+
+.Mindmap of chapter X (link:https://app.wisemapping.com/c/maps/xxx/edit[Source])
+[link=images/mindmap.png]
+image::images/mindmap.png[Mind Map,100%,100]
+
+== Keywords
+
+- *Term*: xxx
+
+== Keypeople
+
+- link:/people/xxx-yyy.html[XXX YYY]: some description.
+
+[#sec-content]
+== Content
+
+* Foo
+* Bar
+
+== Additional Resources
+
+* xxx

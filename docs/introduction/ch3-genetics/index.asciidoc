@@ -1,0 +1,282 @@
+= Chapter 3 - Genetics, Evolution
+
+// keywords + check list in books
+// keypeople
+// people add content + back-reference here
+// check all for typos
+
+Subpages::
+
+* link:focus_questions.html[Focus Questions]
+
+.Mindmap of chapter 3 (link:https://app.wisemapping.com/c/maps/1207608/edit[Source])
+[link=images/mindmap.png]
+image::images/mindmap.png[Mind Map,100%,100]
+
+== Keywords
+
+- *Biological preparedness*:
+- *Homology / Analogy*:
+- *Parental investment*:
+- *Naturalistic Fallacy*: The assumption that evolution (nature) has moral values, like humans do.
+
+== Keypeople
+
+== Basics
+
+=== Chromosomes
+
+* Sexual Reproduction
+** Mitosos
+*** Identical
+*** All* cells divide
+** Meiosis
+*** Random, mutation
+*** Egg/sperm
+** Zygote
+*** Egg/sperm fusion
+*** Twins
+**** Monoygotic, identical
+**** Dizygotic, fraternal
+* 23 Pairs
+** Locus
+*** Homozygous
+*** Heterzygous
+**** Alleles: dominant / recessive
+** 1 Sex Pair
+*** XX Female
+*** XY Male
+
+.22 numbered chromosomes and remaining two labeled X/Y.
+image::images/chromosomes.jpg[Gene effect,400,100]
+
+.Schematic illustration of meiosis in sperm production (3 instead of 23 paris).
+image::images/meiosis_sperm.jpg[Meiosis,400,100]
+
+.Gene loci on a pair of chromosomes: 1,3,5 are homozygous, 2,4 are heterozygous (and also alleles).
+image::images/chromosome_loci.jpg[Gene loci,200,100]
+
+=== Genes
+
+* Genes > Chromosomes > DNA
+* About 20k, same as chimps/mice
+* Protein synthesis
+** Amino Acids
+** Enzymes: Control chemical reactions
+* Influence behavior
+** Indirect control
+** Bodily structures
+
+.How genes affect behavior: Genes build proteins which change physiological systems (brain) which produce behavior, always with some environment.
+image::images/gene_effect.jpg[Gene effect,400,100]
+
+
+.DNA pulled from a chromosome, with nucleotide bases, double helix wrappings, and epigenetic modifications.
+image::images/dna_helix.jpg[DNA helix,300,100]
+
+=== Misc
+
+* Types:
+** Phenotype: Observables
+** Genotype: Inherited
+* Heredity:
+** Mendel
+** Pea plants
+** Dominant / recessive
+** Fixed ratio
+** Example: Sickle-cell anemia, leading to anti-malaria
+
+.Mendel's 3:1 ratio (_R_ = dominant, round; _r_ = recessive, wrinkle allele)
+image::images/mendel_31_ration.jpg[Mendel,200,100]
+
+== Inheritance
+
+* Singel/Mendelian
+** Categorical
+** Fearful dogs
+** Influence environment
+* Polygenic
+** Continuous
+*** Normal distribution
+** Selective breeding
+*** Tyron's maze rats
+*** Russian tame foxes
+* Epigenetics
+** Genes turned on/off
+** Transgenerational
+*** E.g. Dutch hunger winter
+
+.Scott and Fuller's dog results, when mating: _F_ = dominant, fearful; _f_ = recessive, not fearful
+image::images/scott_fuller_hybrids.jpg[Scott and Fuller's dogs,300,100]
+
+.Making foxes tame by selectively breeding them: After 30 generations, as friendly to humans as dogs.
+image::images/tame_fox_bred.jpg[Tame foxes,300,100]
+
+.Tyron's maze rats: Selective breeding made some "maze bright" and some "maze dull".
+image::images/mice_maze.jpg[Tyron's maze rats,300,100]
+
+== Natural Selection
+
+* Natural versus artificial breeding
+* Concepts
+** Offspring overproduction
+** Traits variation
+*** Mutation
+**** Replication "errors"
+**** Meiosis
+** Inherited differences
+** Fit environment
+*** Survive/offspring
+* "Rapid Evolution"
+** Environmental changes
+** Finches
+*** Seeds, beaks
+* Foresight Mistakes
+[arabic]
+.. No future purpose
+.. No ranking
+.. No morality, "naturalistic fallacy"
+
+.Rapid evolution changed the shape of the beaks of the birds due to change in food availability by natural selection.
+image::images/rapid_evolution_bird_beaks.jpg[Rapid evolution,300,100]
+
+=== Functionalism
+
+* Genetic drift
+* Explanations
+** Distal
+*** Next generation
+*** Ultimate causation
+** Proximal
+*** Immediately
+** Phenomena
+*** Adaptation
+**** E.g. Umbilical chord, naval button
+*** Side-effects
+*** By-products
+*** Chance
+** Vestigial characteristics
+*** E.g. baby grasping (hair of chimp mother)
+
+=== "Instincts"
+
+* Alias: "Species-typical behavior"
+// TODO explain why book emphasizes this
+* Cross-species
+** Homology
+*** Common ancestor
+*** E.g. apes and us share some
+** Analogy
+*** Convergent evolution
+*** Inferring distal functions
+*** E.g. Wings in different species (no common ancestor)
+** 2 distinct smiles
+* Biological preparedness
+** Anatomical structures
+*** E.g. pelvis tilt to walk upright
+** Permit/motivate certain behavior
+* 6 basic emotional expressions
+** Even blind people show them.
+* Examples
+** Eyebrow flash
+** Sparrow's song
+
+.6 basic human emotional expressions (taken from Ekman and Friesen's atlas).
+image::images/emotional_expressions.jpg[Emotional expressions,600,100]
+
+.The universal eyebrow flash.
+image::images/eyebrow_flash.jpg[Eyebrow flash,600,100]
+
+.Humans split off from the ancestral line 6 million years ago from the apes, and 30 million years ago from the "Old World monkeys".
+image::images/humans_apes_monkeys.jpg[Ancestral line of humans,600,100]
+
+.These wings are analogies, not homologies, because they arose independently in evolution.
+image::images/analogous_wings.jpg[Analogous Wings,500,100]
+
+== Evolutionary Analysis
+
+=== Mating
+
+* Systems
+** Monogamy
+*** Sexual or social
+** Polygyny
+** Polyandry
+** Promiscuity
+* Parental investment
+** Triver's theory
+** Competition
+*** Size, strength
+*** Aggressiveness
+* Humans
+** Compared to Bonobos :)
+** Un-/faithfulness
+** Jealousy
+** Romantic love
+** Bonding
+
+.Four mating systems.
+image::images/mating_systems.jpg[Mating systems,400,100]
+
+.Male elephant seals fighting over mating rights, the bigger wins, thus reproducing.
+image::images/strong_zeehonden.jpg[Fighting animals over mating rights,400,100]
+
+.The spotted sandpiper is a polyandrous species, and this female is stretching her wings in a threat display. She mates with several males, and defends her territory from invading females.
+image::images/polyandrous_bird.jpg[Polyandrous bird,400,100]
+
+.The superb fairy wren is socially, but not sexually monogamous. 75% of offspring on average are from neighboring males.
+image::images/semi_monogamy.jpg[Semi monogamy,400,100]
+
+.Bonobos live by the motto "make love, not war", most sexually active and most peaceful of all primates. Hetero- as well as homosexual in all imaginable positions.
+image::images/bonobo_sex.jpg[Bonobo sex,400,100]
+
+.The evolutionary psychology of love.
+image::images/love_evolutionary_psychology.jpg[Love Evolutionary Psychology,400,100]
+
+=== Aggression
+
+* Resources
+** Food
+** Mates
+** Shelter
+** Social status
+* Forced Sex
+** Male
+** Increase reproduction
+** Pass genes
+*** Imoral
+
+.Human's are still behaving like apes.
+image::images/human_ape_behavior.jpg[Human ape behavior,300,100]
+
+=== Helping
+
+* Cooperation
+** Work together
+** Helping self
+** Increase chances
+* Altruism
+** Theories
+*** Kin selection
+**** Relatives
+**** Gene survival
+**** Wording
+***** Sub topic
+***** Brother, sister ("Vaterland")
+*** Reciprocity
+**** Long-term cooperation
+**** E.g. when receiving a present, wanting to give a favor back
+** Helping others
+*** At cost of oneself
+*** Broader view: Not truly
+* Promote others survival/reproduction
+
+.This alarm-calling ground squirrel spotted a predator, whereas only females show this behavior, not males.
+image::images/alarming_squirrel.jpg[Alarming squirrel,300,100]
+
+.Vampire bats share some of the ingested blood meal with others that have fed them in the past; reciprocal altruism.
+image::images/reciprocal_bats.jpg[Reciprocal bats,300,100]
+
+== Additional Resources
+
+None.

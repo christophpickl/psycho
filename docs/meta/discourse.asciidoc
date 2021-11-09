@@ -1,0 +1,29 @@
+= Discourse
+
+On how to do a proper, sophisticated, fruitful, fair discourse about a topic:
+
+* philosophical
+** it's about seeking knowledge, not comfort (confirmation bias); the truth hurts (nietzsche)
+** welcome any criticism towards the theory (don't identify yourself with an idea)
+** let yourself be surprised, let the ego/the wanting go
+* scientifical
+** when entering the lab, keep your hat outside
+** always try to disprove yourself
+* psychoanalytical
+** always ask yourself why you want to believe
+** avoid blinding yourself from facts
+** be gentle with yourself, we always have motivations, we are humans, but be aware of these traps
+* scholastic
+** it's not about one VS the other (political debate)
+** find results (pros/cons) for both sides and then compare them
+* pragmatism (james)
+** sometimes not the "whether", but the "what if" is more important
+** what is the consequence when the one or the other is true?
+* internal martial arts
+** first say "yes", try to (fully!) understand, only then try to dismantle
+
+== How to discuss
+
+. Scholastic method: Collect pros/cons for both parties, then evaluate (not the other way round)
+. Always try to disprove your theory in order to avoid confirmation bias.
+. Let lose of your ego, leave the hat at the door; it's not about what you want, seeking comfort, but seeking knoweldge, althought the truth might hurt or might not be aligned to moral preferences.

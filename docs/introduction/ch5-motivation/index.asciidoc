@@ -1,0 +1,250 @@
+= Chapter 5 - Motivation, Emotion
+
+// pictures
+// keywords + check list in books
+// keypeople
+// people add content + back-reference here
+// check all for typos
+
+Subpages::
+
+* link:focus_questions.html[Focus Questions]
+
+.Mindmap of chapter 5 (link:https://app.wisemapping.com/c/maps/1209160/edit[Source])
+[link=images/mindmap.png]
+image::images/mindmap.png[Mind Map,100%,100]
+
+== Keywords
+
+- *foo*:
+
+== Keypeople
+
+// TODO people from contemporary experiments
+* Ekman ... contemporary
+
+== Motivation
+
+.Reward which motivates us comes in different shapes depending on many factors such as age.
+image::images/butcher_shoe_reward.jpg[Reward types,400,100]
+
+.The location of the hypothalamus is ideal to serve as a hub to the central drive system. Strong connection to the brainstem below, the limbic system and cerebral cortex above, and the endocrine system (pituitary gland).
+image::images/hypothalamus_location.jpg[Hypothalamus location,400,100]
+
+== Reward
+
+* Synonyms
+** Incentives
+** Reinforcers
+** Goals
+* Neurotransmitter
+** Dopamine
+*** Wanting
+*** Reinforcement
+**** Learn
+**** Predict
+**** Obtain
+*** Addiction
+**** Craving to obtain (not liking)
+**** Super-learning (Cue = Drug)
+**** Gambling (unpredictability)
+** Endorphine
+*** Liking
+* Neurologically
+** Nucleus Accumbens
+** In Basal Ganglia
+** Medial Forebrain Bundle
+*** Rat lever
+* Components
+** Liking
+*** Subjective pleasure
+** Wanting
+*** Desire to obtain
+** Reinforcement
+*** Learning
+
+.Everytime the rat presses the lever, it receives an electrical stimulation to the brain. Sometimes the whole day without rest, up to 5,000 times per hour.
+image::images/lever_pressing_rat.jpg[Lever pressing rat,400,100]
+
+.The reward pathway in the brain is located in the medial forebrain. The cell bodies are in the nuclei in the midbrain, synaptic terminals are in the nucleus accumbens of the basal ganglia.
+image::images/reward_pathway.jpg[Reward pathway,400,100]
+
+.Wanting without liking: Drugs promote dopamine release, reinforcing wanting, but not liking (endorphin).
+image::images/drug_dopamine.jpg[Drug dopamine,400,100]
+
+.(Online) Gambling can become compulsive, as of their random and unpredictable win, leading to a burst of dopamine release.
+image::images/gambling.jpg[Internet gambling,400,100]
+
+== Drives
+
+* "Motivational state"
+* Central-State Theory
+** Central drive system
+** Neural activity
+** Hypothalamus
+* Categories (for mammals)
+** Regulatory: Homeostasis, hunger/thirst
+*** Homeostasis
+**** Keep internal conditions constant
+**** Case of the "salt boy" (wisdom of the body)
+** Safety: Fear, anger, sleep
+** Reproductive: Sex, caring kin
+** Social: Friendship, acceptance
+** Educative: Play, explore, curiosity
+** (Aesthetics): Art, play, impress, tap into others
+
+=== Hunger
+
+* A regulatory drive
+* Hypothalamus
+** Arcuate Nucelus
+** Feedback appetite control
+*** Stimulate
+*** Inhibit
+* PYY
+** Reduce hunger
+* Leptin
+** A hormone
+** Produced by fat cells
+** Reduce appetite
+* Sensory stimuly
+** Sensory-specific satiety
+** Boost cues
+* Obesity
+** Cultural differences
+*** Across: Environmental
+*** Within: Genetic
+** Decrease food
+*** Reduced basal metabolism
+*** Harder weight loss
+** Prenatal nutrition
+*** Thrifty phenotypes
+*** Predictive adaptive response
+** Maintain weight
+*** Good nutrition
+*** Regular exercise
+
+.PYY is a hormone which suppresses appetite, which has shown is lower for obese than regular people.
+image::images/pyy_hormone.jpg[PYY hormone,400,100]
+
+.The obese mouse on the left lacks a gene needed to synthesize the hormone *leptin*, needed for weight regulation.
+image::images/leptin_lack.jpg[Leptin lack,400,100]
+
+=== Sleep
+
+* A non-regulatory drive (like sex)
+* Function
+** Preserve & protecct
+** Body-restoration
+** REM
+*** Brain maintenance
+*** Learning
+* Deprivation
+** Low performance
+** Insomnia/nonsomnia
+** Vigilance
+* Cycle
+** Circadian
+** Hypothalamus
+*** Suprachiasmatic Nucleus
+** Light-dark
+*** Blue light
+* Stages
+** EEG
+** 90min cycles
+** REM
+*** Stage 4+
+*** Dreams happening
+** Non-REM
+*** Sleep thoughts
+
+.The nomenclatur of brain wave types might be a bit confusing: Beta, alpha, theta, delta. More relaxed means slower in frequency and higher in amplitude.
+image::images/brain_waves.jpg[Brain waves,500,100]
+
+.EEG waves of waking and sleeping stages. The brief bursts of rapid waves are called "sleep spindles", marking the onset of sleep. REM sleep (not shown here), looks like beta waves (same as when awake).
+image::images/brain_waves_sleep.jpg[Brain waves during sleep,500,100]
+
+.We usually go through 4-5 sleep cycles per night, each ending with a REM sleep. Each cycle is lower in depth and REM increases.
+image::images/sleep_cycles.jpg[Sleep cycles,400,100]
+
+.The preservation and protection theory states that the major function of sleep is keep us quiet and hidden.
+image::images/sleep_protect.jpg[Sleep protect,400,100]
+
+.Changes of sleep over life. Sleep time as well as REM decreases when getting older. If the curves were about to be extended to the left (fetus stage), REM sleep would take up most of the day.
+image::images/sleepchange_life.jpg[Sleepchanges life,400,100]
+
+.It is not sure whether fetuses with age of 7 months dream, but we do know they spend most of their time in REM sleep.
+image::images/fetus_rem.jpg[Fetus REM,400,100]
+
+.Subjects kept awake for 42 hours, and tested for response time every hour. Even long periods of sleep deprivation, the circadian rhythm still works.
+image::images/sleep_deprivation.jpg[Sleep deprivation,400,100]
+
+.Blue light reset the circadian clock, helping shift workers and world travelers to adapt their sleep schedules.
+image::images/circadian_clock_reset.jpg[Circadian clock,400,100]
+
+== Emotions
+
+* Basics
+** Emotion
+*** Targets an object
+*** Subjective
+** Affect
+*** Feeling aspect
+*** Vary
+** No agreed classification
+** Adaptive value
+*** Motivation
+*** Communication
+* Theories
+** Common-Sense
+*** Emotions before body
+** James
+*** Body before emotions
+** Schachter
+*** Peripheral feedback
+**** Via bodily response
+**** Intensity of emotion ("quantity")
+*** Cognition
+**** Type of emotion ("quality")
+** Ehmon
+*** Facial muscles
+* Brain mechanisms
+** Lateral PECs
+*** Emotional response
+**** Withdrawal
+**** Approach
+** PFC
+*** Experience emotions
+*** Act on emotions
+** Amygdala
+*** Evaluate senses
+*** Survive/well-being
+*** Body response
+
+.Basic affects, vertical degree of arousal, horizontal degree of (dis)pleasure.
+image::images/affects.jpg[Affects,400,100]
+
+.A cone of emotions, vertical represents intensity. Similar emotions are adjacent, opposite emotions are on the opposite side. Mixtures of adjacent emotions. (The model of affects is not directly comparable to this one, although it looks similar.)
+image::images/primary_emotions.jpg[Primary emotions,400,100]
+
+.Anger serves valuable functions, such as people we care most we get angry most, signalling the relationship is out of balance and needs correction.
+image::images/anger.jpg[Anger,400,100]
+
+.Emotional expression may influence sensory processing. Left, fear, opens eyes and nostrils, facilitating vision and smell. Right, digust, closes eyes and nostrils, cut off vision and smell.
+image::images/emotional_expression.jpg[Emotional expression,400,100]
+
+.Three theories of emotion explaining causal relationships between stimulus, bodily arousal and emotional feeling.
+image::images/emotion_body_theories.jpg[Emotion body theories,400,100]
+
+.The facial feedback theory states that our facial expression influences our emotional state. Subjects were told to hold a pencil in their mouth which would resemble a smile or a frown.
+image::images/facial_feedback.jpg[Facial feedback,400,100]
+
+.A man was instructed to express fear: (a) Raise brows, pull them together (b) raise upper eyelids (c) stretch lips horizontally.
+image::images/induced_fear_expression.jpg[Induced fear expression,400,100]
+
+.The eyes have two routes to the amygdala: 1) via visual area of the cerebral cortex and 2) a direct path from the thalamus, bypassing the cerebral cortex. Source of fast, unconscious emotional responses to visual stimuli?
+image::images/eye_amygdala_routes.jpg[Eye amygdala routes,400,100]
+
+== Additional Resources
+
+None.

@@ -1,0 +1,36 @@
+= Resources
+
+Further reading, material, videos and self-prepared resources can be found here.
+
+Subpages::
+
+* A summary of a set of 3x30 minute videos of: "link:history_video.html[The History of Psychology]".
+* A quick overview of the different link:drugs.html[drug classifications].
+
+== External Websites
+
+* link:https://psychology.wikia.org/wiki/Psychology_Wiki[Psychology Wiki] the official one, containing huge amount of information.
+* link:https://www.coursera.org/learn/introduction-psychology/[Online class] at coursera "Introduction to Psychology" with the famous Yale professor Paul Bloom.
+* link:https://www.studeersnel.nl/[studeersnel.nl] summaries and other documents (also from Dutch universities)
+
+== YouTube
+
+=== General
+
+* link:https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F[Yale University] published recordings of their "Introduction to Psychology" classes; 20 *lectures* each an hour
+* link:https://www.youtube.com/watch?v=2fbrl6WoIyo&list=PL44ABC9278E2EE706[MIT] did the same; 24 *lectures* each an hour
+* link:https://www.youtube.com/watch?v=eal4-A89IWY&list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6[CrashCourse] has a 40 *series* of each 10min of a nice overview of psychology
+* link:https://www.youtube.com/c/SproutsVideos/videos[Sprouts] provides animated *short-clips* (<10min) for some basic psychological concepts
+* link:https://www.youtube.com/channel/UCAxD-HZ7VQT3NhsU5Ky99CQ/videos[Biophily2] contains lots of *interviews* with very famous people and audio recordings
+
+=== Specific
+
+* link:https://www.youtube.com/watch?v=GOwJKbJxVUM&list=PLGxWe5jW0BizVjYs0kliNrLCDWR0_74CI[Psychoanalysis lecture] 6 parts each about 2 hours
+
+=== Otherly Related
+
+* link:https://www.youtube.com/watch?v=hhQRH49Y54k[The psychology of digital marketing] by Rory Sutherland
+
+== Other
+
+* link:https://www.surfspot.nl[surfspot.nl] to buy student discounted hard-/software

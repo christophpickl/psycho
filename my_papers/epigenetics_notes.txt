@@ -1,0 +1,22 @@
+
+Open doings
+==========================================
+% [ ] find papers
+% [ ] make tables/diagrams
+% [ ] END: let marlene/silvia review it (toine? WM study group?)
+
+Glossary
+==========================================
+% phenotype, genotype
+
+
+NOTES
+==========================================
+
+* types of epigenetic change:
+	1) DNA methylation
+	2) Histone modification
+	3) Non-coding RNA
+	// see: https://www.cdc.gov/genomics/disease/epigenetics.htm
+
+* @epigentics: read book "epigenetics - a graphic guide" in my library

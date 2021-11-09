@@ -1,0 +1,55 @@
+= Drugs
+
+Substance.
+Addictive.
+
+Psychoactive.
+Psychodelic.
+
+Drug vs medicine?
+Excess vs moderation.
+
+Examples: DMT, psilocybin (mushrooms, truffles), mescaline (peyote), LSD, MDMA (XTC), Meth, Amphetamin, Speed, PCP, Ketamin
+
+.Psychodelics effects
+image::drugs-psychodelics_effect.jpg[Psychodelics,600,100]
+
+== Psychoactive Drugs
+
+Also called "psychotropics", changes your mental state (perception, mood, consciousness), by affecting the brain/nervous system.
+They don't necessarily need to be addictive.
+
+Some plants (cacti, flower, leaves, buds, mushrooms) and even animals (frogs) contain psychoactive substances, besides medication, alcohol, illegal and recreational drugs.
+Alcohol and caffeine being the most popular (and legal) ones.
+
+=== Classification
+
+Categories can be made up by the following characteristics:
+
+* Effects on brain/body (stimulants or depressants)
+* Addictiveness (high or low)
+* Chemical structure
+* Potential for abuse (legally)
+
+Common classification is done as follows:
+
+Stimulants::
+
+Effects: Alert, energized, excited, better mood/euophria, increased heart rate and blood pressure. +
+Examples: Caffeine, nicotine, amphetamines, cocaine.
+
+Depressants::
+
+Effects: Relaxation of body and mind, less anxious. +
+Examples: Alcohol, tranquilizers (benzodiazepines).
+
+Narcotics::
+
+From poppy plant (opiates) or synthetically (opioids). +
+Effects: Pain relief, drowsiness, euphoria, confusion, respiratory depression. +
+Examples: Painkillers, codeine, morphine, oxycodone, heroin.
+
+Hallucinogens::
+
+Effects: Paranoi, depersonalization, hallucinations, erratic behavior, increased herat rate and blood pressure. +
+Examples: Psilocybin, LSD, ketamine, PCP (phencyclidine), dextromethorphan, peyote (mescaline).

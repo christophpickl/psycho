@@ -1,0 +1,269 @@
+= Chapter 6 - Sensation and Perception
+
+// keywords + check list in books
+// keypeople
+// people add content + back-reference here
+// pictures
+// check all for typos
+
+Including: Smell, Taste, Pain, Hearing, Psychophysics.
+
+// "broca's aphasia" => "i am groodge"
+
+Subpages::
+
+* link:focus_questions.html[Focus Questions]
+
+.Mindmap of chapter 6 (link:https://app.wisemapping.com/c/maps/1209467/edit[Source])
+[link=images/mindmap.png]
+image::images/mindmap.png[Mind Map,100%,100]
+
+== Keywords
+
+- *Psychophysics*:
+- *Transduction*: Translation from an external physical event (sound waves, smell molecules, light photons, kinetic energy) to a bodily stimulus (electrical signals in neurons).
+
+== Keypeople
+
+* Foo bar
+// TODO people from contemporary experiments
+
+
+== Physiology
+
+* Overview of sensory processes
+* Sensory area
+** Sensory experience
+* Transduction
+** Physical stimuli
+** Sensory receptors
+** Electrical changes
+*** Receptor potentials
+*** Action potentials
+* Sensory coding
+** Neural patterns
+*** Larger potentials
+*** Faster rates
+** Stimuli information
+** Quality differences
+*** Ratio of receptors/neurons
+* Sensory adaptation
+** Respond to change
+** Continuous stimulus
+*** Desensitize
+
+.Five primary cortical areas for: vision, hearing, taste, smell and somatosensation (touch, temperature, pain). Taste is in insula, fold between parietal-temporal lobes. Olfactory in piriform cortex, wrapped underneath temporal lobe. Secondary sensory processing areas are near primary areas.
+image::images/primary_sensory_areas.jpg[Primary sensory areas,400,100]
+
+.We wouldn't be able to stay in there for long, but he can, thanks to the fact that our senses are designed to register changes in the environment, not steady states.
+image::images/adaptation.jpg[Adaptation,400,100]
+
+== Psychophysics
+
+* Definition
+** Relationship
+** Stimuli characteristics
+** Sensory experience
+* Sensory thresholds
+** Lowest detectable
+** Difference threshold
+*** jnd - Just Noticable difference
+*** Weber's Law: Constant propertion
+* Signal detection depends on:
+** Physical intensity
+** Psychological state
+
+.Sex differences in olfactory ability shows women way outperform men over repeated tests for benzaldehyde (almond-cherry smell) and citralva (orange-lemon smell).
+image::images/smell_sex_difference.jpg[Smell sex differences,400,100]
+
+.Finding the absolute threshold by an ever decreasing/increasing amplitude of a sound until the person can/not detect it.
+image::images/absolute_threshold_hearing.jpg[Absolute threshold hearing,400,100]
+
+== Smell
+
+* Facts
+** Approx. 400 neuron types
+*** Responsive molecules
+*** Reach olfactory epithelium
+*** Olfactory bulbs
+**** Different responses
+**** Distinguish scents
+** Flavor of foods
+*** Nouse-mouth gate
+** Sensitivity
+*** Women better than men
+*** Decline with age
+*** Genes, experience
+* Communication
+** Pheromones
+*** Chemical messengers
+*** Mixed evidence for humans
+**** Not evolutionary needed
+* People identification
+** Incest avoidance
+** Mothers-infats
+*** Bonding
+** Choose mates
+*** Enhance gene variety (rats! humans?)
+
+.The anatomy of smell: Odorant molecules enter through the nostrils, dissolve in mucous fluid of the epithelium and bind to receptors of the olfactory sensory neurons, where action potentials happen.Neurons send signals to second-order neurons in the glomeruli of the olfactory bulb. Each glomerulus receives only one type of olfactory sensory neuron (yellow/purple), out of roughly 400.
+image::images/smell_anatomy.jpg[Smell anatomy,400,100]
+
+.Professional wine tasters sample a wine's scent through nose and mouth, due to the connection of both through the nasal pharynx. Much of what we think of taste is actually smell.
+image::images/wine_taster.jpg[Wine taster,400,100]
+
+.Every human has their unique, identifiable odor, thus a woman can identify its baby only by its smell (clothes).
+image::images/unique_odor.jpg[Unique odor,400,100]
+
+.Here the locations of maximal scent-producing ("apocrine") glands are indicated by circles. (This is Michelangelo's statue "Aurora" in Florence).
+image::images/scent_production_locations.jpg[Scent production Locations,400,100]
+
+== Taste
+
+* Facts
+** Taste buds
+*** Receptors
+**** Neural impulse
+**** Taste neurons
+**** Primary taste area
+**** Frontal lobe
+*** Located in tongue, mouth, throat
+** Six types:
+*** Sweet
+*** Salty
+*** Sour
+*** Bitter
+*** Umami
+*** Fat
+* Experience (evolution)
+** Pleasant
+*** Nutrients
+** Unpleasant
+*** Sour, bitter
+*** Harmful, poisonous
+*** Bitter = poison
+**** Kids+women sensitive to
+**** Natural selection
+
+.Taste buds are located in the epithelium of tongue and mouth. Each contains 50+ taste receptor cells, each with hairlike extensions on the tip to make contact with the fluid lining of the epithelial tissue. These extensions contain binding sites, ultimately resulting in action potential.
+image::images/taste_bud.jpg[Taste bud,400,100]
+
+.Young children are especially averse to bitter taste, as many poisons taste bitter to us, protecting them from eating something poisonous.
+image::images/baby_bitter_aversion.jpg[Baby bitter aversion,400,100]
+
+.Test your anatomical taste skills: Use blue food coloring to color your tongue, punch a hole (7mm diameter) on a thick paper, put it on your tongue. Now use a mirror (and a magnifying glass) and count the number of papillae. 15-35 for medium taster.
+image::images/taste_test.jpg[Taste test,400,100]
+
+== Pain
+
+* Facts
+** 3 experience components:
+*** Sensory
+*** Primary emotion/motivation
+*** Secondary emotion/motivation
+*** (Different brainparts)
+** Receptors
+*** Pain sensory neurons
+**** Free nerve endings
+**** Two pain waves
+***** A-delta fibers
+****** Myelinated, thick, fast
+****** First quick response
+***** C-fibers
+****** Unmyelinated, thin, slow
+****** Second slow response
+* Modulation
+** Gate-control area
+*** Input pain neurons
+*** Passing through gates
+*** Higher brain areas
+** Enhanced pain sensitivity
+*** Protect from harm
+*** When ill/injured
+** Pain inhibition
+*** PAG
+**** A brain area
+*** Endorphins
+*** Analgasia
+**** By believe
+**** By stress
+
+.Pain receptors are sensitive endings of sensory neurons ("free nerve endings"). Faster first wave is by thicker A-delta fibers, slower second wave by thin C fibers. Touch sense is by still thicker and faster A fibers whose endings are not free but surrounded by a capsule/end organ, modifying the pressure stimulus.
+image::images/pain_receptors.jpg[Pain receptors,400,100]
+
+.The gate-control theory of pain uses a metaphor, where excitatory (+) and inhibiting (-) effects represent gates. Pain sensory neurons send signals up to spinal cord/brainstem, whereas descending connections from the brain can modify that signal.
+image::images/pain_gate_control.jpg[Pain gate control,400,100]
+
+== Hearing
+
+* Facts
+** Vibration (air&co)
+** Wave
+*** Amplitude: Volume
+*** Frequency: Pitch
+** Ear parts
+*** Outer: Funnel to receive/transport
+*** Middle: Amplify
+*** Inner: Cochlea to transduct/code
+** Deafness
+*** Conduction
+**** Middle ear rigidity
+*** Sensorineural
+**** Damage inner ear
+**** Damage auditory nerve
+*** Cochlea implant
+* Pitch perception
+** Basilar Membrane
+** Peak different positions
+** "Traveling Wave Theory"
+*** Age hearing loss
+** Primary auditory cortex
+*** Tonotypical
+* Sense
+** Locating
+*** Arrival time
+** Complex analysis
+*** Cortex
+** Phonemic restoration
+*** Sensory experience influenced
+*** By context
+*** By meaning
+
+.Bats navigate/hunt by sonar and have large, mobile outer ears.
+image::images/bat_ear.jpg[Bat ear,400,100]
+
+.The tuning fork causes air molecules to vibrate, represented as wave of pressure. More/less compressed molecules are indicated by dark/light regions. Drawn on a curve, these are the peaks, defining the amplitude (volume, loudness). The number of waves passing through per second is the frequency (pitch).
+image::images/sound_characteristics.jpg[Sound characteristics,400,100]
+
+.Parts of the human ear: Sound waves (air vibration) enter the auditory canal, causing the eardrum to vibrate, cuasing the ossicles (hammer, anvil, stirrup) to vibrate, causing the oval window to vibrate, causing waves of motion in fluid inside the cochlea. (The semicircular canals are for balance.)
+image::images/ear_parts.jpg[Ear parts,400,100]
+
+.Transduction mechanism in the inner ear: Sound waves in the fluid of the outer duct cause the basilar membrane to wave up/down. When it moves up, hairs bend against the tectorial membrane, initiating receptor potentials in the hair cells.
+image::images/sound_transduction.jpg[Sound transduction,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Transduction inner ear
+
+. Bone vibrate
+. Fluid vibrate
+. Membranes move in wave motion
+. Hair cells bend (sandwiched by membranes)
+. Hair channels open
+. Hair electrical charge changes
+. Hair neurotransmitter released
+. Action Potential rate increases
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+== Additional Resources
+
+None.

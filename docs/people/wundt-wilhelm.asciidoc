@@ -1,0 +1,20 @@
+= Wilhelm Wundt
+
+[#img-wundt]
+.Wilhelm Maximilian Wundt himself
+[link=https://en.wikipedia.org/wiki/Wilhelm_Wundt]
+image::wundt-wilhelm.png[Wilhelm Wundt,200,100]
+
+== Facts
+
+* 1832-1920, Germany
+* Physiologist, Philosopher, Professor
+
+== Achievements
+
+* Founder of modern psychology as a link:/introduction/ch1-background/index.html#sec-scientific_revolution[recognized science]
+** Opened first university-based psychology laboratory 1879 in Leipzig
+
+== Links
+
+* https://en.wikipedia.org/wiki/Wilhelm_Wundt

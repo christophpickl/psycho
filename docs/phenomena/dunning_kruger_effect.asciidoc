@@ -1,0 +1,24 @@
+= Dunning Kruger Effect
+
+"_The ones who know that they don't know, know more, than those who don't know that they don't know._"
+
+These two guys (David Dunning and Justin Kruger) basically figured that cognitive bias out, that most people who assume that they know, simply don't know how little they know, or more precisely: "Believing you know something that you don't".
+Once we've figured out how much there is actually to know, we become more humble, and realize we are not that good.
+Which then actually opens up the possibility to become really good, well, maybe not really, but at least somehow better.
+
+.Actual knowledge/experience vs subjective confidence level
+image::dunning_kruger.png[Dunning Kruger,500,100]
+
+This graph above shows nicely that at the beginning we tend to over-estimate our own competence very much.
+This is where many people get stuck.
+In order to unblock ourselves, it is necessary to admit that we actually don't know, which feels pretty uncomfortable to do at first, but the pain is worth the outcome.
+
+Watch the nicely animated movie down below, illustrating the birth of this effect by Arther Wheeler, the guy who thought he could make himself invisible with lemon juice and robbed a bank.
+
+.YouTube Video: "The Dunning-Kruger Effect - Cognitive Bias - Why Incompetent People Think They Are Competent", 9mins
+[link=https://www.youtube.com/watch?v=y50i1bI2uN4]
+image::https://img.youtube.com/vi/y50i1bI2uN4/0.jpg[Dunning Kruger Effect,300]
+
+Further Reading::
+
+* https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect

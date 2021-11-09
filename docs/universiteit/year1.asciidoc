@@ -1,0 +1,14 @@
+= Courses
+
+== Year 1
+
+[%autowidth]
+|=======
+| Title | Date
+
+| link:lva1_introduction/index.html[Introduction to Psychology] (link:https://www.ou.nl/en/opleiding?sku=PB0014[OU]) | fixed dates
+| Work & Organisational Psychology (link:https://www.ou.nl/en/opleiding?sku=PB0312[OU]) |  fixed date: 7.2.22-14.4.22
+| Research Practicum (link:https://www.ou.nl/en/opleiding?sku=PB0212[OU]) | fixed date: 25.4.22-1.7.22
+| Social Psychology (link:https://www.ou.nl/en/opleiding?sku=PB0012[OU]) | variable dates
+| Development Psychology (link:https://www.ou.nl/en/opleiding?sku=PB0112[OU]) | variable dates
+|=======

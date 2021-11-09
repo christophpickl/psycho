@@ -1,0 +1,149 @@
+= Focus Questions
+
+. How might sophisticated eyes like ours may have evolved from primitive beginnings?
+** [hiddenAnswer]#(1) Specialized light-detecting cells called *photoreceptors*, chemicals responding to light; e.g. earthworms have them on their skin to move away from light. (2) Circadian rhythms. (3) Respond to shadows (possible predators). (4) Eyespots moving inwards, fluid-filled pits under transparent skin (reduce glare, enable direction detection). (5) Lens created by membrane thickening. (6) Lens projecting image onto photoreceptors lining. (7) Ability to see shapes of things. (8) The present.#
+
+. How do the cornea, iris, and lens help to form images on the retina?
+** [hiddenAnswer]#Cornea helps to focus light.
+Iris is opaque so only certain light enters/selection (through the pupil whose diameter can be adjusted by muscles).
+Lens is like cornea (helps focusing) but is also adjustable (spherical close, flatter farther).
+In summary: focusing properties of cornea+lens bring light at a particular point on the retina.#
+
+. How are cones and rods distributed on the retina, and how do they respond to light?
+** [hiddenAnswer]#(a)Cones are concentrated at the fovea (line of sight).
+Rods are everywhere except at the fovea. (b) Cones for color and bright light.
+Rods for dim light/black-white vision.#
+
+. How do rod vision and cone vision differ?
+** [hiddenAnswer]#Cone (photopic-) vision is for color perception, bright-light vision and acuity (accurate, fine details).
+Rod (scotopic-) vision is for dim-light vision, high sensitive, lacking acuity/color perception.#
+
+. What is the chemical basis for dark adaptation and light adaptation?
+Why do we see mostly with cones in bright light and with rods in dim light?
+** [hiddenAnswer]#(a) The time needed to adapt when entering dark/bright environment is due to the break down of photochemicals (rhodopsin for rods, and also cone photochemicals contribute a bit) with light, making the rods not working, being able to see in light but not in darkness.
+When in dark, rhodopsin (slowly) regenerates, making the rods being able to see again. (b) Adaption of them is different to dim/bright light based on underlying photochemicals involved for them.#
+
+. How does the trichromatic theory explain the three-primaries law?
+How was the theory validated by the discovery of three cone types?
+** [hiddenAnswer]#Three-primaries law: Any color can be made out of RGB. (a) Three different cones are sensitive to different range of wavelenghts. (b) By phsyiological studies which showed three cone types in human retina, each with different photochemical being sensitive to different light.#
+
+. Why does vision in some people obey a two-primaries law rather than the three-primaries law, and why are these people not good at picking cherries?
+How does the color vision of most nonprimate mammals, and that of most birds, differ from that of most humans?
+** [hiddenAnswer]#(a) They have "dichromats", having only two types of cone photochemicals.
+They are bad at picking cherries because they can't find them as easily as we can, as the red doesn't stand out from the green of the leaves, only the shape does.
+Additionally they can't distinguish red and green, ripe and not ripe fruits (b) Most nonprimate mammals (cats, dogs) have only two type cones (blue, green), similar as human red-green color blind.
+Birds have even four cone types, one for ultraviolet (shorter than 400nm), to see mouths of babies which reflect UV light to feed them better.#
+
+. How does the opponent-process theory explain (a) the law of complementarity in color mixing and (b) the complementarity of afterimages?
+** [hiddenAnswer]# (a) Opponent colors cancel each other out, two colors becoming white. (b) Complementarity of afterimages is when the afterimage is visible with inverted colors.
+The neurons get exhausted, when looking at a specific color.
+When looking back at white surface (reflecting all wavelenghts), everyone gets excited but the exhausted ones.#
+
+. How has the opponent-process theory been validated in studies of the activity of neurons that receive input from cones?
+** [hiddenAnswer]#Some ganglion cells get excited, some get inhibited from different cones.#
+
+. How can you know what an infant sees?
+What methods can be used to determine visual acuity in young babies?
+** [hiddenAnswer]#(a) You show the same thing to a baby multiple times, based on the time duration changes they are looking at it, we can infer they can see the object. (b) By showing two slightly different objects, this should represent a new stimulus, thus longer watching period, if the baby is able to see acurate enough.#
+
+. What are experience-expectant processes, and how do they relate to the development of vision?
+** [hiddenAnswer]#(a) Synapses are formed when species-typical experiences gained. (b) If that environment is not given, (vision) development will not take place properly.
+E.g. a baby born and raised in a completely dark room.#
+
+. What kinds of stimulus features influence the activity of neurons in the primary visual cortex?
+** [hiddenAnswer]#Shape (edge or bar detectors, meaning orientation of stimuli), color and rate of movement.
+E.g. one neuron might respond better for a yellow bar, on blue background, tilted 15 degrees, moving slowly to the right.#
+
+. What is the difference between parallel processing and serial processing?
+What role does each play in Treisman’s feature-integration theory of perception?
+** [hiddenAnswer]#(a) Parallel (simultaneous), everything at the same time.
+Serial, sequentially one after the other. (b) Detection and integration occur sequentially.
+Stage 1, primitive feature are registered in parallel (and automatically).
+Stage 2, visual information processing, is done serially.#
+
+. How do pop-out phenomena and mistakes in joining features provide evidence for Treisman’s theory?
+** [hiddenAnswer]#(a) The pop-out phenomena works because the object being asked for is different in a "primitive feature", which is processed in parallel.
+Whereas when the objects share that feature, we need to go through sequentially.
+E.g. red/green lines being straight/diagonal. (b) Conjoined features make detection harder as it requires serial processing.
+E.g. UK railroad signal system, where two features have to be detected for.#
+
+. What are some principles of grouping proposed by Gestalt psychologists, and how does each help explain our ability to see whole objects?
+** [hiddenAnswer]#Proximity (closeness grouped), similarity (similar grouped), closure (fill gap, although overlap), good continuation (imagine meaningful line), common movement (like animated proximity, different standing out), good form (elegant/meaningful belongs together; example not even have a word for it; culturally biased? chinese kanji).#
+
+. How do reversible figures illustrate the visual system’s strong tendency to separate figure and ground, even in the absence of sufficient cues for deciding which is which?
+** [hiddenAnswer]#By enabling us to see the picture in both ways: figure and ground can be alternating, and due to the lack of visual cues, we can switch between those two views.
+Like the mind is somehow forced to see one as back and the other as front, and in case there are no hints which oen is which, we will simply make the difference up.#
+
+. (a) How do *illusory contours* illustrate the idea that the *whole* influences the perception of *parts*?
+(b) How are illusory contours explained in terms of *unconscious inference*?
+** [hiddenAnswer]#(a) By showing that the brain tries to infer meaning from unusual elements, which in turn also changes the parts (e.g. the stamped out triangle becomes whiter then the rest). (b) Perceptual system infers/creates shapes/lines where are none in order to make sense of what is being seen and lacks sense.#
+
+. (a) How is unconscious inference described as *top-down* control within the brain?
+(b) What is the *difference* between top-down and *bottom-up* control?
+** [hiddenAnswer]#(a) Because the inferred perceived objects are created by *higher brain areas* (cortex, cognition). (b) Top-down is control by *higher brain areas*, bottom-up is directly from *sensory input*.#
+
+. How does the existence of *two types of visual deficits* caused by *brain damage* provide support for the idea that the human brain does indeed process objects as *distinct entities*?
+** [hiddenAnswer]#The two types are "visual form agnosia" (no shape) and visual object agnosia (no identification).
+Because of the first, people cannot perceive shape and outlines of entities, thus when healthy the brain does indeed see distinct (outlined) entities.#
+
+. What are the *anatomical and functional* distinctions between two different visual *pathways* in the cerebral cortex?
+** [hiddenAnswer]#The "what" pathway, located lower temporal, and it's for identifying objects.
+The "where" pathway, located upper, parietal, and it's for 3D space mapping.#
+
+. What abilities are preserved in people with damage to the "what" pathway but lost in people with damage to the "where-and-how" pathway?
+** [hiddenAnswer]#They still can reach out for objects and act on them (even though they don't know what it is).#
+
+. In sum, what are the distinct functions of the "what" and "where-and-how" visual pathways?
+** [hiddenAnswer]#"What" is for conscious vision, memories, identifying, talking and planning about them (cognitive).
+"Where" is for automatic, rapid, unconscious movements with those objects (practical).#
+
+. What evidence is there that people use different psychological mechanisms to recognize faces than they use to recognise nonface objects?
+** [hiddenAnswer]#Performance!
+Just the fact that we able to recognize and memorize thousands faces, compared to other objects (even to other species), along with the superior speed and capabilities (Thatcherized pictures, inanimate objects) when it comes to face recognition.#
+
+. How does the own-race bias and its development support the idea that learning is involved in recognizing faces?
+** [hiddenAnswer]#A very young baby will look at different racial faces the same amount of time (same interest), but one which it is used to (habituation), will look shorter.
+Also when babies are shown certian racial faces over some time (learned), it will be better able to distinguish faces of that race.#
+
+. How did *Helmholtz* describe perception as a *problem-solving* process?
+** [hiddenAnswer]#Unconsciously (quickly and automatically) we solve a mathemtical calculation, based on reflections, concluding about position, size and shape.#
+
+. How does *binocular disparity* serve as a cue for depth?
+** [hiddenAnswer]#Because the eyes are a few centimeters apart, they will see slightly different views on the same object.
+The further the object is away, the less "jumping" happens.#
+
+. How do *stereoscopes* provide an illusion of depth?
+** [hiddenAnswer]#The eyes are fed with slightly different images through this device (e.g. red-blue paper glasses when watching 3D movies), and they are fused together perceptually, creating one image with depth; just as it would happen in real life.#
+
+. (a) How does *motion parallax* serve as a cue for depth and (b) how is it *similar* to *binocular disparity*?
+** [hiddenAnswer]#(a) When the head is moving, and the view on the object is changed more, it most be closer than when it is far. (b) It's about different vintage point (viewpoint, standpoint, perspective), coming from movement from head or seperation of eyes.#
+
+. What are some cues for depth that exist in pictures as well as in the actual, three-dimensional world?
+** [hiddenAnswer]#Occlusion (near occlude farther objects), relative familiar objects' size (people smaller than mountains), linear perspective (rows converge), texture gradient (smaller, densed, pixelized), relative horizon position (closer is farther), differential surface lighting (reflections for direction/orientation).#
+
+. Why does size perception depend on distance perception?
+** [hiddenAnswer]#Because they are inversely proportional to each other.
+Double far away and double size, retina image will still be the same size.#
+
+. How might the *unconscious* assessment of *depth* provide a basis for the (a) Ponzo, (b) Müller-Lyer, and (c) moon illusions?
+** [hiddenAnswer]#(a) Because of linear perspective, the closer line looks smaller, due to the parallel lines assessed as distance (cues). (b) Looking from bottom, meaning farther away, than looking from top, meaning closer and smaller. (c) Objects closer to the horizon should be judged closer, but moon has always same size and same distance.
+We are also not evolved to assess such huge distances.#
+
+. What is the *McGurk* effect and how does it demonstrate *visual dominance*?
+** [hiddenAnswer]#Hearing one sound, but seeing speaking another, we usually go more for the sound we see (rather hear).#
+
+. (a) What are the defining features of *synesthesia*? (b) Might synesthesia have any *adaptive value*?
+** [hiddenAnswer]#(a) One senses will lead to sensation in another sense, e.g. music as colors, or tasting music, monday is blue. (b) Seeing connections between higher-order concepts, metaphors like "juliet is the sun" or "soft blue", as seen in artists being more synthesiasts.#
+
+== Think Critically
+
+. Is vision/seeing automatic, or must we "learn" to see?
+** [hiddenAnswer]#Depends on how we define "seeing": Sensory is automatic (bombardment of light photons/electromagnetiv waves onto the retina), perception must be learned (recognition of objects, depth perception, etc).#
+
+. How might the visual system have been shaped by natural selection to foster social relationships?
+** [hiddenAnswer]#We have way more sophisticated skills in regards to facial recognition, meaning identifying people but also recognizing facial expressions.#
+
+. In appreciating or creating works of visual art, would you say we rely more on top-down (higher brain areas; like memory influencing perception) processing or bottom-up (sensory input) processing, or equally on both?
+Explain your answer.
+** [hiddenAnswer]#Equally on both, as it is very difficult to separate the one from the other in regards to art as an creative process.
+We are influenced by sensory input and also what we already saved in our brain.#

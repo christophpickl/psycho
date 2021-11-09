@@ -1,0 +1,8 @@
+= Transparency Illusion
+
+.How much you think people know, versus what they actually know about you
+image::transparency_illusion.jpg[Transparency Illusion,500,100]
+
+Further Reading::
+
+* https://effectiviology.com/illusion-of-transparency/

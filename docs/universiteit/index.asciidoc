@@ -1,0 +1,5 @@
+= University
+
+Much of the content so far is linked via the link:year1.html[year 1 page].
+
+See also the link:studygroup.html[studygroup] page for some ideas on how the studygroup is being done which helped me to set up this content.

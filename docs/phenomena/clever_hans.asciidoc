@@ -1,0 +1,34 @@
+= Clever Hans
+
+.Clever Hans with his owner Mr. von Osten during a mathematics lesson.
+image::clever_hans.jpg[Clever Hans,200,100]
+
+* It all happened beginning of the 20th century in Germany.
+* The owner of the "smart" horse Hans, Mr. von Osten, claimed it can solve unbelievable tasks.
+** He taught it over 4 years just like they would educate young children in schools.
+** Due to lack of vocal apparatus, answers were encoded into hoof taps, or head shaking.
+** It was trained mathematics, history, geography, literature, science and other scholarly disciplines.
+** Hans could even answer questions in foreign languages he never heard before.
+* Everyone *believed* it could do these sophisticated intellectual tasks.
+** Especially the owner genuinely believed it, and there was no evidence of trickery.
+** Hans could even solve these tasks with his owner being absent.
+** Several circus trainers examined Hans and could not find anything wrong.
+* The psychologist *Oskar Pfungst* did his research and found out the truth...
+** By using *blindfolds*, Hans could not provide the right answer anymore.
+** At the end it turned out *unaware cues* of the audience (e.g. nodding) gave the right answer.
+* An example now known as *observer-expectancy effect*.
+** Subjects behave differently due to influence of observer.
+** Observer's unconscious cues reveal the intention of the experiment.
+* This story lead to an increased awareness of the importance of *skepticism*:
+** Critical thinking
+** Scientific testing
+** Testing over claiming
+* As well as the importance of *controlled conditions*.
+** Rule out alternatives (e.g. using blinders).
+
+See: link:/introduction/ch2-methods/#sec-clever_hans[Introduction / Chapter 2]
+
+
+.YouTube Video: "(CLEVER HANS) 🐴➕ The HORSE That Learned MATHEMATICS", 3mins
+[link=https://www.youtube.com/watch?v=hAJlAuEo7Ac]
+image::https://img.youtube.com/vi/hAJlAuEo7Ac/0.jpg[Clever Hans 3,300]

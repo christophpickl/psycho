@@ -1,0 +1,9 @@
+= Chapter 10 - Reasoning, Intelligence
+
+Subpages::
+
+* link:focus_questions.html[Focus Questions]
+
+// availability bias => link to phenomena
+// confirmation bias => link to phenomena
+// predictable-world bias

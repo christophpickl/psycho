@@ -1,0 +1,69 @@
+= Real Exam 1
+
+As of 2021.
+
+Easy questions.
+Tricky with interpretation sometimes.
+
+*Cheating* (when doing exam online) is almost impossible.
+A software (link:https://proctorio.com/[Proctorio]) is being used to monitor your screen and your camera is on all the time.
+
+
+== Questions
+
+Ch1 - Background::
+
+. Characteristics of *dualism, empiricism*, etc.
+
+Ch2 - Methods::
+
+. Person has to write *self-report*.
+What is it?
+Observation, etc.
+. *Statistic* question is about a data set and how changing one number impacts "stuff".
+
+Ch3 - Genetics::
+
+. *Pen in mouth*, changes physiology or emotion, or both?
+. *Rats, labyrinth*, without food reward.
+
+(nothing with mendel, AA/Aa)
+
+Ch4 - Neural::
+
+. *Hebbian* Synapse, fire together wire together
+. After *Action Potential*, potassium, sodium; Goes in, goes out, negative/positive.
+. When are neurons *growing*, fetus/birth/later or whole life?
+Hippocampus?
+Regenerating?
+
+Ch5 - Motivation::
+
+. *Drug* tolerance.
+Without cues regular cues (different environment) likely to get overdose.
+. *Hormones*: Endorphin, Dopamin; liking, wanting.
+
+Ch6 - Senses::
+
+. Taste: How is transduction for *taste* working?
+Tongue, receptors, etc.
+. Auditory system, *cochlea*.
+What to do when a certain part is not working?
+Implant or the other?
+. Auditory system, *basilar membrane*.
+Vibrations, hair, membranes touching.
+Which part responsible for what?
+. Wernicke's and brocka's *aphasia*.
+Which one is fluent, etc?
+
+Ch7 - Vision::
+
+. *Rods and cones*.
+What responsible in retina?
+
+Ch8 - Learning::
+
+. Car accident, afraid to drive.
+Slowly exposed to it.
+What is it?
+*Operand conditioning, extinction, habituation*?

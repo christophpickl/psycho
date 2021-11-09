@@ -1,0 +1,123 @@
+= Focus Questions
+
+. What is a trait, and how do traits differ from states? What does it mean to say that a trait is a dimension rather than an all-or-none characteristic?
+** [hiddenAnswer]#Bar.#
+
+. How is factor analysis used to identify trait dimensions that are not redundant with one another?
+** [hiddenAnswer]#Bar.#
+
+. Why is the five-factor model of personality generally preferred today over Cattell’s trait theory?
+** [hiddenAnswer]#Bar.#
+
+. What is grit, what does it predict, and how is it similar to or different from the personality trait of conscientiousness?
+** [hiddenAnswer]#Bar.#
+
+. What are some of the costs and benefits for people with “dark personalities”?
+** [hiddenAnswer]#Bar.#
+
+. How do researchers assess the validity of personality tests? What are some sample findings that show that measures of the Big Five personality traits are, to at least some degree, valid?
+** [hiddenAnswer]#Bar.#
+
+. Why might personality traits be most apparent in novel situations of life transitions?
+** [hiddenAnswer]#Bar.#
+
+. What is evidence that personality is relatively stable throughout adulthood?
+** [hiddenAnswer]#Bar.#
+
+. How have researchers assessed the heritability of personality traits? What are the general results of such studies?
+** [hiddenAnswer]#Bar.#
+
+. What evidence suggests that being raised in the same family does not promote similarity in personality?
+** [hiddenAnswer]#Bar.#
+
+. How might variations in single genes influence personality?
+** [hiddenAnswer]#Bar.#
+
+. How does a distal explanation of personality differ from a proximate one?
+** [hiddenAnswer]#Bar.#
+
+. How does an analogy to financial investment explain the value of producing offspring who differ from one another in personality?
+** [hiddenAnswer]#Bar.#
+
+. How might both heritable and nonheritable variations in the Big Five dimensions be explained in terms of alternative life strategies?
+** [hiddenAnswer]#Bar.#
+
+. What is meant by orchid and dandelion children, and how do they relate to the idea of differential susceptibility to environmental influences?
+** [hiddenAnswer]#Bar.#
+
+. How might sibling contrast and split-parent identification be useful in reducing sibling rivalry and diversifying parental investment?
+** [hiddenAnswer]#Bar.#
+
+. What differences have researchers found between women and men in personality traits?
+** [hiddenAnswer]#Bar.#
+
+. How might gender differences in personality be understood in terms of natural selection? What evidence suggests that hormones may provide a basis for such differences?
+** [hiddenAnswer]#Bar.#
+
+. What evidence supports the view that gender differences in personality are at least partly shaped by cultural expectations?
+** [hiddenAnswer]#Bar.#
+
+. What characteristics of the mind underlie personality differences, according to the psychodynamic perspective?
+** [hiddenAnswer]#Bar.#
+
+. How is the concept of unconscious motivation illustrated by posthypnotic suggestion?
+** [hiddenAnswer]#Bar.#
+
+. How did Freud draw inferences about the content of his clients’ unconscious minds?
+** [hiddenAnswer]#Bar.#
+
+. How do repression, displacement, reaction formation projection and rationalization each serve to defend against anxiety?
+** [hiddenAnswer]#Bar.#
+
+. What evidence exists that some people regularly repress anxious feelings? In general, how do such people differ from others in their reactions to stressful situations?
+** [hiddenAnswer]#Bar.#
+
+. What benefit and harm might accrue from the repressive style of coping?
+** [hiddenAnswer]#Bar.#
+
+. What relationships did Vaillant find between defensive styles and measures of life satisfaction?
+** [hiddenAnswer]#Bar.#
+
+. How, in general, do humanistic theories differ from psychodynamic theories?
+** [hiddenAnswer]#Bar.#
+
+. What is Maslow’s theory about the relationship among various human needs? How might the theory be reconciled with an evolutionary perspective?
+** [hiddenAnswer]#Bar.#
+
+. How, in general, do social-cognitive theories differ from psychodynamic theories?
+** [hiddenAnswer]#Bar.#
+
+. What sort of behaviours correlate with an internal locus of control?
+** [hiddenAnswer]#Bar.#
+
+. What evidence supports the theory that self-efficacy (a) predicts high performance and (b) may help cause high performance?
+** [hiddenAnswer]#Bar.#
+
+. What is the benefit of the belief that the self is malleable? How can people’s belief in their own malleability be enhanced, and what effects have been observed of such enhancement?
+** [hiddenAnswer]#Bar.#
+
+. What evidence supports the value of optimism? Through what mechanisms might optimism produce its beneficial effects?
+** [hiddenAnswer]#Bar.#
+
+. What seems to differentiate adaptive from maladaptive optimism and adaptive from maladaptive pessimism?
+** [hiddenAnswer]#Bar.#
+
+. What evidence supports Mischel’s concept of situation-specific dispositions?
+** [hiddenAnswer]#Bar.#
+
+. In general, how do personalities in collectivist cultures differ from those in individualist cultures? What problems might arise in people whose personalities conflict with the norms of the culture in which they live?
+** [hiddenAnswer]#Bar.#
+
+. What sorts of trait dimensions are emphasized in China more than in Western cultures?
+** [hiddenAnswer]#Bar.#
+
+== Think Critically
+
+. Foo
+** [hiddenAnswer]#Bar.#
+
+. Foo
+** [hiddenAnswer]#Bar.#
+
+. Foo
+** [hiddenAnswer]#Bar.#

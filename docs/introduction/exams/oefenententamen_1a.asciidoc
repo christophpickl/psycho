@@ -1,0 +1,202 @@
+= Oefententamen 1a
+
+See: link:https://ondemand.questionmark.eu/delivery/open.php?NAME=PB0014DEEL1&GROUP=Oefententamen1?session=4179156693074853&lang=-&customerid=611930[https://ondemand.questionmark.eu]
+
+. Als de psychologie de wetenschap is van gedrag en geest, waarom wordt in de psychologie dan veelal onderzoek gedaan naar gedrag??
+.. Fysiologische processen hebben invloed op gedrag, maar niet op de geest.
+.. De omgeving heeft invloed op gedrag, maar niet op de geest.
+.. Gedrag kan direct geobserveerd worden, de geest niet.
+.. Gedrag is wetenschappelijk controleerbaar, de geest niet.
+** [hiddenAnswer]#c.#
+. Welke stroming binnen de psychologie claimt dat al onze kennis is gebaseerd op zintuiglijke ervaring?
+.. empirisme
+.. nativisme
+.. dualisme
+.. rationalisme
+** [hiddenAnswer]#a.#
+. Een psycholoog probeert te begrijpen waarom iemand die als enige aanwezig is bij iemand in een noodsituatie méér geneigd is diegene te helpen dan wanneer er heel veel mensen bij aanwezig zijn.
+Van welk verklaringsniveau (level of analysis) is hier sprake?
+.. cultureel
+.. cognitief
+.. sociaal
+.. leren
+** [hiddenAnswer]#c.#
+. Hoe noemen we in wetenschappelijk jargon een voorspelling die is afgeleid uit een theorie?
+.. hypothese
+.. feit (=fact)
+.. correlatie
+.. observatie
+** [hiddenAnswer]#a.#
+. Wim heeft bij de analyse van zijn wetenschappelijke gegevens een zeer grote standaarddeviatie aangetroffen.
+Op basis hiervan mag hij concluderen dat de scores in zijn dataset ...
+.. erg dicht bij elkaar liggen.
+.. sterk van elkaar verschillen.
+.. statistisch significant zijn.
+.. een lage validiteit vertonen.
+** [hiddenAnswer]#b.#
+. Replicatieonderzoek (meerdere keren dezelfde studie herhalen) is een belangrijk onderdeel van de wetenschappelijke methode.
+Dit onderzoek is belangrijk ...
+.. om bias in een meting te voorkomen.
+.. omdat dit de betrouwbaarheid van meetinstrumenten verhoogt.
+.. omdat door de factor toeval altijd een deel van de studies verkeerde conclusies trekt over de significantie.
+.. om observer-expectancy bias tegen te gaan in de steekproef.
+** [hiddenAnswer]#c.#
+. Genen hebben invloed op ons gedrag doordat zij ...
+.. de aanmaak sturen van de proteïnemoleculen die ons lichaam opbouwen.
+.. specifieke patronen van neurale activiteit vastleggen in ons brein.
+.. grote proteïnen in ons lichaam afbreken tot kleinere aminozuren.
+.. ongewenste effecten vanuit onze omgeving ongedaan maken.
+** [hiddenAnswer]#a.#
+. Natuurlijke selectie is het proces waardoor ...
+.. een dier- of plantensoort overleeft of uitsterft.
+.. de natuur haar langetermijndoelen nastreeft.
+.. een individu zich aanpast aan de omgeving.
+.. een fokker dier- en plantensoorten vormgeeft.
+** [hiddenAnswer]#a.#
+. Een psychologische gedragsverklaring die verwijst naar schuldgevoelens als oorzaak van het gedrag is een ...
+.. distale verklaring.
+.. ultimate verklaring.
+.. proximale verklaring.
+.. functionele verklaring.
+** [hiddenAnswer]#c.#
+. Natasja heeft onlangs haar vriendin geholpen met de verhuizing.
+Ze deed dat omdat ze ervan uitgaat dat, als zij nu haar vriendin helpt, deze vriendin haar in de toekomst vast ook zal helpen als het nodig is.
+Deze verklaring van Natasja’s hulpvaardigheid kun we het best omschrijven als een voorbeeld van ...
+.. verwantschapsselectie.
+.. reciprociteit.
+.. altruïsme.
+.. soortspecifiek gedrag.
+** [hiddenAnswer]#b.#
+. Welke neuronen komen het meeste voor in het menselijk zenuwstelsel?
+.. motorneuronen
+.. interneuronen
+.. sensorische neuronen
+.. perifere neuronen
+** [hiddenAnswer]#b.#
+. Hilde is proefpersoon bij een hersenonderzoek waarbij gebruik wordt gemaakt van __.
+De onderzoekers sturen herhaaldelijk een elektrische stroom door een spoel van koperdraad.
+De onderzoekers houden de spoel bij Hildes pariëtale kwab met als doel om neuronen die direct onder de spoel liggen tijdelijk te inactiveren.
+.. een elektro-encefalogram (EEG)
+.. Positron Emission Tomography (PET)
+.. Transcranial Magnetic Stimulation (TMS)
+.. Functional Magnetic Resonance Imaging (fMRI)
+** [hiddenAnswer]#c.#
+. De pariëtale kwab is gesitueerd aan ...
+.. de bovenzijde van het brein.
+.. de voorzijde van het brein.
+.. de zijkant van het brein.
+.. de achterzijde van het brein.
+** [hiddenAnswer]#a.#
+. Mensen met afasie van __, ook wel "fluent" afasie genoemd, hebben moeite taal te begrijpen en produceren zinnen met betekenisloze woorden.
+.. Wernicke
+.. Hebb
+.. Broca
+.. Gazzaniga
+** [hiddenAnswer]#a.#
+. Psychologen maken onderscheid tussen \\__ drives, zoals dorst en honger, en __ drives, zoals seks of de behoefte om te worden geaccepteerd.
+.. regulerende; niet-regulerende
+.. niet-regulerende; regulerende
+.. centrale; perifere
+.. perifere; centrale
+** [hiddenAnswer]#a.#
+. Leptine is een hormoon dat werkt op neuronen in de nucleus arcuatus.
+Onderzoek heeft aangetoond dat dieren die het gen missen dat leptine produceert of dat de receptoren produceert voor leptine in de hypothalamus,
+.. nieuw voedsel vermijden.
+.. excessief gaan eten en obees worden.
+.. zichzelf langzaam uithongeren.
+.. zeer lage bloedsuikerwaarden ontwikkelen.
+** [hiddenAnswer]#b.#
+. Volgens __ leidt de waarneming van bepaalde gebeurtenissen in de omgeving tot lichamelijke arousal en is de bewustwording van deze arousal een emotie.
+.. de common sense theory of emotion
+.. de facial feedback theory
+.. Schachter’s cognition-plus-feedback theory of emotion
+.. James’s peripheral feedback theory of emotion
+** [hiddenAnswer]#d.#
+. Wat is een voorbeeld van sensorische adaptatie (sensory adaptation)?
+.. Na een paar minuten in een donkere kamer wordt het mogelijk om objecten van elkaar te onderscheiden die in eerste instantie niet zichtbaar waren.
+.. Na een paar minuten luisteren naar luide muziek is het gehoor tijdelijk aangetast.
+.. Na een paar minuten blootgesteld te zijn aan een onaangename geur besluit je de kamer te verlaten.
+.. Na een paar minuten blootgesteld te zijn aan koud weer begin je je koud te voelen.
+** [hiddenAnswer]#a.#
+. Welk deel van het olfactorische systeem bevat de gevoelige uiteinden van de olfactory sensory neurons?
+.. reukslijmvlies (olfactory epithelium)
+.. glomeruli
+.. bulbus olfactorius (olfactory bulb)
+.. reukhersenen (rhinencephalon)
+** [hiddenAnswer]#a.#
+. Ingrid lette niet goed op tijdens het koken en legde haar hand op het hete fornuis.
+Ze trok haar hand snel terug bij de eerste korte pijngolf, en hield haar hand onder de kraan tegen de brandplek om de tweede langere pijngolf te verminderen. +
+Welke termen moeten worden ingevuld voor een juiste bewering? +
+De eerste golf van pijn was een reactie op \\__, die uiteindelijk de interneuronen in de hersenstam (brainstem) activeren, terwijl de tweede golf werd veroorzaakt door __.
+.. gemyeliniseerde S-alfa-vezels; V-vezels
+.. ongemyeliniseerde A-delta-vezels; gemyeliniseerde C-vezels
+.. gemyeliniseerde A-delta-vezels; ongemyeliniseerde C-vezels
+.. morfine; endorfine
+** [hiddenAnswer]#c.#
+. Wat is de voornaamste functie van het middenoor?
+.. vermindering van de druk die geluidsgolven uitoefenen op het binnenoor
+.. vergroting van de hoeveelheid druk die geluid op het binnenoor kan uitoefenen
+.. vermindering van de frequentie van geluidsgolven die het binnenoor bereiken
+.. vermeerdering van de frequentie van geluidsgolven die het binnenoor bereiken
+** [hiddenAnswer]#b.#
+. De \\__ is het gebied van de retina waar het gezichtsvermogen het scherpst is en een hoge concentratie __ bestaat.
+.. blinde vlek; staafjes
+.. blinde vlek; kegeltjes
+.. fovea; staafjes (=rods)
+.. fovea; kegeltjes (=cones)
+** [hiddenAnswer]#d.#
+. Als een muzikant op het podium een gitaar vastheeft, bedekt de gitaar zijn middel en zijn linkerarm.
+De toeschouwer negeert deze onderbrekingen in de contouren van het lichaam van de muzikant echter, en neemt de gitarist toch waar als een complete figuur. +
+Van welk gestaltprincipe is dit een illustratie?
+.. omkeerbare figuren
+.. gelijkheid
+.. geslotenheid
+.. nabijheid
+** [hiddenAnswer]#c.#
+. Beoordeel de juistheid van de volgende twee stellingen. +
+I) Een beschadiging aan de ‘what’ pathway leidt tot een verstoring van het vermogen te kunnen handelen op basis van je waarneming. +
+II) Een beschadiging aan de ‘where and how’ pathway leidt tot een verstoring van het vermogen betekenis te kunnen geven aan je waarneming.
+.. I en II zijn juist.
+.. Alleen I is juist.
+.. Alleen II is juist.
+.. I en II zijn onjuist.
+** [hiddenAnswer]#d.#
+. Wat is de beste beschrijving van multisensorische integratie?
+.. de integratie van informatie afkomstig van verschillende zintuigen door het zenuwstelsel
+.. de combinatie van golflengtes van licht om verschillende kleuren te produceren
+.. het groeperen van zintuigen in één bepaald gebied in het brein
+.. het beeld dat ontstaat wanneer het oog diepte en kleur combineert
+** [hiddenAnswer]#a.#
+. Wanneer een moeder de bus van de babypoedermelk opent, klinkt er een zachte "plop".
+Zodra deze "plop" klinkt, wordt haar hongerige baby opgewonden. +
+Hoe zou je de reactie van de baby noemen vanuit het model van klassieke conditionering?
+.. ongeconditioneerde respons
+.. geconditioneerde respons
+.. gehabitueerde respons
+.. operante respons
+** [hiddenAnswer]#b.#
+. De tolerantie voor drugs, zoals morfine, is deels fysiologisch, doordat de gebruiker ongevoeliger wordt voor het middel. +
+Welk leerproces is daarnaast ook verantwoordelijk voor de tolerantie voor drugs?
+.. klassieke conditionering
+.. operante conditionering
+.. generalisatie
+.. observationeel leren
+** [hiddenAnswer]#a.#
+. De wet van effect, zoals geformuleerd door Thorndike, stelt dat ...
+.. een stimulus een geconditioneerde respons zal opwekken wanneer deze herhaaldelijk is aangeboden samen met een ongeconditioneerde stimulus.
+.. gedragingen die leiden tot een bevredigend resultaat waarschijnlijk vaker zullen optreden, terwijl gedragingen die leiden tot onprettige gevolgen juist zullen uitdoven.
+.. de ervaring van twee gelijktijdig optredende gebeurtenissen zal leiden tot een associatie tussen die twee gebeurtenissen in de toekomst.
+.. elke gedraging die een effect produceert in de toekomst vaker zal optreden, ongeacht de aard van dat effect.
+** [hiddenAnswer]#b.#
+. Uit onderzoek van Tolman waarbij ratten hun weg door een doolhof moesten leren vinden, blijkt dat dieren die de doolhof vrij mogen verkennen zonder een beloning te krijgen ...
+.. goed leren hoe de doolhof in elkaar zit, maar dat pas laten zien als ze er alsnog een beloning voor krijgen.
+.. exact hetzelfde leerproces doormaken als dieren die er wel een beloning voor krijgen aangeboden.
+.. niets leren over hoe de doolhof in elkaar zit totdat ze alsnog een beloning krijgen aangeboden.
+.. in de war raken en veel trager leren hoe de doolhof in elkaar zit, ook als ze er alsnog een beloning voor krijgen.
+** [hiddenAnswer]#a.#
+. Wanneer ratten enkele uren na het eten van bepaald voedsel ziek worden ...
+.. vermijden ze naderhand al het voedsel dat er hetzelfde uitziet, ook als het anders ruikt of smaakt.
+.. vermijden ze naderhand al het voedsel dat hetzelfde ruikt en smaakt, ook als het er anders uitziet.
+.. keren ze terug naar het voedsel en eten er een klein beetje van om te testen of ze er nog een keer ziek van worden.
+.. zijn ze niet in staat een verband te leggen tussen de ziekte en het voedsel en zullen ze het dus gewoon eten als ze het weer tegenkomen.
+** [hiddenAnswer]#b.#

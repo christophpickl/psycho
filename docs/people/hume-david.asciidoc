@@ -1,0 +1,18 @@
+= David Hume
+
+.David Hume himself
+image::hume-david.png[David Hume,200,100]
+
+== Facts
+
+* 1711-1776
+* Scottish philosopher, historian
+
+== Achievements
+
+* Main part in link:/introduction/ch1-background/index.html#sec-empiricism[British empiricism]
+** Also skepticism and naturalism
+
+== Links
+
+* https://en.wikipedia.org/wiki/David_Hume

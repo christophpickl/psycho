@@ -1,0 +1,172 @@
+= Focus Questions
+
+. What are three **types** of **neurons** and what is the function of each?
+** [hiddenAnswer]#**Sensory** (afferent, from sensors to CNS), **motor** (efferent, from CNS to muscles/glands) and **interneurons** (neuron-to-neuron within CNS).#
+
+. What are the main **parts** common to all our most **neurons**, and what is the function of each part?
+** [hiddenAnswer]#Cell **body** (soma; contains nucleus), **dendrites** (receiver), **axon** (sender, including axon terminals/terminal buttons), **myelin sheath** (isolation and speed up; extra: node of Ranvier between, Schwann cell inside), **glial cells** (produce myelin).#
+
+. How does the **resting potential** arise from the distribution of ions across the cell membrane?
+** [hiddenAnswer]#Inside: Negative protein (A-) and positive potassium ions (K+).
+Outside: Positive sodium (Na+) and negative Chloride (Cl-).
+Potassium (\+) channels remain open, potassium goes outside, more **negative inside** the cell, therefore electrical imbalance/charge (of **-70 mV**).
+Sodium (+) channels are closed, stays outside, only opened during action potential.#
+
+. How do the two phases of the action potential, (a) **depolarization** and (b) **repolarization**, result from the successive opening and closing of two kinds of **channels** in the cell membrane?
+** [hiddenAnswer]#(a) Depolarization phase: **sodium** ions move **inward** through open channels.
+(b) Repolarization phase: Sodium channels close, but already positive charge in side, thus (positive) **potassium** pushed/repelled **outwards**, leading to resting potential again.
+Additionally, **sodium-potassium pumps** push sodium out and potassium in.#
+
+. How is an axon's conduction **speed** related to its **diameter** and to the presence or absence of a **myelin sheath**?
+** [hiddenAnswer]#The thicker, the faster, because of **less electrical resistance**.
+Myelin sheeth also speeds up further, due to **insulation** (reducing interference), plus **jumping** nodes is possible.#
+
+. How do **neurotransmitters** at (a) **excitatory** and (b) **inhibitory synapses** affect the rate at which action potentials are produced in the postsynaptic neuron?
+** [hiddenAnswer]#Neurotransmitters bind to receptors on postsynaptic membrane, opening channels that (a) to allow **sodium** (Na+) in or (b) to allow **chloride** (Cl-) in, leading to even more negative charge, also called **hyperpolarization** (it's already -70mV, making it even lower, it will be more difficult to change the charge around = action potential).#
+
+. When are most **neurons "born"** and when do they begin to form synapses?
+** [hiddenAnswer]#Neurogenesis starts in **week 20** and peaks at **month 3-4 of pregnancy**, but continues even into adulthood.
+Synapses start to form also in week 20 of pregnancy during differentiation.#
+
+. How does the metaphor of **sculpting** apply to brain development?
+** [hiddenAnswer]#First produce more than necessary, then get rid of what's not necessary by apoptosis (selective cell death; so neurons, and also about 50% synapses), in order to be more effective as **fewer are stronger**.#
+
+. What role might **mirror neurons** play in social learning?
+** [hiddenAnswer]#We mirror/mimic what we observe/experience.
+We see someone doing something, we **imitate** that behavior.
+It's furthermore about **recognition**.#
+
+. How do researches identify **functions of areas** of the human brain through (a) studying the effects of brain **damage** (b) using a **magnetic field** to interrupt normal brain activity (c) recording **electrical activity** that passes through the skull and scalp and (d) creating images that depict patterns of **blood flow**?
+// ERPs, MEG, TMS, tDCS
+** [hiddenAnswer]#(a) Brainpart is damaged/missing, **ability is gone**, therefore contribute essentially to that ability. (b) **TMS** (Transcranial Magentic Stimulation) (c) **EEG** (Electro-encephalo-graphy; among: ERPs = Event-Related Potentials and MEG = Magento-encephalo-graphy) (d) **fMRI**#
+
+. How do researchers (a) **damage** (b) **stimulate** and (c) **record** from neurons in specific areas of nonhuman animal brains to learn about the **functions** of those brain areas?
+** [hiddenAnswer]#(a) Damage: **electrically** (stereotaxic instrument current through wire into brain) and **chemically** (chemical through cannula/tiny tube).
+(b) Stimluation: **electrically** (electrode cemented in place; activated through wire connection/radio waves inducing action potentials) and **chemically** (cannula, injecting neurotransmitter/neuron activating chemical).
+(c) Recording: **electrically** (electrodes penetrating int cell bodies of a single neuron).#
+
+. (a) How do the **autonomic and somatic** motor systems differ from one another in function? (b) How do the **sympathetic and parasympathetic** divisions of the autonomic system differ from one another in function?
+** [hiddenAnswer]#(a) The autonomic motor system is involuntarily controlling/modulating **visceral muscles** (heart, arteries, stomach, intestines) and **glands** (built-in, nonneural mechanism for activity generation), whereas the somatic is voluntarily acting on/initiating **skeletal muscles**. (b) Sympathetic is stress response, "**fight or flight**" (increase heart beat/blood pressure, release energy like sugars/fats, activate skeletal muscles, digestion inhibition).
+Parasympathetic, "**rest and digest**", for regeneration, growth-promotion, energy-conservation.#
+
+. What are three categories of **functions** of the **spinal cord**?
+** [hiddenAnswer]#**Pathway** connecting brain and periphery (ascending tracts/afferent/somatosensory and the descending tracts/efferent/motor control), **reflexes** for quick responses ("spinal animals" show they don't require connection to the brain; e.g. flexion reflex), **pattern generator** for automatic locomotion/movement ("headless chicken runs around", generates organized movement like walk/run/fly/swim).#
+
+. (a) How is the **brainstem** similar to and different from the spinal cord? (b) What role does the brainstem play in the control of **behavior**?
+** [hiddenAnswer]#(a) They are not even similar but actually the same, as the spinal cord **enlarges and becomes** the brainstem, whereas the are functionally/anatomically similar (both are pathways), whereas the latter is more elaborate.
+The spinal cord has **spinal nerves** enter them, the brainstem most **cranial** (10 of 12). (b) The brainstem organize more sophisticated **reflexes** (**postural** = stand/move, **vital** = breath/heartbeat) as well as **species-typical behavior** (eat/drink/fight/fuck), and modulates speed of spinal cord's generated movement patterns (additionally see "brainstem animal").#
+
+. What are the functional (a) simlarities and (b) differences between the **cerebellum** and the **basal ganglia**?
+** [hiddenAnswer]#(a) Both are similar in regards to interfere with the ability for (learned/skliled/well-coordinated) **movement**, and using sensory information to do so.
+(b) They are different in regards to that the cerebellum is about **rapid/well-**timed movement (sports/music) using **feed-**forward (plan+do) and basal ganglia about **slow/deliberate** movement (grab a cup) using **feedback** (integrate sensory info to readjust).#
+
+. What are the main functions of the **thalamus**?
+** [hiddenAnswer]#**Relay station**: for brain parts among them, sensory to specific areas and from higher parts to brainstem for movement control.
+**Arousal** of the whole brain by diffusely project to all areas.#
+
+. Why is the **limbic system** so named, and what functions does it perform?
+** [hiddenAnswer]#(a) Literally "limbus" means **border**, dividing the older from the newer part (cerebral cortex) of the brain. (b) It is believed that it connects **smells** (and other sensory inputs) to drives/emotions/memories.
+Also it is believed to translate emotions/drives into **actions**.
+Amygdala: Regulation of **drives/emotions**.
+Hippocampus: **Memory and spatial location**.#
+
+. What are three ways by which the **hypothalamus** controls the body's **internal environment**?
+** [hiddenAnswer]#Influencing **ANS**, **hormones** (pituitary gland) and **drives** (4Fs: Fight, Flee, Feed, Fuck).#
+
+. What are the four **lobes** of the cortex, and what are three functional categories of areas within these lobes?
+** [hiddenAnswer]#**Frontal** (motor in rear part), **parietal** (sensory=somatosensory), **temporal** (sensory=auditory), **occipital** (sensory=visual).
+The third area, association, is in the remaining parts of the cortex (complex process: perception, thought, decisions).#
+
+. What does it mean to say that cortical sensory and motor areas in the cortex are **topographically** organized?
+** [hiddenAnswer]#**Adjacent** neurons receive/send signals from/to adjacent sensors/muscles.
+Proportion of sensitivity and devoted cortical tissue.#
+
+. What is the role of the prefrontal cortex (**PFC**) in the control of **behavior**?
+** [hiddenAnswer]#It **integrates** information (received from sensors and internal environment/limbic system) and generates a **plan** for action (sent to motor cortex and further basal ganglia/cerebellum).
+Planning/behaving flexibly to novel information.#
+
+. (a) How are the **movement-control** functions of the nervous system summarized as a **hierarchical**, top-down flow of information? (b) How is the hierarchy illustrated by an imaginative tour through the nervous system of a person who decides to eat some fresh **cherries**?
+** [hiddenAnswer]#(a) From higher (**motivate, plan**; limbic/cortex/basal ganglia/cerebellum) to lower (**refine, execute**; brainstem/spinal cord) structures. (b) First feel internal state (limbic system) to be hungry.
+Then see (visual cortex) and recognize cherries as food (association areas remembering).
+Integration of prefrontal association areas to go there and eat them.
+Secondly, basal ganglia/cerebellum/premotor cortex receive plan from limbic/PFC, which refine motor program (and receive info about location of cherries and body).
+Thirdly, walk (larger movements) via brainstem and remove stems+eat+avoid pits as delicate movements (motor cortex sends to brainstem/spinal cord).
+Finally, lower brainstem/spinal cord fire motor neurons to skeletal muscles and additionally PSNS activate digestion (salivation, intestines peristaltic).#
+
+. What is the difference between knowing "**where**" a brain function occurs and knowing "**how**" it occurs?
+** [hiddenAnswer]#Just because we know "where" (e.g. via hierarchical model) doesn't tell us "how" it is done.
+The "how" is much more **difficult** to answer.#
+
+. What are some examples of long- and short-term effects of **hormones**?
+** [hiddenAnswer]#Long-term: **Growth** (behavioral capacity), **anatomy** (androgens determining sex; testosterone/estrogen during puberty).
+Short-term: **Behavior** (cortisol for stress-response), drives, moods, **metabolism**, many physiological processes (breath, heart beat, digestion).#
+
+. How does the **brain control** the release of hormones from the two lobes of the **pituitary** and thereby control the release of other hormones as well?
+** [hiddenAnswer]#**Posterior lobe** is part of the brain, consisting mainly of neurons ("neurosecretory cells") **extending** down from hypothalamus.
+PS: Hypothalamic-pituitary-adrenal axis (HPA-Axis)#
+
+. What is some evidence that **testosterone** is needed to maintain the male's **sex drive**?
+** [hiddenAnswer]#Castration declines the sex drive.
+Injecting testosterone restores it.#
+
+. (a) What kinds of **experiences** have been shown to **increase testosterone** production in men? (b) What **effects** might such increased testosterone have on a man's subsequent **behavior**?
+** [hiddenAnswer]#(a) Anything that promotes self-confidence: Like winning any kind of game (chess, even button-pressing competition), driving an expensive car or social encounters with women. (b) Increasd sex drive / sexual interest in women.#
+
+. (a) What evidence indicates that **ovarian** hormones act directly on the **brain** to activate the **sexual** drive in **female rats**? (b) How do female **primates differ** from female **rats** concerning the regulation of sexual drive?
+** [hiddenAnswer]#(a)Similar to males: Removal of ovaries leads to elimination of sexual behavior, and injecting hormones into the **hypothalamus** restores it (for most mammals, but not for humans). (b) For most species estrogen alone is most effective, whereas others (like rats) show most effect estrogen with a delayed progesterone injection.#
+
+. (a) What is the evidence that **women**'s sexual drive depends more on **androgens** than on ovarian hormones? (b) What evidence suggests, nevertheless, that female sexual drive does **increase** during the time of **ovulation**?
+// TODO this question (and the previous one), i'm 80% sure
+** [hiddenAnswer]#(a) For female humans, removal of ovaries doesn't lead to decrease of sex drive, but removal **adrenal glands** do (which also produces androgens). (b) In a woman's cycle when they are fertile, they are significantly more sexually motivated, by dressing more provocatively, speaking more appealing, being more drawn to masculine men, feel more sexually attractive and initiate sex more often.#
+
+. In what ways are the two **hemispheres** of the cerebral cortex **symmetrical**, and in what ways are they **asymmetrical**?
+** [hiddenAnswer]#Symmetrical as such they both cover the same **sensory and motor** functions.
+Asymmetrical as that function works **contralateral**, the right hemisphere targets the left body side and vice versa.#
+
+. (a) How is it possible to test each hemisphere separately in people whose **corpus callosum** has been **cut**? (b) How do such tests confirm that the left hemisphere controls **speech** and the right hemisphere has superior **spatial** ability?
+** [hiddenAnswer]#(a) Make use of the asymmetrical nature of the hemispheres, e.g. show objects only to the left eye, covering up the right, thus testing the right hemisphere. (b) With the help of a special testing apparatus and a split-brain person, asking him to touch an object he will be shown: A pencil is shown to the left visual field / right hemisphere, he will be able to touch (with the left hand) but not talk about it.
+An apple is shown to the right visual field / left hemisphere, when being asked what he saw, he will say apple, although he touched the pencil.#
+
+. How do studies of **split-brain** patients tend to confirm and extend an idea about the nature of **consciousness** that was developed long ago by Sigmund **Freud**?
+** [hiddenAnswer]#The previous experiment shows that clearly: People act (unconsciously; right hemisphere) contradictory, based on the two different natured hemispheres, but explain (consciously; left hemisphere; speech generation) themselves confidently with some made up reason/story ("rationalization"); As Freud put it: **unconscious decision-making** make us do things.#
+
+. What are the differences between Broca's and Wernicke's **aphasias** in (a) language production (b) comprehension and (c) areas of the brain damaged?
+** [hiddenAnswer]#(a) Broca's (nonfluent, low quantity, high quality) speech is telegraphic like, minimum words used, and Wernicke's (fluent, high quantity, low quality) but rich in little words, nonsense words instead of nouns. (b) Broca's confused by grammatically complex sentences (word meaning comprehension is ok), and Wernicke's getting meaning of words right (more severe, basics don't work) (c) Broca's is in the left frontal lobe, just anterior the primary motor area.
+Wernicke's is in the left temporal lobe, near the primary auditory area.#
+
+. How was **PET** used to identify brain areas involved in **word perception and production**?
+** [hiddenAnswer]#Giving subjects language-related tasks (viewing/hearing words, repeating aloud words, generating words; increasing in difficulty) and measure activity (PET) in different brain areas.#
+
+. What **brain changes** have been observed in rats and mice caged in **enriched environments**?
+** [hiddenAnswer]#Thicker cerebral cortexes, larger cortical neurons, more ACh (acetylcholine, a cortex neurotransmitter), more and bigger synapses.#
+
+. What evidence shows that **practice** at a skill alters neural connections so that **more neurons** become **devoted** to that skill?
+** [hiddenAnswer]#Larger areas of the brain (cortex) respond when the trained skill is being acted out; see musicians or blind people, which compensate seeing with hearing (even when being blindfolded for only 5 days).#
+
+. What evidence, with birds and with humans, indicates that **spatial learning** can result in growth in the **hippocampus**?
+** [hiddenAnswer]#Bird species which hide seeds in winter have a bigger hippocampus than bird species which do not hide seeds.
+When imprisoning those birds and preventing them from hiding seeds, the hippocampus will shrink. (same with taxi drivers)#
+
+. How has the discovery of **long-term potentiation** (LTP) tended to confirm **Hebb's theory** about **synaptic strengthening**?
+// TODO this could be done better
+** [hiddenAnswer]#The phenomena of LTP was artificially produced, therefore proven in an experiment, which is in alignment with Hebb's theory.#
+
+. What evidence shows that **LTP** is involved in **learning**?
+** [hiddenAnswer]#Preventing LTP (inject some drug in mice) interferes with learning, e.g. pairing tone with an electric shock, the rat will fail to learn by not showing a fear response.
+On the other hand, if LTP is increased by genetic engineering, mice would have better memory (maze learning, classical conditioning, object recognition), also prevent decline in memory when aging.
+(Why didn't evolution do that already?
+Maybe because maladaptive in the conditions of everyday life?)#
+
+. What area of the brain shows the most substantial change in **humans** relative to **other mammals**?
+** [hiddenAnswer]#Amount of volume dedicated to the associative areas/association cortex relative to sensory/motor areas.#
+
+== Think Critically
+
+. If our goal is to **understand** typical human **behavior**, what are the **(a) benefits and (b) limitations** of studying people with **brain damage**?
+** [hiddenAnswer]#(a) Study of responsibility (towards behavior) of a specific brain area can be done, in an ethical way.
+If there is damage, an behavior has changed atypically, that area must be responsible for it. (b) We can answer where in the brain that particular behavior might be controlled, but not the underlying functioning of it.
+There might also be other parts of the brain involved and additionally we might miss other reasons of behavior change.#
+
+. (a) Does **neuroscience** contribute to a better understanding of human **psychology**? (b) Or should neuroscience and psychology be treated as **separate disciplines**, each examining a distinct and important phenomenon (the brain and mind, respectively)?
+** [hiddenAnswer]#(a) Yes, it adds another level of analysis. (b) Yes, as they require different skills, and it's just handy to separate (for education, research and application), although always being aware that the underlying subject (the human being) is one, inseparable thing.
+The mind operating on the base of the brain.#

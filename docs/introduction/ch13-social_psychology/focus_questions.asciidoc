@@ -1,0 +1,135 @@
+= Focus Questions
+
+. In what sense are people natural psychologists?
+** [hiddenAnswer]#Bar.#
+
+. What evidence supports the existence of a person bias in attributions?
+** [hiddenAnswer]#Bar.#
+
+. Why is the person bias often called the “fundamental attribution error”? In what conditions does the bias most often occur?
+** [hiddenAnswer]#Bar.#
+
+. What logic and evidence suggest that the person bias may be a product of western culture and may not exist in Eastern culture?
+** [hiddenAnswer]#Bar.#
+
+. How have researchers documented biasing effects of physical attractiveness on perceptions of personality?
+** [hiddenAnswer]#Bar.#
+
+. How have researchers documented biasing effects of a babyish versus a mature-looking face? What practical consequences have been shown to result from this bias?
+** [hiddenAnswer]#Bar.#
+
+. What evidence suggests that strangers who meet on the Internet like each other more than do strangers who meet in person? How might this phenomenon be explained?
+** [hiddenAnswer]#Bar.#
+
+. According to Cooley, what is the “looking glass” with which we evaluate ourselves?
+** [hiddenAnswer]#Bar.#
+
+. What are Pygmalion effects in psychology, and how were such effects demonstrated in elementary school classrooms?
+** [hiddenAnswer]#Bar.#
+
+. What is the sociometer theory of self-esteem, and what evidence supports it?
+** [hiddenAnswer]#Bar.#
+
+. What is some evidence that people construct a self-concept by comparing themselves with a reference group? How can a change in reference group can alter self-esteem?
+** [hiddenAnswer]#Bar.#
+
+. What are two means by which people build and maintain inflated views of themselves?
+** [hiddenAnswer]#Bar.#
+
+. What is the difference between implicit and explicit attitudes in their manner of influencing behaviour?
+** [hiddenAnswer]#Bar.#
+
+. How does cognitive dissonance theory explain people’s attraction to some information and avoidance of other information?
+** [hiddenAnswer]#Bar.#
+
+. How does the cognitive dissonance theory explain why people are more confident of a decision just after they have made it than just before?
+** [hiddenAnswer]#Bar.#
+
+. In theory, why should the insufficient-justification effect work best when there is minimal incentive for the action and the action is freely chosen? How was this theory verified by two classic experiments?
+** [hiddenAnswer]#Bar.#
+
+. What is the distinction among public, private and implicit stereotypes? What are two means by which researchers identify implicit stereotypes?
+** [hiddenAnswer]#Bar.#
+
+. What evidence suggests that implicit prejudice can cause police officers to shoot at black suspects more readily than at white suspects?
+** [hiddenAnswer]#Bar.#
+
+. What sorts of learning experiences are most effective in reducing (a) explicit and (b) implicit prejudice?
+** [hiddenAnswer]#Bar.#
+
+. How does Zajonc’s theory explain both social facilitation and social interference? What evidence supports the theory?
+** [hiddenAnswer]#Bar.#
+
+. What evidence supports the view that choking on tests occurs because distracting thoughts interfere with working memory?
+** [hiddenAnswer]#Bar.#
+
+. How can the activation of a stereotype influence test performance? What evidence suggests that this effect, like other forms of choking, involves increased anxiety and interference with working memory?
+** [hiddenAnswer]#Bar.#
+
+. How do certain theatrical and political metaphors apply to impression management? Why do we, as intuitive politicians, want to look “good” to other people?
+** [hiddenAnswer]#Bar.#
+
+. What are two classes of reasons why people tend to conform to examples set by others?
+** [hiddenAnswer]#Bar.#
+
+. How did Asch demonstrate that a tendency to conform can lead people to disclaim the evidence of their own eyes?
+** [hiddenAnswer]#Bar.#
+
+. According to Cialdini, how can public-service messages best capitalize on normative influences? What evidence does he provide for this idea?
+** [hiddenAnswer]#Bar.#
+
+. How can the failure of multiple bystanders to help a person in need be explained in terms of informational and normative influences?
+** [hiddenAnswer]#Bar.#
+
+. What is the value, for group life, of the spread of sadness, anger, fear, and laughter from person to person? How might motional contagion figure into the rise of a group leader?
+** [hiddenAnswer]#Bar.#
+
+. What are some experiments that have demonstrated group polarization?
+** [hiddenAnswer]#Bar.#
+
+. How did Janis explain some White House policy blunders with his groupthink theory? What can groups do to reduce the risk of groupthink?
+** [hiddenAnswer]#Bar.#
+
+. How can the low-ball sales technique be explained in terms of cognitive dissonance? What evidence supports this explanation?
+** [hiddenAnswer]#Bar.#
+
+. How can the foot-in-the-door sales technique be explained in terms of cognitive dissonance?
+** [hiddenAnswer]#Bar.#
+
+. How did Milgram demonstrate that a remarkably high percentage of people would follow a series of orders to hurt another person?
+** [hiddenAnswer]#Bar.#
+
+. Why does Milgram’s finding call for an explanation in terms of the social situation rather than in terms of unique characteristics of the subjects?
+** [hiddenAnswer]#Bar.#
+
+. How might the high rate of obedience in Milgram’s experiments be explained in terms of (a) the norm of obedience, (b) the experimenter’s acceptance of responsibility, (c) the proximity of the experimenter, (d) the lack of a model for rebellion, and (e) the incremental nature of the requests?
+** [hiddenAnswer]#Bar.#
+
+. How has Milgram’s research been criticized on grounds of ethics and real-world validity, and how has the research been defended?
+** [hiddenAnswer]#Bar.#
+
+. How does “the tragedy of the commons” illustrate the critical importance of social dilemmas to human survival? What are some examples of real-world social dilemmas?
+** [hiddenAnswer]#Bar.#
+
+. How have laboratory games demonstrated the human sense of justice and willingness to punish even at personal cost? How does such behaviour promote long-term cooperation?
+** [hiddenAnswer]#Bar.#
+
+. What is some evidence that social identity can lead to helping group-mates and hurting those who are not group-mates?
+** [hiddenAnswer]#Bar.#
+
+. What changes occurred within and between two groups of boys as a result of intergroup competitions at a summer camp?
+** [hiddenAnswer]#Bar.#
+
+. How did Sherif and his colleagues succeed in promoting peace between the two groups of boys?
+** [hiddenAnswer]#Bar.#
+
+== Think Critically
+
+. Foo
+** [hiddenAnswer]#Bar.#
+
+. Foo
+** [hiddenAnswer]#Bar.#
+
+. Foo
+** [hiddenAnswer]#Bar.#

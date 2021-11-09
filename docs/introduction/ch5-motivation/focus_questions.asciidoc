@@ -1,0 +1,150 @@
+= Focus Questions
+
+. How do drives and incentives (a) complement and (b) influence one another in their contributions to motivation?
+** [hiddenAnswer]#(a) If one is low, the other must compensate by being high.
+E.g. waiting for bad tasting food, one must be super hungry. (b) They strengthen each other.
+E.g. When very hungry even bad tasting food seems attractive, and when already hungry and smell good food, then hunger gets even more.#
+
+. (a) How is the concept of homeostasis related to taht of drive (b) How is this relationship demonstrated in the case of a little boy who craved salt?
+** [hiddenAnswer]#(a) Once the body's internal state is in dysbalance, drives will kick in to re-establish balance.
+E.g. lack of nutrients therefore hunger. (b) That young boy had a huge craving for salt and died once it was not given to him enough.
+It turned out, he had a certain condition that lead him to this physiological need. ("the wisdom of the body")#
+
+. What is the distinction between regulatory and nonregulatory drives, and how can mammalian drives be classified into five categories based on function?
+** [hiddenAnswer]#(a) Regulatory drives are necessary to survive (preserve homeostasis) and the nonregulatory serve some other purpose. (b) Regulatory, safety, reproductive, social, and educative.#
+
+. What are two possible explanations of the universal human drives for art, music, and literature?
+** [hiddenAnswer]#(1) Enhance social status and impress other sex; e.g. singing as bird songs, or clothes as more sophisticated feathers. (2) Like sublimation, art is not a goal on it's on, but satisfies other drives ("tap into them").#
+
+. (a) In theory, what characteristics must a set of neurons have to function as a central drive system? (b) What characteristics of the hypothalamus seem to suit it to be a hub of such a system?
+** [hiddenAnswer]#(a) First it must receive/integrate signals that raise/lower drives.
+Secondly it must act on all neural processes for that behavior. (b) It's ideally located (superior brainstem), strongly interconnected with higher brain areas, as well as motor output/internal organs, hormone control/sensitivity (pituitary gland connection), has many capillaries.#
+
+. What are three interrelated components of the concept of reward?
+** [hiddenAnswer]#Liking (feeling of pleasure, satisfaction), wanting (desire to get reward, motivation) and reinforcement (promoting learning).#
+
+. How did Olds and Milner identify reward pathways in the brain?
+** [hiddenAnswer]#Accidently by putting electrical wires into the brain of rats, and stimulate a particular area (reward pathway; medial forebrain bundle) either as a reward or activated by themselves through pushing lever.#
+
+. What is some evidence that the medial forebrain bundle and nucleus acumbens are essential pathways for the effects of a wide variety of rewards?
+** [hiddenAnswer]#These areas become active whenever one receives a reward.
+Also without these areas (brain damage) there is no motivated behavior.
+Animals without them will die unless fed through a stomach tube.#
+
+. What is some evidence that the "wanting" and "liking" components of reward invovle different neurotransmitters?
+** [hiddenAnswer]#Dopamine is for wanting (craving before, motivate to obtain; not liking), as shown by blocking rats dopamine leading that they are no longer concerned with rewards that are absent (still they enjoy present rewards).
+Endorphin is for liking, as shown by activating receptors leading the increase "liking" facial eraction, as well as drugs that decrease it for humans, that reported lack of reward enjoyment.#
+
+. What evidence suggests that dopamine is crucial to the capacity of rewards to promote new learning - that is, to serve as reinforcers?
+** [hiddenAnswer]#Learning about cues to predict when/where are rewards/food is essential.
+Evidence by observation that dopamine promotes LTP (basis of learning) of neural connections.
+Additionally when animals anticipate/receive rewards, increase of dopamine is measured; e.g. hungry monkey is food presented leads to dopamine burst and pairing the food presentation with a light flash#
+
+. How does an understanding of the brain's reward system help us to understand drug addiction and compulsive gambling?
+** [hiddenAnswer]#The mechanics of both are smiliar underneath: Drugs lead to activation of dopamine-receiving neurons, which are the base for reward-based learning, whereas normal rewards (food) will only trigger when unexpected, whereas drugs always ("super-learning").#
+
+. What is meant by feedback control, and how does the arcuate nucleus of the hypothalamus serve as a control center for appetite?
+** [hiddenAnswer]#A feedback control is like a thermostat connected to a heating system, it feeds back sensory information to regulate/temperature the temperature via the heating system.
+Arcuate nuclues "food-o-stat", hypothalamus raises/lowers eat drive, and itself is regulated by deficit/surplus of food.
+(Note: Leptin takes some time to do it's thing)#
+
+. (a) What is the evidence that the hormone PYY helps reduce appetite after a meal and (b) that underproduction of PYY may contribute to obesity?
+** [hiddenAnswer]#(a) Groups of people (lean and obese) were given PYY and the eat 30% less at a buffet and reported lower level of appetite. (b) Lean subjects have higher baseline of PYY than obese and exhibited more PYY after a meal.#
+
+. (a) How does the hormone leptin contribute to weight regulation, and (b) why isn't leptin a good anti-obesity drug?
+** [hiddenAnswer]#(a) Proportional to fat in cells, these cells produce lepin, which acts on the hypothalamus which is responsible for appetite. (b) It's not so much the amount of leptin (there is a maximum threshold), but the sensitivity to it which can potential control obesity.#
+
+. How do (a) conditioned stimuli and (b) the availability of many foods, (c) with different flavors, contribute to appetite and obesity?
+** [hiddenAnswer]#(a) For example dinner time used as a reflexive physiological response, producing saliva and digestive juices leading to hunger via classical conditioning, (b) evolutionary seen don't miss out a chance and eat as much as possible, (c) appetite, although already feeling full, can be renewed by different foods/tastes which is called "sensory-specific satiety" phenomena.#
+
+. (a) What is the evidence that within a culture, differences in body weight result mostly from differences in genes, but (b) across cultures, environment plays a large role?
+** [hiddenAnswer]#(a) Within Western cultures, sharing the same environment, the genes are the essential factor.
+E.g. adopted children weights' correlate more with biological than adoptive parents.
+Twins raised in different homes show the same weight. (b) E.g. Pima Indians in Arizona and their relatives in Mexico are genetically similar but are from different cultures.
+The have different environments, providing different foods.
+One is obesity very common, the other essentially absent.#
+
+. On the basis of the reports of successful dieters and the advice of appetite researchers, what can people do to maintain a healthy weight?
+** [hiddenAnswer]#By avoiding high-fat food. and greatly increase exercise (in combination! not diet alone).#
+
+. How does a person's EEG change as the person goes from alert to relaxed stages of sleep?
+** [hiddenAnswer]#Alert is beta waves (low-amplitude, fast, irregular), relaxed is alpha waves (large, regular) and sleep is delta waves (slow, irregular, high-amplitude).#
+
+. (a) How do REM and non-REM sleep differ, and (b) how do they cycle through the night?
+** [hiddenAnswer]#(a) REM happens only during stage 1 (where dreams happen, light sleep; eyes movement, rapid/irregular breath/heart rate, penile erection, twitching movements fingers/face), rather non-REM on stage 2, 3 and 4. (b) Five cycles per night, from stage 1 to 4, increasing REM sleep towards the end of the night; After about 100 minutes of "warm up" first REM reached.#
+
+. (a) What are some general characteristics of dreams that people describe when aroused from REM sleep, and (b) how do these differ from the "sleep thought" that people more often describe when aroused from non-REM sleep?
+** [hiddenAnswer]#Experienced as real, vivid, detailed dreams, woven into coherent, bizarre story. (b) It's more like daytime thinking as it lacks the vivid sensory/motor hallucinations.#
+
+. What evidence supports the preservation and protection theory of sleep?
+** [hiddenAnswer]#By comparing different animals: Horses sleep 3 hours as they are too large to hide (safe sleeping places) and eat low calory food taking most of their time.
+Bats sleep 20 hours, no need to be awake to eat high-calorie insects and rather stay protected while asleep.#
+
+. (a) What evidence supports the body restoration theory of sleep, and (b) what are some limitations of the theory?
+** [hiddenAnswer]#(a) Body repair is promoted by muscles relaxation, metabolism decrease and more growth hormones being secreted. (b) Contradictory evidence comes from birds, where sleep doesn't correlate with metabolism but with risk of predation.#
+
+. What evidence supports the theories that REM sleep promotes the maintenance of brain circuits?
+** [hiddenAnswer]#The longer one sleeps, the greater the proportion of REM sleep (REM is said to be to exercise synapses as they otherwise degenerate without active; thus fetuses also dream).#
+
+. How might dreams be explained as inevitable consequences of the state of the brain during REM sleep?
+** [hiddenAnswer]#During REM sleep **visual and motor** areas of the brain are active, by trying to make sense out of these sensations, but without proper mental capacity, making sense out of these hallucinations is less logical, hence the dream.#
+
+. (a) How does **insomnia** differ from **nonsomnia**? (b) What negative consequences occur when people fail to satisfy their sleep drive?
+** [hiddenAnswer]#(a) Both sleep less as common people, but insomnia feel tired (disorder) whereas nonsomnia feel not tired during the day. (b) People are tired, miserable, ineffective at mental tasks and cognitive decline (can't understand/think properly).#
+
+. What is some evidence that the sleep drive is affected by an **internal clock**, located in the hypothalamus, that can operate even **without external time cues**?
+** [hiddenAnswer]#Removal of the circadian rhythm generator located in the hypothalamus, will lead to sleeping at random times.
+Experiments have also shown that this rhythm stays stable (for animals and humans) in "time-free environments".#
+
+. (a) What is some evidence that the internal clock is continuously reset by daily changes in light?
+(b) Through what pathways does that resetting occur?
+** [hiddenAnswer]#(a) By artificially changing the light duration in experiments with animals, the sleep-wake cycle can be lengthened/shortened. (b) Through the visual pathway by using bright, fluorescent lights (especially blue rather white light).#
+
+. According to the definitions used here, how does **emotion** differ from **affect** and from **mood**?
+** [hiddenAnswer]#Emotion: Subjective feeling directed an object.
+Affect: Independent from object.
+Mood: Also independent from object but lasts longer.#
+
+. Through what strategy did Plutchik arrive at his model of **eight primary emotions**?
+** [hiddenAnswer]#By analyzing language, what people say how words/labels of emotions can be grouped by similarity.#
+
+. How can emotions promote **adaptive ends** through their motivating and communicative effects?
+** [hiddenAnswer]# Ultimately it's about survival and reproduction by: Communicate intentions/needs to others.
+Avoid poisonous substances through disgust.
+Same to behave appropriately and preserve self-esteem.
+Love to be faithful.
+Submission to prevent fights or call for help.
+Personal comment: Anger is an expression of pain, helps us to protect ourselves.#
+
+. (a) What is James' theory of emotion? (b) What evidence did James supply for the theory, and what modern evidence is consistent with the theory?
+** [hiddenAnswer]#(a) Opposite what common-sense would tell us: first there is the bodily reaction, and then the interpretation of it will lead to an emotion. (b) By looking inward at his own emotions, introspection ("weak evidence").
+Modern evidence comes from brain imaging, sensing the body activates the same areas as sensing emotional state.#
+
+. (a) What does Schachter's theory differ from James'? (b) How did Schachter support his theory with experiments?
+** [hiddenAnswer]#(a) It's more like the common-sense theory, where cognition changes the emotion's quality, and the bodily perception only changes the intensity/quantity. (b) By injecting epinephrine (=adrenaline), heart-beat was increased, but no emotion arised, just a feeling of "jumpy".
+Only by emotion-inducing situation, insulted or horror or comedy, people expressed more anger/fear/hilarity, than when given a placebo instead.#
+
+. What is some evidence supporting Ekman's theory that a person's facial response (a) influences the person's **feeling of an emotion** and also (b) influences the person's **bodily responses** to the emotional situation?
+** [hiddenAnswer]#(a) By holding a pencil in the mouth, leading to a forced smile, there was more enjoyment watching happy movies, than without a pencil. (b) For example by either real experiencing or faking an angry face, both will lead to an increase in skin temperature.
+Meaning: Reliving or mimicking, both lead to the same pattern.#
+
+. (a) What is some evidence that the amygdala initiates emotional reactions to stimuli and (b) that this effect can occur even without conscious awareness of the emotion-eliciting stimuli?
+** [hiddenAnswer]#(a) People without/with a damaged amygdala did not show any signs of fear/disconcern in studies when showed unsettling images.
+Also neural activity strongly correlates with physical cues of emotions. (b) People with damaged/destroyed visual/auditory cortices could still physically respond to unsettling images/sounds.#
+
+. (a) What is some evidence that the prefrontal cortex is involved in the conscious feeling of emotions, and (b) that the right and left prefrontal cortices are differentially involved with different types of emotional responses?
+** [hiddenAnswer]#(a) In the past, prefrontal lobotomy destroyed the connection between amygdala and the PFC, which was considered a cure for crippling emotions. (b) Brain imaging studies showed that positive emotions lead to more activity in the left PFC (negative right).
+Left is approaching, right withdrawal.
+It's more about neural connections, rather actual experience of emotions.#
+
+== Think Critically
+
+. How might an understanding of the **neural** mechanisms of **motivation** help you get a (a) better night's **sleep**, (b) stay on a **diet**, or (c) kick your **gambling** habit?
+** [hiddenAnswer]#Motivation stems from the neurotransmitters like dopamine (wanting) and endorphin (liking) and is highly related with parts of the hypothalamus as the "hub of the central drive systems". (a) By knowing that for example the effect on blue, bright, fluorescent light in the evening will negatively impact my light-dark cycle, and rather do such "light treatment" in the morning.
+Or potentially a melanin treatment (suprachiasmatic nucleus). (b) By decreasing the effectiveness of endorphin as it decreases the enjoyment of food.
+By learning how cues affect our behavior and impulses, and "reprogram" these cues, e.g. figuring out noon is lunch time, and prepare have an apple instead a cookie. (c) By knowing that the novelity is part of getting a higher dopamine burst, one can choose to avoid addictive games.
+Or maybe also a dopamine blocker so it won't have that big of an impact on the nucleus accumbens.#
+
+. (a) Are **emotions**, even negative ones, **useful**? (b) How might the various emotions be seen as **adaptions evolved** to solve **everyday problems**?
+** [hiddenAnswer]#(a) Yes of course, as otherwise evolution would have gotten rid of them.
+E.g.: Disgust to avoid dangerous substances/food, shame to preserve self esteem, fear to submit/prevent a fight, anger to correct a relationship. (b) Emotions communicate intentions and needs, to ultimately serve survival and reproduction.#

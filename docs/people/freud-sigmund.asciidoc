@@ -1,0 +1,16 @@
+= Sigmund Freud
+
+[#img-freud]
+.Sigmund Freud himself
+[link=https://en.wikipedia.org/wiki/Sigmund_Freud]
+image::freud-sigmund.jpg[Sigmund Freund,200,100]
+
+== Facts
+
+* Full name: Sigismund Schlomo Freud
+* Life: 1856-1939, Austria
+* Occupation: Neurologist
+
+== Achievements
+
+* Founder of psychoanalysis

@@ -1,0 +1,186 @@
+= Focus Questions
+
+. (a) What is a *reflex*, and (b) how can it change through *habituation*?
+** [hiddenAnswer]#Automatic, involuntarily response by the nervous system (spinal chord). (b) By learning/practice, we gain experience, and *get used to it*, that lessens the reflex (response).#
+
+. How did *Pavlov* discover the *conditioned response*?
+** [hiddenAnswer]#Dogs started to salivate when the heard a bell in expectation of getting food.
+Although he actually initial saw it as an experimental error he wanted to get rid of.#
+
+. (a) After his initial discovery, how did Pavlov *systematize* the process of conditioning, and (b) what *names* did he give to the relevant *stimuli and responses*?
+** [hiddenAnswer]#(a) A neutral stimulus (bell) doesn't lead to a response.
+After pairing with an unconditioned stimulus (food), it becomes a conditioned one, and leads to a response. (b) Neutral stimulus and un-/conditioned stimulus/response.#
+
+. (a) How can a conditioned response be *extinguished*? (b) What evidence led Pavlov and others to conclude that extinction does *not return* the animal to its *original*, untrained state?
+** [hiddenAnswer]#(a) By stopping providing the expected unconditioned response (food) when exposing the conditioned stimulus (bell).
+PS: It's not really extinct, but inhibited, and can be disinhibited. (b) After a while, the extinction is being forgot, as a "spontaenous recovery" can occur (experiment with dogs and food again).#
+
+. (a) How can generalization in classical conditioning be abolished through *discrimination training*? (b) How can discrimination training be used to assess an animal’s *sensory capacities*?
+** [hiddenAnswer]#(a) Generalization = Not only conditioned stimulus, but also similar stimuli; e.g. black vs gray square.
+Discrimination training is reinforcing one, but not the other (yet similar) stimulus; training to be more precise, rather "general" (imprecise). (b) The response shows which stimuli was identified as the "right one", thus proving the precision of senses.#
+
+. How do we know that *generalization* in classical conditioning can be based on the *meaning* of a stimulus, not just on its *physical characteristics*?
+** [hiddenAnswer]#Subjective similarity is an index for generalization as shown in the experiment where people were given lemon juice in their mouths while given words like "style, urn, freeze, surf", and when presented similar words like "fashion, vase, chill, wave" (similar meaning) they salivated even more than with "stile, earn, frieze, serf" (similar physical).#
+
+. (a) What were the characteristics of early North American *behaviorism*?
+(b) Why were *Pavlov*’s findings on conditioning particularly *appealing* to behaviourists?
+** [hiddenAnswer]#(a) Focused on observables (environment/stimuli and reactions/responses, rather mental entities (which can't be observed). (b) Pavlov provided the foundation of observable behavior, through showing that learning can be objectively studied through stimulus-response.#
+
+. (a) How did Pavlov’s S-S theory of classical conditioning differ from Watson’s S-R theory?
+(b) How does an experiment involving habituation of the unconditioned stimulus support the S-S theory?
+** [hiddenAnswer]#Watson claimed that a conditioned stimulus elicits a conditioned response (S-R), a direct connection.
+Whereas Pavlov claimed that there is an intermediate mental representation of a stimulus (bell triggers idea of food).#
+
+. How does the cognitive construct of *expectancy* help explain the ways in which conditioned differ from unconditioned responses?
+** [hiddenAnswer]#The mental construct of expecting the unconditioned stimulus ("there will be food soon most likely") is the thing we respond to, rather the stimulus itself.
+E.g. the conditioned is salivating, tail wagging, whereas unconditioned is salivating, chewing and swallowing.
+Conditioning is not just a stupid process, but an a-priori, built-in neuronal, automatic information seeking one, building up logical and perceptual relations.#
+
+. (a) What are three conditions in which the pairing of a new stimulus with an unconditioned stimulus does not result in classical conditioning? (b) How do these observations support the idea that classical conditioning is a process of learning to predict the onset of the unconditioned stimulus?
+** [hiddenAnswer]#(a) Conditioned comes right after unconditioned stimulus.
+The ratio is too low between pairing and non-pairing.
+If there is another stimulus already, called then "blocking effect". (b) All three classes include the concept of time and probability, automatic computations for expectation/prediction.
+See: good, poor and redundant predictor.#
+
+. How did Watson demonstrate that the emotion of *fear* can be *conditioned*?
+** [hiddenAnswer]#By the most famous, yet ethically doubtable, experiment called "Little Albert".
+Whenever he was presented a furry object, they would sound a big noise (banging on a metal stick), until he was afraid to get even close to any furry object (rat, rabbit, teddy).#
+
+. How can the appetizer effect and *sudden cravings* for specific foods be explained in terms of classical conditioning?
+** [hiddenAnswer]#Appetizer effects through dinner bell, clock, smell of food induces a state of hunger: digestive juices, hormones, and so on.
+Sudden cravings occur by pairing through sounds (jingles) or symbols (golden McDonald's arch).#
+
+. (a) How has sexual arousal been conditioned in humans and other animals? (b) What is the evidence, from experiments with nonhuman animals, that such conditioning promotes success in reproduction?
+** [hiddenAnswer]#(a) By showing porn and using vibrators, and pairing them with neutral stimulus, like pictures of pennies, it was shown that sexual arousal happens, by measuring penile erection and vaginal blood flow increase. (b) Presenting a female would increase sperm production and thus ejaculation afterwards, increasing offspring.#
+
+. Why is conditioned response to a drug-related stimulus often the opposite of the direct effect of the drug?
+** [hiddenAnswer]#Because of a reflexive, compensatory reaction of the body, to counteract the direct effect of the drug, and restore normal bodily state.
+Counteract even before it happened.#
+
+. (a) How does classical conditioning contribute to the development of drug tolerance? (b) Why is it dangerous for a drug addict to take his or her usual drug dose in an unusual environment?
+** [hiddenAnswer]#(a) Again the compensatory reaction, counteracting the direct effect, effectively building up tolerance, through conditioning. (b) Because the compensatory does not happen.
+The usual location creates expectation, thus the body can prepare, but in an unusual location, the body won't prepare and will not be able to deal with the "regular" dose.#
+
+. How does classical conditioning help explain drug relapse after an addict returns home from a treatment center?
+** [hiddenAnswer]#A treatment center lacks the cues they are usually exposed to when at home, thus when at home, they start to take the drug again.
+Interesting, when American soldiers got heroin addicted in Vietnam, they weren't anymore when they were back home.#
+
+. (a) How did Thorndike train cats to escape from a *puzzle box*? (b) How did this research contribute to Thorndike’s formulation of the *law of effect*?
+** [hiddenAnswer]#(a) By putting food outside of the box to a food deprived cat, with an openable door through stepping on a tab. (b) It showed that once put in a situation, acting in a specific way leading to a desirable outcome, that behavior will be strengthened and more likely to reoccur the next time when being in the same situation.#
+
+. (a) How did Skinner’s method for studying learning differ from Thorndike’s, and (b) why did he prefer the term reinforcement to Thorndike’s satisfaction?
+** [hiddenAnswer]#(a) Skinner boxes were superior, as the animal stayed inside the box, whereas with Thorndike's puzzle boxes, the animal had to be put in after it solved the puzzle.
+Additionally, Skinner's vocabulary was more sophisticated as he coined many new terms. (b) As reinforcer has no assumptions about happenings in the mind (no good/bad judgement), over satisfaction or reward.#
+
+. (a) How do we know that people can be *conditioned* to make an operant response *without awareness* of the conditioning process? (b) How is this relevant for understanding how people acquire *motor skills*?
+** [hiddenAnswer]#(a) Because of experiments, such as people hearing static over music, and be thumb twitching they could stop the static noise, but when being asked, they wouldn't be able to explain doing this. (b) It happens to all of us, for example when learning riding the bicyle, we also don't know exactly how it works, still we can do it.
+Or the neophyte carpenter, after hours of practicing hammering said: "_The nails you're giving me now don't bend as easily as the ones you were giving me before._"#
+
+. How can we use operant conditioning to get an animal to do something that it currently doesn’t do?
+** [hiddenAnswer]#By using *shaping*, reinforcing step-by-step getting closer to the desired response until it finally occurs.#
+
+. In what ways is extinction in operant conditioning similar to extinction in classical conditioning?
+** [hiddenAnswer]#In both there is no true unlearning, and the phenomena of spontaneous recovery can occur.#
+
+. (a) How do the four types of partial-reinforcements *schedules* differ from one another, and (b) why do responses generally occur *faster* to *ratio* schedules than to interval schedules?
+** [hiddenAnswer]#(a) Fixed-ratio: Every n-th response.
+Variable-ratio: Random n-th response.
+Fixed-interval: Fixed n-th time-unit.
+Variable-interval: Random n-th time-unit.
+Variable schedules are not truly random, but rather are around an unpredictable average. (b) Ratio schedules can be affected by the subject, they have an *influence*, thus leading a more rapid response, thus more addictive.#
+
+. How do variable-ratio and variable-interval schedules produce behaviour that is highly resistant to extinction?
+** [hiddenAnswer]#When reward drops abruptly, there will be a burst and then they quit.
+But if slowly lower the variability, there will be hundreds attempts before quitting.
+They learned to be persistent.#
+
+. How does negative reinforcement differ from positive reinforcement?
+** [hiddenAnswer]#Negative: Stimulus removed (shock turned off).
+Positive: Stimulus presented (food given).#
+
+. (a) How does punishment differ from reinforcement, and (b) how do the two kinds of punishment parallel the two kinds of reinforcement?
+** [hiddenAnswer]#(a) Punishment decreases likelihood of a response. (b) They are parallel as stimulus are presented/removed the same way, but just pleasant and unpleasant are oppositional (food given VS shock on. shock off VS remove food)#
+
+. How can an animal be trained to produce an operant response only when a specific cue is present?
+** [hiddenAnswer]#By using discrimination training, which uses a discriminative stimulus (which gets rid of generalization).
+E.g. only when a tone sounds, the rat will get food.#
+
+. How was discrimination training used to demonstrate that pigeons understand the concept of a tree?
+** [hiddenAnswer]#By pecking a key for grain whenever a picture of a tree was shown.
+They even got it right when it was not green, or had no leaves on it.
+They didn't peck when it was only a bunch of leaves for example.#
+
+. Why might a period of reward lead to a subsequent decline in response rate when the reward is no longer available?
+** [hiddenAnswer]#Because we do it for the reward, rather for the sake of doing it.
+So reward gone, there is no motivation in doing it.
+Also called: Overjustification effect.#
+
+. How are Skinner’s techniques of operant conditioning being used to deal with *problem behaviours*?
+** [hiddenAnswer]#Using "Applied behavior analysis", where desired target behavior is defined, and by successive approximations behavior is changed, by giving praise for marginal amount of improvement and removing reinforcement for disruptive behavior.
+Secondly via a "token economy", rewarding with an internal currency which can be exchanged for things like product or privileges, which is often used with autism and ADHD (intellectual impairments).#
+
+. (a) What is Groos's theory about the evolutionary function of animals' play, and (b) what are five lines of evidence supporting that theory?
+** [hiddenAnswer]#(a) To practice instincts. (b) Young play more than older, they ones need more play more, play more at skills most needed, repetition, and it's challenging#
+
+. How does *exploration* differ from *play* in its evolutionary function?
+** [hiddenAnswer]#Play is learning it do it (skill), exploration (curiosity) is learning about it (information).#
+
+. (a) How do rats explore a novel environment? (b) How did Tolman and subsequent researchers show that rats learn useful information in their exploration?
+** [hiddenAnswer]#(a) By balancing fear and curiosity, once safe, they start "patrolling" to see whether something has changed. (b) Rats learn the pathways of a maze, which could be showed by experiments on averrage errors in a maze.#
+
+. (a) How does observation of skilled performers help animals learn new operant tasks? (b) How does imitation differ from stimulus enhancement, goal enhancement, and emulation?
+** [hiddenAnswer]#(a) By mapping observed action onto one's own movement control system. (b) To imitate, one must observe, remember, (exactly) reproduce; which is (likely) only done by humans.
+Animals rather emulate (skipping irrelevant tasks).
+"Stimulus enhancement" increased attractiveness of objects (lever).
+"Goal enhancement" increased drive to obtain rewards (food).#
+
+. What is evidence that chimpanzees transmit cultural traditions from generation to generation?
+** [hiddenAnswer]#Tool design and mating displays are specific to groups, seem arise from cultural tradition, rather environmental.#
+
+. (a) What are two ways in which food-aversion learning differs from typical examples of classical conditioning? (b) How do these differences make sense in terms of the function of such learning?
+** [hiddenAnswer]#(a) With food-aversion the effect can be much longer delayed (hours, days), rather than with classical conditioning (seconds).
+For classical conditioning the stimuli will be simply the same, whereas with food-aversion the stimuli can be slightly different (looks don't matter, rather taste/smell, indicating chemical components). (b) Food poisoning kicks in delayed, so immediate conditioning (like in classical) won't "build a bridge" (connection/association).
+It has to be specific, otherwise we would miss out many other foods (overdoing aversion).#
+
+. How has flavor-preference learning been demonstrated in humans?
+** [hiddenAnswer]#The experiment where two groups were given two equally tasty foods, but the one was higher in calorie and were rated up over them, whereas the other lower calorie food was same/lower rating over time.#
+
+. How do rats and people learn food preferences by attending to others of their kind?
+** [hiddenAnswer]#Rats sniff at the mouths of other rats to figure out what they ate.
+Humans don't learn by smelling breath, but by observing what others eat.
+And even when still in the womb, we get preferences in diet (experiment with anise consuming mothers).#
+
+. In sum, what has natural selection imparted to young omnivores about food selection?
+** [hiddenAnswer]#Eat what elders eat (observational learning).
+Remember food's taste/smell (associative learning).
+Teaches out how to learn what to eat (not directly what to eat).#
+
+. What is some evidence that people and monkeys are biologically predisposed to learn to fear some things more easily than other things?
+** [hiddenAnswer]#People are more likely to fear a snake rather than a gun.
+Monkeys watching movie clips of other monkeys being afraid of snakes, they got afraid of (toy/real) snakes, but the same did NOT happen with flowers or rabbits.#
+
+. (a) What aspects of a young fowl’s (bird, chicken, goose) ability to follow its mother depend on learning, and (b) how is that learning guided by inborn biases?
+** [hiddenAnswer]#(a) It involves on experience, as with exposing animals still in eggs to sounds, after they hatch, they will approach the loudspeaker where the sound comes from, otherwise go randomly to a loudspeaker. (b) Because of imprinting (to stamp in learning), the first thing they see (within the critical period), they will see it as the mother.
+Reason is, they can walk right after birth, and easily get lost, thus important to stick with the mother.
+They will also more likely follow something that looks more similar to them (characteristics typical of a mother bird of the species).#
+
+. (a) What is the Westermarck effect, and (b) what evidence is there that it is based on early cohabitation?
+** [hiddenAnswer]#(a) Children, acrosss all cultures, who were raised in the same household, rarely ever marry.
+Early familiarity leads to lack of sexual attraction (incest inhibition effect). (b) In kibbutzim, boys and girls are raised together which don't share blood, and they rarely engage in sexual intercourse when they grow older.
+PS: Sexual imprinting: Early experiences influence sexual preferences.#
+
+== Think Critically
+
+. Can research on conditioning using rats and pigeons as subjects really tell us anything about how humans learn?
+Why, or why not?
+** [hiddenAnswer]#Yes, because rats are genetically very similar to us.
+They are also mammals, thus analogous to us.
+No, because humans are way more complex beings, and even their brains are different.
+Even among people there are substantial differences.
+Speaking of college students and WEIRD, representativity.
+We always talk about indications, probability, never certainty.#
+
+. (a) Is play "childish" and essentially useless other than for keeping children amused? (b) Modern schools are increasingly reducing opportunities to play during the day.
+From an educational perspective, why might this be a good or not so good thing?
+** [hiddenAnswer]#(a) Clear no, as we learn by playing, we practice in a safe way, like play fight to prepare for later real fights. (b) Not so good, as play increases motivations, preferrably intrinsic motivation (overjustification).
+Also play helps children interact with each other.#

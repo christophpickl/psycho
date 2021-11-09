@@ -1,0 +1,16 @@
+= Exams
+
+* link:exams/exam1.html[Exam 1]
+* Exam 2
+
+== Oefenententamen (Dutch)
+
+* link:exams/oefenententamen_1a.html[Deel Ia]
+* link:exams/oefenententamen_1b.html[Deel Ib]
+* Deel IIa
+* Deel IIb
+
+== Other Universities
+
+* link:exams/leiden.html[Leiden] 2018
+* link:exams/va.html[Vrije Universiteit Amsterdam] 2013

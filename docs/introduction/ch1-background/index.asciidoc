@@ -1,0 +1,226 @@
+= Chapter 1 - Introduction
+
+Subpages::
+
+* link:focus_questions.html[Focus Questions]
+
+.Mindmap of chapter 1 (link:https://app.wisemapping.com/c/maps/1201227/edit[Source])
+[link=images/mindmap.png]
+image::images/mindmap.png[Mind Map,100%,100]
+
+== Keywords
+
+- *Association by Contiguity*: Two consecutive events will be linked together
+- *British Empiricism*: No free will, reflection of experiences (link:/people/locke-john.html[Locke], link:/people/hume-david.html[Hume])
+- *Dichotomy*: Partition of a whole into parts (two parts = bi-partition)
+- *Dualism*: Material body and immaterial soul/mind (link:/people/descartes-rene.html[Descartes])
+- *Empiricism*: Learning by senses; no "human nature" but adapt only
+** *Tabula Rasa*: It's all experience, we are a blank slate; by link:/people/locke-john.html[Locke] ("furnished mind") and John Stuart Mill
+- *Level of Analysis*: The way/perspective one can take to reason/understand a certain (psychological) phenomena
+- *Materialism*: Matter is the fundamental substance in nature (link:/people/hobbes-thomas.html[Hobbes])
+** All just brain/reflexes; Extreme: *Reflexology*; (link:/people/pavlov-ivan.html[Pavlov])
+** Localization of function in the brain; link:/people/broca-paul.html[Broca]('s area); Extreme: *Phrenology*
+- *Natural Selection*: Beneficial traits stay, others die; evolve gradually; survive and reproduce; common misconceptions
+- *Nativism*: counterpart empiricism; nurture VS nature; a priori knowledge
+- *Phrenology*: A link:/meta/science.html[pseudoscience] claiming infer personality by feeling bumps on the skull.
+By Franz Joseph Gall.
+- *Three fundamental ideas for psychology*: physical, environment, evolution; by link:/people/leibniz-gottfried_wilhelm.html[Leibniz], inborn; link:/people/kant-immanuel.html[Kant]'s a priori/posteriori
+
+== Keypeople
+
+- link:/people/broca-paul.html[Paul Broca]: When people suffer an injury on brain's left hemisphere, they can't speak but don't lose any other mental ability.
+- link:/people/darwin-charles.html[Charles Darwin]: Humans are part of the natural world and can be understood through the methods of science.
+- link:/people/descartes-rene.html[René Descartes]: His version of dualism prepared psychology as a science, by attributing many processes to the material human body, away from the soul.
+- link:/people/hobbes-thomas.html[Thomas Hobbes]: With his "materialism", he was even going further than Descartes, stating everything is physical.
+- link:/people/hume-david.html[David Hume]: One of the british empiricist.
+- link:/people/kant-immanuel.html[Immanuel Kant]: In "nativist philosophy" a priori is distinct from a posteriori knowledge.
+- link:/people/locke-john.html[John Locke]: One of the british empiricist; Known for his "Tabula Rasa" idea
+- link:/people/pavlov-ivan.html[Ivan Pavlov]: Started with the localization of function in the brain.
+- link:/people/wundt-wilhelm.html[Wilhelm Wundt]: Formally started psychology 1879 as a scientific discipline.
+
+== Definitions
+
+Psychology::
+Science of behavior and mind. +
+Etymologically from the Greek words link:https://www.etymonline.com/word/psyche[psykhē] (=breath, spirit, soul) and link:https://www.etymonline.com/word/-logy[logia] (=study of).
+
+Behavior::
+The *observable actions* (of a person/animal).
+
+Mind::
+Individual's *subjective experiences*, such as: Sensations, perceptions, memories, thoughts, dreams, motives, emotions...
+
+Science::
+Systematic *collection* and logical *analysis* of objectively observable *data* (plus inference of them).
+
+== Fundamental Ideas
+
+Before we had formal psychologist, there were: philosophers, physicists, physiologists, naturalists.
+
+The 3 fundamental ideas on causation of behavior are:
+
+. *Physical causes*, which can be studied scientifically, determine behavior and mental experiences.
+** link:#sec-dualism[Dualism], link:#sec-materialism[materialism]; Body, matter, reflexes, link:#sec-brain_function_localization[localization]; Natural world.
+. *Experience*: The *environment* is modifying over time our behavior, thoughts and feelings.
+** (British) link:#sec-empiricism[Empiricism] VS link:#sec-nativism[Nativism]; blank slate, sensory, association; law of association by contiguity, complex thoughts
+. *Evolution* produces the body's machinery, which produces behavior and mental experiences.
+** Natural selection, survival/reproduction, function of behavior
+
+[#sec-dualism]
+== Dualism
+
+* Definition:
+** The body is like inanimate matter, can be studied scientifically.
+** The mind is a supernatural entity, thus cannot be studied scientifically.
+* Religious doctrine forbid challenge of dualism (possibly punished by death).
+
+=== Descarte's Version
+
+* link:/people/descartes-rene.html[René Descartes], was the first who dared to challenge the dualistic view.
+* He saw the body as a complex machine, not necessarily needing a soul to operate.
+** Thus called a: "_machine-oriented version of dualism_" (more focus on body).
+* His understanding of nerves and reflexes (threads and fluids) come very close to our current understanding.
+* He concluded, if a dog can do human activities (eat, sleep, drink, occasionally going in circles), and a dog has no soul, then some of our activities are purely mechanically as well.
+* BUT: Humans have one essential ability, which is *thinking*, a là: "_Cogito, ergo sum_".
+* Thinking soul was located in a small organ in the brain (nowadays called the pineal gland).
+* His theory is still popular today, as it doesn't violate with religious beliefs and intuitive feelings.
+* BUT: It has serious *limitations*:
+** Philosophical: How can a non-material entity (soul) have an effect on a material one (body)?
+** Philosophical: How can the body follow natural laws, yet be moved by a soul which does not?
+** Psychological: Thought (and behavior guided by it) are the products by a willful soul, thus cannot be scientifically studied.
+
+[#sec-materialism]
+== Materialism
+
+* English philosopher link:/people/hobbes-thomas.html[Thomas Hobbes] was going even further.
+* He came up with the idea of *Materialism*:
+** The soul (or "spirit" as he called it) is a meaningless concept.
+** Nothing exists but matter and energy (pure bodily).
+* The consequences of this are:
+** All human behavior can be understood in terms of physical processes in the body (brain).
+** Everything is subject to natural laws.
+** There is no (theoretical) limit to psychological scientific studies.
+* This lead to the inspiration to a next school of thought: *Empiricism*
+
+.A 17th century mechanical, humanoid clock. Like computers today, a symbol of technological achievement, which inspired Descartes and Hobbes of their view of a mechanical human.
+image::images/humanoid_clock.jpg[Humanoid Clock,200,100]
+
+== Man as a Machine
+
+[#sec-reflexology]
+=== Reflexology
+
+* Early 18th century, considerable progress in *physiology*: The study of the body's machinery.
+* Especially the nervous system and reflexes.
+** Understanding of reflexes was important for the emergence of psychology.
+** CNS (Central Nervous System) consisting of brain and spinal cord.
+** PNS (Peripheral Nervous System) connecting the CNS with sense organs and muscles.
+** Spinal cord containing two pathways:
+*** Afferent/Sensory: From sensory receptors to the CNS.
+*** Efferent/Motor: From CNS to the muscles.
+* Simple reflexes are based on neural connections.
+** Certain brain areas (when active) can enhance/inhibit such reflexes.
+* Reflexology: All human behavior is determined by (complex) reflexes, stimulated by the environment.
+** By russian physiologist I. M. Sechenov, who later inspired link:/people/pavlov-ivan.html[Pavlov]'s work.
+
+[#sec-brain_function_localization]
+=== Brain Function Localization
+
+* 19th century another advance in physiology: Specific brain parts serve specific functions.
+** Different sensory experiences, by different sense organs, excite different parts.
+* link:/people/broca-paul.html[Paul Broca] found evidence, damage to an area (named after him) would lose ability to speak, but not lose other mental abilities.
+* This relationship of mind and body gave basis to the idea of a material basis for mental processes.
+** Some took it even that far (Franz Joseph Gall) that by feeling bumps on the skull, they could infer size of various areas, thus describe a person's psychological characteristics.
+A pseudoscience called "Phrenology"
+
+.An extreme: *Phrenology*, claiming identify personality based on skull surface.
+image::images/phrenology_localization.jpg[Phrenology,300,100]
+
+[#sec-empiricism]
+== Empiricism
+
+* 17th century in England, the school of thought of *British empiricism* emerged by the materialist philosophy.
+* Represented by link:/people/locke-john.html[John Locke], link:/people/hume-david.html[David Hume], link:/people/hobbes-thomas.html[Thomas Hobbes], Francis Bacon as well as John Stuart Mill (Utilitarianism).
+* It states: All knowledge and thought are derived from sensory experience.
+** The *Law of Association by Contiguity* (initially by Aristotle) states that: Two events contiguously (same, or right after) will be associated (bound together) in the mind, thus in the future, when one event occurs the other will be provoked.
+* A child's mind is blank ("*Tabula Rasa*"), and experience writes on it, fills the blank slate.
+** Locke also referred to the mind as a "unfurnished room".
+** Thus: There is no "human nature", we only adapt our behavior to demands of the environment.
+
+.*Law by Contiguity*: Empiricism states that an apple is a complex idea, consisting of many sensations like shape, color and taste.
+image::images/law_by_contiguity-apple.jpg[Law by Contiguity,300,100]
+
+[#sec-nativism]
+== Nativism
+
+* The anti-movement to Empiricism.
+* We do have an innate ability to learn.
+** Especially the inborn ability to learn language.
+* Biggest represent is link:/people/kant-immanuel.html[Kant]:
+** A priori (with birth) VS a posteriori (learning) knowledge.
+** We get born with a "pre-furnished room" on the basis of Locke's metaphor.
+
+[#sec-evolution]
+== Evolution
+
+* All about survival and reproduction.
+* Natural selection supports nativism view.
+* All about random changes (mutations).
+** Function of behavior.
+** Adaptation to environment.
+
+== Scopes, Level of Analysis
+
+We can identify 9 level of causal analysis (they complement and integrate each other), whereas the first 4 are biological, the others are not:
+
+[width="70%"]
+[cols="1,10,1"]
+|=======
+|Area |Description |Cause
+
+|*Neural* |behavioral/cognitive neuroscience, EEG/PET, fMRT, brain areas (active / inhibit / damage) |Brain
+|*Physiological* |biopsychology (physiological psychology); growth, emotions | internal chemical functions (hormones/drugs)
+|*Genetic* |behavioral genetics; modification; compare DNA (genes correlate => similar traits), twins |Genes
+|*Evolutionary* |why evolved/actual routes; function/benefit (survive+reproduce) |Natural Selection
+|*Learning* |modifiable by experiences; learning (behavioral) psychology | Experience from environment
+|*Cognitive* |un/conscious thoughts/beliefs/memories; never measured, only inferred (experience -> knowledge -> behavior) |Knowledge, believe
+|*Social* |cooperative animals; other perception/approval; role models; social conformity/norms/pressure/cognition |Influence of others
+|*Cultural* |culture = group's customs/beliefs; broader than social psychology (history, economy, religion, philosophy) |Surrounding culture
+|*Developmental* |predict by age; sequence of changes; language development |Age-related changes
+|=======
+
+Other specialities can be grouped by topic (rather level of analysis), like: Sensory psychology, psychology of motivation, personality psychology, abnormal psychology, et cetera.
+
+[#sec-scientific_revolution]
+== Scientific Revolution
+
+It all began in *ancient Greece*:
+
+* "Know thyself", as written at the shrine of the Oracle of Apollo at Delphi, 600 BC.
+* Aristotle: "all knowledge is attained through experience" => Empiricism
+* After Greeks, nothing happened until 15th (Renaissance) and 18th (Enlightenment) century.
+
+Then it turned into a *mature science*:
+
+* Psychology became a formal, recognized, scientific discipline in 1879.
+* In Leipzig, link:/people/wundt-wilhelm.html[Wilhelm Wundt] opened the first university-based psychology laboratory.
+* *Professions* include:
+** Academic: Research
+** Clinical: Health, hospital
+** School: Supervision
+** Business: Recruitment
+** Government: Counseling
+
+It's a *hub science* connecting the three other sciences:
+
+. Natural Sciences
+. Social Sciences
+. Humanities
+
+[#img-science_hub]
+.Psychology as a Science Hub
+image::images/science_hub.png[Science Hub,500,100]
+
+== Additional Resources
+
+* https://nobaproject.com/modules/history-of-psychology

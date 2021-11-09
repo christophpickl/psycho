@@ -1,0 +1,205 @@
+= Oefententamen Universiteit Leiden 2018
+
+Questions marked with a "⚠️" I got wrong once.
+
+. In zijn *dualistische filosofie* ging Descartes er van uit dat gedrag dat mensen en dieren gemeenschappelijk hebben (zoals het zich kunnen bewegen) veroorzaakt moet zijn door \\__ en niet door __.
+.. De spieren; de zintuigen.
+.. Het lichaam; de ziel ("soul").
+.. De zintuigen; de spieren.
+.. De ziel ("soul"); het lichaam.
+** [hiddenAnswer]#b.#
+. De ideeën van Thomas Hobbes droegen bij aan het ontwikkelen van een filosofie die bekend staat als het *empirisme*.
+Bij het empirisme staat de volgende gedachte centraal:
+.. Elementaire ideeën zijn *aangeboren* en hoeven niet verworven te worden door ervaringen.
+.. Alle menselijke kennis komt uiteindelijk voort uit zintuigelijke waarneming ("sensory *experience*").
+.. De waarneembare handelingen van mensen en dieren moeten worden bestudeerd, *niet* de zintuigelijke waarneming ("sensory *experience*").
+.. Er kan *geen relatie* gelegd worden tussen het menselijk *denken* en menselijke *ervaringen*.
+** [hiddenAnswer]#b.#
+. Menselijk gedrag kan binnen de psychologie vanuit verschillende *perspectieven* worden bestudeerd.
+Een psychologe die in haar onderzoek naar seksuele jaloezie de nadruk legt op de rol van onze overtuigingen ("*beliefs*") en interpretaties heeft blijkbaar gekozen voor een ...
+.. Genetische benadering
+.. Neuronale benadering
+.. Cognitief-psychologische benadering
+.. Ontwikkelings-psychologische benadering
+** [hiddenAnswer]#c.#
+. Welke filosofie kan worden gezien als *tegengesteld* aan het empirisme ("*Empiricism*")?
+.. Het dualisme.
+.. Het nativisme.
+.. Het materialisme.
+.. Het expirisme.
+** [hiddenAnswer]#b.#
+. Op een basisschool worden kinderen getest op hun sociale vaardigheid en worden vragen gesteld over hun vrijetijdsbesteding.
+Uit het onderzoek blijkt dat kinderen die *veel naar soaps kijken sociaal vaardiger* zijn dan kinderen die dat minder doen.
+De onderzoekers doen de aanbeveling om *kinderen meer naar soaps* te laten kijken om hun sociale vaardigheden te stimuleren.
+Deze aanbeveling is \\__ omdat het hier gaat om __ onderzoek.
+.. gerechtvaardigd; experimenteel.
+.. gerechtvaardigd; correlationeel
+.. niet gerechtvaardigd; experimenteel
+.. niet gerechtvaardigd; correlationeel
+** [hiddenAnswer]#d.#
+. "*Scepticisme*" betekent in de wetenschap:
+.. het weigeren een theorie te geloven die in *tegenspraak* is met gegevens uit *eerder onderzoek*.
+.. het zoeken naar *alternatieve verklaringen* en bewijzen die een theorie kunnen weerleggen, zelfs als het om je *eigen theorie* gaat.
+.. *zorgvuldig* observeren en het *accuraat* vastleggen van gegevens.
+.. *geen persoonlijke* vooroordeel ("*biases*") of overtuigingen hebben.
+** [hiddenAnswer]#b.#
+. Wanneer de *genetische invloed* op een bepaald kenmerk is toe te schrijven aan het gecombineerde effect van een *groot aantal genen*, dan noemen we die eigenschap ...
+.. dominant.
+.. recessief.
+.. heterozygoot.
+.. polygeen.
+** [hiddenAnswer]#d.#
+. Als een soort "shorthand" (verkorte notatie) spreken onderzoekers soms over genen "voor" artistieke aanleg of over *genen "voor" intelligentie*.
+Wat ze dan bedoelen is dat:
+.. die genen van invloed zijn op de *fysiologische processen* die *bijdragen* aan artistieke of intellectuele vaardigheden.
+.. die genen die vaardigheden *direct veroorzaken*.
+.. deze vaardigheden *niet* worden beïnvloed door de *omgeving*.
+.. in de *evolutie* deze vaardigheden de kans op *overleving* hebben verhoogd.
+** [hiddenAnswer]#a.#
+. De opvatting dat *gedrag* wordt *bepaald door de genen* en nauwelijks te beïnvloeden is door de directe omgeving en de culturele achtergrond wordt door Gray de __ genoemd.
+.. deterministic fallacy
+.. naturalistic fallacy
+.. hindsight fallacy
+.. panglossian fallacy
+** [hiddenAnswer]#a.#
+. ⚠️ Stel dat er een zeldzaam *recessief gen* (n) bestaat, dat als het tot uiting komt een ernstige afwijking veroorzaakt.
+Het veel vaker voorkomende allel (N) is dominant.
+Hoeveel procent kans heeft een kind met een *(Nn)* ouder en een *(NN)* ouder om het zeldzame gen te krijgen?
+.. 100 procent.
+.. 50 procent.
+.. 25 procent.
+.. 0 procent.
+** [hiddenAnswer]#b.#
+. Duidelijke *altruïstische* handelingen waarbij *niet-familieleden* net zo vaak geholpen worden als familieleden kunnen het best verklaard worden door ...
+.. de kin selection theorie.
+.. de reciprocity theorie.
+.. zowel de kin selection als de reciprocity theorie.
+.. het sociaal Darwinisme.
+** [hiddenAnswer]#b.#
+. Waarin vertoont de *Law of Effect* van Thorndike gelijkenis met de idee van natuurlijke selectie uit de evolutietheorie?
+.. Beide impliceren dat soorten *fysieke veranderingen* kunnen ondergaan.
+.. Beide impliceren dat alleen de gedragingen met *gunstige consequenties blijven* voortbestaan.
+.. Beide verwerpen het model van *klassiek conditioneren*.
+.. Zowel a, b als c zijn juist.
+** [hiddenAnswer]#b.#
+. De techniek binnen de klassieke en operante *conditionering* die gebruikt wordt om de zintuigelijke vermogens van een dier (bijvoorbeeld het al dan niet kunnen *onderscheiden van twee kleuren*) te bestuderen, heet:
+.. shaping.
+.. uitdoving (extinction).
+.. generalisatie.
+.. discrimination training.
+** [hiddenAnswer]#d.#
+. Een *verlegen persoon* heeft erin toegestemd om *gedag te zeggen* tegen tien mensen die hij gedurende de dag tegenkomt.
+Als deze begroetingen beantwoord worden met vriendelijke reacties is de verlegen persoon *meer geneigd* om in de toekomst iemand te *begroeten*.
+Deze procedure is een therapeutisch gebruik van:
+.. habituatie.
+.. klassieke conditionering.
+.. operante conditionering.
+.. observationeel leren.
+** [hiddenAnswer]#c.#
+. ⚠️ Één mogelijke interpretatie van *Pavlov's experimenten* met honden is, dat de honden leerden dat ze na de geconditioneerde stimulus (conditioned stimulus) voedsel konden verwachten, en dat deze verwachting (*expectation*) vervolgens tot het speekselen leidde.
+Deze interpretatie past het best in welke benadering van leren?
+.. Watson's traditionele S-R (stimulus-respons) benadering.
+.. De cognitief-psychologische benadering.
+.. De ecologische benadering.
+.. De operante-conditionerings benadering.
+** [hiddenAnswer]#b.#
+. *Neurotransmitters* ...
+.. dragen een *actiepotentiaal* van de dendriet via het *cellichaam* over op het axon.
+.. beïnvloeden de *snelheid* waarmee de actiepotentiaal zich langs het axon voortbeweegt.
+.. dragen de zenuwimpuls vanuit de eindknopen (terminal buttons) via de synaptische spleet (*synaptic cleft*) over op de *dendriet van een andere* zenuwcel.
+.. zijn chemische boodschappers die via het *bloed* specifieke *hersengebieden activeren*.
+** [hiddenAnswer]#c.#
+. Iemand die kenbaar maakt dat hij boodschappen heeft gedaan zegt: "*Koop brood winkel*".
+Deze persoon heeft waarschijnlijk ...
+.. een stoornis in het gebied van Broca (*Broca's aphasia*).
+.. Een stoornis in het gebied van Wernicke (*Wernicke's aphasia*).
+.. Een *split-brain* operatie achter de rug.
+.. Een beschadiging in de *hippocampus*.
+** [hiddenAnswer]#a.#
+. ⚠️ Voorafgaand aan het proces van conditioneren krijgt een hongerige hond *af en toe* een bel te horen en ontvangt af en toe wat voedsel.
+Na het proces van conditioneren – waarin het voedsel voorspelbaar volgde op het luiden van de bel – is die hond gaan speekselen als reactie op de bel alleen.
+Wat is er bekend over wat er in de loop van dit proces in het brein gebeurt?
+.. *Voorafgaand* aan het *conditioneren* komt er *dopamine* vrij in de nucleus accumbens zodra het dier het geluid van de *bel* hoort.
+.. Als het die *geconditioneerd* is komt er *dopamine* vrij in de nucleus accumbens zodra het dier het *voedsel ontvangt*.
+.. Alternatieven a en b zijn beide juist.
+.. Alternatieven a en b zijn beide onjuist.
+** [hiddenAnswer]#d.#
+. Terwijl je bijna lag te slapen hoorde je opeens gekras op je raam.
+Op dat moment begon je *hart sneller* te bonken.
+Welk gedeelte van je zenuwstelsel is verantwoordelijk voor deze reactie?
+.. Het *parasympatische* gedeelte van het autonome zenuwstelsel.
+.. Het *sympathische* gedeelte van het autonome zenuwstelsel.
+.. Het *skeletal motor* stelsel.
+.. Het *cerebellum*.
+** [hiddenAnswer]#b.#
+. ⚠️ Wanneer wij ons concentreren op een stimulus of een probleem proberen op te lossen vertoons ons EEG een patroon dat *beta-waves* wordt genoemd.
+Dit patroon wordt gekenmerkt door \\__ en is waarschijnlijk het gevolg van __.
+.. snelle, onregelmatige golven; het niet-gesynchroniseerd vuren van neuronen.
+.. langzame, regelmatige golven; het niet-gesynchroniseerd vuren van neuronen.
+.. snelle, onregelmatige golven; het gesynchroniseerd vuren van neuronen.
+.. langzame, onregelmatige golven; het gesynchroniseerd vuren van neuronen.
+** [hiddenAnswer]#a.#
+. Welke uitspraak over *dromen* is *onjuist*?
+.. *Volwassen* brengen *meer* tijd door in de REM slaap, en dromen daardoor meer, dan kleine kinderen.
+.. *Dromen* in beelden vindt vooral plaats in de *REM* slaap; dromen in de *non-REM* slaap hebben meer het karakter van denken-in-de-slaap (*sleep thought*).
+.. *Freud* noemt de verborgen betekenis van een droom *de latende inhoud*.
+.. Dat dromen "slechts" een neveneffect (*side effect*) zijn van nachtelijke neurale activiteit hoeft *niet* te beteken dat ze *betekenisloos* zijn.
+** [hiddenAnswer]#a.#
+. Welke uitspraak over de *amygdala* is *onjuist*?
+.. De amygdala maakt deel uit van het *lymbische systeem*.
+.. De amygdala is het "snelle *waarschuwingssysteem*" in het brein.
+.. De amygdala ontvangt signalen via een *subcorticale* route en via een *corticale route*.
+.. De amygdala reageert *alleen* op *bewust* waargenomen stimuli.
+** [hiddenAnswer]#d.#
+. Welke uitspraak over onze *reukzin* is *onjuist*?
+.. Reuk levert een grote *bijdrage* aan wat wij de "*smaak*" van voedsel noemen.
+.. Onderscheid maken tussen sterk op *elkaar lijkende* geuren is vaak te *leren*.
+.. Er is bij mensen duidelijk *bewijs* gevonden voor het bestaan van specifieke lichaamsgeuren (*feromonen*) die aantrekkelijkheid voor het andere geslacht verhogen.
+.. *Moeders herkennen* hun pasgeboren *kinderen* al snel na de geboorte aan hun geur.
+** [hiddenAnswer]#c.#
+. Welke van de volgende factoren speelt in de meeste gevallen een intermediërende rol bij het *placebo* effect?
+.. De productie van *endorfinen*.
+.. Een verhoogde *gevoeligheid* van de *A-delta vezels*.
+.. De herabsorbtie ("*reabsorption*") van *kalium* door C vezels.
+.. Directe elektrische *stimulatie* van het *PAG* (Periaqueductal Gray).
+** [hiddenAnswer]#a.#
+. Een *cochlear implant* (gehoor-implantaat) vermindert doofheid wanneer die is veroorzaakt door:
+.. beschadiging aan de primaire auditieve *cortex*.
+.. vernietiging van haarcellen in het binnenoor (*inner ear*).
+.. vernietiging van de auditieve zenuw (*auditory nerve*).
+.. blokkering van de gehoorgang (*auditory canal*).
+** [hiddenAnswer]#b.#
+. Stel dat de wet van Weber correct is.
+Als je een gewicht van *90 gram* net kunt onderscheiden van een gewicht van *99 gram*, dan kun je ook een gewicht van *300 gram net onderscheiden* van een gewicht van ...
+.. 309 gram.
+.. 318 gram.
+.. 330 gram.
+.. 399 gram.
+** [hiddenAnswer]#c.#
+. De \\__ is het gebied op de retina dat in zichtlijn (*line of sight*) ligt en waar de grootste *concentratie* __ aanwezig is.
+.. de blinde vlek; staafjes ("rods")
+.. de blinde vlek; kegeltjes ("cones")
+.. de fovea; staafjes ("rods")
+.. de fovea; kegeltjes ("cones")
+** [hiddenAnswer]#d.#
+. Je herkent een *voorwerp sneller* als het een *onderdeel* is van een *betekenisvolle scène*, dan wanneer het een onderdeel is van verzameling ongerelateerde voorwerpen.
+Deze observatie vormt bewijs voor ...
+.. het belang van onderscheidende kenmerken (*features*).
+.. het verwerken van betekenis voordat er *aandacht* op een voorwerp gericht is.
+.. de kracht van *top-down* verwerking.
+.. de kracht van *bottom-up* verwerking.
+** [hiddenAnswer]#c.#
+. Welk van de volgende principes is *geen Gestalt principe* van perceptuele groepering?
+.. Good continuation
+.. Closure
+.. Reciprocity
+.. Similarity
+** [hiddenAnswer]#c.#
+. Onderzoekers vragen proefpersonen om met *één oog* door een heel klein gaatje in een *muur* een kamer in te kijken.
+Proefpersonen kunnen zich in die situatie toch een beeld vormen van de relatieve posities van de voorwerpen in die kamer.
+Welke *diepte cues* gebruiken ze daarbij?
+.. Binocular cues
+.. Motion parallax
+.. Pictorial cues
+.. Eye converge
+** [hiddenAnswer]#c.#

@@ -1,0 +1,361 @@
+= Chapter 2 - Methods
+
+Scientify methods used in psychology.
+
+Subpages::
+
+* link:focus_questions.html[Focus Questions]
+
+.Mindmap of chapter 2 (link:https://app.wisemapping.com/c/maps/1207485/edit[Source])
+[link=images/mindmap.png]
+image::images/mindmap.png[Mind Map,100%,100]
+
+== Keywords
+
+- *Between-Subject Experiments*: For each condition a separate group.
+- *Bias*: Nonrandom effects, caused by factors unrelated to the research hypothesis.
+- *Blind*: Participants are deliberately kept uninformed to counteract expectancy effects.
+- *Cause-and-Effect*: Whether a change (effect) is happening due to a given explanation/cause.
+- *Correlation / Causality*: One does not explain the other.
+- *Correlational Coefficient*: Indicating the strength/direction of a relationship of two data-sets.
+- *Correlational Study*: Just observe relationships. No manipulation/assignment/cause-effect.
+- *Criterion Validity*: Check validity by correlating it with another (more direct) index.
+// Dependent variable
+- *Descriptive Study*: Only characterize+describe+record. No relation/correlation.
+- *Descriptive Statistics*: Summarizes data in order to be able to read information/infer statements.
+- *DiMascio's depression experiment*: Example of between-subject experiment where patients could choose a therapy method.
+//  Double-blind experiment:
+- *Experiment*: Good for cause-effect relationship; manipulation of variables.
+- *Face Validity*: Procedure measures what it supposed to measure.
+- link:/phenomena/hawthorne_effect.html[Hawthorne Effect]: People who are being observed behave differently (improved performance).
+// Hawthorne effect:
+- *Hypothesis*: Specific, testable prediction ("best guesses").
+- *Inferential Statistics*: Gives confidence of gathered data (reliability, chance).
+- *Inter-observer Reliability*: A and B observe the same phenomena.
+// Independent variable
+- *Mean*: Arithmetic average, computing the sum of scores and dividing by number of scores.
+- *Median*: Center score, by ordering all numbers and pick the middle one (robust against extremes).
+- *Observation*: Objective statements about behavior (speculative/data).
+- *Observational method*: Observe and record without manipulating the setting.
+- *Observer-expectancy Effect*: Unintentional influence by researcher, e.g. autism example.
+- *Occam's Razor*: Two competing yet equally good explanations for a given phenomenon, the simplest one is preferred.
+- *Operational Definition*: What exactly is the intention to measure.
+- *Random variation*: Natural misalignment which can be fixed by averaging (opposed to a bias).
+- *Reliability*: Measures errors and indicates replicability.
+- *Self-report method*: Rate/describe own state/behavior, via questionnaire or introspection.
+- *Statistical Significance*: When "p" is < 0.05.
+- *Standard deviation*: How much the scores differ from mean (variability).
+- *Subject*: People/animals being studied, sometimes also referred to "participants", both is ok.
+- *Subject-expectancy Effect*: When subjects are aware of intention and change their behavior.
+- *Theory*: Conceptual model, explaining observations.
+- *WEIRD*: Western, Educated, Industrialized, Rich and Democratic. Non-representative subjects (like college students).
+- *Within-Subject Experiments*: Each subject tested for each condition (multiple times).
+- *Variable*: Being changed in experiments, the dependent variable depends on the independent (manipulated) one.
+- *Validity*: Measures/predicts what was intended.
+
+== Keypeople
+
+- link:/people/wundt-wilhelm.html[Wilhelm Wundt]: First who started link:#sec-data_collection[introspection] to do his data-collection.
+
+== Cheatsheet
+
+* Example of Oskar Pfungst's horse "Clever Hans":
+** Using blinds, prevent observers from unintentionally giving hints (head/eyebrows movement)
+* Term definitions:
+** Observation = Objective statement, agreed to be true (patterns)
+** Theory = Conceptual model, explaining existing observations
+** Hypothesis = Prediction from a theory
+** Theory-observations = Speculation; Observations-theory = Simple data
+* Good scientific research:
+.. Skepticism = Try to disprove (via testing); be genuine; test rather accept claims
+.. Control = The conditions; rule out alternative explanations
+.. Expectations = Subject/observer ("read"/perceive expectations/cues, politeness/liking)
+* Research strategies:
+.. Design:
+... Experiments: cause-effect, in/dependent variable (other constants); within-subject/between-groups (Hans/DiMascio's depresseds; random assignment)
+... Correlational studies: No manipulation, just observation; systematic relationship; can't conclude cause (vs causality)
+... Descriptive studies: No relationships/maybe numbers/no correlation (not to test!); e.g. 30 year chimps; correlational coefficient
+.. Setting:
+... Field: no control, natural environment (home, work); => corr./descr. studies
+... Laboratory (opposite of Field): designated area; control/uniform; strange/artificial (interference) => experiments
+.. Data-collection:
+... Self-report: rate/describe mind/behavior; questionnaire/interview; lose/structured; self/other
+... Introspection: subjective/unconfirmable; neural confirms introspection!
+(Wundth)
+... Observation: naturalistic abs. (not interfer) => Hawthorne
+* Statistics
+.. Descriptive: mean, median, standard deviation, variability
+*** Correlation coefficient: statistical significant (strength/direction); p<0.05 (statistical != practical significance)
+.. Inferential: chance/probability when experiement repeated, relationships)
+*** p elements: size of effect, number of subjects, variability
+* Bias = "non-random/directed effects by extraneous factors"
+** vs random variation: "bias => wrong bow" (localized cluster); "rand.var. => beginner shoots" (scattered); or both (scattered cluster)
+.. Samples: Non-random between-groups => systematic differences; false conclusions; WEIRD societies
+.. Measure: Reliability, operational definition; variability; validity; face validity/criterion
+.. Expectancy: observer/subject expectancy bias; unintentionally/unaware; observer/double-blind-studies
+.. Replicating: Reproduce same studies/results
+* Ethics
+** Humans: privacy, anonymity, consent; discomfort/pain to minimum; deceiving; can quit, debriefing
+** Animals: breed/surgical; applicable to humans; balance suffer-gain; well cared; minimum of suffering
+
+
+[#sec-clever_hans]
+== Clever Hans
+
+.Clever Hans with his owner Mr. von Osten during a mathematics lesson.
+image::images/clever_hans.jpg[Clever Hans,300,100]
+
+* The psychologist Oskar Pfungst and the "smart" horse Hans; Germany, 1907.
+* Everyone *believed* it could do sophisticated intellectual tasks.
+** Especially the owner believed it, and there was no evidence of trickery.
+* By using *blindfolds*, Hans could not provide the right answer anymore.
+** At the end it turned out *unaware cues* of the audience (e.g. nodding) gave the right answer.
+
+=== Lessons Learned
+
+This story provides us with three main take-aways:
+
+. Increased awareness of the importance of *skepticism*.
+** Scientific testing: Disprove yourself, genuinely, repeatedly.
+** The marvelous skill of critical thinking, in order to develop alternative perspectives and tests to evaluate them.
+** Testing: Over simply accepting claims (belief).
+** Still many rational people believe in astrology, telepathy or other occult phenomena, despite they consistently failed when subjected to controlled tests.
+** Related to the principle of parsimony, or more popular known as "_Occam's razor_":
+*** When there are two competing explanations and equally are able to account for a phenomenon, the simplest one is preferred.
+. The value of careful observations under *controlled conditions*.
+** Rule out alternatives (e.g. using blinders).
+** With/without single, specific aspects; then observe and record.
+. The problem of *observer-expectancy effect*.
+* Observers/researchers have certain expectations, subjects perceive them and behave differently.
+* Observer's unconscious cues reveal the intention of the experiment and subjects act accordingly.
+
+Terminology:
+
+- *Theory*: Idea/conceptual model, explaining/predicting observations.
+- *Hypothesis*: Specific, testable prediction ("best guesses") based on a theory.
+- *Observation*: Objective statements about behavior (speculative/data).
+
+[#sec-research_strategies]
+== Research Strategies
+
+In psychology, we usually categorize research strategies in three dimensions:
+
+. Research Design (experiment, correlational-, descriptive study)
+. Setting (lab, field)
+. Data-collection Method (self-report, observation)
+
+[#sec-design]
+=== Design
+
+. *Experiment*
+** Systematically manipulate (variables, thus change conditions) and conclude (causality, cause-effect variable relationship) to test a hypothesis.
+** *In-/dependent variable*: The dependent variable (hypothesized to be affected), depend on the independent variable which will be manipulated.
+*** Deliberate change some variables, while keeping all other variables constant.
+** *Between-Subject Experiments*: (alias "between-groups") For each condition a separate group.
+*** See: *DiMascio's* depression patients, where he used *random assignment* to avoid a bias.
+** *Within-Subject Experiments*: (alias "repeated-measures") Each subject tested for each condition (multiple times).
+. *Correlational Study*
+** Only observe/measure relations of data, no manipulation.
+** Limitation: No causation! => "_Correlation does not imply causality!_"
+** See: link:/introduction/ch12-social_development/index.html#sec-baumrind_study[Baumrind's study] of parents' disciplinary styles and children's behavioral development.
+
+.Correlational studies have found relationship between violent TV and aggressive behavior, but which direction does it actually go?
+image::images/correlational_study.jpg[Correlation between violent TV and aggressive behavior,400,100]
+
+[arabic,start=3]
+. *Descriptive Study*
+** No correlation, no test.
+** Characterize record.
+** Sometimes use of numerical values.
+
+.Descriptive study as done by Jane Goodall, who observed wild chimpanzees over a period of 30 years.
+image::images/descriptive_study.jpg[Descriptive study of chimps by Jane Goodall,400,100]
+
+=== Setting
+
+. *Laboratory*
+** Usually with experiments.
+** Control of uniform environment.
+** Better facilitated (equipment).
+** Artificial environment might interfere.
+. *Field* (opposite of lab)
+** Usually with correlational studies.
+** No control over conditions.
+** Natural environment, "real-life" settings (home, work, school).
+** Subjects most often unaware.
+
+[#sec-data_collection]
+=== Data-Collection
+
+Each has its own pro & con, none can be said to be superior over the other.
+
+. *Self-report*:
+** Rate/describe own state/behavior.
+** *Questionnaire*: Interview, dialogue, essay/binary, structured, self/others.
+** *Introspection*: Subjective, not confirmable.
+*** link:/people/wundt-wilhelm.html[Wilhelm Wundt] used this approach first.
+*** Criticism about validity, nowadays better/more objective due to brain imaging.
+. *Observational methods*:
+** Observe and record only, no interfering.
+*** Presence alone influences, thus keeping it here as small as possible.
+** *Naturalistic Observation*
+*** Observe subjects in their regular environment (home, work, school, shop).
+*** See: link:/phenomena/hawthorne_effect.html[Hawthorne Effect] where the observation changed the result drastically (Habituation to the rescue).
+** *Tests*
+*** Problems/tasks given (gamification) for a (mental) problem to solve.
+
+.Observing without interfering as much as possible, or better examine recorded videos.
+image::images/observation.jpg[Observation of children in their natural environment,400,100]
+
+[#sec-statistics]
+== Statistics
+
+.Nerd jokes never get boring, but one must first understand the theory.
+image::images/standard_deviation_chickens.jpg[Standard deviation chickens,400,100]
+
+=== Descriptive Statistics
+
+* Summarizes set of data.
+* Metrics:
+** *Mean*: Arithmetic average, computing the sum of scores and dividing by number of scores.
+** *Median*: Center/middle score, by ordering all numbers and pick the middle one, the one representing the "50th percentile".
+*** Main advantage: It's robust against extremes.
+** *Variability*: How much scores differ from one another and the mean.
+** *Standard deviation*: Common measure of variability, how much scores differ from the mean.
+** *Correlational Coefficient*: Indicating the strength/direction (positive/negative) of a relationship of two data-sets, ranging from -1.0 to +1.0.
+*** Correlation of 0 means the two variables are not related at all.
+*** Visually easily comprehensible via a *scatter plot*, where the data points lie nicely on a straight line.
+
+.A scatter plot showing an example of a: A) moderate-positive B) strong-positive C) moderate-negative and D) uncorrelated correlation.
+image::images/scatter_plot.jpg[Scatter Plot,400,100]
+
+=== Inferential Statistics
+
+* Gives *confidence* of gathered data, and the inferred conclusion based on it.
+** Tries to reveal variability based on mere chance.
+** Counteract uncontrollable, random variables.
+** *Relationship*: Real and *repeatable* or just random?
+* "_Law of Probability_": Chance, probability "p", level of significance.
+* *Statistical Significance*:
+** It's statistical significant if p < 0.05 (5%)
+** Based on the following components:
+... Effect size: Larger effect more likely to be significant
+... Sample size: Large samples are less distorted by chance.
+... Data variability: Within a group, greater variability indicates greater randomness.
+** Differentiate between statistical and practical significance!
+*** E.g. weight-loss drug, with high statistical significance to reduce weight by a few grams.
+
+[#sec-biases]
+== Biases
+
+* Definition: A non-handled, non-random effect on a hypothesis.
+* Avoidable by:
+** Random assignments (avoid biased samples).
+** Representative subjects (see below).
+* Leads to false conclusion, and can't be detected by statistics.
+
+=== Bias VS Random Variation
+
+.Analogy with arrow shooting: 1) a beginner 2) an expert with a defect bow 3) a beginner with a defect bow
+image::images/bias_error.jpg[Bias Error,200,100]
+
+* Archer analogy above illustrates the difference:
+** Target A shows the beginner, incapable of hitting the bullseye but in a consistent matter
+** Target B shows a bias, the expert who consistently hits the wrong spot with a defect bow.
+** Target C shows a combination of both, where the hits are consistently off considerably, a beginner with a defect bow.
+* (Inferential) Statistics helps!
+
+=== Expectancy
+
+* Humans have wishes, and unintentionally influence outcome.
+* *Subject-expectancy effect*
+** Knowing being observed changes behavior.
+** Believe in powers, placebo, link:/phenomena/hawthorne_effect.html[Hawthorne Effect]
+** E.g. taking a drug leads to changes.
+* *Observer-expectancy effect*:
+** Also see the "Clever Hans" story above
+** Example of "The Facilitated-Communication Debacle".
+*** *Autistic people* had no language ability, couldn't express themselves verbally.
+*** Facilitators were holding autistic people's hand for typing on a keyboard.
+*** Autistic people seemed to be able to type meaningful statements.
+*** The motivation to believe was huge, alone in US 100mio USD was spent for this.
+*** Unfortunately it was the facilitators unconscious hand which was typing, not the autistic people themselves.
+*** Sometimes leading to prosecutions due to claims of (false) sexual abuse (psychotherapy?).
+*** Solved by showing a picture to the autistic person, but not to the facilitator.
+*** They had no bad intentions, unconsciously they were deluded by the effect of their own expectations.
+* Counteract expectancy effects by "*blinding*":
+** Remove the knowledge of what is being then, thus remove expectations and influences.
+** Observer as well as subject kept blind (if possible, which sometimes is not).
+** *Double-blind studies*: Neither researcher nor subject know what's being done exactly.
+** Use of placebos.
+
+.Biased experiment with keyboard writing autism people: Who is typing?
+image::images/bias_autism.jpg[Autism,200,100]
+
+=== Reliability
+
+* Indicating *repeatable* results. Measures errors, not bias.
+** E.g. measuring thumb length two times yields *same result*.
+* Variability "*p*".
+* *Interobserver (interrater) Reliability*: Same observable by different researchers.
+* *Operational Definition*: What exactly is the intention to measure.
+* Also replicating earlier studies.
+** Reproducing same experiments yields only 30% similar results.
+*** Some yielded significant results by mere chance (5% chance).
+** When context changes (way research is done), subtle differences can impact the result.
+** Science is conservative, hesitant to novel findings.
+
+=== Validity
+
+* Valid means, it measures/predicts what is *intended to*.
+* More critical than reliability, as source of bias.
+* *Criterion Validity*: Check validity by correlating it with another (more direct) index.
+* *Face Validity*: Procedure measures what it supposed to measure.
+
+=== Samples
+
+* Randomized: In order to prevent mere chance results.
+** E.g. when subjects have a clear preference towards one option, there will be a biased sample.
+** Hard to generalize to all of humanity.
+* *Biased sample*: Sample not representative of the larger population.
+* Between-group: See above.
+* Avoid non-representative groups.
+** E.g. Only WEIRD or college students.
+
+.Most research is conducted with people from Western, Educated, Industrialized, Rich and Democratic societies (WEIRD).
+image::images/bias_error.jpg[Bias Error,200,100]
+
+[#sec-ethics]
+== Ethics
+
+=== Humans
+
+* *Informed consent*: Know what's about to happen, including risks, beforehand.
+* *Privacy*: Subjects may hold information back, and ensure their anonymity.
+* *Minimum discomfort/harm*: Harm outweighs the benefits.
+* *Can quit*: Subject can quit at any given time.
+* *Deception*: Controversial, as sometimes needed ("white lies").
+* *Debriefing*: Inform about result/findings. Reveal any deceptions.
+
+=== Animals
+
+* Things that would be unethical to humans, can be done to animals sometimes.
+** *Surgeries*: Implant diodes, use chemicals to impair brain.
+** *Breeding*: Artificial selection.
+* *Minimal suffering*: And well cared.
+* *Balance*: Suffering and benefit.
+* *Applicability*: Must be possible to apply to humans (reduce our suffering).
+
+Has already helped considerably to reduce human suffering, thanks mostly to rats and pigeons.
+Experiments with chimpanzees, our closest genetic relatives, have been banned as they are a endangered species.
+
+=== Principles
+
+* APA has rules, which must be followed in order to be published in journals.
+* Laws: Must follow in order to receive funding (ethics review panels).
+* Much of past experiments would have not been possible today anymore.
+
+== Additional Resources
+
+* https://nobaproject.com/modules/research-designs
+* https://nobaproject.com/modules/thinking-like-a-psychological-scientist

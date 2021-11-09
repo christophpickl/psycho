@@ -1,0 +1,87 @@
+= Biases
+
+From the corner of "pop-psychology", social psychology, (cognitive) biases, effects, illusions & co.
+Useful to know for everyone to try to see a bit more clearly.
+
+* link:mcgurk_effect.html[McGurk Effect]
+* link:dunning_kruger_effect.html[Dunning Kruger Effect]
+* Change Blindness
+// focus attention; basketball count passes while monkey walks by
+* Confirmation Bias (Kahnemann) (link ch10)
+// conf bias video: https://www.youtube.com/watch?v=0xKklLplngs
+* motive attribution asymmetry: enemies are always wrong and the opposite of us
+
+ To know that you do not know is highest.
+ To not know but think you know is flawed.
+ Only when one recognizes the fault as a fault can one be without fault.
+ The sages are without fault.
+ Because they recognize the faults as a fault.
+ That is why they are without fault.
+laozi
+
+* Cognitive Dissonance
+* Baseline (Kahnemann); very difficult for humans
+* Availability Bias (link ch10)
+* predictable-world bias (link ch10)
+* Framing (Kahnemann); loss aversion
+// wortwahl ist wichtig! experiment mit worte mit alter assoziiert, menschen gehen langsamer. oder "bank" interpretieren wenn koffer im raum ist.
+* link:hawthorne_effect.html[Hawthorne Effect]
+* Sunk Cost Fallacy
+* link:transparency_illusion.html[Transparency Illusion]
+* Illusory Superiority
+
+== Cases
+
+People's cases, accidents and other abnormalities in (medical) history.
+
+* ... H.M., no new memory (refer to movie memento)
+* ... phineas gage, typ mit stange durch hirn
+* ... the lady, new york, got stabbed open street, no one intervened
+
+== Others
+
+* London train lights; red/orange-/orange-orange/green; serial VS parallel processing
+* cocktail party phenomena
+
+== Experiments
+
+* link:bobo_doll.html[Bobo doll experiment]
+* Nodding/shaking head, influencing judgement.
+* Judging something while stick in mouth (forcing a smile).
+
+== Studies
+
+Famous studies and experiments everyone should know of.
+
+* Pavlov's dog
+* Skinner's cat box
+* Thorndike's puzzle box
+* link:clever_hans.html[Clever Hans]
+* Little Albert
+* ... decision watch spinning, action potential measured before conscious
+* ... split brain, see/touch different objects, rationalizing (freud?!)
+* ... observe car accident, touch vs crash, ask later, different memories (cognitive psychology)
+* ... person sits in a room, smoke appears, no one acts, he doesn't act
+* ... social conformity; stand up when sound; like monkeys banana up tree, once rain, now aggressive; see: https://www.youtube.com/watch?v=o8BkzvP19v4
+* ... marshmellow kids experiment; delayed gratification
+* London Cab driver hippocampus
+* ... dot on forehand, look in mirror, to be able to identify oneself
+* ... object permanence with babies, baby looking longer when object should not have been able to turn that far because of obstacle (understanding of physical laws, object standing on the edge and should fall)
+* ... mind of others: doll play with children; does he know what i know or not? (ability to lie)
+
+== Resources
+
+* https://yourbias.is/
+* https://en.wikipedia.org/wiki/List_of_cognitive_biases
+* https://effectiviology.com/
+
+German Books (Amazon links):
+
+* link:https://www.amazon.de/-/nl/dp/3868828524/[Ich denke, also irre ich: Wie unser Gehirn uns jeden Tag täuscht]
+* link:https://www.amazon.de/-/nl/dp/3492059015/[Die Kunst des klugen Handelns]
+* link:https://www.amazon.de/-/nl/dp/3492059007[Die Kunst des klaren Denkens]
+
+2nd order resources:
+
+* https://builtin.com/diversity-inclusion/unconscious-bias-examples
+* https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763

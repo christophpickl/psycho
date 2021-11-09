@@ -1,0 +1,22 @@
+= Study Tips
+
+== Have a good Studygroup
+
+* Watch out not to go to deep into those "_rabbit holes_".
+** Meaning, not get lost in details which are not related to the *topic* at hand
+** It might be interesting sometimes, but *focus* and time-efficiency are more important.
+
+== General Learning Tips
+
+* Chapter 9:
+** Sleep immediately (few hours) after learning.
+** Recalling (active) is better than studying/reading (passive).
+** Elaborative encoding: "How you place new information into your network of associations has a big effect on your ability to retrieve it."
+** Self-generated retrieval cues, rather than other-generated improves retrieval.
+** Effect on context: Learn and exam in same room, cues help us to remember. (encoding context == retrieval context)
+
+== Cognitive Psychology says...
+
+* *Actively process* over passively rereading.
+* Understand the *meaning*, question it.
+* Build up new *associations*, connect to other knowledge and personal experiences.

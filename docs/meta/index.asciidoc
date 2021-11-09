@@ -1,0 +1,8 @@
+= Meta
+
+Stuff that is beyond and not fitting to the other content:
+
+* The link:glossary.html[glossary] holds a list of terms which should not be confused.
+* On link:learn_strategies.html[how to learn] contains some general study tips.
+* How to link:discourse.html[argument], reason, debate and have a discussion, based on logic and fairness.
+* And of the course the most important link:science.html[guide to science].

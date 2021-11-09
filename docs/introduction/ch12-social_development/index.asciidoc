@@ -1,0 +1,21 @@
+= Chapter 12 - Social Development
+
+Subpages::
+
+* link:focus_questions.html[Focus Questions]
+
+== TODO
+
+[#sec-baumrind_study]
+=== Baumrind's disciplinary study
+
+* Example of a link:/introduction/ch2-methods/index.html#sec-design[correlational study].
+* Diana Baumrind (1971) studied the relationship between parents' disciplinary styles, and children's behavioral development.
+** Three styles: authoritarian, authoritative, permissive.
+** Children ratings: cooperation, friendliness, etc.
+* Finding: Authoritative parents scored better than others.
+** BUT: Only correlation proven, not cause-effect!
+** It was not an experiment, tweaking the variables through manipulation.
+*** Maybe the children's behavior influenced the parent's style?
+*** Maybe the causal relationship goes in both direction?
+*** Maybe there is another, third variable at play, e.g.: Genes, income, health, neighbourhood.

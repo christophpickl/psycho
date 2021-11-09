@@ -1,0 +1,59 @@
+= Neurotransmitter
+
+== About
+
+Chemical substances/molecules produced by neurons to carry messages across synaptic space to other neurons/muscles/glands.
+From electrical, to chemical, to electrical.
+
+.Overview of a synapses.
+image::images/neurotransmitters_synapses.png[Synapses,500,100]
+
+== Listing
+
+A list of some neurotransmitter you might be interested in:
+
+[width="100%"]
+[cols="1,7,7,7"]
+|====================================
+| Name | Function | Disorder | Comment
+
+| *Serotonin*
+| Mood regulation/arousal, sleep/eat/dream (maybe also pleasure/pain).
+| Depression, sleep/eat (under-production); OCD (over-production).
+|
+
+| *Dopamine*
+| Smooth move, postural stability; learn, memory, pleasure/pain; reward, mood, emotional arousal. *Wanting* (not liking as in endorphin), see drug abuse.
+| Parkinson's, depression (under-production); schizophrenia (over-production).
+|
+
+| *Endorphin*
+| Natural painkillers. *Liking* (not wanting as for dopamine).
+|
+|
+
+| *Adrenalin*
+| Fight-flight, wake/alert; learning, memory, eating.
+| Depression (under-production); stress, panic (over-production).
+| Also called "(nor)epinephrine", when produced in lab or in USA.
+
+| *Acetylcholine* +
+(ACh)
+| Voluntary muscle control, memory parasympathicus, attention, alertness; A neuromodulator (brain processes info).
+| Alzheimer's (under-production); paralysis, spasm (over-production).
+|
+
+| *GABA* +
+(Gamma-amino-butyric acid)
+| Main brain inhibitor (weakens, slows down).
+| Anxiety.
+| Synthesized from glutamate.
+
+| *Glutamate* +
+("glutamic acid")
+| Most abundant excitatory amino acids in brain.
+|
+|
+|====================================
+
+PS: *Oxytocin* is a hormone! Popularly known as the "cuddle hormone", creating a bond between mother and baby, and used during pregnancy (lactation).

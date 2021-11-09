@@ -1,0 +1,221 @@
+= Chapter 8 - Learning
+
+// keywords + check list in books
+// keypeople
+// people add content + back-reference here
+// pictures
+// check all for typos
+
+Subpages::
+
+* link:focus_questions.html[Focus Questions]
+// TODO prepared, unprepared, contraprepared
+
+.Mindmap of chapter 8 (link:https://app.wisemapping.com/c/maps/1209469/edit[Source])
+[link=images/mindmap.png]
+image::images/mindmap.png[Mind Map,100%,100]
+
+//* pavlovl won nobel prize; salivation of dogs
+//* classical=pavlovian, operant=instrumental (next to observational learning)
+//* classical/pavlovian (stimulus, passive), operant/instrumental (behavior, active)
+//* first thorndike, then skinner
+//* "much like the laws of gravity, the laws of learning are always in effect"
+//* law of effect: more likely to happen if rewarded (obvious common sense ;)
+//* taste aversion conditioning: flavor associated with discomfort, thus avoided/disliked. clinical application: people avoid food eaten before chemotherapy
+//* conditioned compensatory responses: e.g. cue for drug, body prepares
+
+== Keywords
+
+- *Foo*: Bar
+
+== Keypeople
+
+* Ivan Pavlov
+* Thorndike
+* Skinner
+// TODO people from contemporary experiments
+
+== Classical Conditioning
+
+* Terminology/abbreviations:
+** US ... Unconditioned Stimulus
+** CS ... Conditioned Stimulus
+** UR ... Unconditioned Response
+** CR ... Conditioned Response
+
+
+* Procedure
+** UR: Food => Saliva
+** Pairing:
+*** Neutral stimulus: Bell
+*** US: Food
+** Neutral stimulus becomes CS
+*** Bell => Saliva
+* Extinction
+** Different neurons
+*** Inhibiting
+*** Promoting
+** Suppression
+*** Not unlearned
+** Spontaenous recovery
+** CS without US
+*** Bell without food
+*** => CR stops
+* Generalization
+** Similar stimulus
+*** E.g. black VS grey rectangle
+** Discrimination
+*** "Reduced generalization" (more precise)
+*** US => CS
+*** Similar stimulus => Nothing
+* Learned what?
+** S-R
+*** CS => CR
+** S-S
+*** CS => US
+** Best if reliable
+* Emotion, motivation
+** Prepare for important event
+** Fear
+// TODO link to experiment
+*** Little albert
+** Hunger
+*** Appetizer effect
+** Liking
+*** Evaluative conditioning
+** Sexual arousal
+* Drugs
+** Pairing
+*** Stimulus = drug
+** Opposite effect
+*** Drug relapse
+*** Drug tolerance
+**** Compensatory effect
+
+== Operant Conditioning
+
+=== Behavior
+
+* Thorndike & Skinner
+** With/Without awareness
+** Operant response
+*** Action => Effect
+*** Law of Effect
+**** Thorndike's Puzzle Box
+*** Reinforcer
+**** Skinner
+**** Increases frequency
+* Availability variations
+** Shaping
+*** Successive approximation
+** Extinction
+*** Not reinforced
+*** Decline response
+** Schedules
+*** Partial
+*** Continuous
+*** Affects
+**** Response rate
+**** Extinction resistance
+* Reinforce VS punish
+** +/- response rate
+** Positive VS negative
+*** Adding/removing stimulus
+*** Reinforce: Praise / Stop noise
+*** Punish: Beat / Deny rights
+
+=== Conditions & Consequences
+
+* Discrimination training
+** Only specific stimulus
+* Concept understanding
+** Generalization
+** Similar to discriminated stimulus
+** Identify learned concepts
+* Overjustification
+** Pos./Neg. reward
+*** Conditioning
+*** Meaning
+** Unneeded Extra
+*** Behavior declines
+* Behavior analysis
+** Token economy
+*** Artificial reinforcer
+*** Target behavior
+*** With retarded people
+** Autism
+*** See: Lovaas
+*** Effective
+*** Individual differences
+** Manage classroom
+
+.YouTube Video: "Puzzle box (Thorndike)", 2mins
+[link=https://www.youtube.com/watch?v=fanm--WyQJo]
+image::https://img.youtube.com/vi/fanm--WyQJo/0.jpg[Puzzle box 3,300]
+
+== Beyond Conventional Learning
+
+* Food
+** Food-avoidance
+** Avoid poisenous
+** Different than classical conditioning
+** Prefer "good"
+*** Healthy
+*** Nutritional
+** Prenatal preferences
+* Fear
+** Evolutionary preparation
+*** Threats
+*** Real/fake snakes
+** Fearful voice
+*** More attentive
+* Mother imprinting
+** Ducks follow
+*** Critical period
+*** First moving object
+** Maternal call
+*** Adaptive behavior
+*** Prenatal conditioning
+* Sexual imprinting
+** Early childhood experiences
+** Mate preferences
+** Westermarck effect
+*** Incest aversion
+*** Cohabitation
+
+== Special Learning
+
+* Social Learning
+** Albert Bandura
+*** "Social Cognitive"
+*** Vicarious Reinforcement
+** Observational Learning
+*** Stimulus enhancement
+*** Goal enhancement
+*** Emulation
+** Teaching
+*** Most sophisticated
+*** Mostly only humans
+* Exploration
+** Primitive play
+*** More species
+*** All ages
+** Learn environment
+** Balance: Curiosity and fear
+** Latent learning
+*** Without reward
+*** Useful knowledge
+* Play
+** Karl Groos
+*** Develop survival skills
+*** Species most where needed
+** Humans
+*** Also cultural
+** Children development
+*** Language
+*** Perspective taking
+*** Executive functions
+
+== Additional Resources
+
+* https://nobaproject.com/modules/conditioning-and-learning

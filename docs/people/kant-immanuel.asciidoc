@@ -1,0 +1,19 @@
+= Immanuel Kant
+
+[#img-Kant]
+.Immanual Kant himself
+image::kant-immanuel.png[Immanual Kant,200,100]
+
+== Facts
+
+* 1724-1804
+* Königsberg, Preußen (nowadays Russia)
+* German philosopher (epistemology, metaphysics, ethics, aesthetics)
+
+== Achievements
+
+** Represent of link:/introduction/ch1-background/index.html#sec-nativism[Nativism] with his a priori/a posteriori idea.
+
+== Links
+
+* https://en.wikipedia.org/wiki/Immanuel_Kant

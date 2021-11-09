@@ -1,0 +1,20 @@
+= Hawthorne Effect
+
+"__When workers know people are concerned about them, their productivity increases.__"
+
+.This is how workers might have worked in the Western Electric Company back then.
+image::hawthorne_effect.png[Hawthorne Effect,500,100]
+
+* In the 1930s at the Hawthorne Plant of Western Electric in Illinois, researches wanted to investigate productivity.
+** Unfortunately, no matter what they did (better lighting, regular breaks, etc.), it almost always (initially) improved.
+** Not due to the changes, but due to the *experiment itself*.
+** The subjects knew they were *observed* / receiving special treatment.
+* How to *counteract*?
+Make use of *habituation*:
+** Subjects get used to the presence of researchers, thus have no impact anymore.
+
+See: link:/introduction/ch2-methods/#sec-data_collection[Introduction / Chapter 2]
+
+.YouTube Video: "The Hawthorne Effect (Definition + Examples)", 5mins
+[link=https://www.youtube.com/watch?v=fei2WVqEykM]
+image::https://img.youtube.com/vi/fei2WVqEykM/0.jpg[Hawthorne Effect 3,300]

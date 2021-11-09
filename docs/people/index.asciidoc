@@ -1,0 +1,44 @@
+= People
+
+== VIP
+
+A list of some people good to know in the area of psychology:
+
+* Adler, Alfred
+* link:broca-paul.html[Broca, Paul]
+* Chomsky
+* Darwin, Charles
+* link:descartes-rene.html[Descartes, Rene]
+* Frankl, Viktor
+* link:freud-sigmund.html[Freud, Sigmund]
+* link:hobbes-thomas.html[Hobbes, Thomas]
+* Hume, David
+* James, William
+* Jung, Carl Gustav
+* link:kant-immanuel.html[Kant, Immanual]
+* Kuhn, Thomas
+* link:leibniz-gottfried_wilhelm.html[Leibniz, Gottfried Wilhelm]
+* link:locke-john.html[Locke, John]
+* Miller
+* link:pavlov-ivan.html[Pavlov, Ivan]
+* Piaget
+* Popper, Karl
+* Rogers, Carl
+* Rousseau, Jean-Jacques
+* Skinner, Burrhus Frederic
+* Thorndike
+* Vygotsky
+* Wallace, Alfred Russel
+* Watson
+* link:wundt-wilhelm.html[Wundt, Wilhelm]
+
+== Contemporary and Personal Favorites
+
+* Adler, Alfred
+* Sapolsky, Robert: Evolutionary Behaviorism
+* Bandura, Albert: social learning
+* Bloom, Paul: Yale University
+* Eckman, Paul: facial emotional expressions
+* Fromm, Erich
+* Spitzer, Manfred: https://www.youtube.com/watch?v=pHOIdOG9oJM
+* Peterson, Jordan: Show-off Guy
