@@ -241,14 +241,17 @@ image::images/ear_parts.jpg[Ear parts,400,100]
 .Transduction mechanism in the inner ear: Sound waves in the fluid of the outer duct cause the basilar membrane to wave up/down. When it moves up, hairs bend against the tectorial membrane, initiating receptor potentials in the hair cells.
 image::images/sound_transduction.jpg[Sound transduction,400,100]
 
-.xxx
-image::images/xxx[xxx,400,100]
+.Basilar membrane of a guinea big, before (left) and after (right) exposure of 24 hours of rock concert.
+image::images/noise_damage.jpg[Noise damage,400,100]
 
-.xxx
-image::images/xxx[xxx,400,100]
+.A mic sends signals to the auditory processor of the cochlear implant, which converts them into electrical pulses suitable for the cochlea. They get transmitted by thin wire electrodes in his skull to auditory neurons in the cochlea in the inner ear.
+image::images/cochlear_implant.jpg[Cochlear implant,400,100]
 
-.xxx
-image::images/xxx[xxx,400,100]
+.The cochlea uncoiled, the basilar membrane in the middle as a line. Lower frequency sounds travel until the end, from left to far right; higher frequencies stay left; complex sounds peak on several locations.
+image::images/basilar_membrane_waves.jpg[Basilar Membrane waves,400,100]
+
+.Locating sound works due to the ears receiving signals at different times (just as with link:/introduction/ch7-vision/index.html[vision]'s "binocular disparity").
+image::images/locating_sound.jpg[Locating sound,400,100]
 
 === Transduction inner ear
 
@@ -260,9 +263,6 @@ image::images/xxx[xxx,400,100]
 . Hair electrical charge changes
 . Hair neurotransmitter released
 . Action Potential rate increases
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 == Additional Resources
 

@@ -29,6 +29,7 @@ laozi
 * Sunk Cost Fallacy
 * link:transparency_illusion.html[Transparency Illusion]
 * Illusory Superiority
+* Own-race bias (see chapter 7)
 
 == Cases
 
@@ -42,6 +43,10 @@ People's cases, accidents and other abnormalities in (medical) history.
 
 * London train lights; red/orange-/orange-orange/green; serial VS parallel processing
 * cocktail party phenomena
+* marketing: we go for the middle
+* marketing: too much choice
+* case: fire in metro station. did not feel responsible. (welches buch steht das?)
+* bouba/kiki effect
 
 == Experiments
 

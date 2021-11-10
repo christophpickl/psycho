@@ -21,6 +21,7 @@ image::images/mindmap.png[Mind Map,100%,100]
 == Keypeople
 
 // TODO people from contemporary experiments
+* Treisman ... theory, feature detection and integration
 
 == Physiology
 
@@ -46,6 +47,18 @@ image::images/mindmap.png[Mind Map,100%,100]
 *** Dim light
 ** Dark/light adaptation
 
+.Cross section of the eye, depicting the retinal image. Light rays diverge from the object's surface and are focused at a distinct point on the retina to create an (upside-down) image.
+image::images/eye_cross_section.jpg[Eye cross section,400,100]
+
+.Distribution of rods (stafjes) and cones (kegeltjes, concentrated in the fovea) in the retina, nothing at the blind spot where the nerve enters the eye.
+image::images/rods_cones_distribution.jpg[Rods cones distribution,400,100]
+
+.Demonstration of the blind spot: Close your left eye, and gradually get closer while looking at the X. At about 20cm distance the bird will disappear, yet the bars will appear where the bird was, as these are perceptually filled by your visual system.
+image::images/blind_spot.jpg[Blind spot,400,100]
+
+.Dark-adaptation curves: Yellow meaning minimal light that can be seen with the whole eye. The lower the curve, the more sensitive. After a few minutes, the rods start to be way more sensitive than the cones in darkness.
+image::images/dark_adaptation.jpg[Dark adaptation,400,100]
+
 == Colors
 
 * Light are electromagnetic waves; or particles?
@@ -66,6 +79,28 @@ image::images/mindmap.png[Mind Map,100%,100]
 ** Afterimages
 ** Excite/inhibit
 ** Visual neurons
+
+.Light is just a part (visible to our eyes) of the electromagnetic spectrum, next to many other known waves such as X-rays, radar or broadcast bands. Visible light also corresponds (next to UV) what the sun most emits.
+image::images/electromagnetic_spectrum.jpg[Electromagnetic spectrum,400,100]
+
+.Three types of cones respond to different wavelengths of light. Any wavelength produces a ration of activity of the three cone types. Any combination of lights that would produce the same ratio of response, would be perceived as the same light.
+image::images/cone_types.jpg[Cone types,400,100]
+
+.Everyone sees a "12" on the left, but only without colorblindness see a "26" on the right, they will see only the "2" or the "6" or none at all.
+image::images/colorblindness.jpg[Colorblindness,400,100]
+
+.The value of color vision: It helps us to distinguish objects of interest from their background, giving us an evolutionary advantage, finding food.
+image::images/color_vision_cherries.jpg[Color vision cherries,400,100]
+
+.The (ultraviolet reflecting) mouths of these bird babies would actually appear black to us, but this is a UV photograph, just the way birds see it with their additional cone type. Predators on the other hand cannot see UV light; nice.
+image::images/ultraviolet_birds.jpg[Ultraviolet birds,400,100]
+
+.Complementarity of afterimages: Stare at the dot on the flag for 30 seconds. The look at the dot on the right. What do you see? This effect happens in the retina/visual system, before input converges, which can be demonstrated by looking at the left dot with one eye closed, and then look at the right dot first with one, then the other eye.
+image::images/complementarity_afterimages.jpg[Complementarity of afterimages,400,100]
+
+.Reconciliation of the trichromatic and opponent-process theories. Three cone types in opponent-process cells, excited by blue and inhibited by yellow (B+Y-), excited by red and inhibited by green (R+G-). Excitatory neural connections are Y-shaped axonal endings, inhibitory are shown as straign lines perpendicular to the axon. "I" marked cells are inhibitory intermediary neurons. Exercise: Try to draw a diagram for B-Y+ and R-G+ opponent neurons.
+image::images/reconcile_trichromatic_opponentprocess.jpg[Reconcile trichromatic opponent process,400,100]
+
 
 .YouTube Video: "Why Do We See Colors?", 9mins
 [link=https://www.youtube.com/watch?v=-Oo7W0TB-iI]
@@ -88,57 +123,125 @@ image::https://img.youtube.com/vi/-Oo7W0TB-iI/0.jpg[Why Do We See Colors 3,300]
 
 == Identification
 
-* Feature integration
-** Processing
-*** Parallel
-**** Fast, detection
-*** Serial
-**** Slow, spatial
-** Specific features = Specific neurons
-* Gestalt principle
-** Whole > Sum
-** Whole more important than parts
-** Grouping
-** Figure-ground
-// TODO list gestalt concepts
-* Top-down
-** Whole influences part
-** Unconscious inference
-** Illusory
-*** Contours
-*** Lightness difference
-* Recognition
-** Optic nerves
-*** Feature
-**** Integrate
-**** Perceptual whole
-**** = "Objects"
-** Visual agnosia
-*** Form
-*** Object
-* 2 processing streams
-** What
-*** Temporal lobe
-*** Recognition
-** Where-How
-*** Parietal lobe
-*** Action
-**** Grasp
-**** Move
-** (Bilateral) damage
-* Faces
-** Upright preference
-** Special mechanisms
-*** Psychological
-*** Neurological
-** Face area
-*** Fusiform: Familiar faces
-*** Occipital: New faces
-** Prosopagnosia
-*** Objects OK
-*** Familiar people NOK
-** Own-race bias
-*** Learned
+Seeing forms, patterns, objects and faces.
+
+=== Feature integration
+
+* Treisman's theory
+* Processing
+** Parallel
+*** Fast, detection
+** Serial
+*** Slow, spatial
+* Specific features = Specific neurons
+
+.Pathway from eyes to primary visual cortex in occipital lobe. Neurons in optic nerves meet at optic chiasm (base of the brain) and form the optic traccts, running to the nuclei in the thalamus, where they synapse on neurons running to the primary visual area of the cerebral cortex.
+image::images/visual_pathway.jpg[Visual pathway,400,100]
+
+.Treisman's theory of feature detection and integration. Stage 1, visual processing, primitive features are registered automatically/simultaneously. Feature integration happens at stage 2, information is processed serially. The letters "X" and "V" can not be processed at the same time at stage 2.
+image::images/treismans_theory.jpg[Treisman's theory,400,100]
+
+.Spot the target stimuli, the green slanted line! Does it pop out?! Left: The target stimulus differs from the distractor stimuli in a primitive feature (it's the only slanted line). On the right, the target stimulus does NOT differ from the distractors in a primitive feature (greenness matched by others and slantedness as well). The target is distinct only in ways its features are conjoined (only line which is both green and slanted).
+image::images/popout_feature.jpg[Pop out feature,400,100]
+
+.Yet again with the British train signals: Conjoined features make detection harder. The critical "slow down" signals shares to features: Color and number of lights, so the train driver has to detect both in order to identify it, slowing identification down and introducing possibility of mistakes. Here an improvement based on psychological research potentially can save lives.
+image::images/british_train_signals.jpg[British train signals,400,100]
+
+
+=== Gestalt principle
+
+* Whole > Sum
+* Whole more important than parts
+* Grouping (as seen in figure: <<img-gestalt_principles>> )
+[arabic]
+.. Proximity
+.. Similarity
+.. Closure
+.. Good continuation
+.. Common movement
+.. Good form
+* Figure-ground
+
+[#img-gestalt_principles]
+.Gestalt principles of grouping.
+image::images/gestalt_principles.jpg[Gestalt principles,400,100]
+
+.Because white is completely surrounded by black, we tend to see the white form as the figure, and the black form as the ground.
+image::images/figure_ground.jpg[Figure ground,200,100]
+
+.Reversible figures: Because it lacks strong cues which is figure/ground, this can be seen in both ways. If you stare at it, your perception alternates between both.
+image::images/reversible_figure.jpg[Reversible figure,300,100]
+
+.Illusory contour: Our perception creates a white triangle, including borders, making the traingle seem whiter than the white background.
+image::images/illusory_contour.jpg[Illusory contour,100,100]
+
+.Most people see a more clear illusory contour in the right picture. A finding, consistent with the unconscious-inference explanation of pattern perception.
+image::images/illusory_contour_clearer.jpg[Clearer illusory contour,200,100]
+
+=== Top-down
+
+* Whole influences part
+* Unconscious inference
+* Illusory
+** Contours
+** Lightness difference
+
+=== Recognition
+
+* Optic nerves
+** Feature
+*** Integrate
+*** Perceptual whole
+*** = "Objects"
+* Visual agnosia
+** Form
+** Object
+
+=== 2 processing streams
+
+* What
+** Temporal lobe
+** Recognition
+* Where-How
+** Parietal lobe
+** Action
+*** Grasp
+*** Move
+* (Bilateral) damage
+
+.Neurons send signals into two distinct streams for further processing, the two visual pathways for "What" (lower temporal lobe; perceive shapes, identifying objects) and "where-and-how" (parietal lobe; spatial relationships, guiding actions).
+image::images/two_visual_pathways.jpg[Two visual pathways,400,100]
+
+.Damage to the "what" pathway and you can still reach efficiently for an object (left) although you will not be able to consciously see the object's shape. Damage to the "where-and-how" (right) will lead to the opposite effect: Not being able to grab the object, even though you can consciously see the object's shape.
+image::images/reaching_object.jpg[Reaching for an object,400,100]
+
+=== Faces
+
+* Upright preference
+** Thatcherized image
+* Special mechanisms
+** Psychological
+** Neurological
+* Face area
+** Fusiform: Familiar faces
+** Occipital: New faces
+* Prosopagnosia
+** Objects OK
+** Familiar people NOK
+* Own-race bias
+** Learned
+
+.It doesn't take much for people to see faces in inanimate objects.
+image::images/inanimate_faces.jpg[xxx,400,100]
+
+.Thatcherized image: We have difficulties recognizing faces when they are upside-down. There seems nothing strange about Margaret Thatcher here, right? Look at it the right way, and you will be surprised!
+image::images/thatcherized_image.jpg[Thatcherized image,400,100]
+
+.Three-month old babies look at same-race as long as other-race faces, but with nine months the start to look longer at same-race faces, indicating that the own-race bias develops over infancy.
+image::images/ownrace_bias.jpg[Own race bias,400,100]
+
+.The fusiform face area (FFA) is important for recognizing familiar faces, and the occipital face area is for identifying new faces and distinguishing faces from objects.
+image::images/fusiform_facearea.jpg[Fusiform face area,400,100]
 
 == Three Dimensions
 
@@ -163,6 +266,36 @@ image::https://img.youtube.com/vi/-Oo7W0TB-iI/0.jpg[Why Do We See Colors 3,300]
 *** Panzo
 *** Unconscious inference
 
+.Binocular (=two-eyed) disparity (=degree of difference): Two eyes see slightly different view of the same object. The disparity is proportional to the distance, which is used by the perceptual system to perceive depth.
+image::images/binocular_disparity.jpg[binocular disparity,400,100]
+
+.A depth illusion created by binocular disparity: Be about 30cm in front of the screen, let your eyes drift unfocused until you see double images. You will see four renditions (=Wiedergaben) of white frames and darker squares. Converge/diverge your eyes until one sits on top the other. Once they are fused, you will see a dark square floating in space in front of a white square.
+image::images/binocular_disparity_depth_illusion.jpg[Binocular disparity depth illusion,400,100]
+
+.This image includes pictorial depth cues, such as: Occlusion, relative image size for familiar objects, linear perspective, texture gradient, position relative to the horizon and differential lighting of surfaces.
+image::images/pictorial_depth_cues.jpg[Pictorial depth cues,400,100]
+
+.Depth perception created by light and shade. Because we automatically assume light comes from above, the smaller disruptions look like bumps, and the larger as pits. When you turn the image, it looks the other way round. Fascinating, isn't it?!
+image::images/light_shade_depth_perception.jpg[Light shade depth perception,400,100]
+
+.Relationship of retinal-image size to object size and distance. Upper: An object B, twice the size and twice far away, will produce the same sized retinal image. Lower: If object A is moved twice farther away, the retinal image will be half the size.
+image::images/retinal_image.jpg[Retinal image,400,100]
+
+.(Adelbert) Ames room: The girls have to be the same size, but (without knowing the distorted nature of room) there seems to be a huge size difference, and that's because we assume the walls/windows are normal, the girls are the same distance away, and therefore have to differ in size.
+image::images/size_distance_illusion.jpg[Size distance illusion,400,100]
+
+.The Ponzo and Mueller-Lyer illusions show all lines of the same length, although they might not look to as that way.
+image::images/ponzo_muellerlyer_illusion.jpg[ponzo mueller-lyer illusion,400,100]
+
+.Depth-processing explanation of the Ponzo illusion. In 2D the bars are of the same length, in 3D the back would be much larger.
+image::images/ponzo_depth.jpg[Ponzo depth,400,100]
+
+.Depth-processing explanation of the Mueller-Lyer illusion: If these sawhorses were real, viewed from below the horizontal bar would be longer (as further away), when viewed from above it be shorter in 3D space.
+image::images/muellerlyer_depth.jpg[MuellerLyer depth,400,100]
+
+.The moon illusion: When closer to the horizon, it seems bigger due to unconscious processes and the farther-larger-nearer theory.
+image::images/moon_illusion.jpg[Moon illusion,400,100]
+
 == Multisensory
 
 * Integration
@@ -179,6 +312,15 @@ image::https://img.youtube.com/vi/-Oo7W0TB-iI/0.jpg[Why Do We See Colors 3,300]
 ** Sense stimulus via other senses
 *** E.g. "blue monday"
 ** Sensory cross-activation hypothesis
+
+.The bouba-kiki effect: Which one is the bouba, which one the kiki? Most (across different languages) say left kiki, right bouba, showing that the relation between object and name is arbitrary.
+image::images/bouba_kiki.jpg[Bouba Kiki effect,400,100]
+
+.Frequency of synesthesia: Inducers (stimuli that induces synesthesia) and concurrents (sensory system in which one experiences synesthesia). The graphics explains why most often synesthetes "see music as colors".
+image::images/synesthesia_frequency.jpg[Synesthesia frequency,400,100]
+
+.Drawing of a synesthete how he associates numbers with colors. The 7 and 8 are composed of two colors.
+image::images/number_color_association.jpg[Number color association,400,100]
 
 == Additional Resources
 
