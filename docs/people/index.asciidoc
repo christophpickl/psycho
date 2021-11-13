@@ -25,7 +25,7 @@ A list of some people good to know in the area of psychology:
 * Popper, Karl
 * Rogers, Carl
 * Rousseau, Jean-Jacques
-* Skinner, Burrhus Frederic
+* link:skinner-burrhus_frederic.html[Skinner, Burrhus Frederic]
 * Thorndike
 * Vygotsky
 * Wallace, Alfred Russel

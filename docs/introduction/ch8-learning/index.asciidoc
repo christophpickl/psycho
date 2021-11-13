@@ -1,9 +1,9 @@
 = Chapter 8 - Learning
 
+_"Much like the laws of gravity, the laws of learning are always in effect."_
 // keywords + check list in books
 // keypeople
 // people add content + back-reference here
-// pictures
 // check all for typos
 
 Subpages::
@@ -15,84 +15,128 @@ Subpages::
 [link=images/mindmap.png]
 image::images/mindmap.png[Mind Map,100%,100]
 
-//* pavlovl won nobel prize; salivation of dogs
-//* classical=pavlovian, operant=instrumental (next to observational learning)
-//* classical/pavlovian (stimulus, passive), operant/instrumental (behavior, active)
-//* first thorndike, then skinner
-//* "much like the laws of gravity, the laws of learning are always in effect"
-//* law of effect: more likely to happen if rewarded (obvious common sense ;)
-//* taste aversion conditioning: flavor associated with discomfort, thus avoided/disliked. clinical application: people avoid food eaten before chemotherapy
-//* conditioned compensatory responses: e.g. cue for drug, body prepares
-
 == Keywords
 
 - *Foo*: Bar
+- *Foo*: Bar
+- *Law of Effect*: More likely to happen if rewarded -obviously common sense.
+- *Operant Shaping*: Approximations towards a desired behavior (e.g. in animal training).
+
 
 == Keypeople
 
-* Ivan Pavlov
-* Thorndike
-* Skinner
+* Bandura
+* Ivan Pavlov: "Father" of classical conditioning.
+* Thorndike: Started with operant conditioning.
+* * link:/people/skinner-burrhus_frederic.html[Skinner]: Continued Thorndike's work.
+
 // TODO people from contemporary experiments
 
 == Classical Conditioning
 
+Also called "Pavlovian conditioning". In contrast to operant conditioning, it is a passive method of learning (stimulus).
+
 * Terminology/abbreviations:
-** US ... Unconditioned Stimulus
-** CS ... Conditioned Stimulus
-** UR ... Unconditioned Response
-** CR ... Conditioned Response
+** US ... Unconditioned Stimulus (food)
+** CS ... Conditioned Stimulus (bell)
+** UR ... Unconditioned Response (food -> saliva)
+** CR ... Conditioned Response (bell -> saliva)
 
+.Procedure of classical conditioning. A neutral stimulus (bell) does not elicit a response. After pairing with an unconditioned stimulus (food), it becomes a conditioned stimulus and does elicit a response.
+image::images/classical_conditioning_procedure.jpg[Classical conditioning procedure,400,100]
 
-* Procedure
-** UR: Food => Saliva
-** Pairing:
-*** Neutral stimulus: Bell
-*** US: Food
-** Neutral stimulus becomes CS
-*** Bell => Saliva
-* Extinction
-** Different neurons
-*** Inhibiting
-*** Promoting
-** Suppression
-*** Not unlearned
-** Spontaenous recovery
-** CS without US
-*** Bell without food
-*** => CR stops
-* Generalization
-** Similar stimulus
-*** E.g. black VS grey rectangle
-** Discrimination
-*** "Reduced generalization" (more precise)
-*** US => CS
-*** Similar stimulus => Nothing
-* Learned what?
-** S-R
-*** CS => CR
-** S-S
-*** CS => US
-** Best if reliable
-* Emotion, motivation
-** Prepare for important event
-** Fear
+.Pavlov was the personification of the dedicated scientist. He even hardly noticed the Bolshevik Revolution of 1917. Once one of his assistant arrived 10 minutes too late and said: "But Professor, there's a revolution going on, with shooting in the streets." To which Pavlov replied, "What the ___ difference does that make when you've work to do in the laboratory? Next time there's a revolution, get up earlier!" ;)
+image::images/pavlovs_dog.jpg[Pavlovs dog,400,100]
+
+.Who has conditioned whom, is the question.
+image::images/dog_wags_pavlov.jpg[Dog wags Pavlov,400,100]
+
+=== Procedure
+
+* UR: Food => Saliva
+* Pairing:
+** Neutral stimulus: Bell
+** US: Food
+* Neutral stimulus becomes CS
+** Bell => Saliva
+
+.Pavlov's method measured salivation of a dog by surgically connected a glass tube to salivary ducts. Stimuli that reliable precedes food would be enough to produce secretions. Tadaaa: Conditioning!
+image::images/saliving_dog.jpg[Saliving dog,400,100]
+
+=== Extinction
+
+* Different neurons
+** Inhibiting
+** Promoting
+* Suppression
+** Not unlearned
+* Spontaenous recovery
+* CS without US
+** Bell without food
+** => CR stops
+
+=== Generalization
+
+* Similar stimulus
+** E.g. black VS grey rectangle
+* Discrimination
+** "Reduced generalization" (more precise)
+** US => CS
+** Similar stimulus => Nothing
+
+=== Learned what?
+
+* S-R
+** CS => CR
+* S-S
+** CS => US
+* Best if reliable
+
+.S-R theory states that there is a direct bond between CS and UR. According to S-S theory though, the bond is created between the CS and a mental representation of the US, which produces the response. There is support for the S-S theory, in such that weakening the UR (through habituation), after conditioning, also weakens the CR.
+image::images/SS_SR_theories.jpg[SS and SR theories,400,100]
+
+.Learned expectancy makes the cat respond to the prediction (sound of the can being opened) of the arrival of food, although her response is not identical to her response to food itself, but one of eager attention.
+image::images/learned_expectancy.jpg[Learned expectancy,400,100]
+
+.Pattern of stimulus presentation in which conditioning does (not) work.
+image::images/stimulus_pattern.jpg[Stimulus pattern,400,100]
+
+=== Emotion, motivation
+
+* Prepare for important event
+* Fear
 // TODO link to experiment
-*** Little albert
-** Hunger
-*** Appetizer effect
-** Liking
-*** Evaluative conditioning
-** Sexual arousal
-* Drugs
-** Pairing
-*** Stimulus = drug
-** Opposite effect
-*** Drug relapse
-*** Drug tolerance
-**** Compensatory effect
+** Little albert
+* Hunger
+** Appetizer effect
+* Liking
+** Evaluative conditioning
+* Sexual arousal
+
+.First, Little Albert played happily with the rat (left), but after conditioning to respond fearfully to the rat (very loud sound), he also cried at sight of other furry objects, including a rabbit (right). This phenomena is being called "generalization".
+image::images/little_albert.jpg[Little albert,400,100]
+
+.Conditioning young humans to love beer. The US is the happy, sexually suggestive scene. The CS is the beer label.
+image::images/commercial_conditioning.jpg[Commercial conditioning,400,100]
+
+=== Drugs
+
+* Pairing
+** Stimulus = drug
+* Opposite effect
+** Drug relapse
+** Drug tolerance
+*** Compensatory effect
+* "conditioned compensatory responses": e.g. cue for drug, body prepares
+
+.The stimuli associated with drug preparation becomes a strong CS for bodily responses that counteract the drug's effect, protecting the body from the harmful drugs (e.g. drugs increases, body decreases heart beat in preparation). This produces intense cravings and contributes to relapse, in worst cases to death when taken in uncommon environments where these cues are lacking so the body will prepare accordingly (not an overdose, but the lack of preparation kills).
+image::images/drug_addiction.jpg[Drug addiction,400,100]
 
 == Operant Conditioning
+
+Also called "Instrumental Conditioning".
+
+In contrast to classical conditioning, it is an active method of learning (behavior).
 
 === Behavior
 
@@ -100,7 +144,7 @@ image::images/mindmap.png[Mind Map,100%,100]
 ** With/Without awareness
 ** Operant response
 *** Action => Effect
-*** Law of Effect
+*** *Law of Effect*
 **** Thorndike's Puzzle Box
 *** Reinforcer
 **** Skinner
@@ -124,6 +168,42 @@ image::images/mindmap.png[Mind Map,100%,100]
 *** Reinforce: Praise / Stop noise
 *** Punish: Beat / Deny rights
 
+[cols="1,10,10"]
+|=======
+|           | Increases   | Decreases
+
+| Presented | pos. reinf. +
+(give food) | pos. punish. +
+(shock on)
+| Removed   | neg. reinf. +
+ (shock off)| neg. punish. +
+ (take food)
+|=======
+
+.Thorndike designed puzzle boxes like this, where a cat is placed inside, and can open the door and reach the food outside by stepping on the tab.
+image::images/thorndikes_puzzle_box.jpg[Thorndike's puzzle box,400,100]
+
+.The typical learning curve of a cat solving Thorndike's puzzle box. Less time for each successive trial, still a great deal of variability.
+image::images/thorndike_learning_curve.jpg[Puzzle box learning curve,400,100]
+
+.Thorndike's "Law of effect" posits, the stimulus situation (being in the box), creates many responses (left picture), but only the successful ones (pressing the lever), associated with a feeling of satisfaction, causes that response to be more strongly elicited on successive trials.
+image::images/law_of_effect.jpg[Law of effect,400,100]
+
+.B.F. Skinner and his operant-conditioning chamber ("Skinner box"), to study the operant behavior in rats. Everytime it presses the lever, it will be rewarded with food, and along it a record would be made by the machine. The improvement here over Thorndike's puzzle box is, the animal stays inside, and the setup has not to be reset.
+image::images/skinner.jpg[Skinner,400,100]
+
+.Typical cumulative response curve for a rat learning to press a lever in a Skinner box. A paper roll would turn in constant speed, whereas the pen would move one space up every time the rat hits the lever.
+image::images/rat_learning.jpg[Rat learning,400,100]
+
+.Operant shaping: Rewarding gradual approximations towards a desired behavior can be used to train animals to do things they usually would not do.
+image::images/operant_shaping.jpg[Operant shaping,400,100]
+
+.Different reinforcement schedules produce different response patterns. Ratio-based schedules significantly result in more rapid responses. Note the galloping pattern of the fixed-interval schedule, where the subject starts responding towards the end of the interval.
+image::images/reinforcement_schedules.jpg[Reinforcement schedules,400,100]
+
+.Partial reinforcement in daily life: Winning at a slot machine is a variable-ratio schedule, producing rapid and steady responses (left). Going straight into voicemal and then finally reaching a busy phone number as a variable-interval schedule, leading to slow and steady redialing (right).
+image::images/partial_reinforcement_life.jpg[Partial reinforcement life,400,100]
+
 === Conditions & Consequences
 
 * Discrimination training
@@ -145,9 +225,18 @@ image::images/mindmap.png[Mind Map,100%,100]
 *** With retarded people
 ** Autism
 *** See: Lovaas
-*** Effective
+*** Effective treatment to shape behavior of children with autism
 *** Individual differences
 ** Manage classroom
+
+.Trained pigeons can very accurately pick the right button (of four) when different photos are shown, being able to classify the objects, even those they have never seen before.
+image::images/pigeons_classifying.jpg[Pigeons classifying,400,100]
+
+.Discrimination training led pigeons even identify trees like those, even though they are not green. They refrained from pecking when they saw green grass or leaves. Birds apparently have some sort of "concept" (categorization) of a tree.
+image::images/pigeons_classify_trees.jpg[Pigeons classify trees,400,100]
+
+.When rewards backfire by the overjustification effect. In this case, when play becomes work, as the focus shifts to winning, rather having fun, and pleasing parents/coaches. Also stop engaing in that behavior once the reward is gone (extrinsic motivation).
+image::images/overjustification.jpg[Overjustification effect,400,100]
 
 .YouTube Video: "Puzzle box (Thorndike)", 2mins
 [link=https://www.youtube.com/watch?v=fanm--WyQJo]
@@ -155,9 +244,60 @@ image::https://img.youtube.com/vi/fanm--WyQJo/0.jpg[Puzzle box 3,300]
 
 == Beyond Conventional Learning
 
+* Play
+** Karl Groos
+*** Develop survival skills
+*** Species most where needed
+** Humans
+*** Also cultural
+** Children development
+*** Language
+*** Perspective taking
+*** Executive functions
+* Social Learning
+** Albert Bandura
+*** "Social Cognitive"
+*** Vicarious Reinforcement
+** Observational Learning
+*** Stimulus enhancement
+*** Goal enhancement
+*** Emulation
+** Teaching
+*** Most sophisticated
+*** Mostly only humans
+* Exploration
+** Primitive play
+*** More species
+*** All ages
+** Learn environment
+** Balance: Curiosity and fear
+** Latent learning
+*** Without reward
+*** Useful knowledge
+
+.Young predators play, practicing maneuvers which serve them as they grow older.
+image::images/play.jpg[Play,400,100]
+
+.Latent learning of rat solving a maze: Each rat hat 1 trial per day. The group getting reward only with day 11 were as good as the group which got rewards from day 1 on. Conclusion: Even the initially not-rewarded group learned the spatial layout of the maze, but they didn't use that knowledge until it was worthwile to do so.
+image::images/latent_learning.jpg[Latent learning,400,100]
+
+.Different theorists have emphasized different ways in which humans/animals learn.
+image::images/learning_theories.jpg[Learning theories,400,100]
+
+// TODO page 662, skinner/pavlov/bandura
+
+.XXX
+image::images/XXX[XXX,400,100]
+
+.XXX
+image::images/XXX[XXX,400,100]
+
+== Special Learning
+
 * Food
 ** Food-avoidance
 ** Avoid poisenous
+*** Taste aversion conditioning: flavor associated with discomfort, thus avoided/disliked. clinical application: people avoid food eaten before chemotherapy
 ** Different than classical conditioning
 ** Prefer "good"
 *** Healthy
@@ -182,39 +322,14 @@ image::https://img.youtube.com/vi/fanm--WyQJo/0.jpg[Puzzle box 3,300]
 ** Westermarck effect
 *** Incest aversion
 *** Cohabitation
+.XXX
+image::images/XXX[XXX,400,100]
 
-== Special Learning
+.XXX
+image::images/XXX[XXX,400,100]
 
-* Social Learning
-** Albert Bandura
-*** "Social Cognitive"
-*** Vicarious Reinforcement
-** Observational Learning
-*** Stimulus enhancement
-*** Goal enhancement
-*** Emulation
-** Teaching
-*** Most sophisticated
-*** Mostly only humans
-* Exploration
-** Primitive play
-*** More species
-*** All ages
-** Learn environment
-** Balance: Curiosity and fear
-** Latent learning
-*** Without reward
-*** Useful knowledge
-* Play
-** Karl Groos
-*** Develop survival skills
-*** Species most where needed
-** Humans
-*** Also cultural
-** Children development
-*** Language
-*** Perspective taking
-*** Executive functions
+.XXX
+image::images/XXX[XXX,400,100]
 
 == Additional Resources
 

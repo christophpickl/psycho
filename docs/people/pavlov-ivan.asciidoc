@@ -1,6 +1,6 @@
 = Ivan Pavlov
 
-[#img-Kant]
+[#img-pavlov]
 .Ivan Petrovich Pavlov himself
 image::pavlov-ivan.png[Ivan Pavlov,200,100]
 
@@ -12,6 +12,7 @@ image::pavlov-ivan.png[Ivan Pavlov,200,100]
 == Achievements
 
 * Development psychology - classical conditioning - "Pavlov's dog"
+* Won the nobelprize for research on salivation of dogs (different foods would produce different kinds of saliva).
 * Got inspired by the idea of link:/introduction/ch1-background/index.html#sec-reflexology[Reflexology]
 
 == Links
