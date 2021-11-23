@@ -99,11 +99,11 @@ disordered and their families?
 
 == Think Critically
 
-. Foo
+. Why would a knowledge of research methodology be important for evaluating the effectiveness of different forms of treatments for psychological disorders?
 ** [hiddenAnswer]#Bar.#
 
-. Foo
+. By some estimates, prisons may be the largest mental health providers in the United States. What implications, if any, does this have for the diagnosis and treatment of people with psychological disorders?
 ** [hiddenAnswer]#Bar.#
 
-. Foo
+. Is psychotherapy a science? Has science shown that psychotherapy works? Give reasons for your answers.
 ** [hiddenAnswer]#Bar.#

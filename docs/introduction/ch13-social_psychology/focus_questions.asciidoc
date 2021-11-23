@@ -125,11 +125,17 @@
 
 == Think Critically
 
-. Foo
+. What evidence was presented for the existence of each of the biases presented in the chapter? For example, how do we know that the person bias exists?
 ** [hiddenAnswer]#Bar.#
 
-. Foo
+. How do you think one’s implicit attitudes influence one’s explicit attitudes? If a person displays racial bias on a test of implicit attitudes but not explicit attitudes, is it appropriate to say that person is a racist?
 ** [hiddenAnswer]#Bar.#
 
-. Foo
+. What factors may explain why people experience arousal and a strong drive to do well—leading to either social interference or facilitation— when they know that their performance is being evaluated? Why might this hold true even if the evaluator is a stranger and the evaluation doesn’t count for anything?
+** [hiddenAnswer]#Bar.#
+
+. Why do people find it hard to refuse a direct request? If you were designing an experiment to assess circumstances under which people would refuse a request, how would you go about it?
+** [hiddenAnswer]#Bar.#
+
+. Humans are a highly social species. What social-cognitive abilities might have been selected for in evolution to promote sociality? Might there be any drawbacks in modern culture for some of these evolved abilities?
 ** [hiddenAnswer]#Bar.#

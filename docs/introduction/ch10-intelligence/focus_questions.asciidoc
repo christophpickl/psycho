@@ -122,11 +122,8 @@
 
 == Think Critically
 
-. Foo
-** [hiddenAnswer]#Bar.#
+. (a) What is meant by "intelligence" and (b) to what extent are levels of intellectual functioning influenced by nature versus nurture?
+** [hiddenAnswer]#(a) Bar. (b) Bar.#
 
-. Foo
-** [hiddenAnswer]#Bar.#
-
-. Foo
+. (a) Is it reasonable to contrast the cognitive abilities of people from different cultures? (b) What aspects of human thinking are characteristics of the species (species universal) versus dependent upon the culture one is brought up in (culture specific)?
 ** [hiddenAnswer]#Bar.#

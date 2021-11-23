@@ -24,7 +24,8 @@ tasks {
         attributes = mapOf(
             // https://docs.asciidoctor.org/asciidoctor/latest/html-backend/default-stylesheet/#customize-docinfo
 //            "docinfo" to "shared"
-            "stylesheet" to "custom.css"
+            "stylesheet" to "custom.css",
+            "toc" to "left",
         )
         sourceDir(Locations.sourceDirectory)
         setOutputDir(Locations.htmlBuildOutput)

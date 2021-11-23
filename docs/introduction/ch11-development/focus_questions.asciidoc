@@ -163,11 +163,14 @@ Do you think the costs outweigh the benefits?
 
 == Think Critically
 
-. Foo
+. (a) How can we know what an infant is thinking about? (b) Why or why not might it be worthwile to study perception and cognition in preverbal infants?
 ** [hiddenAnswer]#Bar.#
 
-. Foo
+. (a) How are the child's capacities and limitations at each of Piaget's stages of development related to the kind of scheme that is most prominent? (b) How does the child's behavior at each stage promote advancement to the next stage?
 ** [hiddenAnswer]#Bar.#
 
-. Foo
+. Some theorists propose that children play an active role in their own mental development, whereas others emphasize the role of a child's sociocultural environment in influencing cognitive development Are these approaches complementary or antagonistic to one another?
+** [hiddenAnswer]#Bar.#
+
+. To what extent is language development supported by inborn mechanisms and/or the social context?
 ** [hiddenAnswer]#Bar.#

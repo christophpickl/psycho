@@ -115,11 +115,11 @@
 
 == Think Critically
 
-. Foo
+. To what extent might some psychological disorders reflect adaptive behavior taken to an extreme? Or do all (or most) forms of psychological disorders reflect true psychopathology?
 ** [hiddenAnswer]#Bar.#
 
-. Foo
+. How might studying psychological disorders help us understand typical (i.e., “normal”) behavior and functioning?
 ** [hiddenAnswer]#Bar.#
 
-. Foo
+. Are personality disorders actually forms of psychopathology or merely extremes of normal personality differences? Does this distinction make a difference in how we treat people with such disorders?
 ** [hiddenAnswer]#Bar.#

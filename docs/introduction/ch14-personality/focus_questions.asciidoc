@@ -113,11 +113,8 @@
 
 == Think Critically
 
-. Foo
+. To what extent is one's behavior determined by personality traits or by the type of contexts one finds oneself in?
 ** [hiddenAnswer]#Bar.#
 
-. Foo
-** [hiddenAnswer]#Bar.#
-
-. Foo
+. To what extent might individual differences in personality reflect adaptive responses to different contexts or different cultures?
 ** [hiddenAnswer]#Bar.#

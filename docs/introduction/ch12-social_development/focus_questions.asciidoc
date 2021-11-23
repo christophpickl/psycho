@@ -110,11 +110,11 @@
 
 == Think Critically
 
-. Foo
+. What is attachment and why might it be so important for human development? Why might attachment early in life affect social relations in adulthood?
 ** [hiddenAnswer]#Bar.#
 
-. Foo
+. Do psychological differences in gender have a basis in biology or are they entirely socially constructed?
 ** [hiddenAnswer]#Bar.#
 
-. Foo
+. Is adolescence a "true" developmental stage, characteristic of our species, or is it primarily a social construction, invented by cultures in which additional education is required before taking on adult roles?
 ** [hiddenAnswer]#Bar.#
