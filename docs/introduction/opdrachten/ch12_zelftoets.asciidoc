@@ -1,0 +1,75 @@
+= Zelftoets Thema 1 (Chapter 1&2)
+
+. Psychologen bestuderen de geest door gedrag te observeren omdat
+.. de geest observeerbaar is, maar niet verklaard kan worden.
+.. alle psychologen getraind worden om behaviorist te zijn.
+.. gedrag geobserveerd kan worden en de geest niet.
+.. gedrag het resultaat is van de omgeving, terwijl de geest genetisch gedetermineerd is.
+** [hiddenAnswer]#Het juiste antwoord is c. gedrag geobserveerd kan worden en de geest niet.#
+
+. Iemand die gelooft in het bestaan van een ontastbare ziel, die gescheiden is van het materiële lichaam, is een aanhanger van het
+.. behaviorisme.
+.. nativisme.
+.. dualisme.
+.. materialisme.
+** [hiddenAnswer]#Het juiste antwoord is c. dualisme.#
+
+. Thomas Hobbes stelde dat al het menselijk gedrag begrepen moet worden in termen van fysieke processen in het lichaam, en dan met name in het brein. Deze filosofie staat bekend als het
+.. empirisme.
+.. nativisme.
+.. structuralisme.
+.. materialisme.
+** [hiddenAnswer]#Het juiste antwoord is d. materialisme.#
+
+. Kees is voortdurend bot en onbehouwen in zijn benadering van andere mensen. Zijn moeder stelt dat dit komt doordat zijn vrienden zich ook op deze manier gedragen. Welk verklaringsniveau gebruikt zij om zijn gedrag te verklaren?
+.. sociaal
+.. genetisch
+.. cognitief
+.. evolutionair
+** [hiddenAnswer]#Het juiste antwoord is a. sociaal.#
+
+. Waar verwijst het begrip ‘level of analyses’ naar?
+.. de snelheid waarmee een PET-scan de hersenen analyseert
+.. de methode waarmee een psycholoog individueel gedrag observeert
+.. het aantal mentale processen dat zich op enig moment afspeelt
+.. het type verklaring dat gegeven wordt voor een fenomeen
+** [hiddenAnswer]#Het juiste antwoord is d. het type verklaring dat gegeven wordt voor een fenomeen.#
+
+. Clever Hans was een paard dat allerlei intellectuele capaciteiten leek te bezitten, todat de psycholoog Oskar Pfungst de ware aard van deze intellectuele capaciteiten ontdekte. Hoe deed Oskar Pfungst dat?
+.. Hij vergeleek het gedrag van Clever Hans met dat van andere paarden.
+.. Hij riep de hulp in van een groep experts op het gebied van diergedrag.
+.. Hij deed experimenten waarin hij controleerde wat het paard wel en niet kon zien.
+.. Hij overtuigde de eigenaar van het paard om de aard van het bedrog te onthullen.
+** [hiddenAnswer]#Het juiste antwoord is c. Hij deed experimenten waarin hij controleerde wat het paard wel en niet kon zien.#
+
+. De meest directe manier om een hypothese aangaande een oorzaak-gevolgrelatie te testen, is met behulp van
+.. correlationele studie.
+.. descriptieve studie.
+.. een experiment
+.. zelfrapportage door proefpersonen.
+** [hiddenAnswer]#Het juiste antwoord is c. een experiment.#
+
+. Als je van een groep mensen de lengte van elk bij elkaar optelt, en de uitkomst van die som deelt door het aantal mensen in de groep, dan bereken je
+.. het gemiddelde.
+.. de standaarddeviatie.
+.. de mediaan.
+.. de correlatiecoëfficiënt.
+** [hiddenAnswer]#Het juiste antwoord is a. het gemiddelde.#
+
+. Wat betekent een correlatie coëfficiënt van -0.90?
+.. afwezigheid van een verband
+.. een zwak verband
+.. een matig verband
+.. een sterk verband
+** [hiddenAnswer]#Het juiste antwoord is d. een sterk verband.#
+
+. De criteriumvaliditeit van een meetinstrument verwijst naar
+.. in hoeverre het instrument bij elk gebruik hetzelfde resultaat oplevert.
+.. in hoeverre het instrument meet wat het zou moeten meten.
+.. in hoeverre het op het eerste oog een goed meetinstrument lijkt te zijn.
+.. in hoeverre het meetresultaat correleert met een vergelijkbare maat of zinvol kenmerk.
+** [hiddenAnswer]#Het juiste antwoord is d. in hoeverre het meetresultaat correleert met een vergelijkbare maat of zinvol kenmerk.#
+
+'''
+
+link:index.html[Alle opdrachten]

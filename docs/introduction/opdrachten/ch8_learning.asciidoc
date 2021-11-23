@@ -1,0 +1,16 @@
+= Chapter 8 - Learning
+
+== Opdracht 8.1
+
+. FOO
+** [hiddenAnswer]#BAR#
+
+. FOO
+** [hiddenAnswer]#BAR#
+
+. FOO
+** [hiddenAnswer]#BAR#
+
+'''
+
+link:index.html[Alle opdrachten]

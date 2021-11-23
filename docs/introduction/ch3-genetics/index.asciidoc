@@ -48,7 +48,7 @@ image::images/mindmap.png[Mind Map,100%,100]
 *** XY Male
 
 .22 numbered chromosomes and remaining two labeled X/Y.
-image::images/chromosomes.jpg[Gene effect,400,100]
+image::images/chromosomes.jpg[Chromosomes,400,100]
 
 .Schematic illustration of meiosis in sperm production (3 instead of 23 paris).
 image::images/meiosis_sperm.jpg[Meiosis,400,100]

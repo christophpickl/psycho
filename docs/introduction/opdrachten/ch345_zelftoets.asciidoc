@@ -1,0 +1,110 @@
+= Zelftoets Thema 2 (Chapter 3&4&5)
+
+. Elke proteïnemolecuul in ons lichaam is ontstaan onder aansturing van een
+.. zygoot.
+.. gen.
+.. aminozuur.
+.. enzym.
+** [hiddenAnswer]#Het juiste antwoord is b. gen.#
+
+. Een gen dat zijn observeerbare effecten produceert in zowel de homozygote als de heterozygote toestand is
+.. regressief.
+.. recessief.
+.. dominant.
+.. monozygoot.
+** [hiddenAnswer]#Het juiste antwoord is c. dominant.#
+
+. Onvoorspelbare foutjes die optreden bij de replicatie van DNA en die ervoor zorgen dat de gekopieerde versie van het DNA niet volledig identiek is aan de originele versie, noemen we ook wel
+.. mutaties.
+.. genetische drift.
+.. homologie.
+.. zygoot.
+** [hiddenAnswer]#Het juiste antwoord is a. mutaties.#
+
+. In welk paarsysteem paart een vrouwelijk dier met meerdere mannelijke dieren, terwijl een mannelijk dier met hooguit één vrouwelijk dier paart?
+.. polygynie.
+.. polyandrie.
+.. polygynandrie.
+.. monogamie.
+** [hiddenAnswer]#Het juiste antwoord is b. polyandrie.#
+
+. De aanname dat onze genen een directe invloed hebben op ons gedrag, in plaats van een indirecte invloed via de interactie met de omgeving, noemen we ook wel de
+.. genetische misvatting (genetic fallacy).
+.. naturalistische misvatting (naturalistic fallacy).
+.. capaciteitsmisvatting (capacity fallacy).
+.. deterministische misvatting (deterministic fallacy).
+** [hiddenAnswer]#Het juiste antwoord is d. deterministische misvatting (deterministic fallacy).#
+
+. De actiepotentiaal, gemeten vanuit de binnenkant van een neuron ten opzicht van de buitenkant, kan gezien worden als een verandering van een
+.. negatieve lading naar een blijvende positieve lading.
+.. positieve lading naar een negatieve lading, met uiteindelijke een herstel van de positieve lading.
+.. negatieve lading naar een positieve lading, met uiteindelijk een herstel van de negatieve lading.
+.. positieve lading naar een blijvende negatieve lading.
+** [hiddenAnswer]#Het juiste antwoord is c. negatieve lading naar een positieve lading, met uiteindelijk een herstel van de negatieve lading.#
+
+. Een onderzoeker is bezig met een experiment waarbij hij wil onderzoeken welke delen van de hersenen actief zijn tijdens een woordspel-taak. Hiervoor plaatst de onderzoeker elektronen op de schedel van een proefpersoon om de elektrische activiteit te kunnen meten. Welke methode wordt hier gebruikt?
+.. fMRI
+.. EEG
+.. ERP
+.. TMS
+** [hiddenAnswer]#Het juiste antwoord is b. EEG.#
+
+. Welke structuur wordt niet geclassificeerd als een subcorticale structuur van de hersenen?
+.. hersenstam
+.. cerebrale cortex
+.. amygdala
+.. medulla
+** [hiddenAnswer]#Het juiste antwoord is b. cerebrale cortex.#
+
+. De twee hemisferen van de cerebrale cortex zijn functioneel symmetrisch in veel gebieden behalve in de
+.. primaire motorische gebieden.
+.. primaire sensorische gebieden.
+.. secundaire motorische gebieden.
+.. associatiegebieden.
+** [hiddenAnswer]#Het juiste antwoord is d. associatiegebieden.#
+
+. De hersenen kunnen vanaf de geboorte
+.. nieuwe neuronen produceren, met name in gebieden die betrokken zijn bij leren en geheugen.
+.. nieuwe neuronen produceren tijdens de eerste 18 tot 21 maanden van ons leven.
+.. nieuwe neuronen produceren maar alleen in de hersenstam.
+.. nieuwe gliacellen produceren maar geen nieuwe neuronen.
+** [hiddenAnswer]#Het juiste antwoord is a. nieuwe neuronen produceren, met name in gebieden die betrokken zijn bij leren en geheugen.#
+
+. Honger is een voorbeeld van een ... en voedsel kan de bijbehorende ... zijn.
+.. incentive ; reinforcer
+.. drive ; motivationele staat
+.. drive ; incentive
+.. motivationele toestand ; drive
+** [hiddenAnswer]#Het juiste antwoord is c. drive ; incentive#
+
+. Een rat in een onderzoekslaboratorium heeft een injectie gekregen met een eetlustbevorderende stimulant. In welk gebied van de hypothalamus is deze injectie het meest waarschijnlijk toegediend?
+.. suprachiasmatische nucleus
+.. nucleus accumbens
+.. ventrolaterale preoptische nucleus
+.. arcuate nucleus
+** [hiddenAnswer]#Het juiste antwoord is d. arcuate nucleus.#
+
+. Welke van de volgende uitspraken geeft de beste omschrijving van een typisch slaappatroon gedurende de nacht?
+.. Bij elke opeenvolgende cyclus neemt de hoeveelheid tijd die in diepe slaap (stadium 3 en 4) wordt doorgebracht toe.
+.. Bij elke opeenvolgende cyclus neemt de hoeveelheid tijd die in REM-slaap wordt doorgebracht toe.
+.. De hoeveel tijd die doorgebracht wordt in elk van de verschillende stadia (1 t/m 4) is aan het begin van de nacht gelijk als aan het einde van de nacht.
+.. De hoeveelheid tijd die doorgebracht wordt in elk van de verschillende stadia varieert enorm per persoon waardoor een typisch slaappatroon niet goed te beschrijven is.
+** [hiddenAnswer]#Het juiste antwoord is b. Bij elke opeenvolgende cyclus neemt de hoeveelheid tijd die in REM-slaap wordt doorgebracht toe.#
+
+. Slaap is een voorbeeld van een circadiaan ritme omdat het
+.. het een fenomeen is dat we bij alle mensen op de wereld zien.
+.. een ritmische verandering is die dicht bij de 24-uurs cyclus blijft in afwezigheid van externe aanwijzingen voor de tijd van de dag.
+.. samenhangt met specifieke EEG en hormonale patronen.
+.. veranderd kan worden als de hoeveelheid licht waaraan iemand wordt blootgesteld wordt aangepast.
+** [hiddenAnswer]#Het juiste antwoord is b. een ritmische verandering is die dicht bij de 24-uurs cyclus blijft in afwezigheid van externe aanwijzingen voor de tijd van de dag#
+
+. Welk antwoord geeft de beste omschrijving van het fenomeen 'psychic blindness'?
+.. Objecten hebben geen enkele psychologische significantie meer.
+.. Het voelen van empathie is veel moeilijker.
+.. Visuele details worden veel minder scherp waargenomen.
+.. Geluiden worden niet langer gekoppeld aan visuele aanwijzingen.
+** [hiddenAnswer]#Het juiste antwoord is a. Objecten hebben geen enkele psychologische significantie meer.#
+
+'''
+
+link:index.html[Alle opdrachten]

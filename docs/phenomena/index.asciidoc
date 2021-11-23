@@ -36,7 +36,7 @@ laozi
 People's cases, accidents and other abnormalities in (medical) history.
 
 * ... H.M., no new memory (refer to movie memento)
-* ... phineas gage, typ mit stange durch hirn
+* link:phineas_gage.html[Phineas Gage], typ mit stange durch hirn
 * ... the lady, new york, got stabbed open street, no one intervened
 
 == Others
@@ -53,6 +53,7 @@ People's cases, accidents and other abnormalities in (medical) history.
 * link:bobo_doll.html[Bobo doll experiment]
 * Nodding/shaking head, influencing judgement.
 * Judging something while stick in mouth (forcing a smile).
+* Wire VS cloth mother and primate.
 
 == Studies
 

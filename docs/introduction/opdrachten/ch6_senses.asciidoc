@@ -1,0 +1,16 @@
+= Chapter 6 - Senses
+
+== Opdracht 6.1
+
+. FOO
+** [hiddenAnswer]#BAR#
+
+. FOO
+** [hiddenAnswer]#BAR#
+
+. FOO
+** [hiddenAnswer]#BAR#
+
+'''
+
+link:index.html[Alle opdrachten]

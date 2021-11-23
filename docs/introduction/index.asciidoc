@@ -4,6 +4,8 @@ For a general introduction text, read through the link:lecture_introduction.html
 
 Sample link:exams.html[exams] can be mostly found in Dutch.
 
+The given link:opdrachten/index.html[opdrachten] are given in Dutch and can be potentially useful for the exam preparation.
+
 == Book
 
 [#id-introduction-book]

@@ -1,0 +1,4 @@
+= Phineas Gage
+
+.The man and his metal rod.
+image::phineas_gage.jpg[Phineas Gage,500,100]

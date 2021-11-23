@@ -1,0 +1,64 @@
+= Chapter 5 - Motivation
+
+== Opdracht 5.1
+
+Schrijf op welke drives u in de afgelopen week, inclusief dit moment, heeft gehad; en werk ze uit volgens onderstaande instructie.
+
+Probeer ze in te delen in onderstaande categorieën (die besproken worden op pagina 153-154 van het boek). Probeer daarbij van elke categorie een aantal voorbeelden uit uw eigen leven te vinden. Probeer daarbij ook telkens te achterhalen voor uzelf welke beloningen of doelen gerelateerd zijn aan deze drives.
+
+* overleving
+* veiligheid
+* voortplanting
+* sociaal
+* educatief
+
+Gebruik voor deze opdracht het sjabloon dat beschikbaar is via onderstaande link. Print dit en gebruik het om het resultaat van uw zelfonderzoek vast te leggen.
+
+== Opdracht 5.2
+
+Er is veel onderzoek gedaan naar het beloningssysteem in de hersenen. In hoofdstuk 5 wordt onderscheid gemaakt tussen verschillende componenten van beloning (liking, wanting, reinforcement) en beschreven welke structuren in de hersenen betrokken zijn bij het beloningssysteem.
+
+. Welke hersenstructuren zijn betrokken bij het beloningssysteem in de hersenen?
+** [hiddenAnswer]#Uit onderzoek blijkt dat met name de 'medial forebrain bundle' en de 'nucleus accumbens' betrokken zijn bij het beloningssysteem in de hersenen. De 'medial forebrain bundle' verbindt productiekernen van dopamine in de middenhersenen (ventral tegmental area) met de 'nucleus accumbens', welke onderdeel is van de 'basale ganglia' en de dopamine uitscheiding controleert. Vervolgens gaan er verbindingen naar het limbisch systeem en de cerebrale cortex.#
+
+. Wanneer we kijken naar de verschillende componenten van beloning (liking, wanting en reinforcement), wat zijn dan de verschillen en overeenkomsten in de werking van de betrokken hersenstructuren?
+** [hiddenAnswer]#Bij de verschillende componenten van beloning (liking, wanting, reinforcement) zijn telkens dezelfde hersenstructuren (medial forebrain bundle en nucleus accumbens) betrokken. Uit onderzoek is echter wel gebleken dat ‘wanting’ en ‘reinforcement’ samenhangen met de afscheiding van dopamine in de nucleus accumbens, terwijl ‘liking’ samenhangt met de afscheiding van endorfine in de nucleus accumbens.#
+
+. Hoe hangt drugsverslaving samen met het beloningsysteem in de hersenen en waardoor wordt (drugs)verslaving in stand gehouden?
+** [hiddenAnswer]#Bij elke vorm van beloning ontstaat er een direct effect (‘liking’) in de hersenen, en wordt, als de beloning onverwachts is, het beloningssysteem geactiveerd. Neuronen in de nucleus accumbens die dopamine uitscheiden worden daarbij geactiveerd waardoor beloningsgericht leren wordt gestimuleerd. In het geval van drugs wordt dat beloningssysteem echter elke keer geactiveerd, of de drugs nu onverwachts wordt toegediend of niet. Dit heeft als gevolg dat er een link wordt gelegd tussen cues in de omgeving waarin drugs wordt gebruikt en de gevoelens van het verlangen naar en het daadwerkelijk nemen van de drugs. Deze link wordt elke keer weer geactiveerd en versterkt. Dit speelt een grote rol bij het in stand houden van een (drugs)verslaving, omdat na verloop van tijd het onmiddellijke effect (liking) vaak niet meer aanwezig is, maar het verlangen (wanting) toch steeds weer wordt geactiveerd door de vele verschillende cues.#
+
+== Opdracht 5.3
+
+Slapen is ogenschijnlijk een bezigheid die er weinig toe doet, maar een gezonde slaap is letterlijk van levensbelang. Bovendien is slaap een van de meest overweldigende drijfveren die er is. Ons verlangen naar voedsel en seks is bijvoorbeeld vrij goed te overwinnen als we dat willen. Maar als de slaap zich meldt dan is het vrijwel onmogelijk daar weerstand aan te bieden.
+
+In hoofdstuk 5 wordt een aantal theorieën besproken over de functie van onze slaap. Onderzoek met behulp van een eeg (elektro-encefalogram) laat bijvoorbeeld zien dat er verschillende slaapstadia zijn, en van die verschillende stadia lijkt met name de remslaap een bijzondere functie te vervullen. De volgende opdracht gaat in op deze verschillende theorieën over de functie van slaap.
+
+Hieronder staan drie theorieën genoemd over de functie van slaap die beschreven staan in hoofdstuk 5 van het handboek. Tevens staat er een aantal bevindingen beschreven die als bewijs kunnen dienen vóór een bepaalde theorie.
+
+Plaats het bewijs bij de juiste theorie en geef telkens een korte toelichting bij uw keuze.
+
+
+. Brain-Maintenance theory
+. Body-Restoration theory
+. Preservation and Protection theory
+
+[loweralpha,start=1]
+. Kleine zoogdiersoorten slapen over het algemeen meer dan zoogdiersoorten die qua omvang groter zijn.
+. Jonge zoogdieren slapen meer dan volwassen zoogdieren.
+. Slaapdeprivatie in ratten leidt in drie weken tot de dood.
+
+[hiddenAnswer]#
+
+Bevinding a (kleine zoogdiersoorten slapen over het algemeen meer dan zoogdiersoorten die qua omvang groter zijn) kan als bewijs gezien worden voor de Body-Restoration theorie. Kleine zoogdiersoorten hebben namelijk een hoger metabolisme (verliezen meer lichaamswarmte) dat leidt tot meer schade aan lichaamsweefsel. Die schade wordt, volgens de Body-Restoration-theorie tijdens de slaap hersteld. +
+Bevinding a kan echter ook als bewijs gezien worden voor de Preservation-and-Protection-theorie. Grote zoogdieren kunnen namelijk minder makkelijk een veilige slaapplek vinden en zijn dus veiliger in waaktoestand dan in slaaptoestand. +
+Bevinding b (jonge zoogdieren slapen meer dan volwassen zoogdieren) kan als bewijs gezien worden voor de Brain-Maintenance-theorie. Jonge zoogdieren slapen namelijk meer en brengen dus ook meer tijd door in de REM-slaap, die volgens de Brain-Maintenance-theorie dient om neurale circuits in de hersenen te onderhouden, en te stimuleren, om te voorkomen dat deze afsterven. +
+Bevinding b (jonge zoogdieren slapen meer dan volwassen zoogdieren) kan echter ook als bewijs gezien worden voor de Preservation-and-Protection-theorie. Jonge zoogdieren die verzorgd worden hebben namelijk weinig tijd nodig in wakkere toestand, en zijn meestal veiliger als ze een veilige slaapplek hebben. Bovendien geeft hun slaapperiode hun verzorgers de mogelijkheid om al hun taken uit te oefenen. +
+Bevinding c (slaapdeprivatie in ratten leidt in drie weken tot de dood) kan als bewijs gezien worden voor de Body-Restoration theory. Slaap is namelijk cruciaal voor herstel van het lichaam.#
+
+== Opdracht 5.4
+
+Samenvatting van de paragraaf 'Foundations for Understanding Emotions'.
+
+'''
+
+link:index.html[Alle opdrachten]

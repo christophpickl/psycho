@@ -323,7 +323,7 @@ image::images/bias_autism.jpg[Autism,200,100]
 ** E.g. Only WEIRD or college students.
 
 .Most research is conducted with people from Western, Educated, Industrialized, Rich and Democratic societies (WEIRD).
-image::images/bias_error.jpg[Bias Error,200,100]
+image::images/weird.jpg[WEIRD,200,100]
 
 [#sec-ethics]
 == Ethics

@@ -26,7 +26,7 @@ image::clever_hans.jpg[Clever Hans,200,100]
 * As well as the importance of *controlled conditions*.
 ** Rule out alternatives (e.g. using blinders).
 
-See: link:/introduction/ch2-methods/#sec-clever_hans[Introduction / Chapter 2]
+See: link:/introduction/ch2-methods/index.html#sec-clever_hans[Introduction / Chapter 2]
 
 
 .YouTube Video: "(CLEVER HANS) 🐴➕ The HORSE That Learned MATHEMATICS", 3mins

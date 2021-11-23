@@ -1,0 +1,73 @@
+= Chapter 2 - Methods
+
+== Opdracht 2.1 - Research Design
+
+. Geef aan tussen welke drie research designs de auteurs onderscheid maken. Licht van elk kort de procedure toe, en geef van elk aan voor welk soort onderzoeksvragen deze geschikt is.
+** [hiddenAnswer]#Een *experiment* is de meest geschikte methode om oorzaak-gevolgrelaties vast te stellen. In een experiment proberen we de situatie zoveel mogelijk onder controle te houden, en manipuleren we vervolgens één variabele - de onafhankelijke variabele, bijvoorbeeld: de hoeveelheid zout in een bak friet - om te bekijken of een andere variabele daardoor beïnvloed wordt - de afhankelijke variabele, bijvoorbeeld: de hoeveelheid friet die mensen eten. Als nu blijkt dat bij hogere zoutgehalten mensen steeds meer friet eten, dan mogen we concluderen dat het zoutgehalte een van de oorzaken is voor overmatige frietconsumptie. +
+Bij *correlationeel onderzoek* voer je een manipulatie zoals in een experiment niet uit, meestal vanwege praktische of ethische bezwaren tegen het beïnvloeden van je deelnemers. In dat geval beïnvloed je dus niet een onafhankelijke variabele om te zien wat daarvan het effect is op een afhankelijke variabele, maar meet je gewoon twee variabelen, om te zien of er een verband is tussen beide. In zulke studies kunnen we dus niet vast stellen wat oorzaak en wat gevolg is, maar wel voorspellen hoe de variatie op de ene variabele - bijvoorbeeld werkdruk - zal samenhangen met een variatie op de andere - bijvoorbeeld productiviteit op de werkvloer. +
+*Descriptief* of beschrijvend onderzoek is het meest geschikt als we in veel detail willen beschrijven hoe processen verlopen. Met descriptief onderzoek kunnen we geen verbanden vaststellen omdat we niet systematisch meerdere variabele meten, laat staan dat we oorzaak-gevolgrelaties kunnen vaststellen. Daarvoor zouden we immers niet alleen twee variabelen moeten meten, maar ook nog eens een van beide systematisch moeten manipuleren. Beschrijvend onderzoek is wel heel geschikt om nauwkeurig in kaart te brengen hoe een specifieke groep mensen, of één individu, zich gedraagt in een specifieke context.#
+
+. Naast verschillende typen research designs wordt ook onderscheid gemaakt tussen twee research settings. Noem beide en leg uit wat van elk van beide de voor- en nadelen zijn.
+** [hiddenAnswer]#Het voordeel van *laboratoriumonderzoek* is dat de onderzoeker zeer nauwkeurig de omgeving kan beheersen en precies kan manipuleren wat hij wil onderzoeken. Nadeel is wel dat de laboratoriumomgeving daardoor vrij steriel is, en relatief weinig relatie heeft tot de dagelijkse praktijk. Wat vertellen de onderzoeksbevindingen dan nog over het menselijk gedrag in een natuurlijke context? +
+Bij *veldonderzoek* trekt de onderzoeker eropuit, om data te verzamelen in de alledaagse praktijk. De voor- en nadelen zijn dan ook tegengesteld aan die van laboratorium. Bij veldonderzoek krijg je veel meer zicht op hoe het gedrag van mensen zich afspeelt in een alledaagse context. Nadeel is wel dat in veldonderzoek de omgeving veel moeilijker te controleren is. Je kunt er dus best experimenten uitvoeren, maar daarbij is het veel moeilijker om te voorkomen dat allerlei verstorende factoren je onderzoeksresultaten beïnvloeden.#
+
+. Tot slot maken de auteurs onderscheid tussen twee categorieën van dataverzameling. Bespreek ook deze kort, en geef daarbij van elk aan wat de belangrijkste voor- en nadelen zijn.
+** [hiddenAnswer]#Bij *zelfrapportagemethoden* vragen we aan mensen om zelf te beschrijven hoe zij zich gedragen, of wat zij denken en voelen. Soms gebeurt dit door introspectie, waarbij iemand ongestructureerd reflecteert op de inhoud van zijn bewustzijn. Meestal doen we dit echter met meer gestructureerde vragenlijsten. Het grootste probleem van deze methoden is dat je mensen zelf laat oordelen over hun gedrag, en dat daardoor de objectiviteit van je data in het geding is. Wat mensen zeggen dat ze doen, is nou eenmaal niet altijd wat zij ook echt doen. +
+Dit probleem heb je niet wanneer je *observationele methoden* hanteert. Daarbij kijk je namelijk gewoon naar wat mensen doen. Soms doe je dat op een ongestructureerde manier, door alledaags gedrag te observeren. Vaak gebeurt dit ook in een veldexperiment waarin mensen in een testsituatie geplaatst worden en vervolgens nauwkeurig wordt vastgelegd hoe zij die situatie doorstaan. Het grootste probleem bij observationele methoden is dat mensen zich vaak anders gedragen als zij weten dat ze geobserveerd worden. Daarom is het van belang om observaties zo onopvallend mogelijk uit te voeren.#
+
+Hoe kan onderstaande vraagen het beste onderzocht worden?
+
+[arabic,start=4]
+. Is er een causaal verband tussen het zien van verschillende landschapstypen en gevoelens van psychisch welbevinden?
+** [hiddenAnswer]#Er wordt duidelijk gevraagd naar een causaal verband. Dan is een experiment altijd het meest voor de hand liggende research design. +
+Daarnaast wordt er gevraagd naar het effect van een specifieke variabele, te weten: landschapstype. Om daar het effect van te isoleren, zodat we het zo zuiver mogelijk kunnen vaststellen, zou het goed zijn om dit onderzoek in een laboratoriumsetting uit te voeren. Bovendien is het onhandig om met mensen de hele wereld over te reizen om ze verschillende landschappen te tonen. Ook daarom ligt een laboratoriumsetting voor de hand. +
+Tot slot wordt er gevraagd naar het effect op psychisch welbevinden. Dit is een variabele die moeilijk observationeel is vast te stellen, dus hier ligt zelfrapportage als dataverzamelingsmethode het meest voor de hand. In principe zou dat kunnen met ongestructureerde introspectie, maar om het onderzoek zo objectief mogelijk te laten verlopen, is het beter om bijvoorbeeld een bestaande vragenlijst te gebruiken om psychische welbevinden mee te meten. +
+Het gaat dus om een experimenteel design, in een laboratoriumsetting, met behulp van zelfrapportage.#
+
+. Hoe reageren mensen wanneer zij geconfronteerd worden met een verlaten koffer bij de bushalte?
+** [hiddenAnswer]#In dit geval gaat het om een betrekkelijk open vraagstelling. Er wordt niet gevraagd naar een samenhang tussen specifieke variabelen, maar naar hoe mensen zich in het algemeen zullen gedragen in een specifieke situatie. Voor dergelijke 'hoe'-vragen is een exploratieve, beschrijvende studie meestal het meest geschikt. +
+Het is ook een vraag die moeilijk in een laboratorium te onderzoeken is omdat mensen dan heel andere - bijvoorbeeld minder verontrustende - associaties bij een verlaten koffer zullen hebben. Het is dus een onderzoek dat typisch geschikt is voor een veldstudie. +
+Ook is het een vraag die het beste met behulp van observationele methoden kan worden beantwoord. Omdat mensen, wanneer ze gevraagd worden naar hun reactie, onmiddelijk in de gaten hebben dat de het niet daadwerkelijk om een verlaten koffer gaat. Wel zou je ze, nadat hun eerste reactie is geobserveerd, kunnen opvangen om ze nog een aantal vragen te stellen over de gevoelens en gedachten die de situatie bij hen opriep. +
+Het gaat dus om een beschrijvende studie, en een veldonderzoek, waarbij hoofdzakelijk observationele methoden worden gebruikt; eventueel opgevolgd door zelfrapportage.#
+
+. Is er een positieve samenhang tussen de persoonlijkheidstrek extraversie en arbeidssatisfactie?
+** [hiddenAnswer]#Er wordt niet gevraagd naar een causaal verband, maar gewoon naar samenhang, en bovendien zijn persoonlijkheidstrekken moeilijk te manipuleren. Wat dat betreft ligt een experiment hier niet voor de hand. Wel willen we duidelijk een verband vaststellen dus een beschrijvend onderzoek is ook niet geschikt. Een correlationeel design ligt hier dus het meest voor de hand. +
+De setting is hier eigenlijk niet zo van belang. Persoonlijkheidstrekken en zaken als arbeidssatisfactie kunnen overal vastgesteld worden met behulp van een vragenlijst. Het is dus vooral vanuit het oogpunt van kosten niet erg efficient om een dure laboratoriumruimte in te richten. Een veldstudie ligt dan meer voor de hand. +
+Zoals al gezegd gaat het om variabelen die betrekkelijk eenvoudig met behulp van zelfrapportage vastgesteld kunnen worden. +
+Het gaat dus om een correlationeel design, in een veldstudie, met behulp van zelfrapportage.#
+
+. Wat is de invloed van de aantrekkelijkheid van mensen op de bereidheid van anderen om hen te helpen?
+** [hiddenAnswer]#Hier willen we weer de invloed van de ene variabele op de andere vaststellen. Er wordt dus gevraagd naar een causaal verband, waarvoor een experiment altijd de aangewezen methode is. +
+Vanwege de mogelijkheid om het experiment zo zuiver mogelijk te laten verlopen, zou je dan kunnen kiezen voor een laboratorium setting, maar het is zeer de vraag of je dan nog wel een onbevangen reactie van je deelnemers krijgt. Bij sociale situaties als deze zijn mensen snel geneigd om zich beter voor te doen zodra ze in de gaten hebben dat ze geobserveerd worden. Wat dat betreft ligt een experiment in een veld situatie hier dus meer voor de hand. +
+Je zou dan kunnen denken aan een situatie waarin handlangers van de onderzoeker, die van te voren zijn beoordeeld als meer en minder aantrekkelijk, op straat aan passanten om hulp vragen. Vervolgens kun je vast leggen of mensen wel of niet op dat hulpverzoek ingaan. Het gaat hier dus ook duidelijk om een observationeel onderzoek waarbij deelnemers vooraf niet eens weten dat ze een deelnemer zijn. +
+Het gaat hier dus om een experimenteel design, in een veldsituatie, waarbij observationele methoden gebruikt worden.#
+
+== Opdracht 2.2
+
+Zelf onderzoek uitvoeren. Statistiek.
+
+== Opdracht 2.3
+
+Quizlet/flashcards tak.
+
+== Opdracht 2.4 - Ethiek
+
+. Noem elk van deze issues en beschrijf wat een wetenschapper kan doen om deze issues op een goede manier te borgen.
+** [hiddenAnswer]#Het eerste issue dat genoemd wordt is privacy van de deelnemer. Deze moet te allen tijde geborgd zijn door:#
+*** [hiddenAnswer]#Deelnemers vooraf goed te informeren over het onderzoek en vervolgens een zogeheten 'informed consent' (toestemming tot deelname na goed geïnformeerd te zijn) te laten tekenen.#
+*** [hiddenAnswer]#Deelnemers duidelijk te maken dat zij nooit verplicht zijn tot deelname.#
+*** [hiddenAnswer]#Onderzoeksdata en onderzoeksverslagen zodanig te bewerken en op te slaan dat de anonimiteit van de deelnemer is gegarandeerd.#
+** [hiddenAnswer]#Het tweede issue dat wordt genoemd is ongemak en materiële of immateriële schade. De kans dat deze optreden moet te allen tijde worden geminimaliseerd door:#
+*** [hiddenAnswer]#Deelnemers er op te wijzen dat zij zich op elk willekeurig moment mogen terugtrekken uit het onderzoek.#
+*** [hiddenAnswer]#Onderzoek zodanig in te richten dat ongemak en schade niet kunnen optreden.#
+*** [hiddenAnswer]#Of, als het risico daarop onvermijdelijk is, vast te stellen of er geen onderzoeksopzet mogelijk is waarbij dat risico kleiner is.#
+*** [hiddenAnswer]#Of, als dit laatste niet mogelijk is, vast te stellen of de potentiële opbrengst van het onderzoek opweegt tegen dat risico.#
+** [hiddenAnswer]#Het derde issue dat genoemd wordt is misleiding. In sommige studies is enige misleiding van deelnemers nodig, om de gewenste effecten te kunnen observeren. Dit staat op gespannen voet met de noodzaak van een 'informed consent'. Deze spanning is te rechtvaardigen door:#
+*** [hiddenAnswer]#Deelnemers achteraf goed te 'debriefen' (informeren over de ware aard van het onderzoek).#
+*** [hiddenAnswer]#In de 'informed consent' op te nemen dat er aspecten van het onderzoek geheim moeten worden gehouden tot deze 'debriefing'.#
+
+See "Research Ethics Committee" (cETO): https://www.ou.nl/research-ethics-committee-ceto
+
+'''
+
+link:index.html[Alle opdrachten]

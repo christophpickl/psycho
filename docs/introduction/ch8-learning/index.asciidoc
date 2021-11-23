@@ -286,11 +286,11 @@ image::images/learning_theories.jpg[Learning theories,400,100]
 
 // TODO page 662, skinner/pavlov/bandura
 
-.XXX
-image::images/XXX[XXX,400,100]
-
-.XXX
-image::images/XXX[XXX,400,100]
+//.XXX
+//image::images/XXX[XXX,400,100]
+//
+//.XXX
+//image::images/XXX[XXX,400,100]
 
 == Special Learning
 
@@ -322,14 +322,15 @@ image::images/XXX[XXX,400,100]
 ** Westermarck effect
 *** Incest aversion
 *** Cohabitation
-.XXX
-image::images/XXX[XXX,400,100]
 
-.XXX
-image::images/XXX[XXX,400,100]
-
-.XXX
-image::images/XXX[XXX,400,100]
+//.XXX
+//image::images/XXX[XXX,400,100]
+//
+//.XXX
+//image::images/XXX[XXX,400,100]
+//
+//.XXX
+//image::images/XXX[XXX,400,100]
 
 == Additional Resources
 

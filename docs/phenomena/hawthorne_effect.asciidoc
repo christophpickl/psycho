@@ -13,7 +13,7 @@ image::hawthorne_effect.png[Hawthorne Effect,500,100]
 Make use of *habituation*:
 ** Subjects get used to the presence of researchers, thus have no impact anymore.
 
-See: link:/introduction/ch2-methods/#sec-data_collection[Introduction / Chapter 2]
+See: link:/introduction/ch2-methods/index.html#sec-data_collection[Introduction / Chapter 2]
 
 .YouTube Video: "The Hawthorne Effect (Definition + Examples)", 5mins
 [link=https://www.youtube.com/watch?v=fei2WVqEykM]

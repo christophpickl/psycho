@@ -1,6 +1,6 @@
 # Todos
 
-* quizlet question focus question 6 (including)
+* link back; e.g. for each person, a back link: `HR - A: "People Index"`
 * google full index search
 
 ## Per chapter

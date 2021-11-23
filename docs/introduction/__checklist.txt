@@ -1,8 +1,7 @@
 Checklist Per Summary:
 
-// 1. set raw structure by mindmap
-// 1b. pictures
-// 2. keywords + check list in books
-// 3. keypeople + from experiments/research
-// 4. people add content + back-reference here
-// 5. fineschliff, check all for typos
+// 1. pictures
+// 2. keywords (plus words given in book)
+// 3. keypeople (also contemporary), add content + back-reference here
+// 4. add more specific/relevant content
+// 5. feinschliff, check all for typos
