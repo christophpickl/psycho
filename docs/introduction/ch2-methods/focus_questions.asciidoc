@@ -5,7 +5,6 @@
 By a series of field-experiments and observations which disabled Hans to see, which lead to a drop of his success rate, leading to the conclusion that Hans did not actual solve the problems himself.#
 
 . How are *observations, theories and hypotheses* related to one another in scientific research?
-// TODO many of us have different understanding of observations/theories/hypotheses!
 ** [hiddenAnswer]#According to the book: It starts with an observation, which is an objective statement, then we develop a theory (an idea, a conceptual model), based on which a prediction is made, a so-called hypothesis.#
 
 . How does the Clever Hans story illustrate (1) the value of *skepticism*, (2) the value of *controlled experimentation*, and (3) the need for researchers to avoid communicating their *expectations* to subjects?

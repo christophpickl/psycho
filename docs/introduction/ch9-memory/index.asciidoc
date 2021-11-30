@@ -1,6 +1,5 @@
 = Chapter 9 - Memory, Attention, Consciousness
 
-// TODO refer to movie memento
 // TODO refer to phenomena/HM case
 
 Subpages::
@@ -17,6 +16,9 @@ Subpages::
 
 == Keypeople
 
+== Content
+
+* Case of link:/phenomena/HM.html[H.M.] who couldn't form new memory.
+
 == Additional Resources
 
-None.

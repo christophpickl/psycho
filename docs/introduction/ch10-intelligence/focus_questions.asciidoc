@@ -47,83 +47,83 @@
 
 . (a) How have researchers documented a general difference between Westerners and East Asians in perception and memory?
 (b) How might this difference affect reasoning?
-** [hiddenAnswer]#(a) West: individual characteristics, analytical, detail, exoteric, entities abstracted from background. East: big picture, whole scene, interrelationships, holistic, esoteric. Easteners can also remember more (not only large entities), but also smaller, less active objects. Documented by the aquarium fish test (what focus/remember in scenery), and the frame-line test (absolute task of 30mm, relative task of 1/3, whereas the total is 90mm; westerns better at absolute, easteners better at relative). (b) Reasoning is influenced by our focus/perception, thus the conclusion being drawn are different. Westeners: Causal consequence of separate events. Focus on single, absolute details. Easteners: An organic wholeness which acts as a transactional system. Focus on the whole, the whole box, thus being able to relate a size.#
+** [hiddenAnswer]#(a) West: individual characteristics, analytical, detail, exoteric, entities abstracted from background. East: big picture, whole scene, interrelationships, holistic, esoteric. Easteners can also remember more (not only large entities), but also smaller, less active objects. Documented by the aquarium fish test (what focus/remember in scenery), and the frame-line test (absolute task of 30mm, relative task of 1/3, whereas the total is 90mm; Westerns better at absolute, Easteners better at relative). (b) Reasoning is influenced by our focus/perception, thus the conclusion being drawn are different. Westeners: Causal consequence of separate events. Focus on single, absolute details. Easteners: An organic wholeness which acts as a transactional system. Focus on the whole, the whole box, thus being able to relate a size.#
 
 . (a) What sorts of subtests make up modern IQ tests, such as the Wechsler tests, and (b) how is IQ determined?
 ** [hiddenAnswer]#(a) Verbal comprehension, perceptual processing, working memory and processing speed. (b) By a standardized scoring, using a normal distribution (assuming people's intelligence is distributed like it), and 100 being that average.#
 
-. (a) How have psychologists assessed the validity of IQ tests?
-(b) What are the general results of such assessments?
-** [hiddenAnswer]#Bar.#
+. (a) How have psychologists assessed the *validity* of IQ tests?
+(b) What are the general *results* of such assessments?
+** [hiddenAnswer]#(a) By correlating the results with success in school/career (more intellectual demanding jobs), or any other intelligent determining abilities/other indexes. Most tests are based on Binet's, which were designed for measuring school abilities. (b)  The correlation coefficients are moderate to low: For schools it's between 0.3-0.7, for jobs only 0.2 for "simple jobs" and for "more complex" around 0.5.#
 
-. (a) What was Spearman’s concept of general intelligence, or g?
-(b) Why did Spearman think that g is best measured with a battery of tests rather than with any single test?
-** [hiddenAnswer]#Bar.#
+. (a) What was Spearman’s concept of *general intelligence*, or g?
+(b) Why did Spearman think that g is best measured with a *battery of tests* rather than with any single test?
+** [hiddenAnswer]#(a) A common factor measured by all tests. g is the underlying ability to succeed in all kind of mental tests. (b) Because every test tests g as well as a more specific ability unique to the test. Calculating averages delivers most accurate g. As done in WAIS-IV tests with its subtests.#
 
-. What evidence led Cattell to distinguish between fluid intelligence and crystallized intelligence?
-** [hiddenAnswer]#Bar.#
+. What evidence led Cattell to distinguish between *fluid* intelligence and *crystallized* intelligence?
+** [hiddenAnswer]#Evidence comes from analysis of correlation patterns and the differing effects of age (older people identify synonyms/vocabulary way faster, and other abilities go down with age). Also by correlating different test scores (test types for raw reasoning vs depending on previous information). PS: Fluid establishes new relationship without prio experience (younger), crystallized is derived from previous experience (older people).#
 
-. What findings have revived Galton’s idea of mental quickness as a basis for general intelligence?
-** [hiddenAnswer]#Bar.#
+. What findings have revived *Francis Galton's* idea of mental *quickness* as a basis for general intelligence?
+** [hiddenAnswer]#People who passed a test quicker also were more intelligent. Also visual stimuli flashed quickly, the time was measured. BUT: Correlations are throughout all maximum modest (0.2, 0.3, 0.3-0.5).#
 
-. (a) How might executive functions provide a basis for individual differences in intelligence, and how might mental quickness affect that capacity?
-(b) What evidence supports this logical possibility?
-** [hiddenAnswer]#Bar.#
+. (a) How might *executive functions* provide a basis for *individual differences* in intelligence, and (b) how might mental *quickness* affect that capacity?
+(c) What *evidence* supports this logical possibility?
+** [hiddenAnswer]#(a) Executive functions are basically 3 components: Plan, regulate behavior, cognitive task performance; involving working memory, switching, inhibition; underlie g. A person being different in these, also are different in intelligence. (b) Superior mental speed also more (capacity) information to be processed faster, allowing working memory to handle new work load at any time. This is due to the quick *fading away* items hold in memory. (high positive correlation of mental speed and memory) (c) People with good executive functions are better directing mental sources to a task (signs of intelligence), thus there is a correlation. E.g. intellectually impaired people are worse in executive function tasks.#
 
-. What reasoning suggests that general intelligence is an adaptation for dealing with evolutionarily novel problems?
-** [hiddenAnswer]#Bar.#
+. What reasoning suggests that *general* intelligence is an adaptation for dealing with evolutionarily *novel* problems?
+** [hiddenAnswer]#As individuals/evolutionary line, we face a lot of novel problems which intelligence helps us to solve them (compare patterns, see analogies).#
 
-. (a) What is the difference between the absurd form of the nature-nurture question and the reasonable form?
-(b) Why is one absurd and the other reasonable?
-** [hiddenAnswer]#Bar.#
+. (a) What is the difference between the *absurd* form of the *nature-nurture* question and the *reasonable* form?
+(b) *Why* is one absurd and the other reasonable?
+** [hiddenAnswer]#(a) Absurd: "Does X result more from genes/environment?". Reasonable: "Whether differences in a trait among individuals result more from differences in their genes/environments?" => "How do nature/nurture interact to produce a pattern of development/intelligence?". See the analogy with rectangle shapes: It's senseless to say the area is more because of width or length, as both equally contribute. But it can be asked whether width/length contributes more to area differences among other shapes. (b) Because it is ALWAYS about both, because the sum is always depending on both factors equally. Also one can not be measured by itself (is area more from a or b?), another is needed for comparison to indicate differences (compare proportions of a and b for two shapes).#
 
-. (a) How is heritability defined?
-(b) Why would we expect heritability to be higher in a population that shares a similar environment than in an environmentally diverse population?
-** [hiddenAnswer]#Bar.#
+. (a) How is *heritability* defined?
+(b) Why would we expect heritability to be higher in a population that shares a similar *environment* than in an environmentally diverse population?
+** [hiddenAnswer]#(a) Variation in a trait due to genetic differences within a population. Heritability coefficient is 0.0 (no traits due inheritance) to 1.0, showing proportion of differences of a trait due to genetic variability. It's not saying how much a trait due to genetics, but percentage of trait difference within population can be attributed to inheritance, on average.(b) If all variables are gone (same environment) and there are still differences, it must be due to genetic differences (high heritability). See example of diet.#
 
 . (a) What is the logic of comparing identical and fraternal twins to study the heritability of traits?
 (b) What difference is observed between identical and fraternal twins in IQ correlation?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#(a) Identical (monozygotic) are especially valuable, as variables are better controlled (same genes); similar to fraternal (dizygotic) twins and non-twin siblings which only share 50% genes. (b) Identical twins have a higher IQ correlation. In general: The more genetically similar, to more similar IQ#
 
-. How can IQ heritability be estimated using the correlation coefficients for the IQs of identical and fraternal twins raised together?
-** [hiddenAnswer]#Bar.#
+. How can *IQ heritability* be estimated using the correlation coefficients for the IQs of identical and fraternal *twins* raised together?
+** [hiddenAnswer]#Because the environment is the same, and only the difference of identical and non-identical are genes, the difference in IQ must come from heritability.#
 
 . How can IQ heritability be estimated by studying identical twins who were adopted into different homes?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Because the genes are identical and only the environment differs (opposite as above) the correlation coefficient for raised-apart identical twins is itself an estimate of the heritability coefficient.#
 
 . How can a person's rearing environment influence the heritability of IQ?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#When parents are highly educated (thus also the provided environment), changed the heritability severly: low-educated 0.26, high ones 0.74#
 
 . (a) What is the evidence that the effect of a shared family environment on IQ correlations is lost in adulthood?
 (b) How might this loss be explained?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#(a) Studies show that IQ correlation for genetically unrelated children living in the same family is 0.25, whereas the average for genetically unrelated adults who shared the same family was basically 0. Meta-analysis of twin studies showed that fraternal twins IQ correlation declined at adulthood, while it did not for identical twins. (b) One possible explanation: When a child becomes an adult, it increasingly chooses its own environments and the genetic differences influence the kinds of environments it chooses. This makes sense especially considering the analogy of IQ as a muscle which can be trained. #
 
-. What evidence suggests that intellectual involvement can increase a person’s fluid intelligence over time?
-** [hiddenAnswer]#Bar.#
+. What evidence suggests that *intellectual involvement* can increase a person’s *fluid intelligence* over time?
+** [hiddenAnswer]#Long term studies on occupations effecting intellectual development showed, that "intellectual flexibility" increases with more intellectual demanding jobs (decisions, information processing; opposed to routine jobs). That also applies to (intellectually challenging) leisure-time activities. Even when older: "Use it and keep it". And yet again, the muscle analogy.#
 
-. Why can't heritability coefficients found within groups be used to infer the source of differences between groups?
-** [hiddenAnswer]#Bar.#
+. Why *can't heritability coefficients* found *within groups* be used to infer the source of differences *between groups*?
+** [hiddenAnswer]#Within groups share the same environment, between groups do not, thus the differences measured stem from differences not only related to IQ heritability.#
 
 . What evidence suggests that the average IQ difference between black and white Americans derives from the environment, not genes?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Studies have been conducted to see whether ancestry relates to IQ, and the results were negative. Conclusion is, that the social designation of black-white matters more than the biological ancestry.#
 
-. What is stereotype threat, and how does it explain differences in IQ between white and black Americans?
-** [hiddenAnswer]#Bar.#
+. What is *stereotype threat*, and (b) how does it explain differences in IQ between white and black Americans?
+** [hiddenAnswer]#(a) Basically "self-fulfilling prophecy", when someone tells you that your stereotype performs so-and-so, it will happen; e.g. blacks are bad a math tests, and then you perform bad. (b) When told black people it's an IQ test, they will perform worse, than if they were not told it's an IQ test ("self-stigma"; unconscious internalized self-sabotage).#
 
-. What evidence suggests that the status of being an involuntary minority may be particularly detrimental to IQ development?
-** [hiddenAnswer]#Bar.#
+. What evidence suggests that the status of being an *involuntary minority* may be particularly detrimental (=bad, harmful) to *IQ development*?
+** [hiddenAnswer]#Involuntary minorities (African/Native Americans, conquered, colonized, enslaved) being treated as separate and inferior. PS: See also the voluntary minorities like Buraku of Japan (or Italian/Chinese Americans), performing better at IQ tests when emigrating to the US. PS: Also IQ tests are highly culturally biased (what is necessary in day-to-day life for cultures?).#
 
-. (a) How does history provide further evidence that IQ is highly susceptible to cultural influence?
+. (a) How does history provide further evidence that IQ is highly susceptible to *cultural influence*?
 (b) On which measures has IQ increased the most?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#(a) The Flynn effect (continuous increase of IQ of about 10 points every 30 years) happens over generations (each with its own culture), needing us to adapt IQ tests constantly. (b) Fluid intelligence in tests such as Raven's progressive matrices (similarities subtests).#
 
 . How might the historical increase in fluid intelligence scores be explained?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Most likely due to changes in modern life: Improvement in education, technology and more people working in intellectual demanding jobs. Even TV shows like "Game of Thrones" improve our intelligence as we need to keep a complex plot in our mind. Fast-paced computer games exercise attention and working-memory capacity (part of fluid intelligence).#
 
 == Think Critically
 
 . (a) What is meant by "intelligence" and (b) to what extent are levels of intellectual functioning influenced by nature versus nurture?
-** [hiddenAnswer]#(a) Bar. (b) Bar.#
+** [hiddenAnswer]#(a) Ability to adapt to a novel environment. Ability to build new connections/associations. Reasoning, pattern matching, abstarct and analytical thinking. Executive functions. Memory. Processing power of information. General intelligence g influencing other mental skills. (b) Nature determines a possible range (potential), nurture determines where you will be on this range (exercise a muscle).#
 
 . (a) Is it reasonable to contrast the cognitive abilities of people from different cultures? (b) What aspects of human thinking are characteristics of the species (species universal) versus dependent upon the culture one is brought up in (culture specific)?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#(a) No, as the environment impacts on IQ heritability and the stereotypical threat. Also due to the non-working of between/within-group comparisons. (b) General thinking in species share reasoning, problem solving; fluid intelligence. Culture sets different environmental requirements to use, making us think differently (taxonomy example; daily life tasks; hunter-gatherer); crystalized intelligence. E.g.: We all have the same muscles, but depending on the work we do, different muscles will be stronger than others.#

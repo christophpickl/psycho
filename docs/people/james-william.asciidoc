@@ -1,8 +1,22 @@
 = William James
 
-// TODO finish page
+.William James himself
+image::james-william.jpg[William James,200,100]
+
+== Facts
+
+* 1842-1910
+* US Philosopher, Psychologist, Historian
+* "Father of American psychology"
+
+== Achievements
 
 * One of the (three big) representants of *Pragmatism*
 ** "True is, what works".
 ** When two equally possible explanations (e.g. does god exist or not?) exist, which can't be proven right or wrong, then choose based on the effect.
 ** The "big streams": Pragmatism (whatever turns out to be useful), rationalism (sit in your room think it through) and empirism (experience by senses, go out in the world and see for yourself).
+
+
+== Links
+
+* https://en.wikipedia.org/wiki/William_James

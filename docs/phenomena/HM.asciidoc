@@ -1,0 +1,10 @@
+= HM's case study
+
+.Henry Molaison himself
+image::HM.png[Henry Molaison,500,100]
+
+His hippocampus was removed, no new memory formation!
+
+== Resources
+
+* Movie: link:https://www.imdb.com/title/tt0209144/[Memento] where the protagonist is also not able to form new memory and is on the journey to revenge his dead wife.

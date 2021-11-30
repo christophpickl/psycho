@@ -1,4 +1,4 @@
-= Study Tips
+= Learn Strategies
 
 == Have a good Studygroup
 
@@ -6,7 +6,7 @@
 ** Meaning, not get lost in details which are not related to the *topic* at hand
 ** It might be interesting sometimes, but *focus* and time-efficiency are more important.
 
-== General Learning Tips
+== General Study Tips
 
 * Chapter 9:
 ** Sleep immediately (few hours) after learning.
@@ -14,6 +14,8 @@
 ** Elaborative encoding: "How you place new information into your network of associations has a big effect on your ability to retrieve it."
 ** Self-generated retrieval cues, rather than other-generated improves retrieval.
 ** Effect on context: Learn and exam in same room, cues help us to remember. (encoding context == retrieval context)
+
+// TODO study tips => https://www.youtube.com/watch?v=eVlvxHJdql8
 
 == Cognitive Psychology says...
 

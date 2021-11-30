@@ -1,70 +1,67 @@
 = Focus Questions
 
-. What are the three phases of prenatal development and what are the major milestones of each phase?
-** [hiddenAnswer]#Bar.#
+. What are the three *phases of prenatal development* and what are the major milestones of each phase?
+** [hiddenAnswer]#1) Zygotic (germinal): Sperm fertilizes the egg, travels to uterus for two weeks, implanting to uterine wall. 2) Embryonic: Week 3-8, major organ systems develop. 3) Fetal: Week 9+ (about 38 weeks), growth/refinement of organs/body structure.#
 
-. When is the unborn child most susceptible to the effects of teratogens and why?
-** [hiddenAnswer]#Bar.#
+. When is the unborn child most susceptible to the effects of *teratogens* and why?
+** [hiddenAnswer]#During embryonic, preventing an organ (kidney, hands, feet) from developing properly, as most differentiation is happening here (drastic effect!).#
 
-. How might prenatal experience "prepare" a fetus for postnatal life?
-** [hiddenAnswer]#Bar.#
+. How might *prenatal experience* "prepare" a fetus for postnatal life?
+** [hiddenAnswer]#Those experiences can be used as a "forecast" of the future environmental condition. E.g. when pregnant women have poor diets, they give birth to "thrifty phenotypes", babies who store fat more easily. Or when mothers are exposed to stress, babies will more likely be anxious/fearful/impulsive/reduced executive functions/etc. Not all can be seen as bad, e.g. aggression/risk taking could be a preparation for the (hostile) environment.#
 
-. To what extent do different parts of the body develop at different rates?
-Why might this be so?
-** [hiddenAnswer]#Bar.#
+. (a) To what extent do different parts of the body develop at different rates? (b) Why might this be so?
+** [hiddenAnswer]#(a) First brain/head which keep developing steadily until 12. Then lymphoid system peeks at age of 12. Finally, a bit later followed by height and reproductive system by 16. (b) For the puberty to initiate, the lymphoid system needs to develop substantially to support all the hormonal changes as well as the physical and mental development throughout the period, therefore they occur in different rates at different times.#
 
-. How has the emergence of different aspects of puberty changed over historical time, and what is responsible for these changes?
-** [hiddenAnswer]#Bar.#
+. (a) How has the emergence of different aspects of puberty changed over historical time, and (b) what is responsible for these changes?
+** [hiddenAnswer]#(a) Menarche has not really decreased since 60s, breast development keeps decreasing (9 years). (b) It could be due to chemical components found in pesticides, medicine, fire retardants (dampening), tobacco, alcohol and obesity.#
 
 . How does infants' behaviour reveal that they are actively exploring their environment with their eyes and that they remember what they have seen?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Babies look significantly longer at novel things. Looking less at familiar objects (habituation, dishabituation).#
 
 . How does infants' behaviour reveal that they are motivated to control their environments and are emotionally involved in retaining control?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#When babies are not in control of their environment in experiments anymore, they showed facial expressions of anger.#
 
 . How do infants, beginning before 12 months of age, use their observations of adults’ behaviour to guide their own explorations?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#They use gaze following (look where adult is looking) and shared attention (adult, baby, object relation). Social referencing happens after 12 months (look at adults to know how to "properly" respond).#
 
-. What is the violation-of-expectation method for studying infants’ knowledge of physical principles?
-With this method, what have researchers discovered about the knowledge of 2- to 4- month olds?
-** [hiddenAnswer]#Bar.#
+. (a) What is the *violation-of-expectation* method for studying infants’ knowledge of *physical principles*?
+(b) With this method, what have researchers *discovered* about the knowledge of 2- to 4- month olds?
+** [hiddenAnswer]#(a) First habituation (possible event), then an impossible events (e.g. rotating screen going "through" an obstacle) then potentially longer looking time indicating surprise. (b) Solid objects do not pass through other solid objects. Box falling down in mid air, but not capable of knowing box falls when put at the edge with most weight hanging off the shelf (only by 6 months).#
 
-. How did Jean Piaget test infants' understanding of object permanence?
-What might explain the discrepancy between Piaget's results and the results of selective-looking experiments?
-** [hiddenAnswer]#Bar.#
+. (a) How did Jean Piaget *test* infants' understanding of *object permanence*?
+(b) What might explain the *discrepancy* between Piaget's results and the results of *selective-looking* experiments?
+** [hiddenAnswer]#(a) Make infants search for hidden objects (simple hiding problem): Hide an attractive toy, babies will lose interest as in it not knowing it's still there. With 6 months can solve this, but not "changed-hiding-place (A-not-B) problem": Same but move toy to yet another napkin. (b) Looking only can prove object permanence ability, whereas Piaget's test also required certain motor functions (which might not be yet developed).#
 
-. What evidence suggests that self-produced locomotion promotes rapid development of infants' search abilities?
-** [hiddenAnswer]#Bar.#
+. What evidence suggests that self-produced *locomotion* promotes rapid development of infants' *search* abilities?
+** [hiddenAnswer]#Three groups of infants: Crawling, walker-aids, non-crawling. 75% of first two succeeded with a (adapted) changed-hiding-place problem, compared to 13% of group three (non-crawling).#
 
 . In Piaget's theory, how do schemes develop through assimilation and accommodation?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Assimilation: Take new XP into existing schemes. Accommodation: Schemes need to change/expand first to new XP.#
 
-. What is Piaget's "little scientist" view of children's behaviour?
-How is it illustrated by the examples of an infant playing with containers and by an experiment with preschool children allowed to play with a two-lever toy?
-** [hiddenAnswer]#Bar.#
+. (a) What is Piaget's "little scientist" view of children's behaviour? (b) How is it illustrated by the examples of an infant playing with containers and (c) by an experiment with preschool children allowed to play with a two-lever toy?
+** [hiddenAnswer]#(a) Exploratory play, children like experiments with unknown objects = drawn to "assimilatable" XP which requires accommodation (a bit trickier wanted). (b) Stacking scheme, put containers on top of each other, one container has open top, and falls into it. Interesting (child plays longer with it) as it violates the stacking scheme and requires accommodation. (c) Toy given to children with two levers, each different effect. When shown separately the effect, not interesting as when shown both levers pulled, so children had to figure out themselves what does what. Better let children explore themselves, rather show/explain them. Concluding: Children's play is oriented toward discovery (not repetition of yet the known).#
 
-. In Piaget's theory, what is the special value of operations?
-** [hiddenAnswer]#Bar.#
+. In Piaget's theory, what is the special value of *operations*?
+** [hiddenAnswer]#Operations are reversible actions (most valuable for mental development). Building "operational schemes", thinking about reversibility. Value is: Understand basic physical principles. E.g. conservation of substance: clay ball turn into sausage and back, same liquid poured in different glasses.#
 
-. In Piaget's theory, what are the four stages and the stages roughly associated with each?
-** [hiddenAnswer]#Bar.#
+. In Piaget's theory, what are the *four stages* and the stages roughly associated with each?
+** [hiddenAnswer]#Sensorimotor (-2), preoperations (-7), concrete operations (-11), formal operations (-16).#
 
-. What are two ways, other than reversibility of operations, that preoperational and concrete operational children differ?
-** [hiddenAnswer]#Bar.#
+. What are two ways, other than reversibility of operations, that preoperational and concrete operational children *differ*?
+** [hiddenAnswer]#Preoperational more focused to perceptual field (concentration); use more perception than logic. Concrete-operational is less egocentric/selfish, more logical; can separate from specific aspects of perceptual array, make decisions based on entire perceptual field (deconcentration). Concrete-operational children can solve the "glass liquid problem" :)#
 
-. Why do many of today's developmental psychologists doubt Piaget's theory of stages of mental development?
-** [hiddenAnswer]#Bar.#
+. Why do many of today's developmental psychologists *doubt* Piaget's theory of stages of mental development?
+** [hiddenAnswer]#He underestimated infants and overestimated adults mental abilities. Children from different ages solved different staged-tasks. Details might be wrong, yet he contributed major findings (just like shakespeare to English literature and Aristotle to philosophy).#
 
-. How does Vygotsky's perspective on cognitive development differ from Piaget's?
-** [hiddenAnswer]#Bar.#
+. How does *Vygotsky*'s perspective on cognitive development *differ from Piaget's*?
+** [hiddenAnswer]#More sociocultural perspective: Taking social and cultural environment into account (values, beliefs). More on social environment interaction, rather than physical environment. Nice story: Counting balls as a child, figuring out commutativity; Piaget emphasizes action, Vygotsky asks how comes he did that?" PS: He died at age 38.#
 
-. What is Vygotsky's concept of tools of intellectual adaptation?
-How can such tools influence the course of cognitive development?
-** [hiddenAnswer]#Bar.#
+. (a) What is Vygotsky's concept of *tools of intellectual adaptation*? (b) How can such tools influence the course of *cognitive development*?
+** [hiddenAnswer]#(a) Tools provided by social environment, abstract ones like numbers, alphabets, words; objects to write/calculate/record like pencils, books, computers. (b) .#
 
-. How might the number words of Asian languages help children learn the base-10 number system more easily than American and European children?
-What evidence suggests that they do learn the base-10 number system earlier?
-** [hiddenAnswer]#Bar.#
+. (a) How might the number words of Asian languages help children learn the base-10 number system more easily than American and European children?
+(b) What evidence suggests that they do learn the base-10 number system earlier?
+** [hiddenAnswer]#(a) Numbers in asian languages (chinese, japanese, korean) have clues already about the base-10 system (instead "eleven" they say "ten one"). (b) Different colored blocks representing 10 and 1, Asian much more effectively distinguish them (80% success, european/US only 10%).#
 
 . How might being a "digital native" influence how children today learn to think?
 ** [hiddenAnswer]#Bar.#

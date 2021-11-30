@@ -156,7 +156,6 @@ Deze observatie levert bewijs voor ... (p. 244)
 .. het verwerken van betekenis voordat we er daadwerkelijk aandacht aan geven.
 .. de kracht van top-downverwerking.
 .. de kracht van bottom-up verwerking.
-// TODO i got this one wrong
 ** [hiddenAnswer]#c.#
 . Prosopagnosie is ook bekend als ... (p. 250)
 .. gezichtsblindheid (face blindness).

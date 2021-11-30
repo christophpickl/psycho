@@ -66,12 +66,6 @@ when (target) {
     }
 }
 
-
-//TODO tasks.named("deploy") {
-//    dependsOn(tasks.clean, tasks.build)
-//    dependsOn("clean", "build")
-//}
-
 // ./gradlew -q linkChecker
 tasks.create<LinkCheckerTask>("linkChecker") {
     localBuildDirAbsPath = Locations.htmlBuildOutput.absolutePath

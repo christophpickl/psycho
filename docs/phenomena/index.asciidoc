@@ -35,7 +35,7 @@ laozi
 
 People's cases, accidents and other abnormalities in (medical) history.
 
-* ... H.M., no new memory (refer to movie memento)
+* link:HM.html[H.M.] ... most popular case, he could not form new memory
 * link:phineas_gage.html[Phineas Gage], typ mit stange durch hirn
 * ... the lady, new york, got stabbed open street, no one intervened
 

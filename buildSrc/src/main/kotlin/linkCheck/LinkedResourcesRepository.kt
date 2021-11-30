@@ -12,9 +12,6 @@ class LinkedResourcesRepository {
         if (resources.contains(resource)) {
             return
         }
-        if (resource.url.toString().endsWith("/ch1-background/")) {
-            throw Exception("fail") // FIXME remove me
-        }
         log { "Storing: $resource" }
         resources += resource
     }

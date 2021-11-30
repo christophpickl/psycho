@@ -32,7 +32,7 @@ open class FtpDeployTask : DefaultTask() {
     override fun getGroup() = "publish"
 
     private val fileTypeAscii = listOf("html")
-    private val fileTypeBinary = listOf("jpg", "png")
+    private val fileTypeBinary = listOf("jpg", "png", "pdf")
 
     @TaskAction
     fun runCommand() {
