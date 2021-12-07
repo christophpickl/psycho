@@ -11,6 +11,7 @@ class CompoundWebsiteChecker(
 ) {
 
     fun check(): List<CheckError> {
+        require(localBuildDir.exists()) { "Require local build dir to exist at: ${localBuildDir.absolutePath}" }
         val repo = LinkedResourcesRepository()
         LinkTargetValidChecker(repo, websiteBase, websiteHomePagePath, linkCheckIgnore).check().also { errors ->
             if (errors.isNotEmpty()) {

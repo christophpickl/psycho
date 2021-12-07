@@ -10,7 +10,6 @@ import java.net.URL
 fun main() {
     LinkCheckerTask().apply {
         localBuildDirAbsPath = SampleConfig.localBuildDirAbsPath
-        checkTarget = LocalTarget.id
         websiteHomePagePath = SampleConfig.websiteHomePagePath
         runCommand()
     }
@@ -35,9 +34,6 @@ open class LinkCheckerTask : DefaultTask() {
     @Input
     lateinit var linkCheckIgnore: Set<String>
 
-    @Input
-    lateinit var checkTarget: String
-
     @TaskAction
     fun runCommand() {
         val errors = validateLinks()
@@ -49,11 +45,14 @@ open class LinkCheckerTask : DefaultTask() {
     }
 
     private fun validateLinks(): List<CheckError> {
-        val target = Target.byId(checkTarget)
-        println("Checking links for: target=$target localBuildDir=[$localBuildDirAbsPath]")
+        println("Checking links for:")
+        println("localBuildDir=[$localBuildDirAbsPath]")
+        println("websiteBaseUrl=[${Constants.websiteBaseUrl}]")
+        println("websiteHomePagePath=[$websiteHomePagePath]")
+        println("linkCheckIgnore=$linkCheckIgnore")
         return CompoundWebsiteChecker(
             File(localBuildDirAbsPath),
-            URL(target.websiteBaseUrl),
+            URL(Constants.websiteBaseUrl),
             websiteHomePagePath,
             linkCheckIgnore
         ).check()

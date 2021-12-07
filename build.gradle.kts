@@ -3,9 +3,6 @@
 // src: https://github.com/asciidoctor/asciidoctor-gradle-plugin
 // project: https://asciidoctor.org/docs/asciidoctor-gradle-plugin/
 
-// -Ptarget=local
-val target: Target = Target.byId(project.findProperty("target") as? String ?: LocalTarget.id)
-
 repositories {
 //    jcenter() // don't delete, otherwise fails
     mavenCentral()
@@ -21,14 +18,17 @@ tasks {
         doFirst {
             println("asciidoctor: source=${Locations.sourceDirectory} output=${Locations.htmlBuildOutput}")
         }
+        // options(mapOf("doctype" to "book", "ruby" to "erubis"))
         attributes = mapOf(
             // https://docs.asciidoctor.org/asciidoctor/latest/html-backend/default-stylesheet/#customize-docinfo
 //            "docinfo" to "shared"
             "stylesheet" to "custom.css",
-            "toc" to "left",
         )
         sourceDir(Locations.sourceDirectory)
         setOutputDir(Locations.htmlBuildOutput)
+        // https://asciidoctor.github.io/asciidoctor-gradle-plugin/master/user-guide/
+        // copyAllResources
+        // resources
     }
 }
 
@@ -46,30 +46,32 @@ tasks.build {
     dependsOn("asciidoctor")
 }
 
-when (target) {
-    LocalTarget -> tasks.register<Copy>("deploy") {
-        doFirst {
-            println("Local deploy to: ${LocalTarget.localWebRoot}")
-        }
-        from(Locations.htmlBuildOutput)
-        //include("**/*.jpg")
-        into(LocalTarget.localWebRoot)
-    }
-    RemoteTarget -> tasks.create<FtpDeployTask>("deploy") {
-        ftpUrl = "f34-preview.awardspace.net"
-        username = "3886058_cpsycho"
-        (System.getenv("PSYWIKI_FTP_PASSWORD") as? String)?.let {
-            password = it!!
-        }
-        remoteUploadDirectory = "/psywiki.scienceontheweb.net"
-        localBuildDirectory = Locations.htmlBuildOutput.absolutePath
-    }
+tasks.register<GradleBuild>("deploy") {
+    tasks = listOf("copyLocalDocs", "copyLocalSite")
 }
+
+tasks.register<Copy>("copyLocalDocs") {
+    val targetDir = File(project.projectDir, "docs")
+    doFirst {
+        println("Local copy to: $targetDir")
+    }
+    from(Locations.htmlBuildOutput)
+    into(targetDir)
+}
+
+tasks.register<Copy>("copyLocalSite") {
+    doFirst {
+        println("Local deploy to: ${Constants.localWebRoot}")
+    }
+    from(Locations.htmlBuildOutput)
+    //include("**/*.jpg")
+    into(Constants.localWebRoot)
+}
+
 
 // ./gradlew -q linkChecker
 tasks.create<LinkCheckerTask>("linkChecker") {
     localBuildDirAbsPath = Locations.htmlBuildOutput.absolutePath
     websiteHomePagePath = "/index.html"
     linkCheckIgnore = setOf("https://quizlet.com/nl/603903561/psychology-flash-cards/")
-    checkTarget = target.id
 }
