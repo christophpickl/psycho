@@ -64,99 +64,94 @@
 ** [hiddenAnswer]#(a) Numbers in asian languages (chinese, japanese, korean) have clues already about the base-10 system (instead "eleven" they say "ten one"). (b) Different colored blocks representing 10 and 1, Asian much more effectively distinguish them (80% success, european/US only 10%).#
 
 . How might being a "digital native" influence how children today learn to think?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Digital native: Born into digital media and take it for granted. It comes very natural to them, always available, like a first language, and can take advantage of modern technology.#
 
-. What is the "zone of proximal development", and how does it relate to children's cognitive development?
-** [hiddenAnswer]#Bar.#
+. (a) What is the "zone of proximal development", and (b) how does it relate to children's cognitive development?
+** [hiddenAnswer]#(a) Shaping is small steps of sub-tasks towards the big task which is very much like scaffolding (guide for gradual increase, letting experience to happen), but this time the unsolvable big task is done in collaboration with a more competent/skilled others. (b) Learn more efficiently. Also think more systematically, than on one's own. It promotes critical thinking through the back-and-forth, internalizing a self-dialogue.#
 
 . How does Vygotsky's "apprentice" view of child contrast with Piaget's "scientist" view?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Vygotsky is more emphasizing that we learn with the help of others, highly depending on the culture/environment we grow up (together/collaboration). Piaget posits that we are more independent, equipped with curiosity to learn by ourselves (alone/exploration).#
 
-. What is information-processing perspective on cognitive development, and how does it differ from Piaget's and Vygotsky's perspectives?
-** [hiddenAnswer]#Bar.#
+. (a) What is information-processing perspective on cognitive development, and (b) how does it differ from Piaget's and Vygotsky's perspectives?
+** [hiddenAnswer]#(a) "Mental development in terms of operational changes in basic components of their mental machinery", like a computer, with a CPU (attend; receive info), memory (use; active manipulation) and SSD (remember; passive long-term memory). (b) Info-processing is based on machinery, Piaget on interaction with physical environment, Vygotsky based on social interaction.#
 
 . Through what developmental steps do young children develop the capacity to form episodic memories?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Episodic memories: Autobiography, the story I tell myself, through encoding experiences into words. It seems that there is some symbolic representation shown by "deferred imitation", leading to transient episodic memory as it will be forgotten after some time (no language for encoding available). Short answer: language/conversations, (and brain maturation, especially the prefrontal lobes).#
 
-. How do executive functions and speed of processing change with age during childhood and early adolescence?
-How might working-memory capacity depend on speed of processing?
-** [hiddenAnswer]#Bar.#
+. (a) How do executive functions and speed of processing change with age during childhood and early adolescence? (b) How might working-memory capacity depend on speed of processing?
+** [hiddenAnswer]#(a) Improvements in working memory usage, inhibit behavior/thoughts, task-switching. Increases until peaking at 15. (b) Working-memory is fading away quickly, so by being fast, it leads to more results (capacity).#
 
 . What do children younger than 3 years old understand about other people's minds?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#They already have mental constructs about other people's behavior/goals. Even understanding different desires/preferences of others. Experiment with adult played 2 out of 3 toys, then asks to give "the one" and infants gave the one not yet played with. Limitations are other's believes ("which box will X look for the candy" experiment).#
 
-. hat evidence suggests that children younger than age 4 usually do not understand that people can hold false beliefs?
-Why might false beliefs be particularly difficult for young children to understand?
-** [hiddenAnswer]#Bar.#
+. (a) What evidence suggests that children younger than age 4 usually do not understand that people can hold false beliefs? (b) Why might false beliefs be particularly difficult for young children to understand?
+** [hiddenAnswer]#(a) Show crayon box to infants, asked what's inside, child says crayon. Then gave paper sheet, make it look inside the box, shown candles are inside. Children asked what first thought inside, say candles; so why looked inside for crayons to draw on paper? They can't explain. (b) Because it is inherent contradicting: False in reality, yet true in believer's mind.#
 
-. What logic and evidence suggest that engagement in pretend play, especially in role-play with other children, may help children acquire an understanding of false beliefs?
-** [hiddenAnswer]#Bar.#
+. What (a) logic and (b) evidence suggest that engagement in pretend play, especially in role-play with other children, may help children acquire an understanding of *false beliefs*?
+** [hiddenAnswer]#(a) Learn difference between make-believe and reality. Pretense (conscious), similar to false beliefs (unconscious), both mental conceptions that differ from reality. Pretend play helps to accept false claims and act on them. (b) Imaginary water in cup and make doll wet, children say it's wet and know it's not really wet. Children who pretend play are better understanding false beliefs, especially useful when having siblings.#
 
 . How does research on people with autism support the premise that the understanding of minds and the understanding of physical objects are fundamentally different abilities?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Autistics are poor on false-belief tests (detect deception), being mindblind (inability to read minds; due to undeveloped theory of mind: understanding ones own/others thoughts/feelings/behaviors). But they do perform good in false-picture tests (picture misrepresent reality).#
 
 . How does research on autism support the idea that an understanding of false beliefs may derive, in part, from prior engagement in pretend play?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Autistic children can't make-belief play, can't pretend play, fail false-belief test (strong correlation). PS: Down syndrome can though.#
 
-. What are the universal characteristics of morphemes?
-How do morphemes differ from nonverbal signs?
-** [hiddenAnswer]#Bar.#
+. (a) What are the universal characteristics of morphemes? (b) How do morphemes differ from nonverbal signs?
+** [hiddenAnswer]#(a) Morphemes: smallest meaningful language unit (not character, more syllable), standing for objects/events/ideas/etc. Universal characteristic 1): pronounceable sound (words, pre-/suffix). E.g. "dog" word and morpheme, "-s" not word but morpheme, "dogs" word and two morphemes. 2) They are arbitrary (no similarity structure and reality) and discrete (no gradiations). (b) Nonverbal signs relate to the object they refer to (similarity), leading to a natural/intuitive understanding. #
 
-. How can any sentence, in any language, be described as a four-level hierarchy?
-How can rules of grammar be described in relation to that hierarchy?
-** [hiddenAnswer]#Bar.#
+. (a) How can any sentence, in any language, be described as a four-level hierarchy? (b) How can grammar be described in relation to that hierarchy?
+** [hiddenAnswer]#(a) Levels: Sentences, phrases, words/morphemes, phonemes (vowels/consonant). (b) It defines validity of how lower-level entities can be composed to construct higher-level entities. Phonology: How phonemes arrange morphemes. Morphology: Morphemes combine to words. Syntax: Words arrange to phrases/sentences. Every language has different rules, but every language has them.#
 
 . What does it mean to say that knowledge of grammar is usually implicit rather than explicit?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#It's learned without conscious effort. It can be applied but not described. Knowing the difference whether something is right or wrong, without being able to properly explain why.#
 
-. How have researchers shown that very young infants can distinguish between subtly different speech sounds?
-How do infants' abilities to distinguish among such speech sounds change during the second half-year of their lives?
-What is the value of these changes?
-** [hiddenAnswer]#Bar.#
+. (a) How have researchers shown that very young infants can *distinguish* between subtly different *speech sounds*?
+(b) How do infants' abilities to distinguish among such speech sounds *change* during the *second half-year* of their lives?
+(c) What is the *value* of these changes?
+** [hiddenAnswer]#(a) Sucking on pacifier (=Schnuller) trigger sound playing, get bored suck slower, when new sound, suck faster. Similar for 5+ months infants with sights in combination with sounds (interesting visual stimuli). (b) Better discrimination for sounds representing different phonemes and worse for same phonemes (in native language). (c) Focused improvement of what the environment requires.#
 
-. What is the distinction between cooing and babbling?
-What are the reasons for thinking that these vocalizations are precursors to language production?
-** [hiddenAnswer]#Bar.#
+. (a) What is the distinction between *cooing* and *babbling*?
+(b) What are the reasons for thinking that these vocalizations are *precursors* to language production?
+** [hiddenAnswer]#(a) Cooing is vowels ("ooh-oooh", 2months), and babbling is consonant-and-vowel ("paa-paaa", 6months) sound repetition. (b) By about 8 months, babbles mimic rhythm/pitch patterns of the language around them. Same for sign language.#
 
 . What is evidence that babies begin to understand words well before they begin to speak?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Showing side-by-side video of dad and mom, saying their names, babies would look to the right video. They can also follow simple commands like "get the ball". At least look at the right object when spoken out.#
 
 . How do young children make the link between new words that they hear and appropriate referents in their environments?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Through shared attention and gaze following. Also through cognitive biases/built-in assumptions, narrowing down meaning/referent of a word; e.g. mutual exclusivity assumption, when there is a new, unknown word must refer to unknown referent (not a synonym). "Syntactic bootstrapping" is inferring meaning based on context of sentence, e.g.: "Mommy feeds the foobar", thus it must an animal. Or: "The duck is biffing the bunny", so whatever the duck is doing must be called "biffing". As well as "taxonomic assumption", things are perceptually like the original, whereas possible mistake (all men are "daddy").#
 
 . What are two reasons why children might overextend common nouns that they have learned?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#One: Defining new word in terms of just few features of the original referent object (ball = roundness, thus orange called "ball"), a too far extrapolation. Two: Using words for unknown names ("dog" while pointing to cat), a conscious guess.#
 
-. How do children demonstrate knowledge of grammatical rules in their early speech?
-How do some of their "mistakes" in grammar confirm that they know the rule and are not just mimicking?
-** [hiddenAnswer]#Bar.#
+. (a) How do children demonstrate knowledge of grammatical rules in their early speech?
+(b) How do some of their "mistakes" in grammar confirm that they know the rule and are not just mimicking?
+** [hiddenAnswer]#(a) In their telegraphic style speech, the first use nouns and then verbs. (b) Over-regulation (over-generalization): Application of a grammatic rule such as past tense "teach" becomes "teached", or plural with "childs".#
 
-. How did Noam Chomsky link the study of grammar to psychology?
-What did he mean by a language-acquisition device?
-** [hiddenAnswer]#Bar.#
+. (a) How did Noam Chomsky link the study of grammar to psychology?
+(b) What did he mean by a language-acquisition device?
+** [hiddenAnswer]#(a) Through the (grammatical) representations of rules in the mind. (b) Inborn foundations for universal grammar; inborn mechanisms to acquire language quickly/efficiently.#
 
-. How have studies of creole languages and studies of deaf children in Nicaragua supported the idea that children invent grammar in absence of a pre-existing grammatical language?
-** [hiddenAnswer]#Bar.#
+. How have studies of (a) creole languages and studies of (b) deaf children in Nicaragua supported the idea that children invent grammar in absence of a pre-existing grammatical language?
+** [hiddenAnswer]#(a) First colonists developed the "pidgin" language (primitive, grammarless) into a true, grammatical-full language ("creole"). (b) Deaf group of children created their on sign language, whereas youngest contribute most in this process.#
 
 . What evidence supports the view that grammar is learned more readily in early childhood than later in life?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#The Genie girl was rescued by the age of 13, after being abused/locked away, never properly learned language/grammar.#
 
 . How do parents in our culture modify their speech to infants?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Using LASS (language-acquisition support system); Simplify speech, helping learn words/grammar, e.g.: pronounce more clearly, more musical voice, greater pitch variation, short sentences, focus here/now, repeat/emphasize outstanding words, using supportive gestures. Motherese/infant-directed speech: Repeating things as in "Oh, you have a ball. A nice ball. What a pretty ball."#
 
 . What evidence suggests that differences in the language environments provided by parents can affect the rates at which infants acquire language?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Adopted children's language development depends significantly on the provided environment (not only biological parents). Parents were given special training for children's language development, those got better than parents without that training.#
 
 . What light has been shed on the LASS by cross-cultural research?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#All children acquire language at roughly similar rates (independent of variations in language environment). E.g. Kalikuli people don't speak to babies who cannot speak yet, still they hear lots of talk around them, compensating for lack of verbal interaction.#
 
 . What is the distinction between simultaneous and sequential bilinguals?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Simultaneous are exposed from birth to two languages, get fluent in both. Sequential learn second after mastered the first, which will always stay the dominant one (keep accent in second). Neuroscience confirms that.#
 
-. What are some of the costs and benefits of bilingualism relative to speaking only one language?
-Do you think the costs outweigh the benefits?
-** [hiddenAnswer]#Bar.#
-
+. (a) What are some of the costs and benefits of bilingualism relative to speaking only one language?
+(b) Do you think the costs outweigh the benefits?
+** [hiddenAnswer]#(a) Delay in syntactic development, smaller vocabularies (yet total vocabulary bigger), slower retrieval times. Improved phonemes recognition, more cultural values sensitive, enhanced executive functions, better task switching/inhibition, delayed decline in executive function. (b) .#
 
 == Think Critically
 
