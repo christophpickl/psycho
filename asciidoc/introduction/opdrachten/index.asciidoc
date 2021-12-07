@@ -8,3 +8,5 @@
 * link:ch6_senses.html[Chapter 6 - Senses]
 * link:ch7_vision.html[Chapter 7 - Vision]
 * link:ch8_learning.html[Chapter 8 - Learning]
+* link:ch12_zelftoets.html[Chapter 1&2 - Zelftoets]
+* link:ch345_zelftoets.html[Chapter 3&4&5 - Zelftoets]

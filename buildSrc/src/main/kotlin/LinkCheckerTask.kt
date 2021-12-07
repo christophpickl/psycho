@@ -46,10 +46,11 @@ open class LinkCheckerTask : DefaultTask() {
 
     private fun validateLinks(): List<CheckError> {
         println("Checking links for:")
-        println("localBuildDir=[$localBuildDirAbsPath]")
-        println("websiteBaseUrl=[${Constants.websiteBaseUrl}]")
-        println("websiteHomePagePath=[$websiteHomePagePath]")
-        println("linkCheckIgnore=$linkCheckIgnore")
+        println("  localBuildDir=[$localBuildDirAbsPath]")
+        println("  websiteBaseUrl=[${Constants.websiteBaseUrl}]")
+        println("  websiteHomePagePath=[$websiteHomePagePath]")
+        println("  linkCheckIgnore=$linkCheckIgnore")
+        println()
         return CompoundWebsiteChecker(
             File(localBuildDirAbsPath),
             URL(Constants.websiteBaseUrl),

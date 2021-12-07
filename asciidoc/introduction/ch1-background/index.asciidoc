@@ -11,32 +11,32 @@ image::images/mindmap.png[Mind Map,100%,100]
 == Keywords
 
 - *Association by Contiguity*: Two consecutive events will be linked together
-- *British Empiricism*: No free will, reflection of experiences (link:/people/locke-john.html[Locke], link:/people/hume-david.html[Hume])
+- *British Empiricism*: No free will, reflection of experiences (link:../../people/locke-john.html[Locke], link:../../people/hume-david.html[Hume])
 - *Dichotomy*: Partition of a whole into parts (two parts = bi-partition)
-- *Dualism*: Material body and immaterial soul/mind (link:/people/descartes-rene.html[Descartes])
+- *Dualism*: Material body and immaterial soul/mind (link:../../people/descartes-rene.html[Descartes])
 - *Empiricism*: Learning by senses; no "human nature" but adapt only
-** *Tabula Rasa*: It's all experience, we are a blank slate; by link:/people/locke-john.html[Locke] ("furnished mind") and John Stuart Mill
+** *Tabula Rasa*: It's all experience, we are a blank slate; by link:../../people/locke-john.html[Locke] ("furnished mind") and John Stuart Mill
 - *Level of Analysis*: The way/perspective one can take to reason/understand a certain (psychological) phenomena
-- *Materialism*: Matter is the fundamental substance in nature (link:/people/hobbes-thomas.html[Hobbes])
-** All just brain/reflexes; Extreme: *Reflexology*; (link:/people/pavlov-ivan.html[Pavlov])
+- *Materialism*: Matter is the fundamental substance in nature (link:../../people/hobbes-thomas.html[Hobbes])
+** All just brain/reflexes; Extreme: *Reflexology*; (link:../../people/pavlov-ivan.html[Pavlov])
 ** Localization of function in the brain; link:/people/broca-paul.html[Broca]('s area); Extreme: *Phrenology*
 - *Natural Selection*: Beneficial traits stay, others die; evolve gradually; survive and reproduce; common misconceptions
 - *Nativism*: counterpart empiricism; nurture VS nature; a priori knowledge
-- *Phrenology*: A link:/meta/science.html[pseudoscience] claiming infer personality by feeling bumps on the skull.
+- *Phrenology*: A link:../../meta/science.html[pseudoscience] claiming infer personality by feeling bumps on the skull.
 By Franz Joseph Gall.
-- *Three fundamental ideas for psychology*: physical, environment, evolution; by link:/people/leibniz-gottfried_wilhelm.html[Leibniz], inborn; link:/people/kant-immanuel.html[Kant]'s a priori/posteriori
+- *Three fundamental ideas for psychology*: physical, environment, evolution; by link:../../people/leibniz-gottfried_wilhelm.html[Leibniz], inborn; link:../../people/kant-immanuel.html[Kant]'s a priori/posteriori
 
 == Keypeople
 
-- link:/people/broca-paul.html[Paul Broca]: When people suffer an injury on brain's left hemisphere, they can't speak but don't lose any other mental ability.
-- link:/people/darwin-charles.html[Charles Darwin]: Humans are part of the natural world and can be understood through the methods of science.
-- link:/people/descartes-rene.html[René Descartes]: His version of dualism prepared psychology as a science, by attributing many processes to the material human body, away from the soul.
-- link:/people/hobbes-thomas.html[Thomas Hobbes]: With his "materialism", he was even going further than Descartes, stating everything is physical.
-- link:/people/hume-david.html[David Hume]: One of the british empiricist.
-- link:/people/kant-immanuel.html[Immanuel Kant]: In "nativist philosophy" a priori is distinct from a posteriori knowledge.
-- link:/people/locke-john.html[John Locke]: One of the british empiricist; Known for his "Tabula Rasa" idea
-- link:/people/pavlov-ivan.html[Ivan Pavlov]: Started with the localization of function in the brain.
-- link:/people/wundt-wilhelm.html[Wilhelm Wundt]: Formally started psychology 1879 as a scientific discipline.
+- link:../../people/broca-paul.html[Paul Broca]: When people suffer an injury on brain's left hemisphere, they can't speak but don't lose any other mental ability.
+- link:../../people/darwin-charles.html[Charles Darwin]: Humans are part of the natural world and can be understood through the methods of science.
+- link:../../people/descartes-rene.html[René Descartes]: His version of dualism prepared psychology as a science, by attributing many processes to the material human body, away from the soul.
+- link:../../people/hobbes-thomas.html[Thomas Hobbes]: With his "materialism", he was even going further than Descartes, stating everything is physical.
+- link:../../people/hume-david.html[David Hume]: One of the british empiricist.
+- link:../../people/kant-immanuel.html[Immanuel Kant]: In "nativist philosophy" a priori is distinct from a posteriori knowledge.
+- link:../../people/locke-john.html[John Locke]: One of the british empiricist; Known for his "Tabula Rasa" idea
+- link:../../people/pavlov-ivan.html[Ivan Pavlov]: Started with the localization of function in the brain.
+- link:../../people/wundt-wilhelm.html[Wilhelm Wundt]: Formally started psychology 1879 as a scientific discipline.
 
 == Definitions
 
@@ -76,7 +76,7 @@ The 3 fundamental ideas on causation of behavior are:
 
 === Descarte's Version
 
-* link:/people/descartes-rene.html[René Descartes], was the first who dared to challenge the dualistic view.
+* link:../../people/descartes-rene.html[René Descartes], was the first who dared to challenge the dualistic view.
 * He saw the body as a complex machine, not necessarily needing a soul to operate.
 ** Thus called a: "_machine-oriented version of dualism_" (more focus on body).
 * His understanding of nerves and reflexes (threads and fluids) come very close to our current understanding.
@@ -92,7 +92,7 @@ The 3 fundamental ideas on causation of behavior are:
 [#sec-materialism]
 == Materialism
 
-* English philosopher link:/people/hobbes-thomas.html[Thomas Hobbes] was going even further.
+* English philosopher link:../../people/hobbes-thomas.html[Thomas Hobbes] was going even further.
 * He came up with the idea of *Materialism*:
 ** The soul (or "spirit" as he called it) is a meaningless concept.
 ** Nothing exists but matter and energy (pure bodily).
@@ -128,7 +128,7 @@ image::images/humanoid_clock.jpg[Humanoid Clock,200,100]
 
 * 19th century another advance in physiology: Specific brain parts serve specific functions.
 ** Different sensory experiences, by different sense organs, excite different parts.
-* link:/people/broca-paul.html[Paul Broca] found evidence, damage to an area (named after him) would lose ability to speak, but not lose other mental abilities.
+* link:../../people/broca-paul.html[Paul Broca] found evidence, damage to an area (named after him) would lose ability to speak, but not lose other mental abilities.
 * This relationship of mind and body gave basis to the idea of a material basis for mental processes.
 ** Some took it even that far (Franz Joseph Gall) that by feeling bumps on the skull, they could infer size of various areas, thus describe a person's psychological characteristics.
 A pseudoscience called "Phrenology"
@@ -140,7 +140,7 @@ image::images/phrenology_localization.jpg[Phrenology,300,100]
 == Empiricism
 
 * 17th century in England, the school of thought of *British empiricism* emerged by the materialist philosophy.
-* Represented by link:/people/locke-john.html[John Locke], link:/people/hume-david.html[David Hume], link:/people/hobbes-thomas.html[Thomas Hobbes], Francis Bacon as well as John Stuart Mill (Utilitarianism).
+* Represented by link:../../people/locke-john.html[John Locke], link:/people/hume-david.html[David Hume], link:../../people/hobbes-thomas.html[Thomas Hobbes], Francis Bacon as well as John Stuart Mill (Utilitarianism).
 * It states: All knowledge and thought are derived from sensory experience.
 ** The *Law of Association by Contiguity* (initially by Aristotle) states that: Two events contiguously (same, or right after) will be associated (bound together) in the mind, thus in the future, when one event occurs the other will be provoked.
 * A child's mind is blank ("*Tabula Rasa*"), and experience writes on it, fills the blank slate.
@@ -156,7 +156,7 @@ image::images/law_by_contiguity-apple.jpg[Law by Contiguity,300,100]
 * The anti-movement to Empiricism.
 * We do have an innate ability to learn.
 ** Especially the inborn ability to learn language.
-* Biggest represent is link:/people/kant-immanuel.html[Kant]:
+* Biggest represent is link:../../people/kant-immanuel.html[Kant]:
 ** A priori (with birth) VS a posteriori (learning) knowledge.
 ** We get born with a "pre-furnished room" on the basis of Locke's metaphor.
 
@@ -203,7 +203,7 @@ It all began in *ancient Greece*:
 Then it turned into a *mature science*:
 
 * Psychology became a formal, recognized, scientific discipline in 1879.
-* In Leipzig, link:/people/wundt-wilhelm.html[Wilhelm Wundt] opened the first university-based psychology laboratory.
+* In Leipzig, link:../../people/wundt-wilhelm.html[Wilhelm Wundt] opened the first university-based psychology laboratory.
 * *Professions* include:
 ** Academic: Research
 ** Clinical: Health, hospital
