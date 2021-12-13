@@ -10,7 +10,7 @@ The *purpose* of this wiki is to collect and organize all the information learne
 
 Currently, *most of the content* is being written for the "link:introduction/index.html[Introduction to Psychology]" class.
 
-Everything else is mostly link:universiteit/index.html[university related] content, besides a  link:people/index.html[list of people], link:studies/index.html[a list of studies] and as well as a link:phenomena/index.html[list of phenomenas] like biases and other fascinating effects.
+Everything else is mostly link:universiteit/index.html[university related] content, besides a list of link:people/index.html[very important people], as well as a collection of link:phenomena/index.html[phenomena] containing fascinating studies, experiments, real life cases, biases and other fascinating stuff.
 
 The link:meta/index.html[meta discussions] cover topics not directly related to psychology but still touch it on another level.
 For any further reading have a look at the collection of link:resources/index.html[resources].

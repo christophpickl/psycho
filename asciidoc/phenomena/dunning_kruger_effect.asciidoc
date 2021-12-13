@@ -22,3 +22,4 @@ image::https://img.youtube.com/vi/y50i1bI2uN4/0.jpg[Dunning Kruger Effect,300]
 Further Reading::
 
 * https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+* https://www.psychologytoday.com/us/basics/dunning-kruger-effect

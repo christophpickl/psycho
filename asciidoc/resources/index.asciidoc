@@ -13,6 +13,10 @@ Subpages::
 * link:https://www.coursera.org/learn/introduction-psychology/[Online class] at coursera "Introduction to Psychology" with the famous Yale professor Paul Bloom.
 * link:https://www.studeersnel.nl/[studeersnel.nl] summaries and other documents (also from Dutch universities)
 
+== Books
+
+* link:https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555[Thinking, Fast and Slow] -- Daniel Kahnemann
+
 == YouTube
 
 === General

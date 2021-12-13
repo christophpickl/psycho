@@ -1,15 +1,4 @@
-= Biases
-
-From the corner of "pop-psychology", social psychology, (cognitive) biases, effects, illusions & co.
-Useful to know for everyone to try to see a bit more clearly.
-
-* link:mcgurk_effect.html[McGurk Effect]
-* link:dunning_kruger_effect.html[Dunning Kruger Effect]
-* Change Blindness
-// focus attention; basketball count passes while monkey walks by
-* Confirmation Bias (Kahnemann) (link ch10)
-// conf bias video: https://www.youtube.com/watch?v=0xKklLplngs
-* motive attribution asymmetry: enemies are always wrong and the opposite of us
+= Phenomena
 
  To know that you do not know is highest.
  To not know but think you know is flawed.
@@ -17,37 +6,42 @@ Useful to know for everyone to try to see a bit more clearly.
  The sages are without fault.
  Because they recognize the faults as a fault.
  That is why they are without fault.
-laozi
 
-* Cognitive Dissonance
+-- Laozi
+
+== Biases
+
+Some human flaws and unique traits, thanks to social psychology, well known due to pop-psychology, a list of (more or less) funny effects, illusions & co. Useful to know for everyone to try to see a bit more clearly:
+
+* link:availability_bias.html[Availability Bias]
 * Baseline (Kahnemann); very difficult for humans
-* Availability Bias (link ch10)
-* predictable-world bias (link ch10)
-* Framing (Kahnemann); loss aversion
-// wortwahl ist wichtig! experiment mit worte mit alter assoziiert, menschen gehen langsamer. oder "bank" interpretieren wenn koffer im raum ist.
+* link:change_blindness.html[Change Blindness] -- A perceptual illusion where visual changes pass unnoticed to the observer.
+* Cognitive Dissonance
+* link:confirmation_bias.html[Confirmation Bias]
+* link:dunning_kruger_effect.html[Dunning Kruger Effect] -- The tendency of beginners to overestimate their level of skill.
+* Framing; loss aversion
 * link:hawthorne_effect.html[Hawthorne Effect]
+* Illusory Superiority
+* link:mcgurk_effect.html[McGurk Effect] -- A perceptual illusion where seeing and hearing influence each other.
+* Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
+* link:own_race_bias.html[Own-race bias]
+* link:predictable_world_bias.html[Predictable World Bias]
 * Sunk Cost Fallacy
 * link:transparency_illusion.html[Transparency Illusion]
-* Illusory Superiority
-* Own-race bias (see chapter 7)
+
+// https://www.youtube.com/watch?v=wEwGBIr_RIw
+// anchoring, availability, bandwagon, choice supportive, ostrich, outcome, overconfidence, palcebo effect, survivorshop, selective, blindspot
+
+// predictable-world bias
 
 == Cases
 
-People's cases, accidents and other abnormalities in (medical) history.
+Some people's medical cases (accidents and other abnormalities in medical history) have lead to a leap in the understanding of the mind. These "unintentional experiments" would have been otherwise impossible to do, due to ethical restrictions. On the one hand fascinating from the standpoint of science, on the other hand tragic stories from an empathetical standpoint.
 
-* link:HM.html[H.M.] ... most popular case, he could not form new memory
-* link:phineas_gage.html[Phineas Gage], typ mit stange durch hirn
-* ... the lady, new york, got stabbed open street, no one intervened
-
-== Others
-
-* London train lights; red/orange-/orange-orange/green; serial VS parallel processing
-* cocktail party phenomena
-* marketing: we go for the middle
-* marketing: too much choice
-* case: fire in metro station. did not feel responsible. (welches buch steht das?)
-* bouba/kiki effect
-* prisoner dilemma: to be good or to be evil? same with money, divorce, military "aufruesten", etc. https://www.youtube.com/watch?v=t9Lo2fgxWHw
+* link:HM.html[H.M.] -- The man who was unable to form new memory. Memento anyone?
+* link:phineas_gage.html[Phineas Gage] -- Blast an iron stick through the brain, survive, and become a legend.
+// the lady, new york, got stabbed open street, no one intervened. By stander effect.
+* Murder of Kitty Genovese
 
 == Experiments
 
@@ -55,6 +49,7 @@ People's cases, accidents and other abnormalities in (medical) history.
 * Nodding/shaking head, influencing judgement.
 * Judging something while stick in mouth (forcing a smile).
 * Wire VS cloth mother and primate.
+* Little Albert
 
 == Studies
 
@@ -64,7 +59,6 @@ Famous studies and experiments everyone should know of.
 * Skinner's cat box
 * Thorndike's puzzle box
 * link:clever_hans.html[Clever Hans]
-* Little Albert
 * ... decision watch spinning, action potential measured before conscious
 * ... split brain, see/touch different objects, rationalizing (freud?!)
 * ... observe car accident, touch vs crash, ask later, different memories (cognitive psychology)
@@ -76,19 +70,30 @@ Famous studies and experiments everyone should know of.
 * ... object permanence with babies, baby looking longer when object should not have been able to turn that far because of obstacle (understanding of physical laws, object standing on the edge and should fall)
 * ... mind of others: doll play with children; does he know what i know or not? (ability to lie)
 
+== Others
+
+* London train lights; red/orange-/orange-orange/green; serial VS parallel processing
+* cocktail party phenomena
+* marketing: we go for the middle
+* marketing: too much choice
+* case: fire in metro station. did not feel responsible. (welches buch steht das?)
+* bouba/kiki effect
+* prisoner dilemma: to be good or to be evil? same with money, divorce, military "aufruesten", etc. https://www.youtube.com/watch?v=t9Lo2fgxWHw
+
 == Resources
 
 * https://yourbias.is/
-* https://en.wikipedia.org/wiki/List_of_cognitive_biases
 * https://effectiviology.com/
+* https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
-German Books (Amazon links):
+German books:
 
 * link:https://www.amazon.de/-/nl/dp/3868828524/[Ich denke, also irre ich: Wie unser Gehirn uns jeden Tag täuscht]
 * link:https://www.amazon.de/-/nl/dp/3492059015/[Die Kunst des klugen Handelns]
 * link:https://www.amazon.de/-/nl/dp/3492059007[Die Kunst des klaren Denkens]
 
-2nd order resources:
+Second order resources:
 
 * https://builtin.com/diversity-inclusion/unconscious-bias-examples
 * https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763
+* https://www.youtube.com/watch?v=wEwGBIr_RIw

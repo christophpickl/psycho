@@ -1,0 +1,15 @@
+= Change Blindness
+
+This phenomenon is most popular due to the book link:http://theinvisiblegorilla.com/[The Invisible Gorilla]. In order to get a quick understanding in what this is all about, best to quickly watch the following video:
+
+.YouTube Video: "The Monkey Business Illusion", 2mins
+[link=https://www.youtube.com/watch?v=IGQmdoK_ZfY]
+image::https://img.youtube.com/vi/IGQmdoK_ZfY/0.jpg[Monkey Business Illusion,300]
+
+So while we are focusing on one aspect, other (major!) changes (=visual stimuli) stay completely undetected to us. Questions arise like how reliable eyewitness testimonies are (also due to other, more social reasons, as well as the capabilities of our long-term memory storage) and the impact on distractions while driving.
+
+Something similar also exists for other senses, such as "change deafness", olfactory and somatosensory change blindness.
+
+Further Reading::
+
+* https://en.wikipedia.org/wiki/Change_blindness
