@@ -26,13 +26,15 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
 * link:own_race_bias.html[Own-race bias]
 * link:predictable_world_bias.html[Predictable World Bias]
+// https://conservapedia.com/Scientific_bias
+* Scientific Bias
 * Sunk Cost Fallacy
 * link:transparency_illusion.html[Transparency Illusion]
 
 // https://www.youtube.com/watch?v=wEwGBIr_RIw
 // anchoring, availability, bandwagon, choice supportive, ostrich, outcome, overconfidence, palcebo effect, survivorshop, selective, blindspot
 
-// predictable-world bias
+// https://science.howstuffworks.com/life/inside-the-mind/human-brain/10-types-study-bias.htm
 
 == Cases
 
@@ -69,6 +71,11 @@ Famous studies and experiments everyone should know of.
 * ... dot on forehand, look in mirror, to be able to identify oneself
 * ... object permanence with babies, baby looking longer when object should not have been able to turn that far because of obstacle (understanding of physical laws, object standing on the edge and should fall)
 * ... mind of others: doll play with children; does he know what i know or not? (ability to lie)
+
+== Tests
+
+* Strange Situation Test
+// implicit association
 
 == Others
 

@@ -7,3 +7,4 @@ Subpages::
 // availability bias => link to phenomena
 // confirmation bias => link to phenomena
 // predictable-world bias
+// broaden-and-build theory (positive emotions)

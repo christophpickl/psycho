@@ -1,0 +1,187 @@
+= Oefententamen 2a
+
+See: link:https://ondemand.questionmark.eu/delivery/open.php?NAME=PB0014DEEL2&GROUP=Oefententamen1&session=7359317970651541&lang=-&customerid=611930[https://ondemand.questionmark.eu]
+
+⚠️ ... these ones were tricky.
+
+. In het informatieverwerkingsmodel is het … geheugen de plek waar processen plaatsvinden zoals bewust denken, waarnemen en beslissingen nemen.
+.. sensorisch
+.. werk
+.. langetermijn
+.. iconisch
+** [hiddenAnswer]#b.#
+. Welke tekst is _geen_ voorbeeld van het impliciete geheugen (=memory)?
+.. herinneringen geproduceerd door klassieke conditionering
+.. herinneringen die de basis vormen voor priming
+.. kennis van huidige gebeurtenissen
+.. motorische vaardigheden
+** [hiddenAnswer]#c.#
+. De geheugenstrategie chunking zorgt voor een efficiëntere werking van het geheugen door
+.. elk item te associëren met een bestaand mentaal beeld waardoor de hoeveelheid informatie over elk item toeneemt.
+.. de items te associëren met een mentaal beeld van een gebeurtenis waardoor het aantal te onthouden items afneemt.
+.. een afname te creëren van het aantal te onthouden items door toekenning van betekenis aan items.
+.. de hoeveelheid informatie in elk item te verlagen door elk item op te delen in kleinere delen.
+** [hiddenAnswer]#c.#
+. Elk bezoek dat Emilia brengt aan haar ouders en het huis waarin ze is opgegroeid, zorgt ervoor dat bepaalde herinneringen terugkomen, bijvoorbeeld aan grappige dingen die ze deed als kind, die op andere plaatsen niet snel naar boven komen.
+Dit is te verklaren door het effect van
+.. hiërarchische organisatie.
+.. context.
+.. constructie van herinneringen.
+.. selectieve aandacht.
+** [hiddenAnswer]#b.#
+. Joep gooit een munt op. Hij wedt met Tijmen dat de munt bij het opgooien deze keer op 'kop' zal vallen, omdat de munt de 92 keer hiervoor op 'munt' is gevallen. Dit is een voorbeeld van de
+.. availability bias.
+.. confirmation bias.
+.. predictable-world bias.
+.. scientific bias.
+** [hiddenAnswer]#c.#
+. Tamara heeft moeite om een wiskundig probleem op te lossen omdat oude denkpatronen haar daarbij belemmeren. Waardoor wordt Tamara gehinderd?
+.. resistance
+.. broaden-and-build approach
+.. mental set
+.. confirmation bias
+** [hiddenAnswer]#c.#
+. Het scoresysteem van elke moderne intelligentietest maakt gebruik van de resultaten van grote groepen mensen die de test al hebben gedaan. Iemand wiens prestaties precies gemiddeld zijn ten opzichte van de vergelijkingsgroep krijgt een IQ-score van
+.. 10.
+.. 15.
+.. 50.
+.. 100.
+** [hiddenAnswer]#d.#
+. Een erfelijkheidscoëfficiënt (=inheritability coefficient) kan een waarde aannemen tussen
+.. -100.0 en +100.0.
+.. -1.0 en +1.0.
+.. 0.0 en 1.0.
+.. 0.0 en 10.0.
+** [hiddenAnswer]#c.#
+. Het fenomeen waarbij kinderen naar de emotionele uitdrukking van hun opvoeder kijken om een inschatting te maken van mogelijk gevaar van een voorwerp of situatie staat bekend als
+.. habituation (habituatie).
+.. social referencing (sociaal refereren).
+.. examining (onderzoeken).
+.. object permanence (objectpermanentie).
+** [hiddenAnswer]#b.#
+. ⚠️ Hans houdt van tekenen met potloden, stiften en markers. Als Karel hem een 'pointer' aanbiedt, probeert Hans ook daar mee te tekenen. Dit is een voorbeeld van
+.. accommodation.
+.. operations.
+.. assimilation.
+.. object permanence.
+** [hiddenAnswer]#c.#
+. In een typisch onderzoek naar false-belief understanding ziet een kind de pop Lola een snoepje leggen in een blauwe kast. Lola verlaat daarna de kamer en haar moeder komt binnen, die het snoepje verplaatst naar de rode kast. Wanneer Lola terugkomt om haar snoepje te pakken, krijgt het kind de vraag: 'In welke kast zal Lola als eerste kijken?' Wat zullen kinderen van drie en vier jaar doorgaans antwoorden?
+.. De meeste drie- en vierjarige kinderen zullen 'in de blauwe kast' antwoorden.
+.. De meeste drie- en vierjarige kinderen zullen 'in de rode kast' antwoorden.
+.. De meeste driejarige kinderen zullen 'in de rode kast' antwoorden, maar de meeste vierjarigen zullen 'in de blauwe kast' antwoorden.
+.. De meeste driejarige kinderen zullen 'in de blauwe kast' antwoorden, maar de meeste vierjarigen zullen 'in de rode kast' antwoorden.
+** [hiddenAnswer]#c.#
+. Tot welke leeftijd functioneert de language-acquisition device (LAD) volgens Chomsky het optimaalst?
+.. de eerste vijf jaar
+.. de eerste tien jaar
+.. de eerste twee jaar
+.. de eerste vijftien jaar
+** [hiddenAnswer]#b.#
+. Bij de strange situation-test (de vreemde-situatieprocedure) wordt een jong kind in een onbekende ruimte geplaatst met een onbekende persoon. Gekeken wordt hoe het kind reageert op de afwezigheid en terugkeer van zijn of haar vader of moeder. Met deze methode onderzoekt men de mate waarin kinderen
+.. veilig gehecht (=securely attached) zijn.
+.. stress vertonen in de afwezigheid van vader of moeder.
+.. zich hechten aan een vreemde.
+.. leren in aanwezigheid van een vreemde.
+** [hiddenAnswer]#a.#
+. ⚠️ Jean Piaget stelde dat het spelen van kinderen zonder supervisie
+.. egocentrisme bij kinderen bevordert.
+.. cruciaal is voor de morele ontwikkeling.
+.. minder bijdraagt aan de cognitieve ontwikkeling dan spelen onder supervisie van volwassenen.
+.. vrij is en de spontaniteit bevordert.
+** [hiddenAnswer]#b.#
+. Een moeder moet beslissen of ze haar zoon wel of niet zal aangeven bij de politie voor een overtreding die hij heeft gemaakt. Ze redeneert dat ze hem wel moet aangeven bij de politie, omdat ze de wet moet gehoorzamen. Bij welke stadium van moreel redeneren van Kohlberg past deze redenatie van moeder?
+.. Stadium 1: Obedience and punishment orientation
+.. Stadium 2: Self-interested exchanges
+.. Stadium 3: Interpersonal accord and conformity
+.. Stadium 4: Law-and-order morality
+** [hiddenAnswer]#d.#
+. Donja, 12 jaar, zit momenteel in de brugklas van het gymnasium in de stad. Vorig jaar zat zij nog in groep 8 van de dorpsschool. Daar haalde Donja steevast veel hogere punten dan haar klasgenoten. Nu, in de brugklas, zijn er ineens veel meer slimme kinderen; de cijfers van Donja zijn nu net onder het gemiddelde van de klas. De ouders van Donja hebben gemerkt dat deze verandering een fikse invloed heeft op haar zelfvertrouwen met betrekking tot school. Welk psychologisch fenomeen staat centraal in deze casus?
+.. sociometer theory
+.. big-fish-in-small-pond effect
+.. Pygmalion in the classroom effect
+.. fundamental attribution error
+** [hiddenAnswer]#b. (a. my self-esteem is based on what others think about me, c. self-fulfilling prophecy)#
+. ⚠️ Niels is een goede student die altijd hoge cijfers wil halen. Hij is ook een overtuigd dierenrechtenactivist. Wanneer hij ontdekt dat hij een kikker moet ontleden om te kunnen slagen voor biologie, voelt hij zich extreem ongemakkelijk. Dit ongemakkelijke gevoel, dat voortkomt uit een conflict tussen zijn overtuiging (opkomen voor de rechten van dieren) en zijn attitude (je moet goed studeren en altijd goede cijfers halen), noemen we
+.. implicit stereotyping (impliciete stereotypering).
+.. rationalization (rationalisatie).
+.. insufficient justification (onvoldoende rechtvaardiging).
+.. cognitive dissonance (cognitieve dissonantie).
+** [hiddenAnswer]#d.#
+. Fien is tegen dierenmishandeling en besluit een bijeenkomst te bezoeken van een dierenrechtenorganisatie. Na de bijeenkomst krijgt Fien striktere opvattingen over dierenmishandeling. Ze besluit vegetariër te worden en te stoppen met het gebruik van dierlijke producten. Deze intensivering van haar opvattingen kan worden gezien als
+.. popular opinion (publieke opinie).
+.. social facilitation (sociale facilitatie).
+.. groupthink (groepsdenken).
+.. group polarization (groepspolarisatie).
+** [hiddenAnswer]#d.#
+. In een versie van het obedience (gehoorzaamheids)experiment van Stanley Milgram was naast de proefpersoon een zogenaamde confederate (‘handlanger’) aanwezig. Een confederate werd door de proefpersoon gezien als deelnemer aan het experiment, maar kende in werkelijkheid het doel van het experiment en kreeg van tevoren bepaalde instructies van de onderzoeker. Deze confederate moest samen met de proefpersoon de schokken toedienen. De meeste proefpersonen aan het experiment
+.. weigerden nog schokken toe te dienen als de confederate dit ook weigerde.
+.. gingen door zelfs de sterkste schokken toe te dienen, ook als de confederate dit weigerde.
+.. maakten onafhankelijk van de keuze van de confederate hun eigen keuze om wel of niet verder te gaan met schokken toedienen, maar lieten minder emoties zien dan in de standaardversie van het experiment zonder confederate.
+.. maakten onafhankelijk van de keuze van de confederate hun eigen keuze om wel of niet verder te gaan met schokken toedienen, maar lieten meer emoties zien dan in de standaardversie van het experiment zonder confederate.
+** [hiddenAnswer]#a.#
+. Een aantal onderzoekers is van mening dat een zesde persoonlijkheidskenmerk moet worden toegevoegd aan het Big Five-model, namelijk de combinatie
+.. honesty (eerlijkheid) - humility (bescheidenheid).
+.. narcissism (narcisme) - machiavellism (machiavellisme).
+.. eagerness (gretigheid) - impatientness (ongeduld).
+.. flexibility (flexibiliteit) -adaptability (aanpassingsvermogen).
+** [hiddenAnswer]#a.#
+. Yael groeit op in een instabiele gezinssituatie. Haar vader is veel weg, haar moeder is verslaafd aan alcohol en kan de opvoeding van Yael en haar broer en zus niet aan. Ondanks deze instabiele omgeving ontwikkelt Yael zich goed. Als welk soort kind zouden onderzoekers Ellis en Boyce haar beschrijven? Als een
+.. lily (lelie).
+.. dandelion (paardenbloem).
+.. rose (roos).
+.. orchid (orchidee).
+** [hiddenAnswer]#b.#
+. Volgens Freuds theorie is de belangrijkste verklaring voor ons gedrag
+.. afkomstig uit angst.
+.. afkomstig uit afweermechanismen.
+.. het streven naar zelfactualisatie.
+.. gelegen in de herinneringen, emoties en motieven in het onderbewustzijn.
+** [hiddenAnswer]#d.#
+. Welke termen moeten worden ingevuld voor een juiste bewering? Mensen die denken zelf invloed te hebben op successen en tegenslagen in hun leven, hebben een … locus of control, terwijl mensen met een … locus of control denken daarop zelf geen invloed te hebben.
+.. centrale; interne
+.. centrale; externe
+.. externe; interne
+.. interne; externe
+** [hiddenAnswer]#d.#
+. Het is moeilijk een scherp onderscheid te maken tussen 'abnormale' en 'normale' gedragingen, emoties en cognities. Toch proberen clinici dat te doen om te bepalen of sprake is van een psychische stoornis. Om dit te bepalen wordt gedrag vaak beoordeeld op basis van vier thema's. Welk(e) van de onderstaande thema’s wordt of worden onder andere gebruikt bij het beoordelen van psychische stoornissen?
+.. de mate waarin een persoon gedrag, emoties of cognities vertoont of ervaart die de samenleving als afwijkend beschouwt (1)
+.. de mate waarin gedrag, emoties of cognities zo ernstig of langdurend afwijkend zijn dat ze zorgen voor lijdensdruk en interfereren met het dagelijkse leven (2)
+.. noch (1), noch (2)
+.. zowel (1) als (2)
+** [hiddenAnswer]#d.#
+. De hoeveelheid stress die nodig is om een psychische stoornis uit te lokken
+.. blijft constant bij een geringere predispositie voor een stoornis.
+.. blijft constant bij een grotere predispositie voor een stoornis.
+.. neemt toe bij een geringere predispositie voor een stoornis.
+.. neemt toe bij een grotere predispositie voor een stoornis.
+** [hiddenAnswer]#c.#
+. Hoe noemen we een verontrustende gedachte die zich continu aan iemand opdringt en waarvan de persoon weet dat deze gedachte irrationeel is?
+.. een fobie
+.. een compulsie
+.. een obsessie
+.. een dissociatie
+** [hiddenAnswer]#c.#
+. Schizofrenie wordt onder andere gekenmerkt door negatieve symptomen. Een negatief symptoom bij schizofrenie is een symptoom dat
+.. ongewenst is door de persoon met schizofrenie.
+.. gekenmerkt wordt door langere perioden van bewegingloosheid in oncomfortabele posities.
+.. leidt tot slechte fysieke uitkomsten voor de persoon met schizofrenie.
+.. gekenmerkt wordt door een gebrek aan of een reductie van te verwachten emoties en gedrag
+** [hiddenAnswer]#d.#
+. Welke termen moeten worden ingevuld voor een juiste bewering? De meeste typische (typical) antipsychotica werken door het ... van de activiteit van de neurotransmitter ... in de hersenen.
+.. verhogen; dopamine
+.. verlagen; dopamine
+.. verhogen; serotonine
+.. verlagen; serotonine
+** [hiddenAnswer]#b.#
+. De term psychotherapie verwijst naar
+.. de therapeutische theorie en technieken die Sigmund Freud ontwikkelde.
+.. een vorm van therapie, al dan niet Freudiaans, waarbij de therapeut interpreteert wat de cliënt zegt, waardoor de cliënt vervolgens inzicht krijgt.
+.. elke theorie-gedreven systematische behandeling van psychische stoornissen of problemen die wordt uitgevoerd door een getrainde psychotherapeut waarbij psychologische in plaats van fysiologische middelen worden ingezet.
+.. elke theorie-gedreven systematische therapeutische benadering gebaseerd op de veronderstelling dat psychische stoornissen voortkomen uit innerlijke conflicten waar we ons niet bewust van zijn.
+** [hiddenAnswer]#c.#
+. Rutger is gediagnosticeerd met een depressie en ondergaat cognitieve therapie. Zijn therapeut vraagt hem gedurende een week precies bij te houden wanneer hij negatieve emoties ervaart, wat er gebeurde waardoor hij zich zo ging voelen en welke gedachten hij daarbij had. Wat is binnen cognitieve therapie het doel van zo’n huiswerkopdracht?
+.. Meer inzicht krijgen in positieve bekrachtigingen die Rutger ontvangt op onaangepast gedrag.
+.. Ervoor zorgen dat Rutger zich meer bewust wordt van de onbewuste conflicten waarmee hij worstelt.
+.. Rutger laten inzien dat hij net zo is als ieder ander en geen reden heeft om depressief te zijn.
+.. Rutger helpen om zijn voor hem schadelijke manier van denken te zien, zodat hij deze kan vervangen.
+** [hiddenAnswer]#d.#

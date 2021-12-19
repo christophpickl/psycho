@@ -1,0 +1,16 @@
+= Oefententamen 2b
+
+See: link:https://ondemand.questionmark.eu/delivery/open.php?NAME=PB0014DEEL2&GROUP=Oefententamen2&session=0829435394311904&lang=-&customerid=611930[https://ondemand.questionmark.eu]
+
+. x
+.. xx
+** [hiddenAnswer]#x.#
+. x
+.. xx
+** [hiddenAnswer]#x.#
+. x
+.. xx
+** [hiddenAnswer]#x.#
+. x
+.. xx
+** [hiddenAnswer]#x.#

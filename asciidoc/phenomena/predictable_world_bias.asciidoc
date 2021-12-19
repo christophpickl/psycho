@@ -1,5 +1,10 @@
 = Predicatable World Bias
 
+Also known as the "gambler's fallacy" (or the Monte Carlo fallacy, the fallacy of the maturity of chances), is the incorrect belief that, if a particular event occurs more frequently than normal during the past, it is less likely to happen in the future, when it has otherwise been established that the probability of such events does not depend on what has happened in the past.
+
+Such events, having the quality of historical independence, are referred to as statistically independent. The fallacy is commonly associated with gambling, where it may be believed, for example, that the next dice roll is more than usually likely to be six because there have recently been fewer than the usual number of sixes.
+
 Further Reading::
 
 * link:../introduction/ch10-intelligence/index.html[Introduction Psychology, Chapter 10, Intelligence]
+* https://en.wikipedia.org/wiki/Inductive_reasoning
