@@ -3,3 +3,13 @@
 Subpages::
 
 * link:focus_questions.html[Focus Questions]
+https://www.youtube.com/watch?v=
+
+
+.YouTube Video: "Who are you, really? The puzzle of personality - Brian Little", 15mins
+[link=https://www.youtube.com/watch?v=qYvXk_bqlBk]
+image::https://img.youtube.com/vi/qYvXk_bqlBk/0.jpg[TED Talk personality,300]
+
+.YouTube Video: "The new era of positive psychology, Martin Seligman", 23mins
+[link=https://www.youtube.com/watch?v=9FBxfd7DL3E]
+image::https://img.youtube.com/vi/9FBxfd7DL3E/0.jpg[TED Talk positive psychology,300]

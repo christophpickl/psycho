@@ -8,3 +8,8 @@ Subpages::
 // confirmation bias => link to phenomena
 // predictable-world bias
 // broaden-and-build theory (positive emotions)
+
+
+[#img-science_hub]
+.The IQ score is distributed around 100, 95% of the people are withn 100+/-30.
+image::images/iq_distribution.png[IQ,500,100]
