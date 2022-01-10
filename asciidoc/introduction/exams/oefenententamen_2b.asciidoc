@@ -2,15 +2,185 @@
 
 See: link:https://ondemand.questionmark.eu/delivery/open.php?NAME=PB0014DEEL2&GROUP=Oefententamen2&session=0829435394311904&lang=-&customerid=611930[https://ondemand.questionmark.eu]
 
-. x
-.. xx
-** [hiddenAnswer]#x.#
-. x
-.. xx
-** [hiddenAnswer]#x.#
-. x
-.. xx
-** [hiddenAnswer]#x.#
-. x
-.. xx
-** [hiddenAnswer]#x.#
+⚠️ ... these ones were tricky.
+
+. Het informatieverwerkingsmodel bestaat uit drie verschillende opslagplaatsen en een aantal controleprocessen. Welk controleproces zorgt ervoor dat informatie vanuit het kortetermijn(werk)geheugen naar het langetermijngeheugen gaat?
+.. retrieval (terughalen)
+.. attention (aandacht)
+.. encoding (coderen)
+.. recall (opnieuw oproepen)
+** [hiddenAnswer]#c.#
+. Weten dat uitlaatgassen van auto’s bijdragen aan luchtvervuiling is een voorbeeld van het … geheugen, en dit is een subonderdeel van het … geheugen.
+.. semantische; impliciete
+.. semantische; expliciete
+.. episodische; impliciete
+.. episodische; expliciete
+** [hiddenAnswer]#b.#
+. Om de hersengebieden goed te onthouden, kun je ze rangschikken van de grotere naar de kleinere structuren: de cerebrale cortex heeft een linker- en rechterhemisfeer, en elke hemisfeer bevat een frontale, temporale, pariëtale en een occipitale kwab. Hoe noemen we deze geheugenstrategie?
+.. chunking
+.. hierarchical organization
+.. visualization
+.. maintenance rehearsal
+** [hiddenAnswer]#b.#
+. In welk scenario wordt de term schema het best beschreven?
+.. Anna kan de bushalte niet vinden, dus stopt ze om op de stadsplattegrond te kijken.
+.. José voelt zich wat in de war op een verjaardagsfeestje omdat de taart meestal wordt geserveerd nadat de cadeautjes zijn uitgepakt in plaats van ervoor.
+.. Jada herinnert zich waar alles staat op kantoor door individuele items mentaal te groeperen in grote vierkanten.
+.. Sarah is in staat om het stadspark als zodanig te herkennen, ook al is ze in dit specifieke stadspark nooit eerder geweest.
+** [hiddenAnswer]#d.#
+. Welke uitspraak is volgens de definitie van een analogie binnen de psychologie geen analogie?
+.. Een honkbalhandschoen is analoog aan een vlindernetje.
+.. Een paarse vink is analoog aan een huisvink.
+.. Een huwelijk tussen mensen is analoog aan paarvorming bij ganzen.
+.. Het huilen van een baby is analoog aan het janken van een puppy.
+** [hiddenAnswer]#b.#
+. De deur van Godelieve waait steeds open door de wind. Hoewel er een wandelschoen vlakbij de deur ligt, gebruikt Godelieve die niet om de deur dicht te houden, omdat een wandelschoen wordt gebruikt om te wandelen. Het onvermogen van Godelieve om de schoen te zien als iets wat een ander doel kan dienen dan wandelen, is een voorbeeld van
+.. availability bias.
+.. syllogistic reasoning.
+.. confirmation bias.
+.. functional fixedness.
+** [hiddenAnswer]#d.#
+. Als een IQ-test valide is, dan
+.. moet hij bij elke testpersoon onder verschillende omstandigheden ongeveer dezelfde uitkomst geven.
+.. correleert hij sterk met andere geaccepteerde maatstaven voor intelligentie.
+.. zijn de scores gevoelig voor veranderingen in iemands omstandigheden en gemoedstoestand.
+.. onderscheidt hij verschillende mentale competenties duidelijk van elkaar.
+** [hiddenAnswer]#b.#
+. Carolina meet kenmerk X bij broers en zussen die samen zijn opgevoed. Ze vindt een correlatie van .11 voor geadopteerde broers en zussen die biologisch niet verwant zijn, een correlatie van .56 voor twee-eiige tweelingen en een correlatie van .93 voor identieke tweelingen. Dit laat zien dat
+.. de omgeving relatief weinig toevoegt aan variatie in kenmerk X.
+.. erfelijkheid weinig tot niets toevoegt aan variatie in kenmerk X.
+.. omgeving veel bijdraagt aan variatie in kenmerk X, maar alleen voor tweelingen.
+.. zowel erfelijkheid als omgeving substantieel bijdragen aan variatie in kenmerk X.
+** [hiddenAnswer]#a.#
+. Welke uitspraak over kinderen die voorwerpen in hun omgeving onderzoeken (explore), is niet waar?
+..  Kinderen houden voorwerpen voor hun ogen en draaien het voorwerp om en om, nemen het voorwerp van de ene hand in de andere, knijpen erin en stoppen het in hun mond.
+..  Kinderen zullen alle voorwerpen op dezelfde stereotype manier onderzoeken, onafhankelijk van de specifieke kenmerken van een voorwerp.
+..  Kinderen zijn minder geïnteresseerd in bekende voorwerpen en zullen onbekende voorwerpen intensiever onderzoeken.
+..  Kinderen die een nieuw voorwerp krijgen, zijn moeilijker af te leiden dan kinderen die het voorwerp al eerder hebben gezien.
+** [hiddenAnswer]#b.#
+. In de theorie van Vygotsky verwijst de term ... naar activiteiten die het kind nog niet alleen kan doen, maar wel samen met een meer competente persoon.
+.. social referencing (sociaal refereren)
+.. habituation (habituatie / gewenning)
+.. zone of proximal development (zone van de naaste ontwikkeling)
+.. information-processing perspective (informatieverwerkingsperspectief)
+** [hiddenAnswer]#c.#
+. Op welke leeftijd zien we voor het eerst aanwijzingen voor het ontstaan van het episodische expliciete geheugen?
+.. 10-12 maanden
+.. 20-24 maanden
+.. 3-4 jaar
+.. 5-6 jaar
+** [hiddenAnswer]#c.#
+. ⚠️ Motherese, het versimpelen van taal door een volwassene wanneer deze tegen of met een jong kind praat, is een voorbeeld van
+.. het language-acquisition support system.
+.. het aangeboren language-acquisition device.
+.. de gewoonte van volwassenen om de taalontwikkeling van kinderen te inhiberen.
+.. pidgin language.
+** [hiddenAnswer]#a.#
+. Nienke en Pleun zijn jonge kinderen. Terwijl ze aan het spelen zijn, begint Pleun te huilen. Nienke zoekt het knuffelvarkentje van Pleun en geeft het aan haar. Dit is een voorbeeld van
+.. anxiety-based guilt (schuldgevoel gebaseerd op angst).
+.. egocentric empathy (egocentrische empathie).
+.. induction (inductie).
+.. empathic comforting (empathisch troosten).
+** [hiddenAnswer]#d.#
+. Bij het interpreteren van correlaties die worden gevonden tussen de opvoedstijl van ouders en het gedrag van kinderen is het belangrijk te onderkennen dat deze correlaties
+.. sterk, maar niet statistisch significant zijn.
+.. laten zien dat de opvoedstijl van ouders het gedrag van kinderen veroorzaakt.
+.. veroorzaakt kunnen zijn door het observer-expectancy effect.
+.. ook de invloed van het gedrag van kinderen op de opvoedstijl van ouders kunnen weerspiegelen.
+** [hiddenAnswer]#d.#
+. Oudere volwassenen (> 50 jaar) zijn ... gericht op positieve gebeurtenissen en hebben een groter werkgeheugen voor ... dan jongere volwassenen (< 40 jaar).
+.. meer; negatieve beelden
+.. minder; positieve beelden
+.. meer; positieve beelden
+.. minder; negatieve beelden
+** [hiddenAnswer]#c.#
+. Hoe komt het dat aantrekkelijke mensen positiever worden beoordeeld dan onaantrekkelijke mensen?
+.. Ervaringen met aantrekkelijke en onaantrekkelijke mensen hebben gezorgd voor een adequate basis voor het oordeel dat aantrekkelijke mensen vaker positievere eigenschappen bezitten.
+.. De eerste indruk van iemand is meestal gebaseerd op de fysieke aantrekkelijkheid van die persoon. Afhankelijk daarvan interpreteert de ander de informatie die hij/zij van die persoon krijgt positiever of negatiever.
+.. Omdat aantrekkelijke mensen vaak betere sociale vaardigheden bezitten dan onaantrekkelijke mensen zijn ze beter in staat de eerste indruk te manipuleren die anderen van hen hebben.
+.. We identificeren ons eerder met aantrekkelijke mensen dan met onaantrekkelijke mensen. Vanuit een self-serving bias zijn we vervolgens geneigd om mensen die op ons lijken positiever te beoordelen.
+** [hiddenAnswer]#b.#
+. ⚠️ Rebecca schrijft in haar dagboek dat ze vriendelijk is en graag deelt met anderen. Rebecca beschrijft zichzelf in termen van
+.. haar social identity.
+.. haar personal identity.
+.. the better-than-average effect.
+.. a self-serving attributional bias.
+** [hiddenAnswer]#b.#
+. Bij het passive bystander effect reageren omstanders niet op een (nood)situatie. Welke term bevat geen verklaring voor dit effect?
+.. informational influence (informatieve invloed)
+.. normative influence (normatieve invloed)
+.. group polarization (groepspolarisatie)
+.. conformity (conformiteit)
+** [hiddenAnswer]#c.#
+. Wat wordt bedoeld met altruistic punishment (altruïstisch straffen)?
+.. één persoon straffen zodat de gehele groep eronder lijdt
+.. iemand straffen, maar op een vriendelijke manier
+.. een persoon straffen die onvoldoende bijdraagt aan het groepsresultaat, ten koste van een deel van je eigen bijdrage
+.. straf achterwege laten om de groep als geheel te bevoordelen
+** [hiddenAnswer]#c.#
+. ⚠️ Waarvoor wordt *factoranalyse* toegepast in persoonlijkheidsonderzoek?
+.. om de sterkte en richting van het verband tussen twee persoonlijkheidskenmerken te onderzoeken
+.. om grote hoeveelheden data te kunnen analyseren om onderliggende patronen in persoonlijkheidskenmerken te onderzoeken
+.. om te bepalen welke persoonlijkheidskenmerken positief en welke negatief zijn
+.. om te onderzoeken welke persoonlijkheidskenmerken het meest voorkomen in een populatie
+** [hiddenAnswer]#b.#
+. Verlegenheid en gedragsinhibitie correleren bij jonge mannen met gevoelens van ongelukkig zijn en emotioneel lijden. Voor jonge vrouwen geldt die correlatie niet. Welke mogelijke verklaring is hiervoor?
+.. Verlegen en geremde mannen gedragen zich minder doelgericht dan verlegen en geremde vrouwen.
+.. Verlegen en geremde vrouwen zijn minder neurotisch dan verlegen en geremde mannen.
+.. Verschillen in culturele verwachtingen aan jonge mannen en vrouwen rondom genderstereotypen maken het leven voor verlegen en geremde mannen zwaarder.
+.. Verschillen in opvoeding maken het leven zwaarder voor vrouwen dan voor mannen.
+** [hiddenAnswer]#c.#
+. De term die Freud gebruikte om het proces te beschrijven waarmee mensen angstwekkende wensen of herinneringen uit het bewustzijn houden, is
+.. sublimation (sublimatie).
+.. repression (repressie).
+.. displacement (verschuiving).
+.. reaction formation (reactieformatie).
+** [hiddenAnswer]#b.#
+. Sociaal-cognitieve theorieën over persoonlijkheid benadrukken het belang van
+.. socialisatie (socialization).
+.. overtuigingen (beliefs).
+.. cognitieve dissonantie (cognitive dissonance).
+.. aanpassing (adaptation).
+** [hiddenAnswer]#b.#
+. In het handboek worden verschillende voorbeelden genoemd van zogenaamde 'cultuurgebonden syndromen'. Welke stoornis wordt niet genoemd als voorbeeld van een cultuurgebonden syndroom?
+.. boulimia nervosa
+.. ADHD
+.. internetverslaving
+.. sociale-angststoornis
+** [hiddenAnswer]#d.#
+. Edwin is inmiddels een jaar depressief. Eén reden waarom zijn toestand nog niet is verbeterd, is dat zijn problemen hem een aantal voordelen opleveren. Zo krijgt Edwin meer aandacht van familie en vrienden en verwacht men thuis en op het werk minder van hem. Deze voordelen kunnen we zien als
+.. uitlokkende (precipitating) factoren.
+.. intensiverende (intensifying) factoren.
+.. onderhoudende (perpetuating) factoren.
+.. oorzakelijke (predisposing) factoren.
+** [hiddenAnswer]#c.#
+. ⚠️ Welke uitspraak over de acute stressstoornis is juist?
+.. In de DSM-V hoort deze stoornis bij de categorie angststoornissen.
+.. Om deze diagnose te kunnen stellen, moeten klachten minstens drie dagen aanwezig zijn.
+.. Deze stoornis wordt ook wel aanpassingsstoornis (adjustment disorder) genoemd.
+.. Deze stoornis wordt vaak gekenmerkt door een korte hypomane episode.
+** [hiddenAnswer]#b.#
+. ⚠️ Welke uitspraak over de afhankelijke persoonlijkheidsstoornis (dependent personality disorder) is onjuist?
+.. Mensen met een afhankelijke persoonlijkheidsstoornis staan vaak toe dat anderen belangrijke beslissingen nemen over hun leven.
+.. Evenveel mannen als vrouwen kampen met een afhankelijke persoonlijkheidsstoornis.
+.. Mensen met deze stoornis hebben de neiging te gehoorzamen om zo een conflict te vermijden.
+.. Mensen met deze stoornis voelen zich over het algemeen ongemakkelijk in sociale situaties.
+** [hiddenAnswer]#d.#
+. Waardoor laten angstige en depressieve mensen die een placebo krijgen een bepaalde verbetering zien?
+.. Placebo's geven niet de vervelende bijwerkingen die actieve medicijnen wel geven.
+.. Placebo's kunnen sporen van het actieve medicijn bevatten, waardoor ze een begrijpelijke verbetering geven.
+.. Deelname aan onderzoek naar een behandeling kan het gevoel van controle herstellen en de verwachting geven dat men beter zal worden.
+.. Placebo's worden doorgaans aan cliënten gegeven met aanvankelijk minder ernstige symptomen.
+** [hiddenAnswer]#c.#
+. Tim zit sinds zes maanden in psychoanalyse. Hij heeft onlangs twee afspraken gemist, waarvan hij zegt dat hij ze gewoon vergeten is. Wanneer hij komt voor een sessie, besteedt hij buitensporig veel tijd aan het bespreken van triviale zaken met zijn therapeut. Tim laat tekenen zien van
+.. overdracht (transference).
+.. weerstand (resistance).
+.. tegengesteld conditioneren  (opposite conditioning).
+.. projectie.
+** [hiddenAnswer]#b.#
+. Wat wordt binnen de cognitieve therapie bedoeld met de socratische benadering?
+.. alle therapeutische interventies die uiteindelijk tot meer afstand tussen gedachten en gevoel leiden
+.. door middel van vragen de eigen irrationele gedachten ontdekken en corrigeren
+.. de veronderstelling dat er gelijkheid moet zijn tussen cliënt en therapeut om tot goede therapieresultaten te komen
+.. de veronderstelling dat psychische stoornissen aangeleerd gedrag zijn, en dat behandeling van deze stoornissen dus het afleren van dat gedrag impliceert
+** [hiddenAnswer]#b.#
