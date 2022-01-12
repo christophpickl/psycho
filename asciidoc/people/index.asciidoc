@@ -20,6 +20,7 @@ A list of some people good to know in the area of psychology:
 * Kuhn, Thomas
 * link:leibniz-gottfried_wilhelm.html[Leibniz, Gottfried Wilhelm]
 * link:locke-john.html[Locke, John]
+* link:milgram-stanley.html[Milgram, Stanley]
 * Miller
 * link:pavlov-ivan.html[Pavlov, Ivan]
 * Piaget

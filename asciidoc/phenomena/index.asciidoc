@@ -26,8 +26,10 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
 * link:own_race_bias.html[Own-race bias]
 * link:predictable_world_bias.html[Predictable World Bias]
+* Proportional Bias -- Base for conspiracy theories
 // https://conservapedia.com/Scientific_bias
 * Scientific Bias
+* Spotlight Effect
 * Sunk Cost Fallacy
 * link:transparency_illusion.html[Transparency Illusion]
 
