@@ -6,6 +6,10 @@ Subpages::
 
 * link:focus_questions.html[Focus Questions]
 
+.Mindmap of chapter 9 (link:https://app.wisemapping.com/c/maps/1248537/edit[Source])
+[link=images/mindmap.png]
+image::images/mindmap.png[Mind Map,100%,100]
+
 == Keywords
 
 - *Anterograde amnesia*:

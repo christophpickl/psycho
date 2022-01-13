@@ -4,6 +4,10 @@ Subpages::
 
 * link:focus_questions.html[Focus Questions]
 
+.Mindmap of chapter 10 (link:https://app.wisemapping.com/c/maps/1248538/edit[Source])
+[link=images/mindmap.png]
+image::images/mindmap.png[Mind Map,100%,100]
+
 // availability bias => link to phenomena
 // confirmation bias => link to phenomena
 // predictable-world bias

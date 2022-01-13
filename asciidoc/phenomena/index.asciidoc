@@ -14,21 +14,26 @@
 Some human flaws and unique traits, thanks to social psychology, well known due to pop-psychology, a list of (more or less) funny effects, illusions & co. Useful to know for everyone to try to see a bit more clearly:
 
 * link:availability_bias.html[Availability Bias]
-* Baseline (Kahnemann); very difficult for humans
+* Baseline -- very difficult for humans; Kahnemann
+* Bystander Effect
 * link:change_blindness.html[Change Blindness] -- A perceptual illusion where visual changes pass unnoticed to the observer.
 * Cognitive Dissonance
 * link:confirmation_bias.html[Confirmation Bias]
 * link:dunning_kruger_effect.html[Dunning Kruger Effect] -- The tendency of beginners to overestimate their level of skill.
 * Framing; loss aversion
+* Fundamental Attribution Error
 * link:hawthorne_effect.html[Hawthorne Effect]
 * Illusory Superiority
 * link:mcgurk_effect.html[McGurk Effect] -- A perceptual illusion where seeing and hearing influence each other.
+* Insufficient Justification Effect
 * Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
 * link:own_race_bias.html[Own-race bias]
 * link:predictable_world_bias.html[Predictable World Bias]
 * Proportional Bias -- Base for conspiracy theories
-// https://conservapedia.com/Scientific_bias
+* Pygmalion Effect
 * Scientific Bias
+// https://conservapedia.com/Scientific_bias
+* Self Serving Bias
 * Spotlight Effect
 * Sunk Cost Fallacy
 * link:transparency_illusion.html[Transparency Illusion]

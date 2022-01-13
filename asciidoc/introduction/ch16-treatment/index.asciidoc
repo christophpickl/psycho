@@ -3,3 +3,7 @@
 Subpages::
 
 * link:focus_questions.html[Focus Questions]
+
+.Mindmap of chapter 16 (link:https://app.wisemapping.com/c/maps/1248544/edit[Source])
+[link=images/mindmap.png]
+image::images/mindmap.png[Mind Map,100%,100]

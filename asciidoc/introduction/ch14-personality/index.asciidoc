@@ -3,7 +3,10 @@
 Subpages::
 
 * link:focus_questions.html[Focus Questions]
-https://www.youtube.com/watch?v=
+
+.Mindmap of chapter 14 (link:https://app.wisemapping.com/c/maps/1248542/edit[Source])
+[link=images/mindmap.png]
+image::images/mindmap.png[Mind Map,100%,100]
 
 
 .YouTube Video: "Who are you, really? The puzzle of personality - Brian Little", 15mins

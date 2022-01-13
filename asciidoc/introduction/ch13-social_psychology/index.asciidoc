@@ -4,6 +4,10 @@ Subpages::
 
 * link:focus_questions.html[Focus Questions]
 
+.Mindmap of chapter 13 (link:https://app.wisemapping.com/c/maps/1248541/edit[Source])
+[link=images/mindmap.png]
+image::images/mindmap.png[Mind Map,100%,100]
+
 == Keywords
 
 == Keypeople

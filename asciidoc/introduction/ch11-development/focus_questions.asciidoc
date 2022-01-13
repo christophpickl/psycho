@@ -155,6 +155,8 @@
 
 == Think Critically
 
+// TODO finish think cirtically CH11
+
 . (a) How can we know what an infant is thinking about? (b) Why or why not might it be worthwile to study perception and cognition in preverbal infants?
 ** [hiddenAnswer]#Bar.#
 
