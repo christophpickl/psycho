@@ -1,5 +1,11 @@
 = Chapter 16 - Treatment
 
+// 1. pictures
+// 2. keywords (plus words given in book)
+// 3. keypeople (also contemporary), add content + back-reference here
+// 4. add more specific/relevant content
+// 5. feinschliff, check all for typos
+
 Subpages::
 
 * link:focus_questions.html[Focus Questions]
@@ -7,3 +13,205 @@ Subpages::
 .Mindmap of chapter 16 (link:https://app.wisemapping.com/c/maps/1248544/edit[Source])
 [link=images/mindmap.png]
 image::images/mindmap.png[Mind Map,100%,100]
+
+== Keywords
+
+- *Term*: xxx
+
+== Keypeople
+
+- link:/people/xxx-yyy.html[XXX YYY]: some description.
+
+== Content
+
+=== Social Care
+
+* Society:
+** Patients are "allies of the devil"
+** Hospitalization provided inadequate conditions
+** Deinstitutionalization, as institutions first succeed (drugs) and then failed (US 1950s)
+* Community treatment: effective, well-integrated, multi-disciplinary
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Health System
+
+* Types:
+** Psychiatrist (only who prescribes drugs)
+** Clinical psychologist
+** Counseling psychologist
+** Mental health counselor
+** Psychiatric social worker
+** Psychiatric nurse
+* Differ in: Training, setting, severity of problems
+* Survey in US resulted: 60% get no treatment, 20% briefly see doctor/nurse, 20% treatment by a professional
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Biological Treatments
+
+* Drugs
+** Antipsychotic
+*** Treat symptoms (not a cure)
+** Effect of less dopamine
+** Newer ones ("atypical") affect more neurotransmitters
+** Antianxiety
+*** Benzodiazepines: Increase inhibitor; addictive!
+** Antidepressant
+*** Either Tricyclics or SSRIs
+*** Prolong serotonin and norepinephrin
+** Studies
+*** 3 categories of healing:
+**** Spontaneous recoevery
+**** Placebo (most improvement)
+**** Drug
+*** Hope is the most principle ingredient
+* Other means:
+** ECT = Electro Convulsive Therapy
+*** Brain seizures; side effect: memory loss
+*** Used with depression
+*** Safe and effective
+** Psychosurgery
+*** Small, localized lessions
+*** We don't do lobotomies anymore, but it's somehow related
+** Deep brain stimulation
+*** Disrupt, rather destroy, brain tissue via electrical current
+** Transcranial Magnetic Stimulation
+*** Electric pulses used to treat depression
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Psychodynamic
+
+* Approach
+** Unresolved mental conflicts influences conscious thought/action
+** By being aware of them, can deal properly
+* Job is to identify clues via: Dreams, free association, mistakes, slips of the tongue
+* Characteristics
+** Resistance: Indicating being on the right track
+** Transference: Strong emotions (e.g. confusing the therapist with the father)
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Humanistic
+
+* Accept desires/feelings, independent of approval by others, to reach self-actualization
+* Job is to: Listen, give positive regard and the client leads
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Behavioral
+
+* Extinguish maladaptive responses
+** Condition healthier ones
+** Expose to new environmental conditions
+* Contingency management
+** Use operant-conditioning to modify behavior (behavior-reward contingencies)
+* Exposure treatment uses classical conditioning
+** Techniques: Imaginal, in-vivo, VR
+** Habituate or extinguish phobias
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Cognitive
+
+* Maladaptive beliefs/thoughts: Identify, convince about their irrationality and eliminate them
+* Give homework: Write diary, measure progress (objectively)
+* From teacher to consultant, becoming less directive
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Evaluation
+
+* Effectiveness
+** Psychotherapy helps, as shown in controlled experiments
+** Not much difference among different types
+*** Difference is more theoretical than practical (lots of overlap)
+*** Some better for specific disorders, e.g. behavioral for phobias
+* Top 3 common factors (accounting to much of the effectiveness):
+** Support: Acceptance, empathy, encouragement, building confidence
+** Hope: From faith, believe, getting better
+** Motivatioin: Regular reporting, self-improvement
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+== Additional Resources
+
+TBD.

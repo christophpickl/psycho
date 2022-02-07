@@ -1,120 +1,122 @@
 = Focus Questions
 
-. What was Harlow’s procedure for studying attachment in infant monkeys, and what did he find?
-** [hiddenAnswer]#Bar.#
+. (a) What was Harlow's procedure for studying attachment in infant monkeys and (b) what did he find?
+** [hiddenAnswer]#(a) He raised a baby moneky with two fake mothers, one with milk out of metal, the other cosy made of cloth. (b) The baby monkey would treat the cloth creature as its mother (safety, comfort), and would come to the metal one only for nourishment. Contact comfort is more important in developing attachment bonds than food and other physical needs.#
 
-. According to Bowlby, what infant behaviors indicate strong attachment, and why would they have come about in natural selection?
-** [hiddenAnswer]#Bar.#
+. According to Bowlby, (a) what infant behaviors indicate strong attachment and (b) why would they have come about in natural selection?
+** [hiddenAnswer]#(a) Once the mother returns from leaving the child an unfamiliar enviornment, it has no problems "forgiving" and going back to play. But while she is gone, the infant shows distress and wouldn't explore the environment or interact with strangers unless being with its mother. (b) It gives advantage as it decreases risk while being without caretaker engaging in risky actions like exploring unknown environments/people without the safety provided by a caretaker.#
 
 . From an evolutionary perspective, why does attachment strengthen at about 6 to 8 months of age?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Because that's the age where infants start to move around on their own, making life more dangerous. The need for exploration must be balanced with the need for safety (stay close by protective caretaker). Usage of "social referencing", using caretaker's response indicating safe/dangerous objects/situations/actions.#
 
 . How does the strange-situation test assess the security of attachment?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Mother and child are in a room, a stranger enters, the mother leaves, the mother returns. Most emphasize is put on the infant's response once the mother returns. Secure Attachment = The infant greets the mother warmly. Insecure-Resistant = Ambivalent and anger on return; anxious to explore even with mother. Insecure-avoidant = Avoid contact with the mother; little distress when mother leaves. Disorganized/disoriented = no coherent strategy; freeze in the middle of an action.#
 
-. What evidence suggests that sensitive parenting correlates with secure attachment and subsequent emotional and social development? How did Ainsworth interpret the correlations, and how else might they be interpreted?
-** [hiddenAnswer]#Bar.#
+. (a) What evidence suggests that sensitive parenting correlates with secure attachment and subsequent emotional/social development? (b) How did Ainsworth interpret the correlations, and (c) how else might they be interpreted?
+** [hiddenAnswer]#(a) Home visits along with the strange-situation test proved high positive correlations between sensitive parenting and secure attachment. (b) Sensitive care as a young, would lead to positive effects later on in life. Trust of self and other, confidence and growth-promotion, better at problem solving, emotionally healthier, more sociable. (c) Secure attachment is a "multivitamin" preventing problems and increases healthy development.#
 
 . What experimental evidence supports the theory that sensitive care promotes secure attachment?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Parents were sent to a training, how to perceive and respond to their babies' signals. Doing the strange-situation test, 60% of the trained, and only 20% of the control group showed secure attachment.#
 
 . What evidence suggests that some infants are relatively invulnerable to negative effects of insensitive parenting?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#A study tested infants and showed that those with a special gene (5-HTTLLPR with its long form) are little affected by parenting. Even with careless caretaking they showed secured attachment.#
 
 . What are some differences in the way cultures care for young infants?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Hunter gatherer, like the !Kung San people, mothers have their baby the first year all the time in direct contact. Sleeping with them at night, carring them during day. The sling makes it possible to always access the breast, and it uses it also at an average interval of 15 minutes. When not with the mother, other take care, hold, cuddle, kiss it. They detect distress even before it starts to cry.#
 
-. What observations suggest that hunter-gatherers are highly indulgent towards infants? What parenting styles distinguish the !Kung, Efe and Aka?
-** [hiddenAnswer]#Bar.#
+. (a) What observations suggest that hunter-gatherers are highly indulgent (=nachgiebig) towards infants? (b) What parenting styles distinguish the !Kung, Efe and Aka?
+** [hiddenAnswer]#(a) When about 1 year old, infants prefer their own mother over other people taking care of it. They will reject the breast of other women, and hunter-gatherer mothers will accept that. (b) Their paternal involement is higher. Especially the Aka, with fathers holding infants on average 20% of the time during the day. The whole family also sleeps together in the same bed.#
 
 . According to Hoffman, how does empathy develop during infancy and early toddlerhood?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#First it will cry when another baby is crying (sound). Later it will delay that reflexive act and rather replace it with thought, or expressing sadness. Then it will develop something like "egocentric empathy", it wants to calm its own distress seeing the other in distress. Finally with 2 years they succeed in comforting the other person's distress.#
 
-. What evidence suggests that young children naturally enjoy giving? How do the !Kung use that enjoyment for moral training?
-** [hiddenAnswer]#Bar.#
+. (a) What evidence suggests that young children naturally enjoy giving? (b) How do the !Kung use that enjoyment for moral training?
+** [hiddenAnswer]#Games like give-and-take, as well as spontaneously giving toys to adults during experiments. Giving to caretakers and strangers. Giving old and new toys. Even without requests. Also helping with tasks. (b) Unknown.#
 
 . At about what age and under what conditions do children share?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#At around 2 years, children are more likely to share when it is about cooperation. Other than that, even by 5 years most share (still keeping most for themselves), almost 100% by age 7 years. Fairness in distribution increases, yet depending on culture (and false-belief skill).#
 
-. What is overimitation, who engages in it, and why might it be adaptive?
-** [hiddenAnswer]#Bar.#
+. (a) What is overimitation, (b) who engages in it, and (c) why might it be adaptive?
+** [hiddenAnswer]#(a) Children copying even the irrelevant/silly tasks to achieve a goal. (b) Children as well as adults (even worse), but not chimpanzees. (c) The belief that models are trustworthy and each action has a purpose. Seeing other people as "intentional agents", doing things on purpose. Having to learn about thousands of cultural inventions, this behavior is adaptive. Silly tasks might be important for the "bigger overarching action sequence".#
 
 . What evidence is there that children learn new skills from watching other children?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#They put a device in a classroom, trained only a single child on how to operate it, and soon other children observed and were able to operate it as well.#
 
-. What are four general parenting styles psychologists have identified, and how do they affect children’s psychological development?
-** [hiddenAnswer]#Bar.#
+. (a) What are four general parenting styles psychologists have identified, and (b) how do they affect children’s psychological development?
+** [hiddenAnswer]#(a) Authoritarian: Obedience for its own sake; low warmth, high control. Authoritative: learn and abide basic principles of right/wrong; high warmth, high control. Permissive: Most tolerant, respond to own frustration; high warmth, low control. Uninvolved/Neglectful: Disengaged, emotionally cold, little demand; low warmth, low control. (b) Authoritative exhibits most positive qualities: Friendlier, happier, more cooperative. Authoritarian are bad at school, low self-esteem, rejected by peers. Permissive are impulsive, aggressive, out of control. Uninvolved are far worst, problem behavior, sexual promiscuity, antisocial, drug abuse, depression and social withdrawal.#
 
-. How do observations of two Mexican villages illustrate the role of playing in transmitting cultural skills and values from one generation to the next? How might play promote cultural advancement?
-** [hiddenAnswer]#Bar.#
+. (a) How do observations of two Mexican villages illustrate the role of playing in transmitting cultural skills and values from one generation to the next? (b) How might play promote cultural advancement?
+** [hiddenAnswer]#(a) In one of the village, there was lots of fights going on, so children started to incorporate this kind of activity in their play. Children engaged therefor twice as much in serious fights, and three times as much in play fighting. Children intuitively understood that skill and practiced it in play, for fun, imitating the adults. (b) For example with the rise of technology via computers and the internet. At the beginning, of little use, children started to use it for the sake of play, being the first ones being competent in the usage of those devices, and even teaching adults how to use them. Art, literature, philosophy, legal systems; all arose originally in the spirit of play extended from childhood into adulthood.#
 
-. What ideas did Piaget and Vygotsky present concerning the value of play in social development? What evidence supports their ideas?
-** [hiddenAnswer]#Bar.#
+. (a) What ideas did Piaget and Vygotsky present concerning the value of play in social development? (b) What evidence supports their ideas?
+** [hiddenAnswer]#(a) For Piaget it helps moral development, but only unsupervised play with peers, as otherwise adults employ authority, removing possibility to use reasoning. E.g. settling disputes, bending rules, to make things fair. Rules being arbitrary constructs which can be changed by agreement. Same being true for social conventions and laws in democratic societies. Vygotsky states that children learn to control their impulses and abide social rules/roles through play, which is not totally free but always limited in actions. They enter freely, but give up some freedom in doing so -a paradox. (b) Research shows that children enforce rules in their social fantasy play. Everyone should act like their assigned role, not like who they really are, as in: "Dogs don't sit at the table; you have to go under the table". There are also positive correlations between social fantasy play and social competence/self-control.#
 
 . What features of age-mixed play may make it particularly valuable to a child’s development?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#It is less competitive. Younger learn more advanced things (observation/interaction). Older learn nurturing skills, consolidate their own knowledge.#
 
-. What are some of the ways that girls and boys are treated differently by adults in our culture, and how might such treatment promote different developmental consequences?
-** [hiddenAnswer]#Bar.#
+. (a) What are some of the ways that girls and boys are treated differently by adults in our culture, and (b) how might such treatment promote different developmental consequences?
+** [hiddenAnswer]#(a) Girls: More gentle, talking more (conversationally), gazing, helpful, comforting, warmer. Boys: Pushy, direct commands, explain things, expect independence (no help/support). (b) Girls become: More affectionate. Boys become: More self-reliant, jobs (math, science).#
 
 . How do children mold themselves according to their understanding of gender differences?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Through gender identity: Children know their gender and behave based on culture's stereotypes. They project themselves cleary as male/female. Modeling people's behavior, often exaggerating male-female differences. Asking for a gender-atypical task, they execute it in a clearly distinguish style.#
 
-. What function might children’s self-segregation by gender serve? In our culture, why might boys avoid playing with girls more than the reverse?
-** [hiddenAnswer]#Bar.#
+. (a) What function might children’s self-segregation by gender serve? (b) In our culture, why might boys avoid playing with girls more than the reverse?
+** [hiddenAnswer]#(a) Better to practice masculine/feminine typical activities with same-sex peers. (b) That asymmetry may stem from male roles being seen as superior to female ones. Also visible in women in Western culture moving into exclusively masculine roles.#
 
-. In what ways can girls’ and boys’ peer groups be thought of as separate subcultures? Why might differences in boys’ and girls’ play be greater in age-segregated settings than in age-mixed settings?
-** [hiddenAnswer]#Bar.#
+. (a) In what ways can girls' and boys' peer groups be thought of as separate subcultures? (b) Why might differences in boys' and girls' play be greater in age-segregated settings than in age-mixed settings?
+** [hiddenAnswer]#(a) They have their own values, pushing members into developmental lines. Boy groups are large, hierarchical, competitive ("king of the hill"). Girl groups are smaller, intimate, cooperative ("jump rope"). (b) As stated earlier, age-mixed play leads to less competition and more collaboration (would stand no chance anyways, so there is no fun in defeating), teaching and helping each other, which enables these two subgroups to interact more.#
 
 . What is the typical nature of so-called adolescent rebellion against parents?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Free from immediate parent's controls (fear of sex, drugs, automobiles); authority. Wanting to be treated like adults; respect. It usually comes with physical changes of puberty, rather chronological age#
 
-. What evidence suggests that peer pressure can have negative and positive effects? What difference in attitude about peer pressure is reported to exist in China compared to the United States?
-** [hiddenAnswer]#Bar.#
+. (a) What evidence suggests that peer pressure can have negative and positive effects? (b) What difference in attitude about peer pressure is reported to exist in China compared to the United States?
+** [hiddenAnswer]#(a) Negative: Be more similar, even with risky/unhealthy behavior (drugs, sex), which is partly due to selection rather conformity (I choose similar friends). Positive: The opposite is also the case, getting similar and engaging more in healthy behavior. (b) Chinese parents regard peer pressure more positively. Their high value on academic achievement, doing homework together, encouraging each other (which is rare in the US).#
 
-. What are two theories about how adolescents’ segregation from adults might contribute to their recklessness and delinquency?
-** [hiddenAnswer]#Bar.#
+. What are two theories about how adolescents' segregation from adults might contribute to their recklessness and delinquency?
+** [hiddenAnswer]#It might be because of rather modern reasons, and nothing to do with natural selection: Early onset of pubert along with delayed acceptance into legitimate adult society. Sex, drugs, crime; are considered "adult activities", especially crime which brings money and material goods, thus adult-like status. +
+Another theory, compensating for a flaw in the previous one (e.g. adults don't ride a train on top of it), claims that adolescents want rather be set apart, being more concerned being accepted by peers, the next generation of adults. Our culture's segregation of adolescents from adults being a main driver, each with its own subcultural values. +
+Yet another theory explains it via a neurological basis: Competing brain systems, the cognitive-control network versus the socio-emotional network.#
 
 . How have Wilson and Daly explained the recklessness and delinquency of adolescent males in evolutionary terms?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#More risky behavior means higher status means more offspring Studies have shown that women indeed feel more sexually attracted to men who behave risky and in adventurous actions, even if they serve no social good. Thinking about the advantage of taking risks while hunting or in defense of the tribe. It also seems to be the case, that men are more willing to respond violently to an insult if there are more people present.#
 
-. How did Kohlberg assess moral reasoning? How can his stages be described as the successive broadening of one’s social perspective? How does research using Kohlberg’s system help explain adolescent idealism?
-** [hiddenAnswer]#Bar.#
+. (a) How did Kohlberg assess moral reasoning? (b) How can his stages be described as the successive broadening of one's social perspective? (c) How does research using Kohlberg's system help explain adolescent idealism?
+** [hiddenAnswer]#(a) By posing hypothetical dilemmas to people and ask how and why they should act. E.g. to steal or not to steal a certain drug to safe your partner. (b) It continuously broadens, starting with me, others directly, others indirectly, society, and finally humankind. It is in order, first the previous need to be arrived in order to succeed to the next. (c) Moral reasoning is different from moral action, they are independent. Being able to think abstractly about moral issues does help account for adolescent idealism. Adolescents on higher levels are more likely to help others.#
 
 . What correlations have been observed between sex education and rates of teenage pregnancy?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#The US has the lowest sex education, lowest use of birth control and highest teenage pregnancy rate of any industrialized nation. Germany, France, Netherlands have less than 1/4 of the US, yet sexual activity is the same.#
 
 . How can the sex difference in desire for uncommitted sex be explained in evolutionary terms?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Parental investment: A woman has to be pregnant and (usually) take care of the baby, whereas a man can happily walk away right after the sexual intercourse. She is at least "blocked" for 9 months, whereas he is ready within moments to reproduce again.#
 
-. How can sexual restraint and promiscuity, in both sexes, be explained as adaptations to different life conditions? What evidence suggests that the presence or absence of a father at home, during childhood, may tip the balance toward one strategy or the other?
-** [hiddenAnswer]#Bar.#
+. (a) How can sexual restraint and promiscuity, in both sexes, be explained as adaptations to different life conditions? (b) What evidence suggests that the presence or absence of a father at home, during childhood, may tip the balance toward one strategy or the other?
+** [hiddenAnswer]#(a) First of all: There is lots of variation. Also it often depends on the strategy of the other sex. Promiscuity is common where men devote little care, and sexual restraint is more common where men devote much care. (b) The presence of a father leads girls to assume men are trustworthy, and for boys that they are those trustworthy providers, resulting in sexual restraint. Without a father, they rather stay in superficial, sexual short-term relationships. Boys don't think it's their responsibility, going on "sexual conquests", which might not be conscious but expressed by behavior.#
 
-. How is romantic love like infant attachment? What evidence suggests continuity in attachment quality between infancy and adulthood?
-** [hiddenAnswer]#Bar.#
+. (a) How is romantic love like infant attachment? (b) What evidence suggests continuity in attachment quality between infancy and adulthood?
+** [hiddenAnswer]#(a) The close physical contact, caressing, eye gazing, even cooing and baby talk are all common to form both forms of relationships. A sense of fusion and a feeling of exclusivity. Feeling secure/confident when being together, and even physiological evidence of distress when separated. (b) Questionnaires showed when parent relationships were warm and secure, typically describe romantic relationships in similar terms; analogous to anxieties/ambiguities. People form mental models of close relationships based on early experiences (caregivers) and carry those into adult relationships. It could also be the other way round: adult experiences coloring childhood memories.#
 
-. What are some characteristics of happily married couples? Why might marital happiness depend even more on the husband’s capacity to adjust that on the wife’s?
-** [hiddenAnswer]#Bar.#
+. (a) What are some characteristics of happily married couples? (b) Why might marital happiness depend even more on the husband's capacity to adjust that on the wife's?
+** [hiddenAnswer]#(a) They like each other, think also of friends/confidants, using "we" more than "I", interdependence over independence. Individual commitment, willingness to go more than halfway to carry the marriage through difficult times. Argue same amount, but more constructively. Listen carefully, solving (rather winning) problems, respect each other's views, not bringing up past hurts/grievances (irrelevant to the issue), intersperse arguments with positive comments/humor (to reduce tension). Disagreement/stress tends to draw together. (b) Wives perceive/respond the husband's unspoken needs, but he doesn't to hers.#
 
-. What evidence suggests that the type of job one has can alter one’s way of thinking and style of parenting and can influence the development of one’s children?
-** [hiddenAnswer]#Bar.#
+. (a) What evidence suggests that the type of job one has can alter one's way of thinking and (b) style of parenting and (c) can influence the development of one's children?
+** [hiddenAnswer]#(a) A massive, long-term study showed that high self-directed jobs lead to more intellectually flexibility in all areas of life, with themselves and others. (b) They became more democratic (less authoritarian) towards children. Less concerned with obedience for its own sake, more concerned with children's decision making abilities. (c) Children themselves were more self-directed and less conforming.#
 
-. What difference has been found between husbands’ and wives’ enjoyment of out-of-home and at-home work? How did the researchers explain that difference?
-** [hiddenAnswer]#Bar.#
+. (a) What difference has been found between husbands' and wives' enjoyment of out-of-home and at-home work? (b) How did the researchers explain that difference?
+** [hiddenAnswer]#(a) Wives enjoy more out-of-home work, husbands enjoy more at-home work. (b) Because of perceptions of choices and obligations: Husbands didn't see at-home work as their responsibility, thus doing it to help out, freely. Same for wives, they believe that out-of-home work was optional. As the traditional stereotype goes: Men "slave" at work and come home to relax; women "slave" at home and go out to relax. Independent of the activity itself, but rather about the feeling of choice/obligation.#
 
-. How does the socioemotional selectivity theory account for elderly people’s generally high satisfaction with life?
-** [hiddenAnswer]#Bar.#
+. How does the socioemotional selectivity theory account for elderly people's generally high satisfaction with life?
+** [hiddenAnswer]#They show less anger, preserve relationships (deepen the important ones, get rid of broader social network), enjoy work more, less concerned with the "rat race" (impressing others), more focus on day-to-day work. Also in romantic relationships, they impress less, improve less, or dominate each other.#
 
 . How might selective attention and selective memory contribute to satisfaction in old age?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Positivity bias: Attend more to positive stimuli and also remember those better; regulating their emotions in a positive direction. Evaluating events more positively.#
 
 == Think Critically
 
-. What is attachment and why might it be so important for human development? Why might attachment early in life affect social relations in adulthood?
-** [hiddenAnswer]#Bar.#
+. (a) What is attachment and (b) why might it be so important for human development? (c) Why might attachment early in life affect social relations in adulthood?
+** [hiddenAnswer]#(a) The way we bond with others, primarily with our caretakers (mothers) and later on also with our romantic partners. (b) It defines the way we basically shape any form of human relationship. (c) Because we use it as a future mental concept, applying what we've learned as children later on also in adulthood.#
 
 . Do psychological differences in gender have a basis in biology or are they entirely socially constructed?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Both. There is a biological (evolutionary) difference, which is furthermore strengthened by the socio-cultural environment.#
 
 . Is adolescence a "true" developmental stage, characteristic of our species, or is it primarily a social construction, invented by cultures in which additional education is required before taking on adult roles?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#It could be argued, that all kind of stages are mere concepts developed by humans, as in: The separation is artificial, yet useful. Having that said, it is not a true developmental stage, as it lacks a clear cut line on a biological/physical level. Yet there can be clear markers defined which would define that stage.#

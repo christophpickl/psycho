@@ -9,7 +9,6 @@ _"Much like the laws of gravity, the laws of learning are always in effect."_
 Subpages::
 
 * link:focus_questions.html[Focus Questions]
-// TODO prepared, unprepared, contraprepared
 
 .Mindmap of chapter 8 (link:https://app.wisemapping.com/c/maps/1209469/edit[Source])
 [link=images/mindmap.png]
@@ -17,20 +16,16 @@ image::images/mindmap.png[Mind Map,100%,100]
 
 == Keywords
 
-- *Foo*: Bar
-- *Foo*: Bar
 - *Law of Effect*: More likely to happen if rewarded -obviously common sense.
 - *Operant Shaping*: Approximations towards a desired behavior (e.g. in animal training).
 
-
 == Keypeople
 
-* Bandura
-* Ivan Pavlov: "Father" of classical conditioning.
-* Thorndike: Started with operant conditioning.
-* * link:/people/skinner-burrhus_frederic.html[Skinner]: Continued Thorndike's work.
-
-// TODO people from contemporary experiments
+* link:../../people/bandura-albert.html[Albert Bandura]: Social learning
+* link:../../people/pavlov-ivan.html[Ivan Pavlov]: "Father" of classical conditioning.
+* link:../../people/thorndike_edward.html[Edward Thorndike]: Started with operant conditioning.
+* link:../../people/skinner-burrhus_frederic.html[B.F. Skinner]: Continued Thorndike's work.
+// people from contemporary experiments
 
 == Classical Conditioning
 
@@ -105,8 +100,7 @@ image::images/stimulus_pattern.jpg[Stimulus pattern,400,100]
 
 * Prepare for important event
 * Fear
-// TODO link to experiment
-** Little albert
+** link:../../phenomena/little_albert.html[Little albert]
 * Hunger
 ** Appetizer effect
 * Liking
@@ -275,6 +269,8 @@ image::https://img.youtube.com/vi/fanm--WyQJo/0.jpg[Puzzle box 3,300]
 *** Without reward
 *** Useful knowledge
 
+Evolution-based learning can be categorized into prepared (important for survival), unprepared (not important), contraprepared; by Martin Seligman.
+
 .Young predators play, practicing maneuvers which serve them as they grow older.
 image::images/play.jpg[Play,400,100]
 
@@ -283,8 +279,6 @@ image::images/latent_learning.jpg[Latent learning,400,100]
 
 .Different theorists have emphasized different ways in which humans/animals learn.
 image::images/learning_theories.jpg[Learning theories,400,100]
-
-// TODO page 662, skinner/pavlov/bandura
 
 //.XXX
 //image::images/XXX[XXX,400,100]

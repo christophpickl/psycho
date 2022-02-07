@@ -1,5 +1,13 @@
 = Chapter 11 - Body/Thought/Language Development
 
+_Why would someone, without the inborn tendency to find babys and children cute, deal with developmental psychology? True, for some this might be of no interest, still we can learn a lot about adults by looking on how children developer. As in: "Is a zebra a white horse with black stripes, or a black horse with white stripes?" This can be answered if we look at the animal while it was still young._
+
+// 1. pictures
+// 2. keywords (plus words given in book)
+// 3. keypeople (also contemporary), add content + back-reference here
+// 4. add more specific/relevant content
+// 5. feinschliff, check all for typos
+
 Subpages::
 
 * link:focus_questions.html[Focus Questions]
@@ -8,6 +16,185 @@ Subpages::
 [link=images/mindmap.png]
 image::images/mindmap.png[Mind Map,100%,100]
 
-Why would someone, without the inborn tendency to find babys and children cute, deal with developmental psychology? True, for some this might be of no interest, still we can learn a lot about adults by looking on how children developer. As in: "Is a zebra a white horse with black stripes, or a black horse with white stripes?" This can be answered if we look at the animal while it was still young.
+== Keywords
 
-// piaget; stage 2, egocentrism: "drawing mountain from other person's perspective" experiment
+TBD.
+
+== Keypeople
+
+TBD.
+
+== Content
+
+=== Physical Development
+
+* Prenatal
+** Experiences: Nutritients, stress, prepare for postnatal life
+** Phases: Zygotic - Embryonic - Fetal
+** Cephal-o-caudal development (head grows first)
+** Teratogens
+*** Most severe in embryonic phase (most organ systems formed)
+*** E.g. coffee, drugs
+* Puberty/adolscence
+** Male/female differences (changes, time)
+** Menarche changes:
+*** Since 1960s stable
+*** E.g. breast growth (cause: obesity)
+
+.The effects of teratogens on prenatal development. Organ systems and limbs are most sensitive during the first weeks, whereas the CNS stays longer sensitive.
+image::images/teratogenic_effects.png[teratogenic effects,400,100]
+
+.Growth curves for different bodyparts, expressed in terms of percentage of eventual adult growth.
+image::images/growth_curves.png[growth curves,400,100]
+
+.Girls begin growth in puberty slightly before boys, leaving both of them substantially different in appearance.
+image::images/puberty_growth.png[puberty growth,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Learn about Environment
+
+* Exploring
+** Sudy perception/memory thorugh: Look duration, sucking (prefer novel stimuli)
+** Obsesses with controlling environment
+** Mimic adults (6-12 months)
+*** Shared attention
+*** Identify danger/safe through adults emotional (facial) expression
+* Phsyical principles
+** Identify impossibilities (tablet through object; object falls down)
+** Object permanence
+** Search problem (self-produced locomotion)
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Theories
+
+* Piaget
+** "Little Scientist", act on environment
+** Schemes
+*** Assimilation: insert
+*** Accomodtion: update
+** Stages
+*** 1. Sensori-motor
+*** 2. Pre-operational
+**** Egocentrism: "drawing mountain from other person's perspective" experiment
+*** 3. Concrete-operational
+*** 4. Formal-operational
+* Vygotsky
+** "Apprentice", interact social-cultural environment
+* Information-Processing
+** implicit long-term memory
+** Explicit: Only through language (encode verbally, by 3 years)
+** Episodic memory
+** Executive functions improve until 15 years
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Mind Understanding
+
+* Mental constructs
+** "It moves, thus it has psyche"
+** Being able to explain people's behavior based on perception/emotion/desire
+** False-beliefs capable
+* Make-beliefe
+** Foundation for false-beliefs understanding
+** Reality vs pretense
+** Role-play
+* Autism
+** Impaired social skills; lack of motivation/skillset
+* Not playing (make-believe, false-belief)
+** Thinking literally, not hypothethically
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Language
+
+* Universals
+** Morphemes: Smallest unit; arbitrary/discrete
+** Hierarchical structure: sentences; phonemes (vowel/consonant)
+** Grammar:
+*** Rules on how to combine units for next level
+*** Knowledge is implicit
+* Development
+** Tendency for over-generalization; e.g. "goed"
+** Coo/babble to prepare vocal appartus
+** First words by 12 months (overextend words, e.g. "daddy" to all men)
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Language Acquisition
+
+* Innate mechanisms
+** by Chomsky
+** LAD (Language Acquisition Device)
+** Universal grammar
+** Creole/sign language
+* External support
+** LASS (language Acquisition Support System)
+*** Social Context
+*** Same rate everywhere: Although LASS variation
+** "Motherese": Infant-directed speech
+* Bilingual
+** Smaller vocabulary each
+** Greater executive functions
+** Simultan/sequential learning
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+== Additional Resources
+
+TBD.

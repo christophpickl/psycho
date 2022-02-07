@@ -1,5 +1,11 @@
 = Chapter 12 - Social Development
 
+// 1. pictures
+// 2. keywords (plus words given in book)
+// 3. keypeople (also contemporary), add content + back-reference here
+// 4. add more specific/relevant content
+// 5. feinschliff, check all for typos
+
 Subpages::
 
 * link:focus_questions.html[Focus Questions]
@@ -7,15 +13,72 @@ Subpages::
 .Mindmap of chapter 12 (link:https://app.wisemapping.com/c/maps/1248540/edit[Source])
 [link=images/mindmap.png]
 image::images/mindmap.png[Mind Map,100%,100]
+== Keywords
 
-== TODO
+- *Term*: xxx
+
+== Keypeople
+
+- link:/people/xxx-yyy.html[XXX YYY]: some description.
+
+== Content
+
+=== Infancy
+
+* Attachment
+** Cloth-wire mother experiment by Harlow
+** Attachment Theory  by Bowlby
+*** Strange-situation test
+*** Parent-training experiments
+*** Prdicts future psychological adjustment
+*** Some are "genetical robust"
+* Cross-Cultural
+** Hunter Gatherer: Constant contact and nursing at will
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Learn from others
+
+* Prosocial behavior
+** Predisposed to give (with 1 year)
+** Empathy (with 2 years)
+*** Give, help, share, comfort
+*** Understand and concerned about other's needs/feelings
+* Social learning
+** Imitate, sometimes overimitate (with 3 years)
+** Skills transmission among each other
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
 
 [#sec-baumrind_study]
-=== Baumrind's disciplinary study
+=== Parenting Styles
+
+Or: Baumrind's disciplinary study
 
 * Example of a link:/introduction/ch2-methods/index.html#sec-design[correlational study].
 * Diana Baumrind (1971) studied the relationship between parents' disciplinary styles, and children's behavioral development.
-** Three styles: authoritarian, authoritative, permissive.
+** Three styles:
+*** Authoritarian: Obey for the sake of it
+*** Authoritative: Understand the rules
+**** Best in: Happiness, friendliness, cooperation
+*** Permissive: Do whatever
 ** Children ratings: cooperation, friendliness, etc.
 * Finding: Authoritative parents scored better than others.
 ** BUT: Only correlation proven, not cause-effect!
@@ -23,3 +86,109 @@ image::images/mindmap.png[Mind Map,100%,100]
 *** Maybe the children's behavior influenced the parent's style?
 *** Maybe the causal relationship goes in both direction?
 *** Maybe there is another, third variable at play, e.g.: Genes, income, health, neighbourhood.
+
+=== Play
+
+* Outcome opinions:
+** Piaget: Learn rules; better moral reasoners
+** Vygotsky: Self-control
+* Promotes skills: For survival, culture-specific ones (by observing adults)
+* Age-mixed: Less competitive, better teach/learn
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Gender
+
+* Many small differences
+* Are treated differently, due to social beliefs (even widening differences)
+* Gender idenity (with 4 years)
+** Mimic gender behavior, even exaggerate stereotypes
+** More same-sex play
+* Subcultures of boys/girls
+** Boys: Competitive, large, hierarchical
+** Girls: Cooperative, small, intimate
+** Muted by age-mix
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Adolescence
+
+* Shifting from parents to peers
+** Peer pressure (positive & negative)
+** Independence conflict of parental control
+** Also for emotional support
+* Recklessness
+** Males do it for: Status, competition, female attraction
+** Segregation of subculture; split from adult values
+* Moral Self
+** Kohlberg's theory of stages (no one reaches top one, haha)
+* Sex
+** First attraction with 10 years
+** Parental investment explains male/female differences
+** If father present determines sexual strategy
+*** Yes = Restraint; No = Promiscuit
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Adulthood
+
+* Love
+** Infant attachment: Secure, anxious, avoidant
+** Good marriages are about: Liking, respect, commitment, constructive arguing
+** Female respond better to needs, so it's up to males to improve
+* Work
+** Better self-direct (as business owner) affects whole life, including parenting (pass to children)
+** Non-stereotypical tasks for men/women
+*** Male at home likes it, female out-of-home likes it
+*** Reason: When choosen, more enjoyable than when forced due to stereotype
+* Age
+** More life satisfication, even despite loss
+** Remember the positive better and focus more on present
+** Death response is a more individual thing
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+== Additional Resources
+
+* xxx
+

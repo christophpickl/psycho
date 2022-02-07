@@ -1,5 +1,10 @@
 = Chapter 10 - Reasoning, Intelligence
 
+// 2. keywords (plus words given in book)
+// 3. keypeople (also contemporary), add content + back-reference here
+// 4. add more specific/relevant content
+// 5. feinschliff, check all for typos
+
 Subpages::
 
 * link:focus_questions.html[Focus Questions]
@@ -8,12 +13,180 @@ Subpages::
 [link=images/mindmap.png]
 image::images/mindmap.png[Mind Map,100%,100]
 
+== Keywords
+
+* *Functional fixedness*: Use a tool only with its intended purpose (not out-of-box thinking).
+
+== Keypeople
+
+TBD.
+
+== Content
+
+
 // availability bias => link to phenomena
 // confirmation bias => link to phenomena
 // predictable-world bias
 // broaden-and-build theory (positive emotions)
 
+=== Reasoning
 
-[#img-science_hub]
-.The IQ score is distributed around 100, 95% of the people are withn 100+/-30.
-image::images/iq_distribution.png[IQ,500,100]
+==== Analogies
+
+"Similarities in things of different entities."
+
+* Neurologically:
+** Involves PPC
+** Can be practiced - alters brain structure
+* Used to form hypothesis - sense making of observations
+* Used for: Legal, politics, persuasion
+
+.Analogies are often mothers of invention, so did the Wright brothers using analogies from birds (light) and bicycles (maneuverable), compared to competitors who failed using heavy planes with powerful engines, resembling more automobiles.
+image::images/analogies_for_inventions.png[analogies for inventions,400,100]
+
+.Raven's Progressive Matrices: Infer the rule by the first two rows and complete the third row.
+image::images/ravens_progressive_matrices.png[raven's progressive matrices,400,100]
+
+==== Induction
+
+* Scientific Reasoning
+** "Hypothesis construction"
+** From specific to general / from small to big
+** Facts => Inference
+* Biases:
+** link:../../phenomena/availability_bias.html[Availability Bias]
+** link:../../phenomena/confirmation_bias.html[Confirmation Bias]
+** link:../../phenomena/predictable_world_bias.html[Predictable-world bias]
+
+.Doctors use inductive reasoning to diagnose medical problems by a patient's symptoms. False diagnoses are possible due to the availability and confirmation bias.
+image::images/doctors_inductive_reasoning.png[Doctors inductive reasoning,400,100]
+
+.The predictable-world bias leads gamblers to believe they have some control. Their lucky numbers might come up more often.
+image::images/lucky_predictable_world.png[lucky predictable world,400,100]
+
+==== Deduction
+
+* From general to specific / from big to small
+* Derivation conclusion = Premises
+* Syllogism: A-B, B-C = A-C
+* Used in formal logic? Content knowlegde bias
+* Non-Example 1 (real-world knowledge overwhelming deductive-reasoning ability):
+** All living things need water.
+** Roses need water.
+** Therefore, roses are living things.
+* Non-Example 2 (Non-Example 1 made a bit clearer:
+** All insects need oxygen.
+** Mice need oxygen.
+** Therefore, mice are insects.
+
+.An example of a wrong deduction.
+image::images/wrong_deduction.png[wrong deduction,400,100]
+
+==== Insight
+
+* Functional fixedness
+** Curse (blindness) and blessing (efficiency)
+** E.g. the candle problem: sudden solution seeing new things
+* Mental set abandonment
+** Habitual thinking
+* Promotion
+** Incubation period
+** Playful mindframe
+
+.The candle problem: Use only those objects to attach the candle to the bulletin board, so it can be lit and burn properly.
+image::images/candle_problem.png[candle problem,400,100]
+
+.Knowing the LED can be turned on with the spoon, using the novel tool they failed to turn it on due to the functional fixedness.
+image::images/functional_fixedness.png[functional fixedness,400,100]
+
+=== Cultural Differences
+
+In logic, between West and East ...
+
+* Grouping objects experiment
+** Doing it the "stupid" (abstract) way
+** Taxonomy (west) rather everyday practical (east)
+* Experiments:
+** 1/3rd line versus absolute size
+** Aquarium details versus whole picture
+* Children from West+East behave like from East, thus: Upbringing the cause
+* West: Separation
+* East: Whole, entire context
+
+.Scene viewed by Japanese and American subjects, to study perception/memory. US remember the (prominent, foreground) fish, Japanese the whole scene.
+image::images/japan_versus_us_.png[japan versus us,400,100]
+
+.The frame-line test shows that children at the age of 6, from the US are better at the absolute task, and Japanese better at the relative task. However before that age both are better at the relative task.
+image::images/frameline_test.png[frame-line test,400,100]
+
+=== Testing
+
+* Validity
+** IQ correlates with it...
+*** Moderately for school/job
+*** Significantly for mental quickness/executive functions
+** Most modern tests based on Binet's tests
+* Wechsler Test
+** Different types: WAIS, WISC, WPPSI
+** Has many subtests
+*** e.g. WAIS-IV: Verbal comprehension, perceptual processing, working memory, processing speed
+* General intelligence "g"
+** by Spearman
+** Factor analysis: Mathematical procedure
+** Cattell divded into: Fluid (younger) and crystalized (older)
+** Mental self-government
+* Raven's test: Progressive matrix
+
+.Standardizing scoring of Wechsel IQ tests are distributed around 100, assuming intelligence is distributed in the population according a normal distribution. 95% of the people are within 100+/-30.
+image::images/iq_distribution.png[IQ,300,100]
+
+.With age we score lower. Each test is normalized, with 0 being the average of all subjects. A score of +1 means being in the top 16% of the tested subjects.
+image::images/aging.png[aging,400,100]
+
+.The essence of intelligence is the capacity to solve novel problems posed by the environment. Something humans share with other primates. Here an orangutan being researched for his cognition using computer-generated symbols.
+image::images/evolutionary_intelligence.png[evolutionary intelligence,400,100]
+
+=== Contributions
+
+* Genes or environment?
+* Within != Between
+** With culture:
+*** Heritability, twin studies (genes = 50% IQ difference)
+** Impact family environment disappears when adults
+* Involuntary minorities
+** Reduces the IQ
+** E.g. Japan's Buraku ("smarter" when in the US)
+* Flynn effect
+** People get smarter and smarter
+** Effected by: Technology, culture
+
+.A geometric analogy to heritability: It is nonsense to say that a rectangle's area depends more on its width or length. But it does make sense that differences in area among rectangles can be due to differences in length (group A) or in width (group B). As well with people's IQ variation, either from genes or environments.
+image::images/heritability_analogy.png[heritability analogy,400,100]
+
+.Correlations increase with increasing genetic similarity.
+image::images/intelligence_heredity.png[intelligence heredity,400,100]
+
+.Effects on IQ of genetic versus shared-environment, compared by the family provided education. Heritability is super imported for high-education group, and super low for low-education group.
+image::images/high_low_education.png[high or low education,400,100]
+
+.Mental development is considerably influenced by parents/home when still young, later own dispositions have a greater role determining what to learn/mind develop. This is also in alignment with heritability coefficients for IQ are higher for adults than for children.
+image::images/independent_when_adult.png[independent when adult,400,100]
+
+.Use it and keep it: The oldest air-traffic controller. By keeping himself intellectually active the retained his full intelligence longer.
+image::images/old_smart.png[old smart,400,100]
+
+.High within-group heritability tells nothing about group differences, because the differences are more resulting from the environment (thick/thin soil).
+image::images/withingroup_heritability.png[within group heritability,400,100]
+
+.IQ tests are culturally biased. One has always to consider the context.
+image::images/cultural_intelligence.png[cultural intelligence,400,100]
+
+.The buraku of Japan, once an unclean, unworthy group, scoring low on IQ scores. Once they emigrated to the US, where they were not known for their caste status, the IQ difference vanished.
+image::images/buraku.png[buraku,400,100]
+
+.Flynn effect: Gains in IQ scores if the tests wouldn't have been adjusted. The increase is due to modern life changes; education, technology use, more intellectually demanding work. Even television got more demanding, think of all the characters to remember in Games of Thrones.
+image::images/flynn_effect.png[flynn effect,400,100]
+
+== Additional Resources
+
+TBD.

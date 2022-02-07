@@ -1,6 +1,11 @@
 = Chapter 9 - Memory, Attention, Consciousness
 
-// TODO refer to phenomena/HM case
+// 1. pictures
+// 2. keywords (plus words given in book)
+// 3. keypeople (also contemporary), add content + back-reference here
+// 4. add more specific/relevant content
+// 5. feinschliff, check all for typos
+
 
 Subpages::
 
@@ -12,17 +17,167 @@ image::images/mindmap.png[Mind Map,100%,100]
 
 == Keywords
 
-- *Anterograde amnesia*:
-- *Consolidation*:
+- *Anterograde amnesia*: Cannot form new long-term memories after the brain injury.
+- *Consolidation*: New memory becomes solidified, won't be forgotten.
 - *Prospective memory*: A.k.a. "mental time travel"
-- *Retrograde amnesia*:
-- *Self-generated retrieval cues*:
+- *Retrograde amnesia*: Losing long-term memories before the brain injury.
+- *Self-generated retrieval cues*: Associations/terms we came up with to help us remember.
 
 == Keypeople
 
 == Content
 
-* Case of link:/phenomena/HM.html[H.M.] who couldn't form new memory.
+* Case of link:../../phenomena/HM.html[H.M.] who couldn't form new memory.
+
+=== Information-Processing Model
+
+* Sensory Memory
+* Short-Term Store
+** Conscious mental work
+* Long-Term Memory
+** Knowledge
+** Dormant
+* Control Process
+** Attention
+** Encoding
+** Retrieval
+* Dual-Processing Theory
+** By link:../../people/kahnemann_daniel.html[Daniel Kahnemann]
+** Fast Thinking: Unconscious, intuitive, effortless
+** Slow Thinking: Conscious, deliberate, effortfull
+
+.A framework on how to think about the human mind.
+image::images/rehearsal.png[rehearsal,400,100]
+
+=== Attention
+
+* Focus
+* Shifting
+** Shift only if significant
+** Cocktail Party phenomena
+* Pre-Attentive Processing
+** Unattended sensory
+** Priming: Long-term memory activation
+** Stroop Effect
+* Spatial Neglect
+
+.The stroop interference effect: Time how long it takes to name the colors of the box / the letters for each column. (b) will be the quickest, (c) the slowest as the names interfere with the same domain of colors, and (d) will also be somewhat slower.
+image::images/stroop_effect.png[stroop effect,400,100]
+
+.Attention model: Sensory input enters the sensory memory store, where it will be processed preattentively. Some will pass through the gate, into conscious, working memory. (Although arrows go left right, it is usually referred to as top-down control of selection criteria.)
+image::images/attention.png[attention,400,100]
+
+.Iconic Memory: Shown such slides for 1/20th second, then pointing to a row, people will still be able to read that row because of the iconic memory.
+image::images/iconic_memory.png[iconic memory,400,100]
+
+.Split Attention: Video games help to increase ability to attend many stimuli at once.
+image::images/split_attention.png[split attention,400,100]
+
+.Priming: Looking at the left tree quickly, and then being asked to draw a scene, it will be more likely to draw a scene with a rabbit, even when not consciously have seen the rabbit in the tree, compared to looking at the right tree.
+image::images/priming_tree_rabbit.png[priming,400,100]
+
+.Spatial Neglect: A person with brain lesion in the right hemisphere is not able to see things on the left visual field (and vice versa).
+image::images/spatial_neglect.png[spatial neglect,400,100]
+
+=== Working Memory
+
+"_To find out if you're someone who could benefit from our Memory Improvement Seminar, please press 1591463348157731854158._"
+
+* Verbal
+** Phonological Loop, like spinning plates
+* Working Memory Span
+** Reasons for car accident: Texting vs passenger conversation
+
+.Phonological Loop Analogy: Holding information in the loop is like spinning plates on sticks. Renew each plate, spin it before it falls (gets forgotten).
+image::images/phonological_loop_analogy.png[phonological loop analogy,400,100]
+
+.It doesn't matter whether to have a phone call with phone or hands free, the driving errors are the same.
+image::images/driving_distraction.png[driving distraction,400,100]
+
+.Studying little (Low, < 120 minutes) or much (High, > 120 minutes) is not of such a big relevance, because once there is multitasking, exam performance will be nevertheless low.
+image::images/multi_tasking_impact.png[multi tasking impact,400,100]
+
+=== Executive Functions
+
+* Working memory processes: Update, switch, inhibit
+* Self-regulation: Thoughts, behavior, emotions
+* See: Wisconsin Cards
+* See case of link:../../phenomena/phineas_gage.html[Phineas-Gage], when damage is done to the PFC
+** Fail to plan, decide, regulate emotions, inhibit thoughts/behavior
+
+.Wisconsin Card Sorting Test: Sort by a dimension (e.g. color), then -without notice- being reinforced to sort by another dimension (e.g. shape). Number of errors after "switch" trials indicates executive function of switching.
+image::images/wisconsin.png[wisconsin,400,100]
+
+=== Knowledge
+
+* Memory
+** Explicit:
+*** Episodic
+*** Semantic
+** Implicit:
+*** Classical conditioning
+*** Procedural: motor skills (bicycle riding)
+*** Priming
+* Neuropsychological
+** Temporal-lob amnesia as in the link:../../phenomena/HM.html[H.M. Case]
+
+.Long-term memory types: Explicit versus implicit, each with different rules and neural brain systems.
+image::images/long_term_types.png[long-term memory types,400,100]
+
+.A network model of how concepts are linked/associated in our semantic memroy.
+image::images/memory_network_organization.png[memory network organization,400,100]
+
+===  Remembering
+
+* "Memory is the process of remembering"
+* Encoding strategies
+** Elaboration:
+*** Extend understanding
+*** Connect to yet existing (personal story)
+*** Elaborative rehearsal (actors remember text by repetition)
+** Organizations: Chunking, hierarchical
+** Rehearsal
+** Visualization
+* Consolidation
+** From labile to stable
+** Anterorgrade/Retrograde amnesia
+** Sleep right after learning helps
+
+.Meaningful Elaboration: Subjects where shown words, and either asked about how it was printed (font), how it sounded or what it meant. Meaning helps to remember better.
+image::images/meaningful_elaboration.png[meaningful elaboration,400,100]
+
+.Elaborative Rehearsal: Not only repeat over and over, but engage in it, helps actors to remember long passages. Yet, how exactly they do it is still unclear.
+image::images/elaborative_rehearsal.png[elaborative rehearsal,400,100]
+
+.A hierarchical summary helping to remember as it reveals the logical connections among the items of information.
+image::images/hierarchical_organisation.png[hierarchical organisation,400,100]
+
+.Only read/study a text (SSSS), or study three times and recall once (SSSR), or study once and recall three times (SRRR). Left diagram shows actual recall during exam, and right the prediction. Subjects prediction was opposite to their actual performance.
+image::images/study_or_recall.png[study or recall,400,100]
+
+.Following the script: Years later, these children may reocnstruct memories from their knowledge largely based on typical birthday-party scripts.
+image::images/script_party.png[script party,400,100]
+
+.False memories of childhood abuse can be developed in therapy by well-intentioned therapists.
+image::images/false_memories_therapy.png[false memories therapy,400,100]
+
+=== Retrieval
+
+* Associations
+** Principle of Contiguity
+** Principle of Similarity (basical a derivative of Principle of Contiguity)
+** Elaborative rehearsal
+** Retrieval cues: Environment context, time of encoding (same room exam where studied)
+* Memory construction/distortion
+** Actively reconstruct
+** Schemas and scripts
+** Distortion methods:
+*** Leading questions (e.g. "car hits?" versus "car touches?")
+*** Suggestions (hypnosis)
+*** Imagination
+*** Source confusion
+*** Social pressure
 
 == Additional Resources
 
+TBD.

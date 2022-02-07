@@ -1,5 +1,11 @@
 = Chapter 14 - Personality
 
+// 1. pictures
+// 2. keywords (plus words given in book)
+// 3. keypeople (also contemporary), add content + back-reference here
+// 4. add more specific/relevant content
+// 5. feinschliff, check all for typos
+
 Subpages::
 
 * link:focus_questions.html[Focus Questions]
@@ -8,6 +14,167 @@ Subpages::
 [link=images/mindmap.png]
 image::images/mindmap.png[Mind Map,100%,100]
 
+== Keywords
+
+- *Locus of Control*: How much things depend on my own effort.
+- *Self-efficacy*: Belief in success.
+
+== Keypeople
+
+- link:/people/xxx-yyy.html[XXX YYY]: some description.
+
+== Content
+
+=== Traits
+
+* Theories
+** Factor analysis
+*** Math procedure by Raymond Cattel
+*** Identify 16 basic (continuous) traits
+** Big Five
+*** Remembered by "OCEAN":
+**** Openness to experience: Conventional - Imaginative
+***** How creative, imaginative, down to earth, pragmatic someone is.
+**** Conscientiousness: Spontaneous - Organized
+***** Preference for organized approach to life or a spontaneous one.
+**** Extraversion: Solitary - Outgoing
+***** Tendency to seek stimulation in the external world, company of others and to express positive emotions.
+**** Agreeableness: Sceptical - Trusting
+***** Focus on maintaining positive social relations, being friendly, compassionate and cooperative.
+**** Neuroticism: Emotionally stable - Prone to stress
+***** Experience mood swings and emotions such as guilt, anger, anxiety and depression.
+*** Each 6 facets
+** Grit: Preseverance for long-term practice ("Gongfu")
+** Dark Triad: Some benefits
+** Questionnaires: Accuracy doubted, as it requires honesty and insight
+* Prediction; validity?
+** Big Five is better than chance
+** Age-stability? When older: More conscientous, more agreeable, less neurotic, less open
+** Also changes due to life events
+* Genetics
+** 0.5 heritability
+** Environment makes no big difference
+** Gene alleles: Moderate success so far
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Adaption
+
+* Advantages
+** Analgoy of financial investment: Protection, diversification
+** Alternative strategies help survival/reproduction
+* Family
+** "Split-parent identification" helps less sibling rivalry and diverse parental investment
+** Siblings:
+*** "Sibling contract" exaggerates differences
+** Experience same environment differently: Chance of events, choices and interpretation
+* Gender
+** Differences more in West, due to evolution/culture
+** Stereotypes:
+*** Cultural pressure
+*** When against them creates unhappiness; e.g. a shy man
+** Women: more conscientous, more neurotic, more agreeable
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Psychodynamic
+
+* Freud started it with his psychoanalysis
+* Other: Adler, Erikson
+** More emphasize on competence / shaping of society
+* Cause of behavior
+** Unconscious mind
+** Sexual/aggressive motives/drives
+* Defensive styles
+** Study of Vaillant: Less distortion means greater life success
+** Repressors: Ones with less conscious anxiety, but body reacts stronger
+* Defense mechanisms
+** Reduce discomfort by unnacceptable thoughts/wishes/feelings
+** Types:
+*** Repression: Anxiety-producing thoughts are pushed out of the conscious mind.
+*** Displacement: Unacceptable wish/drive redirected toward something more acceptable.
+*** Sublimation: Variation of displacement where the alternative is something of value.
+**** E.g. the wish to punish leads to become a laywer.
+*** Reaction formation: Converting a frightening wish into its (safer) opposite.
+*** Projection: A wish/drive is experienced as someone else's.
+*** Rationalization: Use reasoning to explain away anxiety-provoking thoughts/feelings.
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Humanistic
+
+* Phenomenological reality
+** How the self/world is perceived
+* Maslow's hierarchy of needs
+** Bottom-up with self-actualization at the top
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Social-Cognitive
+
+* Beliefs:
+** Locus of Control: Internal versus external; reward for effort.
+** Self-efficacy: Low versus high; belief in success
+** Fixed versus malleable personality
+** More success when: Internal locus, high self-efficacy and malleable
+** Optimism: Cope better, whereas defensive optimism is harmful (besides adaptive pessimism)
+** Chilren tend to be over-optimistic (more self-efficacy) which might improve performance
+* DIAMONDS: 8 situation types, relates to personality
+* Cultural
+** When social environment differs, then beliefs/thinking differs
+** Values: West = Individualist/Independence, East = Collectivist/Inter-dependence
+** Non-Wester not match the big five, need their own tests
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+== Additional Resources
 
 .YouTube Video: "Who are you, really? The puzzle of personality - Brian Little", 15mins
 [link=https://www.youtube.com/watch?v=qYvXk_bqlBk]

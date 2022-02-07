@@ -155,16 +155,14 @@
 
 == Think Critically
 
-// TODO finish think cirtically CH11
-
 . (a) How can we know what an infant is thinking about? (b) Why or why not might it be worthwile to study perception and cognition in preverbal infants?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#(a) By keeping track of the duration of looking at something. In case it's a novel stimuli, the infant will look longer. As well via the sucking of a pacifier. Or simply when it is paying attention. Putting an infant into a fMRT is less practical. (b) Worthwile in order to see how much of our cognition is tied to language. In case preverbal infants are capable of certain things, this might be evidence that it is independent from language, thus maybe even existing in non-human animals. Not worthwile, as it is very difficult to conclude anything based on pure observations.#
 
 . (a) How are the child's capacities and limitations at each of Piaget's stages of development related to the kind of scheme that is most prominent? (b) How does the child's behavior at each stage promote advancement to the next stage?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Sensorimotor - Preoperation - Concrete - Formal. (a) At each stage, other aspects of development seem to be more relative, and also schemas for exactly those aspects are developed. For example, at the early beginning of life, exploration of the near surroundings, including people's faces and the mother's breast are of most relevance, thus schemes to interact with those immediate present phsyical objects seem also most relevant. (b) There seems a natural order, from the immediate, present, physical objects, to reversible actions on them, to thinking more abstract of things and actions that actually do not exist.#
 
-. Some theorists propose that children play an active role in their own mental development, whereas others emphasize the role of a child's sociocultural environment in influencing cognitive development Are these approaches complementary or antagonistic to one another?
-** [hiddenAnswer]#Bar.#
+. Some theorists propose that children play an active role in their own mental development, whereas others emphasize the role of a child's sociocultural environment in influencing cognitive development. Are these approaches complementary or antagonistic to one another?
+** [hiddenAnswer]#Piaget uses the term "little scientist", children exploring the world around them by themselves. Whereas Vygotsky uses the term "apprentice", indicating it is dependent on its sociocultural environment, other, more competent adults around it to grow gradually and with support ("Zone of Proximal Development"). I personally believe that those approaches are complementary, as they both sound not completely non-sensical, but have some truth in them. It doesn't sound reasonable to me, that a child's development goes to one or the other (extreme) developmental path. Children need to interact themselves, research, experiment, and they do so by (some) support of the people around it. Whereas, writing this, it seems that the latter is a bit more of an optional addition.#
 
 . To what extent is language development supported by inborn mechanisms and/or the social context?
-** [hiddenAnswer]#Bar.#
+** [hiddenAnswer]#Chomsky's LAD (Language Acquisition Device) claims an inborn mechanism, whereas the LASS (Language Acquisition Support System) relies more on social context..#

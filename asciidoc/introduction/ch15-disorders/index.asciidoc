@@ -1,5 +1,11 @@
 = Chapter 15 - Disorders
 
+// 1. pictures
+// 2. keywords (plus words given in book)
+// 3. keypeople (also contemporary), add content + back-reference here
+// 4. add more specific/relevant content
+// 5. feinschliff, check all for typos
+
 Subpages::
 
 * link:focus_questions.html[Focus Questions]
@@ -7,3 +13,138 @@ Subpages::
 .Mindmap of chapter 15 (link:https://app.wisemapping.com/c/maps/1248543/edit[Source])
 [link=images/mindmap.png]
 image::images/mindmap.png[Mind Map,100%,100]
+
+== Keywords
+
+- *Term*: xxx
+
+== Keypeople
+
+- link:/people/xxx-yyy.html[XXX YYY]: some description.
+
+== Content
+
+=== Basics & Identification
+
+* Labeling = Diagnosis
+** Essential for research and clinical use
+** Labels refer to disorders, not to people (esteem effect)
+* Syndrome = Interrelated Symptoms
+* DSM-5
+** Provides criteria for disorders: involuntary, internal, significant
+** Reliability is OK, but validity is more complex to achieve
+* Challenges
+** Fuzzy concepts
+** Watch out for "Medical student's disease"
+* Cultural
+** Culuture-bound syndroms
+** West for example Anorexia/Bulimia Nervosa
+** Justification
+** E.g. homosexuality was 50 years ago still a disease in US/WHO
+** Wide-spreadh like ADHD, because of emphasize on school performance and less play
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Causes
+
+* Possible from: Heredity, environment, learning
+* Chronic / Episodic
+** Chronic like: Down syndrome (Extra chromosome 21) or Alzheimer (plaques in brain); irreversible brain deficits
+** All others mentioned here are episodic
+* 3Ps
+** Predisposing: Genetic, early environment, beliefs
+** Precipitating (=sudden cause): stressful experience, loss
+** Perpetuating (=sustain; penetrate time): self-care, asocial, other's reactions
+* Sex: Prevelance differences
+** Report versus suppress
+** Clinician's expectations
+** Social roles
+** Stress response style
+
+=== Anxiety
+
+* Generalized Anxiety Disorder
+** Increase since 1950s
+** Hypervigilance: Automatic threat attention
+** Worries: Enabled events, genes/trauma, imagined/real
+* Phobias
+** versus Fears = degree
+** Aware of irrationality
+** Target: Nonsocial objects, situations
+** Natural selection
+* Panic
+** Panic attack: Helpless terror due to non-related event
+** Arousal = Catastrophic (from exericse or coffein)
+
+=== OCD
+
+* Obsession = Repeated, disturbing thought
+* Compulsion = Repetitive action as response to obsession
+* Need for extreme safety
+* Brain part where thought to action is done
+* Impairment of executive function
+
+=== PTSD
+
+* Risk factors: Genetic, repeated exposure, inadequate social support
+* Symptom: Substance abus, domestic violence, depression/anxiety, cognition deficits
+* Antidot: Emotional self-regulation
+
+=== Mood
+
+* Depression
+** Symptoms: Sadness, self-blame, worthlessness, pleasure absence
+** Rumination: Focus on distress symptoms, worsen, negative thinking, interfere with problem solving
+** Similar to anxiety: Same gene, often both in same person
+** Hopelessness Theory: Stable & global cause
+** Genetic predisposed and stressful event
+** Reversible brain changes + distress
+** When moderate it's adaptive: Repeat failure, loss loved, winter
+* Bipolar
+** Highly heritable
+** "Maniac-Depressive" formerly called
+** Manaic episodes: Euphory, high energy, talkative, self-confidence
+** Full-blown mania: Poor judgement, bizarre thoughts, self-harm, risky behavior
+** Hypomania leads to increased creativity (artists)
+
+=== Schizophrenia
+
+* Diagnostic, symptoms
+** Classifications in 3:
+*** Positive: Delusions (false beliefs), auditory hallucinations (own thoughts)
+*** Disorganized: Illogical thought/speech, inappropriate behavior
+*** Negative: Slow move, speech poverty, flat affect, loss drives/pleasure
+** Can come in combination and can change
+* Underlying
+** Structural: enlarged cerebral ventricles; reduced neural mass due to pruning
+** Brain chemistry: glutamate (decline effect), dopamine (unusual patterns)
+** Cognitive: Long-term/working memory, attention
+* Causes: Substantial heritability (concordance measure), brain injury (prenatal virus, malnutration, stress experience in family environment)
+* Recovery: better in developing countries (social support, less drugs)
+
+=== Personality
+
+* Impaired yet stable behavior patterns of: Self, goal, empathy, intimacy
+* Origins are unknown, yet to be researched (gene-environment?)
+* Three clusters of: Odd, dramatic, anxious
+
+[width="100%"]
+[cols="3,5,5"]
+|=======
+|Cluster |Symptoms |Examples
+
+|Odd      | delusions, erratic behavior | paranoid, schizoid, schizotypal
+|Dramatic | emotional, dramatic, erratic behavior | antisocial, borderline, histronic, narcisstic
+|Anxious  | fear | OCD, dependent, avoident
+|=======
+
+== Additional Resources
+
+TBD.

@@ -1,5 +1,11 @@
 = Chapter 13 - Social Psychology
 
+// 1. pictures
+// 2. keywords (plus words given in book)
+// 3. keypeople (also contemporary), add content + back-reference here
+// 4. add more specific/relevant content
+// 5. feinschliff, check all for typos
+
 Subpages::
 
 * link:focus_questions.html[Focus Questions]
@@ -14,6 +20,184 @@ image::images/mindmap.png[Mind Map,100%,100]
 
 * link:../../people/milgram-stanley.html[Milgram, Stanley]
 
+== Content
+
+=== Impressing
+
+* Impressions on the Internet
+** When first date is online => 2nd date is better
+*** Why: Less anxious, more intimate, no appearance bias
+** Adolescents tend to do identity experiments
+* Attributions
+** On behavior
+** Person's character versus the situation
+** Person bias: Too much emphasize on character than situation
+* Appearance
+** More attractive thus: Smarter, socialer, competenter, moraler
+** Baby-face (DiCaprio): Honester, naiver, helpesser, warmer, incompetenter
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Self
+
+* Through other's eye
+** Pygmalion effect (a.k.a. "Self fulfilling prophecy"): Expectations create
+** Sociometer theory: Self-esteem based on accepted by others
+* Self-perception construction
+** Social comparison by reference group ("Big fish in small pond" effect)
+** Improve self-view
+*** Self-serving attirbutions: Success = Me, Failure = Situation
+*** Remember success more
+*** Define own criteria for success
+*** Happens mostly in the West
+* Attitudes
+** Equals: Beliefe/Opinion + Evaluation
+** Types:
+*** Explicit: Verbally stated
+*** Implicit: Through experience/association; automatic influence
+* Cognitive Dissonance
+** Reduce discomfort: Set aside doubts; avoid dissonant information
+** Insufficient justification effect: Only when freely done and little incentive
+*** E.g. give someone money to do a shitty job
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Groups
+
+* In-Group versus Out-Group
+* Stereotypes
+** Equals: "Group schemas"
+* Explicit versus Implicit
+** Implicit association test
+** Negative implicit stereotypes / Prejudice
+*** Primitive emotions
+*** Classical conditioning, thus positive associations
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Observation and Evaluation
+
+* Choking: Less performance due to audience
+* Impression Management
+** Influence other's perception, thus change own behavior
+** Doing this (un)consciously
+** Be like actors (playing roles) or politicians (promote agenda)
+* Stereotype threat
+** Remind about it before a task
+** For stigmatized groups
+*** Blacks on IQ tests
+*** Women on math test
+*** Men on art tests
+* Thoughts distract due to limited working memory capacity
+* Creating pressure
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Conformity
+
+Effects of other's examples, opinions and requests.
+
+* Obedience as shown by Milgram's experiment
+** Studied harm to others; experiment was considered rather unethical
+** A bit of generalization (real crime, nazis)
+** Factors: Role model, incremental, proximity, responsibility, norm of obedience
+* Sales techniques: Low-ball, foot-in-the-door (to reduce cognitive dissonance)
+* Group pressure via:
+** Group-think: More cohesion, less truth
+** Group polarization: More extreme as initially
+* Experiment by Asch
+** Group of judges (one real subject), guessing line size
+** Agree to group although contradicting evidence
+* Norms
+** Desirable as normative, e.g. for public messages important (phrase it positively)
+** Bystander effect
+*** The more people, the less likely help; solution: Point to a specific person
+*** Infomrational/Normative influences (e.g. which bridge to take)
+** Emotional contagion
+*** To unite and bond
+*** Leaders are good at expressions
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+=== Social Dilemma
+
+* Tragedy of the Commons
+** The "cown on pasture" example
+** Little difference for individual, collective effect
+** Personal benefit at expense for others
+** Harm for all, if all are selfish
+* Accountability
+** Increase cooperation; reputation
+** Punish cheaters even at own (altruistic) expense
+* Robbers Cave
+** Solidarity within, yet negative stereotyping others
+** Hostile interactions, reduced by superordinale goals, as cooperation is required
+* Shared social identity
+** Cooperation
+** More within, less other group
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
+.xxx
+image::images/xxx[xxx,400,100]
+
 == Additional Resources
 
-* ...
+* https://implicit.harvard.edu/implicit/ ... implicit association tests
