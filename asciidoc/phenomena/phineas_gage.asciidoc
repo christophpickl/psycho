@@ -1,4 +1,9 @@
 = Phineas Gage
 
+His intelligence stayed unchanged, yet his personality and ability to plan and make decisions was radically affected.
+
 .The man and his metal rod.
 image::phineas_gage.jpg[Phineas Gage,500,100]
+
+.A reconstruction, showing how the metal rod destroyed his frontal lobes and disconnected them from other brain parts.
+image::phineas_gage_3d_model.png[3D Model,400,100]

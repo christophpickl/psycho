@@ -9,9 +9,10 @@ Subpages::
 
 == External Websites
 
-* link:https://psychology.wikia.org/wiki/Psychology_Wiki[Psychology Wiki] the official one, containing huge amount of information.
-* link:https://www.coursera.org/learn/introduction-psychology/[Online class] at coursera "Introduction to Psychology" with the famous Yale professor Paul Bloom.
-* link:https://www.studeersnel.nl/[studeersnel.nl] summaries and other documents (also from Dutch universities)
+* The official link:https://psychology.wikia.org/wiki/Psychology_Wiki[Psychology Wiki] containing huge amount of information.
+* Online class at link:https://www.coursera.org/learn/introduction-psychology/[coursera] "Introduction to Psychology" with famous Yale professor Paul Bloom.
+* link:https://www.studeersnel.nl/[studeersnel.nl] summaries and other documents (also from Dutch universities).
+* Readings like a newspaper at link:https://www.psychologytoday.com[Psychology today].
 
 == Books
 

@@ -1,5 +1,8 @@
 = Availability Bias
 
+* Over-emphasizing
+* Easily to mind
+
 Further Reading::
 
 * link:../introduction/ch10-intelligence/index.html[Introduction Psychology, Chapter 10, Intelligence]

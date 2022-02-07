@@ -15,6 +15,21 @@
 ** Self-generated retrieval cues, rather than other-generated improves retrieval.
 ** Effect on context: Learn and exam in same room, cues help us to remember. (encoding context == retrieval context)
 
+Advice from textbook:
+
+* Don't passively highlight or copy passages as you read for later rereading. Focus on the ideas, not the author's exact words.
+* Constantly ask yourself questions such as these:
+** Do I understand the idea that the author is trying to convey here?
+** Do I agree with it?
+** Is it relevant to my own life experiences? (Research has shown that people remember new information better when they relate it to themselves)
+** Has the author given evidence supporting it?
+** Does the evidence seem reasonable?
+** How is this idea relevant to the larger issues of the chapter?
+* As you ask such questions, jot down notes in the margins that bear on your answers, such as:
+** "This idea seems similar to ..."
+** "I don't understand what my instructor means by ..."
+* Through this active process, you will encode the material in a far richer and more lasting way than you could accomplish by simple rereading. In the process, you will also generate questions to ask other students or your instructor.
+
 // TODO study tips => https://www.youtube.com/watch?v=eVlvxHJdql8
 
 == Cognitive Psychology says...

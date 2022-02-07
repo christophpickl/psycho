@@ -9,31 +9,40 @@
 
 -- Laozi
 
-== Biases
+== Biases, Fallacies, Effects
 
 Some human flaws and unique traits, thanks to social psychology, well known due to pop-psychology, a list of (more or less) funny effects, illusions & co. Useful to know for everyone to try to see a bit more clearly:
 
+* Attractiveness Bias
 * link:availability_bias.html[Availability Bias]
+* Baby-face Bias
 * Baseline -- very difficult for humans; Kahnemann
 * Bystander Effect
 * link:change_blindness.html[Change Blindness] -- A perceptual illusion where visual changes pass unnoticed to the observer.
+* Cocktail Party effect
 * Cognitive Dissonance
 * link:confirmation_bias.html[Confirmation Bias]
 * link:dunning_kruger_effect.html[Dunning Kruger Effect] -- The tendency of beginners to overestimate their level of skill.
 * Framing; loss aversion
-* Fundamental Attribution Error
+* Fundamental Attribution Error (a.k.a. "Person Bias")
 * link:hawthorne_effect.html[Hawthorne Effect]
 * Illusory Superiority
+* Ingroup Bias (Ingroup Favoritism)
 * link:mcgurk_effect.html[McGurk Effect] -- A perceptual illusion where seeing and hearing influence each other.
 * Insufficient Justification Effect
 * Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
+* Moralistic Fallacy
+* Naturalistic Fallacy
 * link:own_race_bias.html[Own-race bias]
+* Person Bias; See Fundamental Attribution Error
 * link:predictable_world_bias.html[Predictable World Bias]
+* Priming
 * Proportional Bias -- Base for conspiracy theories
-* Pygmalion Effect
+* Pygmalion Effect; see "Self-fulfilling prophecies"
 * Scientific Bias
 // https://conservapedia.com/Scientific_bias
-* Self Serving Bias
+* Self-Fulfilling prophecies (a.k.a. Pygmalion Effect)
+* Self-Serving Attributional Bias; like person bias but for oneself
 * Spotlight Effect
 * Sunk Cost Fallacy
 * link:transparency_illusion.html[Transparency Illusion]
@@ -55,10 +64,12 @@ Some people's medical cases (accidents and other abnormalities in medical histor
 == Experiments
 
 * link:bobo_doll.html[Bobo doll experiment]
+* blue/brown eye experiment
 * Nodding/shaking head, influencing judgement.
 * Judging something while stick in mouth (forcing a smile).
+* Stanford prison experiment (in-/outgroup bias in social psychology)
 * Wire VS cloth mother and primate.
-* Little Albert
+* link:little_albert.html[Little Albert]
 
 == Studies
 
@@ -91,7 +102,8 @@ Famous studies and experiments everyone should know of.
 * marketing: we go for the middle
 * marketing: too much choice
 * case: fire in metro station. did not feel responsible. (welches buch steht das?)
-* bouba/kiki effect
+* Bouba/kiki Effect
+* Stroop Effect
 * prisoner dilemma: to be good or to be evil? same with money, divorce, military "aufruesten", etc. https://www.youtube.com/watch?v=t9Lo2fgxWHw
 
 == Resources
