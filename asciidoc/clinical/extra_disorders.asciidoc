@@ -1,0 +1,38 @@
+See: DSM-5 and ICD-11.
+
+Most common:
+
+* Anxiety
+** Generalized Anxiety Disorder (GAD)
+** Phobic Disorder
+** Panic Disorder
+** Obsessive-Compulsive Disorder (OCD)
+** Posttraumatic Stress Disorder (PTSD)
+* Somatoform Disorder
+** Dissociative Disorder
+* Mood Disorder
+** Bipolar
+** Depression
+* Psychotic Disorder
+* Schizophrenia
+* Personality Disorder
+** Antisocial Personality Disorder
+** Borderline Personality Disorder (BPD)
+* Child Disorder
+** Autistic Disorder
+** Attention Deficit Hyperactivity Disorder (ADHD)
+
+== Narcissism
+
+6 signs your ego is controlling your life (link:https://psych2go.net/6-signs-your-ego-is-controlling-your-life/[source]):
+
+. You always have to be right
+. You always want more
+. You only focus on yourself
+. You don’t like other people’s success
+. You set unrealistic goals
+. You lack empathy
+
+.YouTube Video: "9 Signs Someone is a Narcissist"
+[link=https://www.youtube.com/watch?v=bVK6lhpL8iU]
+image::https://img.youtube.com/vi/bVK6lhpL8iU/0.jpg[Narcissistic Signs,200]

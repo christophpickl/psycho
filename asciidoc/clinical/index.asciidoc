@@ -1,38 +1,27 @@
-See: DSM-5 and ICD-11.
+= Clinical Psychology 1
 
-Most common:
+== Structure
 
-* Anxiety
-** Generalized Anxiety Disorder (GAD)
-** Phobic Disorder
-** Panic Disorder
-** Obsessive-Compulsive Disorder (OCD)
-** Posttraumatic Stress Disorder (PTSD)
-* Somatoform Disorder
-** Dissociative Disorder
-* Mood Disorder
-** Bipolar
-** Depression
-* Psychotic Disorder
-* Schizophrenia
-* Personality Disorder
-** Antisocial Personality Disorder
-** Borderline Personality Disorder (BPD)
-* Child Disorder
-** Autistic Disorder
-** Attention Deficit Hyperactivity Disorder (ADHD)
+* link:thema1/index.html[Thema 1 - Frames of reference]
+* link:thema2/index.html[Thema 2 - Classification and diagnosis]
+* link:https://youlearn.ou.nl/web/pb0104212234/cursus/-/coursenavigator/314974801?_nl_ou_dlwo_courseview_WAR_nloudlwocourseplanportlet__facesViewIdRender=%2Fxhtml%2Fviewer%2FcourseNavigator.xhtml[Masterclass] - Open begin march, duration 4 days
+* Exam 1 (first 10 chapters of the book, interviews, masterclass articles)
+* link:thema3/index.html[Thema 3 - Psychopathology for adults]
+* link:thema4/index.html[Thema 4 - Personality theory & disorders]
+* Exam 2
 
-== Narcissism
+== Goal
 
-6 signs your ego is controlling your life (link:https://psych2go.net/6-signs-your-ego-is-controlling-your-life/[source]):
+It is expected that after the course the student is able to answer the following:
 
-. You always have to be right
-. You always want more
-. You only focus on yourself
-. You don’t like other people’s success
-. You set unrealistic goals
-. You lack empathy
-
-.YouTube Video: "9 Signs Someone is a Narcissist"
-[link=https://www.youtube.com/watch?v=bVK6lhpL8iU]
-image::https://img.youtube.com/vi/bVK6lhpL8iU/0.jpg[Narcissistic Signs,200]
+. De *drie modellen* als antwoord op de vraag naar de grens tussen '*gezondheid*' en '*ziekte*' kunt beschrijven en deze kritisch kunt *evalueren*.
+. De *zes benaderingen* (=approaches) voor het ontstaan en voortbestaan van psychopathologische stoornissen kunt *beschrijven en toepassen*, verschillende *concepten* binnen deze zes benaderingen kunt reproduceren en de zes benaderingen kritisch kunt *evalueren*.
+. Het *nut* van de theorie kunt *beargumenteren*.
+. De *DSM-5* als classificatiesysteem van psychopathologische stoornissen kunt *beschrijven en bekritiseren*.
+. De *diagnostische methode* kunt beschrijven en bekritiseren.
+. De problemen bij *informatieverwerking* van depressie mensen en de *behandeling* van mensen met ADHD, autisme en dementie kunt beschrijven.
+. De belangrijkste *symptomen* van de verschillende psychopathologische stoornissen zoals beschreven in de *DSM-5* kunt reproduceren.
+. De wetenschappelijke stand van zaken wat betreft de *comorbiditeit, epidemiologie, etiologie* bij de verschillende psychopathologische stoornissen kunt benoemen.
+. De *methoden* en de *effectiviteit* van de *diagnostiek en behandelingsvormen* die worden toegepast bij de verschillende psychopathologische stoornissen kunt reproduceren.
+. Psychologische *casussen* (=cases) over stoornissen kunt *interpreteren* en de *diagnose en behandeling* daarvan kunt analyseren
+. De theorie over *persoonlijkheidstrekken* (=personality traits) en de verschillende concepten binnen deze theorie kunt beschrijven.
