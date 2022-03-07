@@ -189,4 +189,4 @@ image::images/flynn_effect.png[flynn effect,400,100]
 
 == Additional Resources
 
-TBD.
+* "The dark history of IQ tests" - https://www.youtube.com/watch?v=W2bKaw2AJxs

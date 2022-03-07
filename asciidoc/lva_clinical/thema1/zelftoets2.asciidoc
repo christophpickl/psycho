@@ -1,0 +1,59 @@
+= Zelftoets Thema 2
+
+== Zelftoets 2a
+
+. *Tweelingstudies* naar angststoornissen leveren sterke aanwijzingen op dat bij deze stoornissen sprake is van
+.. een *genetische* aanleg op het niveau van *specifieke* angstsyndromen.
+.. afwijkingen in de lange variant van het 5-HTT-gen.
+.. afwijkingen in genen die gelokaliseerd zijn op de chromosomen 6 en 11.
+.. *genetische* factoren die *predisponeren* tot een *algemene* neurotische aanleg.
+** [hiddenAnswer]#d. (see page 40/41)#
+
+. Een zogenoemd *pseudodepressief syndroom*, waarbij de patiënt initiatiefverlies en affectieve vervlakking vertoont en zich terugtrekt uit sociale situaties, ontwikkelt zich door
+.. een lage *clozaspinespiegel*.
+.. overactivatie van het *limbisch* systeem.
+.. laesies in de *frontaalkwab*.
+.. laesies in de *hersenstam*.
+** [hiddenAnswer]#c.#
+
+. Een groot *voordeel* van nieuwe *beeldvormende technieken*, zoals fMRI, is dat met deze technieken.
+.. gegevens worden verzameld die goed te interpreteren zijn zonder gedragsgegevens.
+.. duidelijke *oorzaak-gevolgrelaties* aangaande de etiologie van stoornissen worden vastgesteld.
+.. *in vivo* rechtstreeks hersenprocessen worden gemeten op een *weinig belastende* manier.
+.. directe neuronale activiteit wordt gemeten in plaats van verschillen in bloedtoevoer, waardoor een resolutie op '*single neuron*'-niveau mogelijk is.
+** [hiddenAnswer]#c.#
+
+. Bij de communicatie tussen neuronen is sprake van een complex samenspel van neurotransmitters die van het presynaptisch neuron naar het postsynaptisch neuron bewegen. Hierbij zijn vijf factoren van invloed op de manier waarop die communicatie verloopt. Een daarvan is het fenomeen waarbij een inactieve stof zich hecht aan de receptoren van het postsynaptisch neuron, zodat de neurotransmitter het *neuron niet kan activeren*. In dat geval spreken we van
+.. blocking agents.
+.. catabolisme.
+.. remmende neuronen.
+.. heropname.
+** [hiddenAnswer]#a. (see page 43) catabolisme is afbraak; heropname is reuptake; remmende/inhibitory neuron makes a neuron less sensitive to stimulation#
+
+. Welke stoornis lijkt gerelateerd te zijn aan een *overactivatie* van de *hersenstam* en het *limbisch* systeem?
+.. verslaving
+.. paniekstoornis
+.. depressieve stoornis
+.. ADHD
+** [hiddenAnswer]#b. (see page 45, 2nd last paragraph)#
+
+. Welk van onderstaande symptomen duidt op *externaliserende* problematiek?
+.. geremd gedrag
+.. angststoornissen
+.. stemmingsstoornissen
+.. antisociaal gedrag
+** [hiddenAnswer]#d.#
+
+== Zelftoets 2b
+
+. x
+** [hiddenAnswer]#x.#
+
+. x
+** [hiddenAnswer]#x.#
+
+. x
+** [hiddenAnswer]#x.#
+
+. x
+** [hiddenAnswer]#x.#

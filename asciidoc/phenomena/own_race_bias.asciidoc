@@ -3,4 +3,4 @@
 
 Further Reading::
 
-* link:../introduction/ch7-vision/index.html[Introduction Psychology, Chapter 7, Vision]
+* link:../lva_introduction/ch7-vision/index.html[Introduction Psychology, Chapter 7, Vision]

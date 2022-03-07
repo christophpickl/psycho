@@ -6,5 +6,5 @@ Such events, having the quality of historical independence, are referred to as s
 
 Further Reading::
 
-* link:../introduction/ch10-intelligence/index.html[Introduction Psychology, Chapter 10, Intelligence]
+* link:../lva_introduction/ch10-intelligence/index.html[Introduction Psychology, Chapter 10, Intelligence]
 * https://en.wikipedia.org/wiki/Inductive_reasoning

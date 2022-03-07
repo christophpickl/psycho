@@ -8,7 +8,11 @@ The *purpose* of this wiki is to collect and organize all the information learne
 
 == Content
 
-Currently, *most of the content* is being written for the "link:introduction/index.html[Introduction to Psychology]" class.
+Currently, *most of the content* is being written for the ongoing lectures:
+
+* link:lva_introduction/index.html[Introduction to Psychology]
+* link:lva_clinical/index.html[Clinical Psychology]
+* ...
 
 Everything else is mostly link:universiteit/index.html[university related] content, besides a list of link:people/index.html[very important people], as well as a collection of link:phenomena/index.html[phenomena] containing fascinating studies, experiments, real life cases, biases and other fascinating stuff.
 

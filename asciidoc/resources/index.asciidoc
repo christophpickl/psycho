@@ -27,6 +27,7 @@ Subpages::
 * link:https://www.youtube.com/watch?v=eal4-A89IWY&list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6[CrashCourse] has a 40 *series* of each 10min of a nice overview of psychology
 * link:https://www.youtube.com/c/SproutsVideos/videos[Sprouts] provides animated *short-clips* (<10min) for some basic psychological concepts
 * link:https://www.youtube.com/channel/UCAxD-HZ7VQT3NhsU5Ky99CQ/videos[Biophily2] contains lots of *interviews* with very famous people and audio recordings
+* link:https://www.youtube.com/watch?v=cw3e_XFIeQI&list=PLg999NlgHHrQpYnOpb7-61elKuP7HXPPa&index=1[Social Psychology] by Practical Psychology are about 25 short 5min clips with nicely drawn animations about different basic concepts
 
 === Specific
 

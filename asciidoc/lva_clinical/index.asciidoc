@@ -1,14 +1,22 @@
 = Clinical Psychology 1
 
+This is all about clinical psychologoy, also known as "abnormal psychology" or "psychopathology". For this lecture, we use the book link:https://www.bol.com/nl/nl/f/klinische-psychologie/33149586/[Klinische Psychologie] by Henk T. van der Molen.
+
+.Course book "Klinische Psychology"
+[https://www.bol.com/nl/nl/f/klinische-psychologie/33149586/]
+image::klinische_psychologie_cover.jpg[Klinische Psychologie Book,200,100]
+
+See link:dutch_dict.html[Dutch-English dictionary] for some language support.
+
 == Structure
 
-* link:thema1/index.html[Thema 1 - Frames of reference]
-* link:thema2/index.html[Thema 2 - Classification and diagnosis]
-* link:https://youlearn.ou.nl/web/pb0104212234/cursus/-/coursenavigator/314974801?_nl_ou_dlwo_courseview_WAR_nloudlwocourseplanportlet__facesViewIdRender=%2Fxhtml%2Fviewer%2FcourseNavigator.xhtml[Masterclass] - Open begin march, duration 4 days
 * Exam 1 (first 10 chapters of the book, interviews, masterclass articles)
-* link:thema3/index.html[Thema 3 - Psychopathology for adults]
-* link:thema4/index.html[Thema 4 - Personality theory & disorders]
+** link:thema1/index.html[Thema 1 - Clinical theories and frames of reference] (Chapter 1-8, 150 pages)
+** link:thema2/index.html[Thema 2 - Classification and diagnosis] (Chapter 9-10, 40 pages)
+** link:https://youlearn.ou.nl/web/pb0104212234/cursus/-/coursenavigator/314974801?_nl_ou_dlwo_courseview_WAR_nloudlwocourseplanportlet__facesViewIdRender=%2Fxhtml%2Fviewer%2FcourseNavigator.xhtml[Masterclass] - Open begin March, duration 4 days; first have finished previous themas
 * Exam 2
+** link:thema3/index.html[Thema 3 - Psychopathology for adults] (Chapter 11-25, 300 pages)
+** link:thema4/index.html[Thema 4 - Personality theory & disorders] (PDFs)
 
 == Goal
 

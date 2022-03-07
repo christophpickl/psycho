@@ -1,0 +1,79 @@
+= Zelftoets Thema 1
+
+== Zelftoets 1a
+
+. Welke van de volgende *activiteiten* behoort _niet_ tot het werkterrein van de *klinisch psycholoog*?
+.. het uitvoeren van interventies die zijn gericht op verbetering van het persoonlijke en maatschappelijke functioneren van mensen met ADHD
+.. het uitvoeren van onderzoek naar gedrag van mensen in relatie tot hun ervaren mentale gezondheid Onjuist
+.. het voorschrijven van medicijnen aan psychotische patiënten
+.. het uitvoeren van onderzoek naar hoogbegaafde jongeren die problemen hebben in de omgang met leeftijdgenoten
+** [hiddenAnswer]#c.#
+
+. Welke van de onderstaande 'regels' is een voorbeeld van een '*restregel*' (Scheff, 1966)?
+.. Voordat je een straat oversteekt, moet je goed naar links en naar rechts kijken.
+.. Je moet iemand die ernstig gewond op straat ligt helpen; je mag niet doorlopen zonder hulp te bieden.
+.. Als je met een onbekende praat, moet je niet heel dicht bij die persoon gaan staan.
+.. Je mag niet andermans huis binnendringen en zijn spullen stelen.
+** [hiddenAnswer]#c. ... Restregel = Implicit social convention/expectations. Leading to observer discomfort. (see page 21)#
+
+. Op basis van het *statistisch model* zijn uitspraken mogelijk over het onderscheid tussen 'normaal' en 'abnormaal' gedrag. Een *bezwaar* van het statistisch model is echter dat het ...
+.. niet specificeert hoe ongewoon het gedrag moet zijn om het 'abnormaal' te kunnen noemen.
+.. gebaseerd is op een categoriale benadering van psychopathologie.
+.. uitsluitend extreem hoge scores als 'abnormaal' kwalificeert.
+.. alleen toepasbaar is bij persoonlijke eigenschappen en psychische stoornissen die zeldzaam zijn in een bepaalde populatie.
+** [hiddenAnswer]#a. (see page 24)#
+
+. Beoordeel de juistheid van de volgende twee stellingen over het medisch of ziektemodel. +
+I Aanhangers van het medisch model zijn van mening dat de oorzaak van psychische stoornissen uitsluitend ligt bij lichamelijke afwijkingen (zoals een neurologisch defect). +
+II Volgens aanhangers van het medisch model zijn psychische stoornissen het beste te verhelpen door de onderliggende mechanismen met therapie (not only psychotherapy) te bestrijden.
+.. I en II zijn onjuist.
+.. Alleen II is juist.
+.. Alleen I is juist.
+.. I en II zijn juist.
+** [hiddenAnswer]#b. (see pages 26/27)#
+
+. *Szasz* bekritiseerde het medisch model en met name de opvatting van '*geestesziekte*' binnen dit model. Welk *criterium* moet naar zijn mening worden gebruikt bij het bepalen van de grens tussen 'geestelijke gezondheid' en 'geestesziekte'?
+.. de mate waarin het gedrag disfunctioneel is en het persoonlijk en maatschappelijk functioneren belemmert
+.. de aanwezigheid van aantoonbare medische afwijkingen
+.. de mate waarin het gedrag persoonlijk lijden veroorzaakt
+.. de aanwezigheid van afwijkingen van psychosociale en ethische normen
+** [hiddenAnswer]#b. ... medical: neurological, physiological or biological deviation (see page 27)#
+
+. Aanhangers van het leer- of onderwijsmodel noemen een aantal argumenten waarom zij dit model prefereren boven het medisch model. Welk argument wordt door hen daarbij _niet_ aangevoerd?
+.. Het model levert een duidelijker grens op tussen geestelijke 'gezondheid' en 'ziekte'.
+.. Het model doet meer recht aan de persoonlijke verantwoordelijkheid van mensen met psychische problemen.
+.. Het model beschrijft beter wat er feitelijk gebeurt bij psychologische hulpverlening.
+.. De kans op stigmatisering is geringer bij het leer- of onderwijsmodel.
+** [hiddenAnswer]#a. (see page 29)#
+
+. Welke term gebruiken aanhangers van het leer- of onderwijsmodel om de problematiek aan te duiden van mensen die 'aanspreekbaar' zijn voor hun eigen doen en laten?
+.. levensproblemen
+.. neurotische stoornissen
+.. verantwoordelijkheidsproblemen
+.. psychogene problemen
+** [hiddenAnswer]#a. (see page 30)#
+
+. Een man heeft last van ernstige depressies met psychotische symptomen: hij voelt zich erg somber (=sad), hoort en ziet dingen die er niet zijn, en is daar erg van in de war (=confused). Er is geen aantoonbare somatische oorzaak voor zijn problemen. Vanuit welk model zal dit als een stoornis beschouwd (=considered) worden?
+.. vanuit het statistisch model, het medisch model en het leer- of onderwijsmodel
+.. vanuit het statistisch model en het medisch model
+.. vanuit het statistisch model
+.. vanuit het medisch model en het leer- of onderwijsmodel
+** [hiddenAnswer]#a.#
+
+== Zelftoets 1b
+
+. Seligman, Walker en Rosenhan onderscheiden zeven factoren die bepalen of gedrag beschouwd kan worden als ‘abnormaal’ of pathologisch. Naarmate er meer van deze factoren duidelijker aanwezig zijn, wordt de consensus groter omtrent gedrag in termen van normaal en abnormaal, zowel onder leken als onder psychiaters en klinisch psychologen. +
+Welke factoren zijn dit en wat houden ze in?
+** [hiddenAnswer]#xxx.#
+
+. In de DSM-5 staat een definitie van mentale stoornissen. +
+Welke vormen van gedrag worden door deze definitie uitgesloten?
+** [hiddenAnswer]#xxx.#
+
+. In het boek worden drie modellen besproken waarin een onderscheid aangebracht wordt tussen ‘normaal’ en ‘abnormaal’ gedrag. +
+Welke zijn die modellen en wat zijn de kenmerken?
+** [hiddenAnswer]#xxx.#
+
+. Mevrouw Achterberg, een klinisch psycholoog, is van mening dat gedrag alleen pathologisch te noemen is als iemand zich op grond van zijn psychische gesteldheid niet anders kan gedragen dan hij doet. +
+Bij welk van de drie modellen sluit de opvatting van mevrouw Achterberg over de grenzen van (ab)normaliteit het best aan?
+** [hiddenAnswer]#xxx.#
