@@ -1,0 +1,13 @@
+= Selftest Chapter 10
+
+== Multiple Choice
+
+. x
+.. x
+** [hiddenAnswer]#x.#
+
+== Free Text
+
+. x
+** [hiddenAnswer]#xxx.#
+

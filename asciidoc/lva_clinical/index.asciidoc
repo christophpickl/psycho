@@ -33,3 +33,9 @@ It is expected that after the course the student is able to answer the following
 . De *methoden* en de *effectiviteit* van de *diagnostiek en behandelingsvormen* die worden toegepast bij de verschillende psychopathologische stoornissen kunt reproduceren.
 . Psychologische *casussen* (=cases) over stoornissen kunt *interpreteren* en de *diagnose en behandeling* daarvan kunt analyseren
 . De theorie over *persoonlijkheidstrekken* (=personality traits) en de verschillende concepten binnen deze theorie kunt beschrijven.
+
+== Extra Resources
+
+.YouTube Playlist: "Clinical Psychology, University of Housten", 33 lectures
+[link=https://www.youtube.com/watch?v=5pEgIV9jfz4&list=PLjjVfXgqEfhgT8As4ZsNetrVoFQIG6Xcg]
+image::https://img.youtube.com/vi/5pEgIV9jfz4/0.jpg[Clinical Psychology Housten,300]

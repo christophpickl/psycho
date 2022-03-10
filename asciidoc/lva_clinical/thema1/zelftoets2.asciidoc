@@ -1,6 +1,6 @@
-= Zelftoets Thema 2
+= Selftest Chapter 2
 
-== Zelftoets 2a
+== Multiple Choice
 
 . *Tweelingstudies* naar angststoornissen leveren sterke aanwijzingen op dat bij deze stoornissen sprake is van
 .. een *genetische* aanleg op het niveau van *specifieke* angstsyndromen.
@@ -44,16 +44,29 @@
 .. antisociaal gedrag
 ** [hiddenAnswer]#d.#
 
-== Zelftoets 2b
+== Free Text
 
-. x
+. Genetica: Binnen de neurobiologische benadering wordt onderscheid gemaakt tussen de studie van de fysiologie zelf, en de studie van de invloed van onze genen.
+.. Hoe wordt vanuit dat genetisch perspectief het ontstaan van gedrag en dus van psychopathologie verklaard?
+.. Noem twee voorbeelden van stoornissen die langs deze weg verklaard kunnen worden en leg kort uit hoe zij volgens het genetisch perspectief ontstaan.
 ** [hiddenAnswer]#x.#
 
-. x
+. Neurobiologie: In het boek worden twee globale hersenstructuren behandeld die een belangrijke rol spelen bij de etiologie van pathologisch gedrag
+.. Noem beide structuren en vat kort samen wat hun normale functie lijkt te zijn.
+.. Geef bij elk een voorbeeld van een stoornis die samenhangt met verstoring van deze functies.
+.. Zijn deze twee hersenstructuren onafhankelijk van elkaar bij het ontstaan van gedrag en pathologie, of juist
+niet?
+.. Wat zegt dat in het algemeen over de relatie tussen neurobiologie en pathologisch gedrag?
 ** [hiddenAnswer]#x.#
 
-. x
+. Emotieregulatie: Een van de belangrijkste taken van ons neurobiologisch systeem is de regulatie van onze emoties. Problemen in die emotieregulatie kunnen leiden tot verschillende vormen van psychopathologie, zoals stemmingswisselingen, angsten en problemen met zelfcontrole. In het hoofdstuk wordt in dit verband ook wel gesproken over het onderscheid tussen externaliserende en internaliserende stoornissen. +
+Hoe moeten we dit onderscheid begrijpen, en hoe staat het in verband met het principe van emotieregulatie? +
+Geef in uw bespreking aan beide zijden van het spectrum een aantal voorbeelden van bijbehorende stoornissen +
+In hoeverre is dit onderscheid tussen externaliserende en internaliserende stoornissen te herleiden tot een onderliggend fysiologisch onderscheid?
 ** [hiddenAnswer]#x.#
 
-. x
+. Reductionisme: De (neuro)biologische benadering van gedrag en pathologie wordt vaak beschuldigd van reductionisme. Of dat terecht is, is echter zeer de vraag. Om te beginnen kan men zich afvragen of zij wel reductionistisch is, en als dat zo blijkt te zijn dan is daarmee nog niet gezegd dat dit een probleem is. +
+Wat is reductionisme, en is dat typerend en uniek voor biologische benaderingen van gedrag? +
+Met name in de jaren zeventig werd tegen dat reductionisme gestreden omdat het zou leiden tot verwerpelijke toepassing van kennis. +
+Is dat gevaar van verwerpelijke toepassing van kennis terecht, in die zin dat dit gevaar typerend en uniek is voor biologische benaderingen van gedrag?
 ** [hiddenAnswer]#x.#

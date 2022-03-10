@@ -1,6 +1,6 @@
-= Zelftoets Thema 1
+= Selftest Chapter 1
 
-== Zelftoets 1a
+== Multiple Choice
 
 . Welke van de volgende *activiteiten* behoort _niet_ tot het werkterrein van de *klinisch psycholoog*?
 .. het uitvoeren van interventies die zijn gericht op verbetering van het persoonlijke en maatschappelijke functioneren van mensen met ADHD
@@ -60,7 +60,7 @@ II Volgens aanhangers van het medisch model zijn psychische stoornissen het best
 .. vanuit het medisch model en het leer- of onderwijsmodel
 ** [hiddenAnswer]#a.#
 
-== Zelftoets 1b
+== Free Text
 
 . Seligman, Walker en Rosenhan onderscheiden zeven factoren die bepalen of gedrag beschouwd kan worden als ‘abnormaal’ of pathologisch. Naarmate er meer van deze factoren duidelijker aanwezig zijn, wordt de consensus groter omtrent gedrag in termen van normaal en abnormaal, zowel onder leken als onder psychiaters en klinisch psychologen. +
 Welke factoren zijn dit en wat houden ze in?

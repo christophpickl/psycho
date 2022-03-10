@@ -1,1 +1,20 @@
 = Thema 3 - Psychopathology for adults
+
+Chapter 11-25 (300 pages):
+
+[start=11]
+. Neurobiological development disorders
+. Depression and bipolar mood disorders
+. Anxiety disorders
+. Substance abuse
+. Somatosymptomic disorders
+. Sleeping disorders
+. Eating disorders
+. Disruptibe imppulsive behavioral disorders
+. Genderdysforie, paraphile and sexual disorders
+. Schizophrenia spectrum
+. Trauma and stress-related disorders
+. Dissociative disorders
+. Neurocognitive disorders
+. Obsessive-compulsive disorders
+. Personality disorders

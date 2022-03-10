@@ -1,0 +1,73 @@
+= Selftest Chapter 3
+
+== Multiple Choice
+
+. De resultaten van *Pavlovs* conditioneringsonderzoek naar de speekselafscheiding bij honden gaven experimentele steun aan de empiristische opvatting dat
+.. leren te herleiden is tot de vorming van nieuwe *associaties*.
+.. er alleen een *kwantitatief verschil* is in de leerprocessen bij mens en dier.
+.. er een voortdurende interactie plaatsvindt tussen *aanleg en omgeving*.
+.. het gedrag van dieren en mensen kan worden beschreven in termen van *algemene wetmatigheden*.
+** [hiddenAnswer]#a.#
+
+. Uitdoving na een procedure van *klassieke conditionering* houdt in dat
+.. de VR geleidelijk verdwijnt als de OP herhaaldelijk niet meer wordt gevolgd door de OR.
+.. de OR geleidelijk verdwijnt als de VP herhaaldelijk niet meer wordt gevolgd door de OP.
+.. de VR geleidelijk verdwijnt als de VP herhaaldelijk niet meer wordt gevolgd door de OP.
+.. de OP geleidelijk verdwijnt als de VP herhaaldelijk niet meer wordt gevolgd door de VR.
+** [hiddenAnswer]#c.#
+
+. In de *tweefactorentheorie* van Mowrer wordt *vermijdingsgedrag* opgevat als
+.. ontsnappingsgedrag dat onder *bewuste controle* staat.
+.. het vermijden van *externe aversieve* prikkels.
+.. het ontsnappen aan *geconditioneerde angstreacties*.
+.. het gevolg van *conditionering* op een reeks stimuli (seriële vermijding).
+** [hiddenAnswer]#c.#
+
+. Binnen de leertheoretische benadering wordt van *spontaan herstel* gesproken wanneer
+.. de voorwaardelijke reactie weer optreedt nadat zij eerst volledig uitgedoofd was.
+.. de onvoorwaardelijke reactie weer optreedt nadat zij eerst volledig uitgedoofd was.
+.. de voorwaardelijke reactie op de onvoorwaardelijke prikkel verdwijnt.
+.. de onvoorwaardelijke reactie op de onvoorwaardelijke prikkel verdwijnt.
+** [hiddenAnswer]#a.#
+
+. Wat toonde *Thorndike* aan met zijn experimenten naar instrumentele conditionering bij katten?
+.. Leren vindt niet plaats op basis van associaties, maar op basis van *proposities*.
+.. Een neutrale *prikkel*, die gecombineerd wordt aangeboden met een prikkel die een natuurlijke reactie uitlokt, zal diezelfde reactie gaan uitlokken.
+.. Gedrag dat tot een *aangename* uitkomst leidt, zal in frequentie *toenemen*.
+.. *Angstreacties* zijn sneller aangeleerd, dan expressie van positieve opwinding.
+** [hiddenAnswer]#c.#
+
+. Tandartsen laten kleine kinderen vaak eerst een paar keer meekomen met hun ouders, en eventueel even in de tandartsstoel zitten, zonder dat zij hen echt behandelen, om *te voorkomen* dat zij *angst* voor de tandarts ontwikkelen. Van welk *leerprincipe* maken zij hier gebruik?
+.. generalisatie
+.. het inflatie-effect
+.. extinctie
+.. latente inhibitie
+** [hiddenAnswer]#d.#
+
+== Free Text
+
+. Conditionering: Thorndike en Pavlov stonden samen aan de basis van de moderne leerpsychologie. Beide ontdekten min of meer toevallig zeer specifieke leerprocessen, wat in het geval van Thorndike zelfs leidde tot de formulering van een specifieke wetmatigheid over het tot stand komen van gedrag.
+.. Beschrijf kort het desbetreffende onderzoek van Thorndike, en welke wetmatigheid hij hieruit afleidde.
+.. Voor de bevindingen van Pavlov bestaat niet zo'n expliciet geformuleerde wetmatigheid, maar deze is wel op te stellen op basis van diens bevindingen. Beschrijf kort de kern van zijn onderzoek en probeer de conclusie daarvan samen te vatten in een wetmatigheid die vergelijkbaar is met Thorndike's wet.
+.. Beschrijf tot slot de belangrijkste verschillen tussen deze wetmatigheden.
+** [hiddenAnswer]#xxx.#
+
+. Appetitieve conditionering: Bij het verklaren van gedrag, en dus ook van pathologisch gedrag, maken we veel gebruik van de begrippen appetitief versus aversief. Om te beginnen kijken we naar appetitieve conditionering. +
+Wat is appetitieve conditionering? +
+Laat in uw uitleg zien dat appetitieve conditionering zowel bij klassieke als bij instrumentele conditionering kan optreden. +
+Welk soort gedragsstoornissen komt door appetitieve conditionering tot stand? Geef een paar voorbeelden en leg uit waarom het logisch is dat juiste deze stoornissen in verband staan met appetitieve conditionering +
+Neem tot slot één voorbeeld en laat goed zien hoe daarbij zowel appetitieve instrumentele als appetitieve klassieke conditionering hun werk doen.
+** [hiddenAnswer]#xxx.#
+
+. Aversieve conditionering: Doe nu hetzelfde voor het begrip 'aversieve conditionering'.
+.. Wat is aversieve conditionering?
+.. Laat in uw uitleg zien dat aversieve conditionering zowel bij klassieke als bij instrumentele conditionering kan optreden.
+.. Welk soort gedragsstoornissen komt door aversieve conditionering tot stand? Geef een paar voorbeelden en leg uit waarom het logisch is dat juiste deze stoornissen in verband staan met aversieve conditionering.
+.. Neem tot slot één voorbeeld en laat goed zien hoe daarbij de aversieve conditionering zijn werk doet.
+** [hiddenAnswer]#xxx.#
+
+. Extinctie en terugval: Conditionering lijkt in belangrijke mate betrokken bij het leren van oorzakelijke verbanden in de wereld. Zo leren we bijvoorbeeld dat sommige prikkels de komst van andere prikkels kunnen voorspellen - klassieke conditionering - en dat sommig gedrag tot sommige resultaten kan leiden - instrumentele conditionering. Dit voorspellend vermogen hebben we nodig om ons staande te houden in de wereld. We hebben dus behoefte aan goede voorspellers. +
+Leg kort uit hoe onze behoefte aan goede voorspellers in therapie wordt gebruikt om pathologisch gedrag te verminderen. +
+Geef in uw uitleg een voorbeeld van het gebruik van zowel klassieke, als van instrumentele conditionering. +
+Ondanks deze therapie zien we vaak terugval in pathologisch gedrag. Hoe wordt dat verklaard? En hoe kan dergelijke terugval bestreden worden?
+** [hiddenAnswer]#xxx.#

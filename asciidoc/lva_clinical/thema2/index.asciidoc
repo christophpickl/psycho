@@ -1,9 +1,15 @@
 = Thema 2 - Classification and diagnosis
 
-== Chapter 3 - x
+Chapter 9-10 (40 pages):
 
-See link:zelftoets1[zelftoets].
+[start=9]
+. Classification
+. Diagnostic
 
-== Chapter 4 - x
+== Chapter 3 - Classification
 
-See link:zelftoets1[zelftoets].
+See link:zelftoets9[zelftoets].
+
+== Chapter 4 - Diagnostic
+
+See link:zelftoets10[zelftoets].
