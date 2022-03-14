@@ -64,16 +64,16 @@ II Volgens aanhangers van het medisch model zijn psychische stoornissen het best
 
 . Seligman, Walker en Rosenhan onderscheiden zeven factoren die bepalen of gedrag beschouwd kan worden als ‘abnormaal’ of pathologisch. Naarmate er meer van deze factoren duidelijker aanwezig zijn, wordt de consensus groter omtrent gedrag in termen van normaal en abnormaal, zowel onder leken als onder psychiaters en klinisch psychologen. +
 Welke factoren zijn dit en wat houden ze in?
-** [hiddenAnswer]#xxx.#
+** [hiddenAnswer]#Personal suffering, dysfunctional behavior, irrational behavior, unpredictiability, unconventional behavior, discomfort evoking behavior, violating moral norms..#
 
 . In de DSM-5 staat een definitie van mentale stoornissen. +
 Welke vormen van gedrag worden door deze definitie uitgesloten?
-** [hiddenAnswer]#xxx.#
+** [hiddenAnswer]#Accepted responses, based on minorities, individual-society conflict.#
 
 . In het boek worden drie modellen besproken waarin een onderscheid aangebracht wordt tussen ‘normaal’ en ‘abnormaal’ gedrag. +
 Welke zijn die modellen en wat zijn de kenmerken?
-** [hiddenAnswer]#xxx.#
+** [hiddenAnswer]#Statistical (based on normal distribution), medical (stigmatizing), educational (self responsibility).#
 
 . Mevrouw Achterberg, een klinisch psycholoog, is van mening dat gedrag alleen pathologisch te noemen is als iemand zich op grond van zijn psychische gesteldheid niet anders kan gedragen dan hij doet. +
 Bij welk van de drie modellen sluit de opvatting van mevrouw Achterberg over de grenzen van (ab)normaliteit het best aan?
-** [hiddenAnswer]#xxx.#
+** [hiddenAnswer]#Medical/sickness model.#

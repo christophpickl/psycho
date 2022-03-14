@@ -36,6 +36,11 @@ It is expected that after the course the student is able to answer the following
 
 == Extra Resources
 
-.YouTube Playlist: "Clinical Psychology, University of Housten", 33 lectures
+.YouTube Playlist: "Clinical Psychology, University of Housten", 33 lectures each 60min
 [link=https://www.youtube.com/watch?v=5pEgIV9jfz4&list=PLjjVfXgqEfhgT8As4ZsNetrVoFQIG6Xcg]
 image::https://img.youtube.com/vi/5pEgIV9jfz4/0.jpg[Clinical Psychology Housten,300]
+
+.YouTube Video: "Psychological Disorders", by CrashCourse, 10min
+[link=https://www.youtube.com/watch?v=wuhJ-GkRRQc]
+image::https://img.youtube.com/vi/wuhJ-GkRRQc/0.jpg[Psychological Disorders,300]
+

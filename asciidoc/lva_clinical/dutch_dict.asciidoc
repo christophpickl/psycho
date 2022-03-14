@@ -3,6 +3,7 @@
 * achterhalen ... track down
 * benadering ... approach
 * belevingen ... experiences / Erlebnisse
+* beschikbaarheid ... availability
 * bron/bronnen ... source/s
 * feit ... fact
 * geneeskunde ... medicine
@@ -16,8 +17,11 @@
 * opdracht ... instructions
 * patron ... pattern
 * poging ... attempt
+* slechts ... only
+* somber ... sad (ook: verdrietig)
 * steun ... support
 * toepassing ... application
 * toeschouwer ... spectator / Zuschauer
+* vertekening ... bias
 * voorwaardelijke ... conditional
 * wetmatigheden ... laws

@@ -11,6 +11,11 @@ Chapter 1-8 (150 pages):
 . Systemic approach
 . Usefulness of theories
 
+
+.Mindmap of all 8 chapters
+[link=mindmap.png]
+image::mindmap.png[Mindmap,600]
+
 == Chapter 1 - About clinical psychology
 
 See link:zelftoets1[zelftoets].
@@ -19,7 +24,7 @@ The greek word _klinè_ means "bed". So one could easily assume a clinical psych
 
 What is ab/normal in regard to behavior, thoughts and emotions? Where is the border between health and sickness?
 
-In the US, "clinical psychology" is often also referred to as "abnormal psychology". Indicating that it deals with (negative) deviating behavior from a specific norm, which results in difficulties for the person and its environment.
+In the US, "clinical psychology" is often also referred to as "*abnormal psychology*". Indicating that it deals with (negative) deviating behavior from a specific norm, which results in difficulties for the person and its environment.
 
 === Areas of clinical psychology
 
@@ -50,18 +55,18 @@ Psychology can be divided into several subdisciplines within the two big areas o
 
 ==== Norm deviating
 
-Deviating in two aspects:
+When is behavior considered to be normal or abnormal? It can be deviating in two aspects:
 
-. Individual person's aspects
+. Within a person, its individual person aspects:
 ** Behavior (excessive drinking)
 ** Thoughts (compulsive thinking)
 ** Experiences (extreme fear)
-. Relation to others
-** E.g. overworried towards kids, or extreme aggressiveness
+. Relation to others:
+** E.g. overworried towards kids, extreme aggressiveness
 ** These interpersonal-relational deviations have themselves again impact on the innr world of a person
 *** E.g. Students avoid contact with others (avoidant behavior), thinks he will never find friends, making him experience emotions of loneliness.
 
-Knowledge of the **basic disciplines** is necessary to understand "normal" psychological functioning (perception, cognition, memory) of the "normal" development, social psychology and personality psychology, in order to identify and understand deviations from the norm.
+Knowledge of the **basic disciplines** is necessary to understand "normal" psychological functioning (perception, cognition, memory) of the "normal" development, social psychology and personality psychology, in order to identify and understand deviations from the norm. Thus: Abnormal defines itself via normal.
 
 In the end, the border between normal and abnormal is less obvious.
 
@@ -69,13 +74,13 @@ In the end, the border between normal and abnormal is less obvious.
 
 Both diagnose and treat people with psychological problems. Both can work in the ambulance for example.
 
-There are fundamental **educational differences** though: A psychologist studied psychology (4 years with postgraduate), a psychiatrist has a medical education (6 plus 4 years specialiation). In the Netherlands there is yet another differentiation between a healthcare (general) and clinical (specialized, +1 year) psychologist. A psychologist is better for **empirical research** and methodology, whereas a psychiatrist, with his more profound knowledge about medicine and biological aspects of mental disorders, is allowed to **prescribe drugs**.
+There are fundamental **educational differences**: A psychologist studied psychology (4 years with a 2 years postgraduate), a psychiatrist has a medical education (6 plus 4 years specialiation). In the Netherlands (link:https://english.bigregister.nl/[BIG] = Beroepen in de Individuele Gezondheidszorg) there is yet another differentiation between a healthcare (general) and clinical (specialized, +1 year) psychologist. A psychologist is better for **empirical research** and methodology, whereas a psychiatrist, with his more profound knowledge about medicine and biological aspects of mental disorders, is allowed to **prescribe drugs**.
 
 === Aspects of "abnormal" behavior
 
-==== Zeven factors
+==== Seven factors
 
-By Seligman et al:
+Defined as by * link:../../people/seligman-martin.html[Seligman] et al:
 
 . **Personal suffering**
 ** Such as depression, feeling miserable, empty, lifeless; nothing is enjoyable/pleasurable; every day is gray.
@@ -92,19 +97,77 @@ By Seligman et al:
 ** Outstanding behavior also depends on frequency/amount of a particular behavior.
 ** Non-conforming and socially undesirable behavior is usually considered pathological.
 . **Discomfort evoking behavior**
-** Unwritten rules of a culture are overstepped, which evokes uncomfortable feelings ("observer discomfort").
+** Unwritten rules of a culture are overstepped, which evokes uncomfortable feelings ("_observer discomfort_").
 ** "_Restregels_": Implicit social expectations, by Scheff, once overstepped, we get aware of them.
 ** E.g.: Eye contact, approporiate distance while talking, leave spots free in-between in waiting rooms/toilet.
 . **Violating moral norms**
 ** Based on the moral idea of good and bad, whereas "bad" is "abnormal".
 ** The less the behavior conforms with an ideal image / own idea of optimal functioning, the more abnormal.
 
-PAGE 22, middle
+==== Mental Disorder
 
-=== Borders between normal and abnormal
+Definition:
 
+* Clinical significat symptoms of:
+** cognitive fucntions
+** emotional regulation
+** behavior
+* Which is an expression of:
+** psychological
+** biological
+** developmental process
+* Which are based on a psychological functioning.
 
+Excluding conditions (according to DSM-5):
 
+* Expected and culturally acceptable responses
+* Deviant behavior based on political/religious/sexual minorities
+* Must not arise from conflict between individual and society
+
+=== Boundaries between normal and abnormal
+
+We use three different models to define ab/normal, and each have their unique pros and cons.:
+
+. Statistical model
+. Medical/Sickness model
+. Educational/Instructive model
+
+==== Statistical Model
+
+.Statistical Model: Normal distribution of intelligence
+image::ch1-statistical_model.png[Statistical Model,200]
+
+Critics are:
+
+* The boundaries are arbitrary
+* Does not specify how uncommon a behavior has to be
+* Unclear whether there is an individual suffering
+
+==== Medical Model
+
+.Medical Model
+image::ch1-medical_model.png[Medical Model,200]
+
+* Terminology
+** Somatogen: bodily mechanisms underlying (dementia paralytica, neurosyfilis; treatable with antibiotica)
+** Psychogen: psychological mechanisms underlying (e.g. unconscious conflicts, fear defense)
+* Critics are:
+** Many mental disorders show no underlying mechanism
+** Stigmatizing
+
+==== Educational Model
+
+.Educational Model
+image::ch1-educational_model.png[Educational Model,200]
+
+Critics are:
+
+* Demarcatie- of afgrenzingscriterium
+
+Advantages:
+
+* Less stigmatizing
+* More self responsibility of people
 
 == Chapter 2 - Neurobiological approach
 

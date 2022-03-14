@@ -1,0 +1,20 @@
+= Martin Seligman
+
+[#img-seligman]
+.Seligman himself
+image::seligman-martin.jpg[Seligman,200,100]
+
+== Facts
+
+* Born 1942 in the US
+* American psychologist, educator and author
+* Former president of the link:https://www.apa.org/[APA]
+* Strong promoter of positive psychology and well-being
+
+== Achievements
+
+* Theory of "learned helplessness"
+
+== Links
+
+* https://en.wikipedia.org/wiki/Martin_Seligman
