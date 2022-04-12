@@ -1,0 +1,7 @@
+= Chapter 5 - Psychoanalytical approach
+
+See link:zelftoets5.html[zelftoets].
+
+// TODO fix
+* positive VS negative transference
+* kernberg: personality organisations: defense/reality = narc/border/neuro/psychotic

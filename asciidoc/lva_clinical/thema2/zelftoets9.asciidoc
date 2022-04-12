@@ -2,12 +2,78 @@
 
 == Multiple Choice
 
-. x
-.. x
-** [hiddenAnswer]#x.#
+. Welke bewering over de term 'nosologische eenheid' is niet juist?
+.. Een nosologische eenheid wordt gekenmerkt door een specificiteit van behandeling.
+.. Het begrip 'nosologische eenheid' is synoniem aan het begrip 'ziekte-eenheid'.
+.. Een nosologische eenheid onderscheidt zich van andere nosologische eenheden wat betreft etiologie en prognose.
+.. Het begrip 'nosologische eenheid' is ontleend aan het dimensionele model van psychopathologie.
+** [hiddenAnswer]#d.#
+
+. Voor een polythetisch classificatiesysteem geldt dat
+.. de indeling bestaat uit afzonderlijke, duidelijk van elkaar afgegrensde klassen met elementen.
+.. meerdere pathogene mechanismen bij de classificatie worden betrokken.
+.. rangordening plaatsvindt op meer dan één glijdende schaal of dimensie.
+.. de elementen van een klasse veel kenmerken gemeen hebben, maar niet een specifiek kenmerk hoeven te delen.
+** [hiddenAnswer]#d.#
+
+. Uit onderzoek naar een bepaald classificatiesysteem komt naar voren dat het systeem een sterke samenhang vertoont met convergente gegevens en weinig samenhang met divergente gegevens. Uit deze bevindingen blijkt dat
+.. het systeem hoge validiteit heeft.
+.. het systeem lage validiteit heeft.
+.. de interbeoordelaarbetrouwbaarheid van het systeem hoog is.
+.. de interbeoordelaarbetrouwbaarheid van het systeem laag is.
+** [hiddenAnswer]#a.#
+
+. Welke van de volgende reeksen persoonlijkheidsstoornissen bevat uitsluitend stoornissen die in de DSM-5 tot het 'dramatische' cluster worden gerekend?
+.. schizoïde persoonlijkheidsstoornis, histrionische persoonlijkheidsstoornis, borderlinepersoonlijkheidsstoornis
+.. antisociale persoonlijkheidsstoornis, histrionische persoonlijkheidsstoornis, dwangmatige persoonlijkheidsstoornis
+.. narcistische persoonlijkheidsstoornis, borderlinepersoonlijkheidsstoornis, antisociale persoonlijkheidsstoornis
+.. paranoïde persoonlijkheidsstoornis, narcistische persoonlijkheidsstoornis, schizotypische persoonlijkheidsstoornis
+** [hiddenAnswer]#c.#
+
+. Welke van de volgende groepen stoornissen vormt geen hoofdcategorie in de DSM-5?
+.. neurocognitieve stoornissen
+.. traumaspectrum- en obsessieve stoornissen
+.. schizofreniespectrum- en andere psychotische stoornissen
+.. neurobiologische ontwikkelingsstoornissen
+** [hiddenAnswer]#b.#
+
+. Een verschil tussen de DSM-5 en de ICD-10 is dat dit laatste classificatiesysteem
+.. het niet mogelijk maakt meerdere diagnoses bij één cliënt te stellen.
+.. geen somatoforme stoornissen bevat.
+.. geen categoriaal polythetisch systeem is.
+.. minder gedetailleerde uitgewerkte criteria voor het vaststellen van een stoornis bevat.
+** [hiddenAnswer]#d.#
+
+. Welke uitspraak over positief-psychologische classificatie is niet juist?
+.. Het belangrijkste doel van positief-psychologische classificatie is de integratie van meerdere persoonlijkheidskenmerken.
+.. Het uitgangspunt van positief-psychologische classificatie is dat positieve eigenschappen bescherming bieden tegen het ontstaan en voortbestaan van psychische problemen.
+.. Het classificatiesysteem van positief-psychologische classificatie is inhoudelijk gezien een tegenhanger van de DSM.
+.. Peterson en Seligman ontwikkelden een classificatiesysteem ten behoeve van positief-psychologische classificatie.
+** [hiddenAnswer]#a.#
+
+. In het kader van classificatie wordt de validiteit van het classificatiesysteem beoordeeld. Geef aan van welke typen validiteit hier achtereenvolgens sprake is: +
+type 1: de samenhang van de classificatie met ongelijksoortige begrippen +
+type 2: de voorspellende waarde die een classificatie heeft voor bijvoorbeeld de prognose of de uitkomt van een behandeling +
+type 3: overeenstemming tussen gegevens die verkregen zijn met verschillende methoden en instrumenten die hetzelfde begrip beogen te meten.
+.. type 1: convergerend; type 2: divergerend; type 3: predictief
+.. type 1: divergerend; type 2: predictief; type 3: convergerend
+.. type 1: predictief; type 2: convergerend; type 3: divergerend
+.. type 1: convergerend; type 2: predictief; type 3: divergerend
+** [hiddenAnswer]#b.#
+
 
 == Free Text
 
-. x
+. Er zijn verschillende manieren waarop geclassificeerd kan worden. Er kan onderscheid gemaakt worden tussen dimensionele en categoriële classificatie, tussen monothethische en polythetische classificatie, tussen hiërarchische en nevenschikkende classificatie en tussen classificatie op grond van symptomen en op grond van pathogene mechanismen. +
+Benoem het belangrijkste kenmerk van - respectievelijk - dimensionele, categoriële, monothethische, polythethische, hiërarchische, nevenschikkende classificatie, alsmede van classificatie op grond van symptomen en classificatie op grond van pathogene mechanismen.
 ** [hiddenAnswer]#xxx.#
 
+. Wat zijn de twee belangrijkste kwaliteitscriteria voor een classificatiesysteem? Geef een korte omschrijving van beide criteria (maximaal 50 woorden per criterium).
+** [hiddenAnswer]#xxx.#
+
+. Wat is de definitie van klinisch-psychologische diagnostiek, zoals die gehanteerd wordt in deze cursus?
+** [hiddenAnswer]#xxx.#
+
+. Zowel in onderzoek als in de klinische praktijk wordt sterk gebruikgemaakt van de DSM-5. Door het gebruik van de DSM-5 (en classificatiesystemen in het algemeen) is de betrouwbaarheid van de classificatie van diverse vormen van psychopathologie toegenomen. De DSM kent echter ook een aantal beperkingen. +
+Noem de drie belangrijkste beperkingen die vaak worden genoemd in discussies over het DSM-classificatiesysteem.
+** [hiddenAnswer]#xxx.#

@@ -1,0 +1,8 @@
+= Chapter 9 - Classification
+
+See link:zelftoets9.html[zelftoets].
+
+// TODO fix
+* nosologische eenheid
+* mono/polythetisch
+* kon/divergent inter-rater/validity

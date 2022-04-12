@@ -4,30 +4,36 @@
 
 A list of some people good to know in the area of psychology:
 
-* Adler, Alfred
+* Ainsworth: Attachment Theory
 * Asch Solomon
 * link:bandura-albert.html[Bandura, Albert]
 * link:broca-paul.html[Broca, Paul]
+* Beck, Aaron: Cognitive Therapy
+* Bowlby: Attachment Theory
 * Chomsky
-* Darwin, Charles
+* Darwin, Charles: Evolution Theory
 * link:descartes-rene.html[Descartes, Rene]
+* Ellis, Albert
 * Frankl, Viktor
-* link:freud-sigmund.html[Freud, Sigmund]
+* link:freud-sigmund.html[Freud, Sigmund]: Psychoanalysis
 * Galton, Francis (half-cousin of darwin)
 // https://www.youtube.com/watch?v=sx7lBzHH7c8
 * Heider, Fritz
 * link:hobbes-thomas.html[Hobbes, Thomas]
-* Hume, David
+* Hume, David: Philosopher
 * link:james-william.html[James, William]
 * Jung, Carl Gustav
 * link:kant-immanuel.html[Kant, Immanual]
+* Kernberg, Otto: Psychoanalysis
+* Klein, Melanie: Psychoanalysis
 * Kuhn, Thomas
+* Kohut, Heinz: Psychoanalysis
 * link:leibniz-gottfried_wilhelm.html[Leibniz, Gottfried Wilhelm]
 * link:locke-john.html[Locke, John]
 * link:milgram-stanley.html[Milgram, Stanley]
 * Miller
-* link:pavlov-ivan.html[Pavlov, Ivan]
-* Piaget
+* link:pavlov-ivan.html[Pavlov, Ivan]: Classical Conditioning
+* Piaget: Developmental Psychology
 * Popper, Karl
 * Rogers, Carl
 * Rousseau, Jean-Jacques
@@ -44,9 +50,10 @@ A list of some people good to know in the area of psychology:
 * Bandura, Albert: social learning
 * Bloom, Paul: Yale University
 * Eckman, Paul: facial emotional expressions
+* Ellis & Beck: Cognitive Theory
 * Fromm, Erich
 * link:kahnemann_daniel.html[Kahnemann, Daniel]
 * Peterson, Jordan: Show-off Guy
 * Sapolsky, Robert: Evolutionary Behaviorism
-* link:seligman-martin.html[Seligman, Martin]
+* link:seligman-martin.html[Seligman, Martin]: Positive Psychology
 * Spitzer, Manfred: https://www.youtube.com/watch?v=pHOIdOG9oJM

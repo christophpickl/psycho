@@ -1,0 +1,26 @@
+= Chapter 10 - Diagnostic
+
+See link:zelftoets10.html[zelftoets].
+
+== Tools
+
+* Hamilton Rating Scale for Depression: klinisch interview
+* SCID: klinisch interview
+* elektronische dagboekjes: gedragsobservatie
+* Directe observatie: gedragsobservatie
+* MMPI: persoonlijkheids- en klachtenvragenlijsten
+* NEO-P-IR: persoonlijkheids- en klachtenvragenlijsten
+* GIT: intelligentietesten
+* WAIS: intelligentietesten
+* Rorschach: projectieve methoden
+* Thematic Apperception Test: projectieve methoden
+* Bourdon-Wiersma-test: neuropsychologisch onderzoek
+* Wisconsin Card Sorting Test: neuropsychologisch onderzoek
+
+// TODO fix
+* hetero-anamnese
+* SCL-90
+
+* Big 5:
+** OCEAN: Openness, Conscientiousness, Extroversion, Agreeableness, Neuroticism
+** See: https://www.psychologytoday.com/us/basics/big-5-personality-traits

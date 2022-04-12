@@ -1,0 +1,72 @@
+= Selftest Chapter 5
+
+== Multiple Choice
+
+. De beschrijving van het innerlijk van de mens in termen van de psychische instanties Id, Ego en Superego wordt in de psychoanalyse aangeduid als het
+.. driftmodel.
+.. gehechtheidsmodel.
+.. genetische model.
+.. structurele model.
+** [hiddenAnswer]#d.#
+
+. Een verschil tussen de egopsychologie en de klassieke psychoanalyse van Freud is dat egopsychologen
+.. het accent verleggen naar de bewuste driftmatige aspecten van het psychisch functioneren.
+.. meer nadruk leggen op het vermogen om driften en geweten op elkaar af te stemmen.
+.. de ontwikkeling van de persoonlijkheid beschrijven als een opeenvolging van fasen die de persoon in vaste volgorde doorloopt.
+.. veronderstellen dat de ontwikkeling van de persoonlijkheid pas in de puberteit is afgerond.
+** [hiddenAnswer]#b.#
+
+. Welke factoren of processen spelen een centrale rol in objectrelatietheorieën?
+.. identiteit en generativiteit
+.. intimiteit en isolement
+.. hechting en ego-integriteit
+.. individuatie en separatie
+** [hiddenAnswer]#d.#
+
+. Beoordeel de juistheid van de volgende twee stellingen over psychoanalytische opvattingen van psychopathologie. +
+I Het onderscheid tussen patiënten met een psychische stoornis, mensen met neurotische trekjes en 'normale' mensen is volgens de klassieke psychoanalyse slechts gradueel. +
+II In tegenstelling tot de latere objectrelatietheoretici zocht Freud de oorzaken van psychische stoornissen vooral in problemen in de pre-oedipale fasen.
+.. I en II zijn onjuist.
+.. Alleen I is juist.
+.. I en II zijn juist.
+.. Alleen II is juist.
+** [hiddenAnswer]#b.#
+
+. Een patiënte heeft in het verleden heimelijke gevoelens van haat gevoeld jegens haar vader, en lijkt die vervolgens in de therapie opnieuw te beleven in haar relatie met de therapeut. In dit geval spreken we van
+.. positieve overdracht
+.. negatieve tegenoverdracht
+.. negatieve overdracht
+.. positieve tegenoverdracht
+** [hiddenAnswer]#c.#
+
+. In het systeem van Kernberg worden drie criteria gehanteerd om persoonijkheidsorganisaties te onderscheiden: identiteit, afweer en realiteitstoetsing. Van welk type persoonlijkheidsorganisaties spreekt Kernberg wanneer de afweer primitief is en de realiteitstoetsing intact?
+.. borderline persoonlijkheidsorganisatie
+.. neurotische persoonlijkheidsorganisatie
+.. psychotische persoonlijkheidsorganisatie
+.. narcistische persoonlijkheidsorganisatie
+** [hiddenAnswer]#a.#
+
+== Free Text
+
+. Drift en Ego - De oorspronkelijke psychoanalyse van Freud was gebaseerd op diens opvatting van het scherpe onderscheid tussen het onbewuste en het bewuste. Later bracht hij echter een nuancering aan in zijn opvatting en breidde daarmee zijn model van de persoonlijkheid uit.
+.. Hoe ziet Freud de scheiding tussen het bewuste en onbewuste en welke plaats bezetten daarin onze driften?
+.. De oorspronkelijke driftpsychologie van Freud bevat een paradoxale veronderstelling, welke is dat?
+.. Hoe loste Freud deze paradox op, en hoe nuanceerde hij daarmee zijn model van de persoonlijkheid?
+** [hiddenAnswer]#xxx.#
+
+. Recentere perspectieven - Na Freud hebben zich vele varianten van de psychoanalyse ontwikkeld. Deze kenmerken zich vrijwel allemaal door een verdere nuancering van het oorspronkelijke model van conflictueuze driften en normen. In het boek wordt een aantal van deze recentere perspectieven besproken. Elk heeft zo zijn eigen opvattingen over de herkomst van onze persoonlijkheidsstructuur, en dus de stoornissen die daarin kunnen optreden.
+.. Geef een beknopt overzicht van de recente varianten. Ga daarbij niet in op deeltheorieën, maar richt de aandacht op de primaire verklaring van onze persoonlijkheidsstructuur die telkens wordt gegeven.
+.. Kunt u een algemene overeenkomst ontdekken tussen deze recentere perspectieven, als u ze gezamenlijk afzet tegen de klassieke drift- en egopsychologie?
+** [hiddenAnswer]#xxx.#
+
+. Therapie - Opvallend aan de psychoanalytische benadering is dat zij niet zozeer gericht is op het bestrijden van specifieke neurotische stoornissen, zoals depressie of angst, maar meer gericht lijkt op een meer generieke probleemaanpak.
+.. Wat is over het algemeen het doel van psychoanalytische therapie?
+.. Er wordt in de psychoanalytische therapie onderscheid gemaakt tussen twee specifieke typen van pathologie. Welke typen zijn dat, en wat zijn de belangrijkste verschillen tussen beide typen en de manier waarop ze behandeld worden?
+.. Kunt u de scheiding tussen deze twee typen pathologie projecteren op de verschillende therapeutische benaderingen die in het hoofdstuk aan de orde zijn? Wat valt u dan op?
+** [hiddenAnswer]#xxx.#
+
+. Overdracht - Overdracht is een van de kernconcepten uit de psychoanalytische therapie.
+.. Wat is overdracht en welke functie vervult het in de therapeutische setting?
+.. Wat is tegenoverdracht en hoe dient dit gehanteerd te worden in de therapie?
+.. Is de ontwikkeling van een focus op intrapsychische conflicten naar een focus op relationele ontwikkeling, ook te herkennen in de manier waarop naar overdracht wordt gekeken?
+** [hiddenAnswer]#xxx.#

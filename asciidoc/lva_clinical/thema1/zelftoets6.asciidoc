@@ -1,0 +1,68 @@
+= Selftest Chapter 6
+
+== Multiple Choice
+
+. Een kenmerk van humanistische theorieën in de klinische psychologie is dat zij
+.. erop gericht zijn, de oorzaken van problemen in de volwassenheid te herleiden tot stoornissen in de vroege ontwikkeling van het individu.
+.. veronderstellen dat via een objectbenadering van de persoonlijke ontmoeting met de cliënt inzicht kan worden verkregen in de bewuste beleving van de cliënt.
+.. erop gericht zijn, een algemeen systeem van begrippen en wetmatigheden te ontwerpen waarmee het wezen van de mens kan worden beschreven.
+.. veronderstellen dat men de mens als geheel moet bestuderen om hem te kunnen begrijpen.
+** [hiddenAnswer]#d.#
+
+. Iemand zegt: 'Wat heb ik van dat concert genoten!' Welke van de volgende reacties op deze uitlating getuigt het meest van een humanistische benadering van de medemens?
+.. Het concert past ook goed in de moderne smaak voor muziek!
+.. Wat heerlijk voor je dat het zo'n mooi concert was.
+.. Ja, genieten van een concert is iets heel persoonlijks.
+.. Ik ben zelf vorige week nog naar een opera geweest en dat was ook zeer de moeite waard.
+** [hiddenAnswer]#b.#
+
+. Een punt van kritiek vanuit de psychoanalyse op de theorie en therapie van Rogers is dat
+.. zij sterk zijn gericht op de specifieke inhoud van de problemen die cliënten hebben.
+.. het naïef is te veronderstellen dat onbewuste processen de bewuste subjectieve beleving beïnvloeden.
+.. de waarde van zelfrapportage door de cliënt beperkt is omdat onbewuste drijfveren veel belangrijker zijn.
+.. Rogers door zijn nadruk op zelfverwezenlijking het belang van externe correctie en stimulering van het leerproces overschatte.
+** [hiddenAnswer]#c.#
+
+. In termen van de behoeftehiërarchie van Maslow wordt het gedrag van patiënten met neurotisch, dwangmatig gedrag verklaard als het gevolg van
+.. onvoldoende vervulling van de cognitieve behoeften.
+.. een bovenmatige behoefte aan veiligheid.
+.. onvoldoende vervulling van de behoefte aan saamhorigheid en liefde.
+.. een bovenmatige behoefte aan zelfverwezenlijking.
+** [hiddenAnswer]#b.#
+
+. In emotiegerichte therapie is het van belang om de cliënt bewust te laten worden van zijn emotionele belevingen. Een van de technieken om de cliënt hierbij te helpen is door hem te vragen stil te staan bij de meest saillante momenten van een recente belangrijke gebeurtenis, en de daarbij opkomende belevingen op zich in te laten werken. Hoe heet deze techniek?
+.. evocatieve ontvouwing
+.. Verstehen
+.. emotieregulatie
+.. focusing
+** [hiddenAnswer]#a.#
+
+. Welk vermogen van de cliënt is een grote bron van informatie voor therapeuten die de humanistische benaderingen aanhangen?
+.. zelfregulering
+.. zelfactualisatie
+.. zelfreflectie
+.. zelfmedelijden
+** [hiddenAnswer]#c.#
+
+== Free Text
+
+. Fully functioning - Aan de basis van de humanistische benadering staat een specifiek mensbeeld dat afwijkt van alle andere benaderingen die we tot nu toe besproken hebben. Vanuit dat mensbeeld wordt iemand psychische gezond genoemd als hij beschouwd kan worden als een volledig functionerend persoon (fully functioning person).
+.. Beschrijf de verschillende elementen die karkateristiek zijn voor het mensbeeld van de humanistische psychologie.
+.. Laat zien hoe al deze elementen samenvloeien in het volledig functionerend inidivdu en karakteriseer hoe dat individu in het leven staat.
+** [hiddenAnswer]#xxx.#
+
+. Behoeftepiramide - We zagen zojuist al dat elk mens streeft naar zelfactualisatie, maar daar komt een individu niet zomaar aan toe. Daarvoor dient eerst aan andere voorwaarden voldaan te zijn. Maslow formuleerde een behoeftemodel om inzicht te bieden in de voorwaarden.
+.. Beschrijf de vorm en veronderstelde werking van dat model.
+.. Welke plaats in het model neemt onze behoeft aan zelfactualisatie in en hoe komen we daaraan toe?
+.. Er is ook kritiek geleverd op het model van Maslow. Hoe luidde die kritiek, en welke conclusies kunt u daaruit trekken?
+** [hiddenAnswer]#xxx.#
+
+. Basishouding - Volgens Rogers was het belangrijkste doel van therapie om de cliënt te helpen zichzelf te actualiseren. Daartoe diende de therapeut een bepaalde basishouding aan te nemen tegenover de cliënt zodat diens proces zo goed mogelijk gefaciliteerd werd. Daarnaast formuleerde hij een aantal uitgangspunten voor therapie, waarmee hij duidelijk brak met de traditionele opvattingen over psychotherapie.
+.. Geef een korte karakterisering van de rogeriaanse basishouding
+.. Benoem vervolgens zijn therapeutische uitgangspunten en leg kort uit hoe zij het proces van zelfactualisatie van de cliënt ten goede komen.
+** [hiddenAnswer]#xxx.#
+
+. Emotiegerichte therapie - Rogers heeft ontegenzeggelijk zijn stempel gedrukt op de klinische psychologie. Zijn uitgangspunt over de functie van therapie en de houding van de therapeut daarin, zijn in zeer uiteenlopende en soms ogenschijnlijk tegenstrijdige hoeken van de klinische psychologie algemeen erkend. De humanistische benadering kent echter ook meer direct navolging tot in het huidige tijdperk. De emotiegerichte therapie (emotion focused therapy) is daar een goed voorbeeld van.
+.. Wat is het uitgangspunt van emotiegerichte therapie en wat is het doel ervan?
+.. Kunt u behalve de humanistische benadering nog andere benaderingen identificeren waarbij de emotiegerichte therapie goed lijkt aan te sluiten?
+** [hiddenAnswer]#xxx.#

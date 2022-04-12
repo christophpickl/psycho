@@ -2,12 +2,71 @@
 
 == Multiple Choice
 
-. x
-.. x
-** [hiddenAnswer]#x.#
+. Het werk van Beck staat aan de basis van de cognitieve benadering van psychopathologie. Welke van onderstaande uitspraken over Beck's opvattingen is niet juist?
+.. Beck formuleerde hypothesen over specifieke cognitieve karakteristieken bij verschillende vormen van psychopathologie.
+.. Beck beschreef zijn theorie in termen van schema's, wat een goede aansluiting bood bij de academische cognitieve psychologie.
+.. Beck introduceerde een diathese-stresstheorie over de biologische aspecten van het cognitieve functioneren.
+.. Beck formuleerde zijn theorie onder andere op basis van klinische observaties en analyse van de inhoud van dromen.
+** [hiddenAnswer]#c.#
+
+. Uit cognitief-psychologisch onderzoek naar 'bias'-effecten bij psychiatrische patiënten komt naar voren dat de geheugenbias vooral kenmerkend is voor patiënten met een
+.. depressieve stoornis.
+.. psychische stoornis door somatische aandoening.
+.. paniekstoornis.
+.. specifieke fobie.
+** [hiddenAnswer]#a.#
+
+. Welke van de onderstaande beweringen over Ellis, een van de grondleggers van de cognitieve therapie, is juist?
+.. Volgens Ellis leiden 'disfunctionele' opvattingen tot onnodig veel emotionele problemen.
+.. Ellis beschreef zijn theorie in termen van 'schema's'.
+.. Volgens Ellis vormen enkele universele irrationele ideeën de grondslag van alle soorten van neurotische problematiek.
+.. Ellis benadrukte de rol van 'zelfspraak' en attributies bij het blijven voortbestaan van psychische problemen.
+** [hiddenAnswer]#c.#
+
+. Welke van de volgende beweringen over 'schema's' is niet juist?
+.. Alleen geactiveerde schema's kunnen de informatieverwerking beïnvloeden.
+.. In schema's is zowel talige als niet-talige kennis gerepresenteerd.
+.. Schema's zijn constructen die in onderzoek direct observeerbaar zijn.
+.. Schema's sturen de waarneming.
+** [hiddenAnswer]#c.#
+
+. Een collega krijgt een artikel van een collega onder ogen. Tot zijn grote schrik blijken de onderzoeksresultaten volledig in strijd te zijn met de theorie die hij zelf al jaren empirisch tracht te onderbouwen. Koortsachtig zoekt hij naar verklaringen voor de merkwaardige bevindingen. Hij komt voorlopig tot de conlcusie dat deze resultaten niet kunnen kloppen, dat het onderzoek slecht uitgevoerd moet zijn en dat zijn eigen theorie geldig blijft. Welke cognitief-psychologische term kent u voor dergelijke processen, waarbij nieuwe informatie zodanig wordt vervormd dat iemand zijn bestaande theorie (of schema) kan handhaven?
+.. accomodatie
+.. afweer
+.. assimilatie
+.. absorptie
+** [hiddenAnswer]#c.#
+
+. De neiging van mensen om zich bij het nemen van beslissingen telkens weer te baseren op argumenten, voorbeelden of ervaringen die al in hun bewustzijn aanwezig zijn, noemen we ook wel de
+.. confirmatieheuristiek
+.. transformatieheuristiek.
+.. representativiteitsheuristiek.
+.. beschikbaarheidsheuristiek.
+** [hiddenAnswer]#d.#
 
 == Free Text
 
-. x
+. Schema's - Het centrale concept in de cognitieve psychologie is het cognitieve schema.
+.. Leg uit wat zo'n schema inhoudt. Wat is het precies, en wat doet het?
+.. Welke drie globale psychologische functies worden door deze schema's ondersteund?
+.. Probeer u voor te stellen waar deze schema's zich concreet bevinden en bedenk wat dat zegt over het realiteitsgehalte van het concept.
+** [hiddenAnswer]#xxx.#
+
+. Biases - In cognitieve schema's kunnen biases optreden, vertekeningen die ervoor zorgen dat selectie, verwerking en opslag van informatie niet meer op een gezonde manier plaatsvindt.
+.. Van welk type bias is er volgens de huidige opvattingen sprake bij angststoornissen?
+.. En hoe zit dat bij depressieve stoornissen?
+.. Als u deze verklaringen voor angst- en depressieve stoornissen overziet, bij wiens opvattingen sluiten die dan het beste aan: bij die van Ellis, of die van Beck, en waarom?
+** [hiddenAnswer]#xxx.#
+
+. Impliciet en expliciet - In de cognitieve benadering is de nadruk steeds meer verschoven van bewuste cognitie naar automatische, onbewuste informatieverwerking. Mensen zijn vaak helemaal niet in staat om de kennis die hun schema’s bevatten expliciet onder woorden te brengen. Veel van de kennis die mensen lijken te bezitten wordt daarom ook wel impliciete kennis genoemd.
+.. Wanneer maken mensen gebruik van zulke impliciete kennis, en wanneer van expliciete kennis?
+.. Wat is het voordeel van deze specifieke verhouding tussen het gebruik van impliciete en expliciete schema's?
+.. Wat zegt dit over mogelijkheden om de drie benaderingen die we tot nu toe besproken hebben (biologisch, leertheoretisch en cognitief) te integreren?
+** [hiddenAnswer]#xxx.#
+
+. Cognitieve gedragstherapie - Uit effectonderzoek blijkt dat de cognitieve benadering een van de meest succesvolle is wanneer het gaat om therapeutische behandeling van klachten.
+.. Wat is het primaire doel van cognitieve therapie?
+.. De meest succesvolle variant van therapie is de zogeheten 'cognitieve gedragstherapie'. Wat houdt deze in?
+.. In het boek worden drie factoren genoemd die hebben bijgedragen aan de integratie van cognitieve therapie en gedragstherapie. Welke factoren zijn dat?
 ** [hiddenAnswer]#xxx.#
 

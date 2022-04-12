@@ -1,0 +1,67 @@
+= Selftest Chapter 6
+
+== Multiple Choice
+
+. Een aanhanger van de communicatietheoretische benadering zal een relatie van ongezonde gelijkwaardigheid tussen ouder en kind classificeren als een
+.. parallele relatie.
+.. paradoxal relatie.
+.. symmetrische relatie.
+.. complementaire relatie.
+** [hiddenAnswer]#c.#
+
+. De term 'positieve feedbackprocessen' wordt in de algemene systeemtheorie gebruikt om processen aan te duiden die
+.. verandering van het bestaande gezinsevenwicht bevorderen. Juist
+.. behoud van de status quo in een gezinssysteem tot gevolg hebben.
+.. een gunstige uitwerking hebben op het functioneren van het gezinssysteem.
+.. ertoe leiden dat het oude gezinsevenwicht wordt hersteld.
+** [hiddenAnswer]#a.#
+
+. Wat wordt binnen de communicatietheorie bedoeld met 'interpunctieproblematiek'?
+.. de conflicten die onstaan door tegenstrijdigheden tussen verschillende communicatiekanalen
+.. verschillen van mening tussen mensen over oorzaak en gevolg in een reeks gedragingen
+.. de verwarring tussen het inhouds- en het betrekkingsaspect van een boodschap
+.. pathologische communicatievormen waarbij mensen (tevergeefs) proberen te ontkennen dat ze communiceren
+** [hiddenAnswer]#b.#
+
+. Karakteristiek voor pathologische symmetrische relaties dat er sprake kan zijn van
+.. steeds grotere verschillen tussen het gedrag van de betrokkenen.
+.. het ontstaan van dubbele bindingen.
+.. een groot aantal tegenstrijdige boodschappen.
+.. een escalerende machtsstrijd.
+** [hiddenAnswer]#d.#
+
+. Kenmerkend voor een 'los-zand'-gezin is dat
+.. zowel de grenzen tussen de subsystemen als de grens tussen het gezinssysteem en de buitenwereld zeer rigide zijn.
+d.. e grenzen tussen de subsystemen in het gezin zijn vervaagd, terwijl er een rigide grens tussen het gezinssysteem en de buitenwereld.
+.. de grenzen tussen de subsystemen in het gezin zeer rigide zijn, terwijl de grens tussen het gezinssysteem en de buitenwereld is vervaagd.
+.. zowel de grenzen tussen de subsystemen als de grens tussen het gezinssysteem en de buitenwereld zijn vervaagd.
+** [hiddenAnswer]#c.#
+
+. De kritiek op systeemgeoriënteerde benaderingen is onder andere gericht op opvattingen die rechtstreeks zijn ontleend aan de algemene systeemtheorie. Er is vooral bezwaar gemaakt tegen het systeemtheoretische uitgangspunt van
+.. homeostase
+.. circulaire causaliteit
+.. paradoxale communicatie
+.. determinisme
+** [hiddenAnswer]#b.#
+
+== Free Text
+
+. Het systeem - De systeembenadering is een betrekkelijk nieuwe aanpak die pas in de tweede helft van de vorige eeuw tot bloei kwam.
+.. Wat is het globale uitgangspunt van de systeembenadering en welk abstract theoretisch kader ligt eraan ten grondslag?
+.. Wat waren de filosofische en praktische aanleiding voor het ontwikkelen van deze systeembenadering?
+** [hiddenAnswer]#xxx.#
+
+. Verklarende kracht - In de systeembenadering staat een aantal complexe begrippen centraal dat de aard van systemen beschrijft. We noemen er drie: circulaire causaliteit, equifinaliteit, equipotentialiteit.
+.. Leg van elk begrip uit wat het betekent.
+.. Welke conclusie kunt u op basis van de betekenis van deze drie begrippen trekken over de verklarende kracht van de systeemtheoretische benadering?
+** [hiddenAnswer]#xxx.#
+
+. Communicatie en structuur - De systeembenadering is in de loop van de jaren behoorlijk gedifferentieerd in allerlei theorieën en therapieën die slechts deels met elkaar samenhangen. Tegenwoordig heeft de term dan ook een veel bredere betekenis en is het vooral een label voor een verzameling uiteenlopende behandelmethoden waarin de relationele betrekkingen van de persoon benadrukt worden.
+.. Twee van die relatief recente benaderingen worden uitvoerig besproken. Geef van beide een korte karakterisering en benadruk daarbij de overeenkomsten en verschillen.
+** [hiddenAnswer]#xxx.#
+
+. Integratie - De laatste decennia worden theoretische grenzen in de psychotherapie steeds minder van belang, en zien we steeds meer integratie tussen benaderingen ontstaan. In voorgaande studietaken hebben we daar al een paar keer de mogelijkheden voor onderzocht. De systeembenadering is bij uitstek een benadering waar we dit soort integratie veel zien optreden.
+.. In het boek worden twee soorten integratie besproken. Noem die en leg het verschil tussen beide uit.
+.. Er worden twee integratieve benaderingen besproken. Geef van beide een korte karakterisering.
+** [hiddenAnswer]#xxx.#
+

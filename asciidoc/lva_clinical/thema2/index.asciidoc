@@ -3,13 +3,9 @@
 Chapter 9-10 (40 pages):
 
 [start=9]
-. Classification
-. Diagnostic
+. link:chapter9_classification.html[Classification]
+. link:chapter10_diagnostic.html[Diagnostic]
 
-== Chapter 3 - Classification
-
-See link:zelftoets9[zelftoets].
-
-== Chapter 4 - Diagnostic
-
-See link:zelftoets10[zelftoets].
+.Mindmap of both chapters (link:https://app.wisemapping.com/c/maps/xx/edit[Source])
+[link=mindmap.png]
+image::mindmap.png[Mindmap,600]

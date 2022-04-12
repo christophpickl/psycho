@@ -1,0 +1,12 @@
+= Chapter 3 - Learning theory approach
+
+Also "behaviorism".
+
+See link:zelftoets3.html[zelftoets].
+
+* two-factor/bifactor theory by Mowrer
+
+* OP ... onvoorwaardelijke prikkel (unconditional)
+* OR ... onvoorwaardelijke reactie
+* VP ... voorwaardelijke prikkel (conditional)
+* VR ... voorwaardelijke reactie

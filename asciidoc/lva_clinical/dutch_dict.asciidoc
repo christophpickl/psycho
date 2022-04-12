@@ -1,27 +1,52 @@
+= Dutch Dictionary
+
+== New Terms
+
 * aanleiding ... cause
 * aanschouwen ... anschauen
 * achterhalen ... track down
-* benadering ... approach
+* beginsel ... principle
 * belevingen ... experiences / Erlebnisse
 * beschikbaarheid ... availability
+* beweringen ... claims
+* bijsturen ... adjust / beisteuern
 * bron/bronnen ... source/s
-* feit ... fact
+* deugden ... virtues
+* eisen ... requirements
+* gehechtheid ... attachment
 * geneeskunde ... medicine
 * gezondheidszorg ... healthcare / Gesundheitswesen
+* kennis ... knowledge
 * kwaad ... bad (pissed off)
 * maatschappij ... society / Gesellschaft
 * met name ... in particular
 * onderwijs ... education / Ausbildung ("Unterweisung")
+* onoplettendheid ... inattention
 * ontsnappen ... escape
 * onvoorspelbaarheid ... unpredictability / Unvorhersehbarkeit
-* opdracht ... instructions
-* patron ... pattern
-* poging ... attempt
+* redenering ... reasoning (reden = reason)
 * slechts ... only
 * somber ... sad (ook: verdrietig)
 * steun ... support
+* tegenstrijdigheden ... contradictions
 * toepassing ... application
 * toeschouwer ... spectator / Zuschauer
+* toetsing ... check, review
+* uitdoving ... extinction
+* vertekenen ... distort
 * vertekening ... bias
+* verschijnsel ... phenomenon / Erscheinung
+* voorspelbaar ... predictable
 * voorwaardelijke ... conditional
+* wantrouwen ... mistrust
 * wetmatigheden ... laws
+* zeggenschap ... control/saying
+
+== Old Terms
+
+* benadering ... approach
+* feit ... fact
+* opdracht ... instructions
+* poging ... attempt
+* patron ... pattern
+* geheugen ... memory

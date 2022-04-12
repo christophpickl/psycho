@@ -1,0 +1,69 @@
+= Selftest Chapter 6
+
+== Multiple Choice
+
+. Met de bewering dat bepaalde theoretische perspectieven incommensurabel zijn, wordt bedoeld dat
+.. de verklaringen die vanuit dit theorieën zijn geformuleerd, niet toetsbaar zijn in onderzoek.
+.. verschillende theorieën en de eruit voortvloeiende verklaringen strijdig zijn met elkaar.
+.. de verklaringen die vanuit dit theorieën zijn geformuleerd, onjuist zijn gebleken.
+.. verschillende theorieën, bij gebrek aan objectieve maatstaf niet met elkaar vergeleken kunnen worden.
+** [hiddenAnswer]#d.#
+
+. Hoe is het proces van inductie het best te omschrijven? Inductie is het
+.. bereiken van consensus door algemene arumenten uit te wisselen.
+.. logisch afleiden van een specifieke voorspelling uit een algemene theorie.
+.. samenvoegen van specifieke waarnemingen tot een algemene theorie.
+.. reduceren van een serie theorieën tot één specifieke verklaring.
+** [hiddenAnswer]#c.#
+
+. Wat is de kern van de kritisch rationalistische filosofie van Popper?
+.. Alle kennis is relatief dus enige dogmatiek is noodzakelijk in de wetenschap.
+.. Alleen met behulp van een rationalistische attitude kunnen we kritisch blijven bij het bedrijven van wetenschap.
+.. Alleen theorieën die gebaseerd zijn op een natuurwetenschappelijk uitgangspunt kunnen we serieus nemen.
+.. Zekerheid bereiken we alleen op het moment dat in onderzoek bijkt dat onze theorieën niet kloppen.
+** [hiddenAnswer]#d.#
+
+. Een wetenschapper stelt: 'alles in de wereld wordt bepaald door de blinde werking van causale mechanismen'. Met welke term benoemen we dit standpunt?
+.. reductionisme
+.. objectivisme
+.. determinisme
+.. holisme
+** [hiddenAnswer]#c.#
+
+. Wanneer spreken we van technisch eclecticisme in de klinische psychologie?
+.. als therapeuten uitsluitend therapeutische technieken inzetten die theoretisch gevalideerd zijn
+.. als therapeuten vanuit één bepaald theoretisch uitgangspunt werken, maar technieken lenen uit andere theoretische benaderingen
+.. als therapeuten zonder achterliggende conceptuele integratie uiteenlopende therapeutische methoden inzetten
+.. als therapeuten proberen tot een integratieve aanpak te komen door diverse theoretische uitgangspunten met elkaar te integreren
+** [hiddenAnswer]#c.#
+
+. Voluntarisme is het standpunt dat
+.. we het individu moeten begrijpen in relatie tot diens ecologische, sociale en maatschappelijke context.
+.. het individu beschikt over een vrije wil en dus geen speelbal is van genen en opvoeding.
+.. verklaringen voor fenomenen herleidbaar zijn naar onderliggende niveaus.
+.. we de hermeneutische methode moeten toepassen bij het begrijpen van het individu.
+** [hiddenAnswer]#b.#
+
+== Free Text
+
+. Zekerheden - In dit laatste hoofdstuk van het eerste thema van dit vak gaan we terug naar de fundamenten van onze kennis.
+.. Wat is het enige dat we zeker kunnen weten? Leg uw antwoord uit binnen de context van onze wetenschappelijke pogingen om de waarheid te achterhalen.
+** [hiddenAnswer]#xxx.#
+
+. -ismen - De wetenschap is vergeven van -ismen, zoals objectivisme. Objectivisme is de opvatting dat wetenschap objectief kan en moet zijn, dat wil zeggen: zij is gebaseerd op observeerbare feiten, en de kennis die we daaruit afleiden is een objectieve, realistisch afspiegeling van de werkelijkheid. +
+Ook in deze studietaak zijn veel van dergelijke -ismen voorbij gekomen; hierbij, in willekeurige volgorde, een overzicht: determinisme, reductionisme, subjectivisme, holisme en voluntarisme.
+.. Geef van elk van deze -ismen een korte definitie, vergelijkbaar met de definitie van objectivisme zoals die hierboven is gegeven.
+.. Probeer daarbij deze begrippen, inclusief het begrip 'objectivisme' zoals hierboven gegeven, te ordenen in begrippenparen die gezamenlijk een dimensie vormen.
+** [hiddenAnswer]#xxx.#
+
+. Kleur bekennen - Elke van de zes benaderingen die we hebben gezien in de afgelopen studietaken wordt gekarakteriseerd door bepaalde -ismen waar betrekkelijk dogmatisch aan vastgehouden wordt.
+.. Neem de drie begrippenparen die u in de vorige vraag hebt geformuleerd, en plaats elke van de zes benaderingen op een passende plaats op elk van de dimensies die door die begrippenparen gevormd worden.
+** [hiddenAnswer]#xxx.#
+
+. Het nut van theorie - In de vorige studietaak zagen we al dat recentelijk steeds meer integratieve benaderingen opduiken. Daarbij wordt meestal gestreefd naar integratie of assimilatie van enkele behandelmethoden en soms ook naar meer theoretische integratie. +
+In de vorige studietaak maakten we kennis met de theoretische integratie en de assimilatieve integratie. Daar wordt nu het technisch eclecticisme aan toegevoegd.
+.. Herhaal nog eens kort waar de theoretische integratie en de assimilatieve integratie over gingen. Geef van elk een voorbeeld.
+.. Hoe past het technisch eclecticisme hierbij?
+.. Wat is het nadeel van technisch eclecticisme, en onder welke omstandigheden uit dat nadeel zich het meest?
+** [hiddenAnswer]#xxx.#
+
