@@ -24,18 +24,20 @@
 * onoplettendheid ... inattention
 * ontsnappen ... escape
 * onvoorspelbaarheid ... unpredictability / Unvorhersehbarkeit
+* opvoeding ... upbringing
 * redenering ... reasoning (reden = reason)
 * slechts ... only
 * somber ... sad (ook: verdrietig)
 * steun ... support
 * tegenstrijdigheden ... contradictions
-* toepassing ... application
+* toepassing/toepassen ... application/apply
 * toeschouwer ... spectator / Zuschauer
 * toetsing ... check, review
 * uitdoving ... extinction
 * vertekenen ... distort
 * vertekening ... bias
 * verschijnsel ... phenomenon / Erscheinung
+* vervaagd ... faded, blured
 * voorspelbaar ... predictable
 * voorwaardelijke ... conditional
 * wantrouwen ... mistrust

@@ -1,3 +1,28 @@
 = Chapter 4 - Cognitive approach
 
 See link:zelftoets4.html[zelftoets].
+
+== Keyterms
+
+== Keypeople
+
+* Beck
+* Ellis
+
+== Introduction
+
+== From Selfest
+
+* Beck formulated hypothesis for psychopathology; described it in terms of schemas; used clinical observations and dream analysis. (He did not introduce the diathese-stress theory)
+* Memorybias happens mostly with depression.
+* Ellis stated that irational ideas are the base for neuroticism.
+* Activated schemas influence information processing; contain verbal & non-verbal knowledge; modify perception; and cannot be directly observed.
+* When new information is changed to fit in existing knowledge, we call this assimilation (instead of accomodation, where existing knowledge is changed so new information fits).
+* Availabilityheuristic: Although we get arguments for something, we rather rely on our existing knowledge.
+
+== Heuristics
+
+* Confirmation-
+* Transformation
+* Representative-
+* Availability-

@@ -1,8 +1,19 @@
 = Chapter 3 - Learning theory approach
 
-Also "behaviorism".
 
 See link:zelftoets3.html[zelftoets].
+
+== Keyterms
+
+N/A
+
+== Keypeople
+
+N/A
+
+== Introduction
+
+Related to behaviorism, but not the same.
 
 * two-factor/bifactor theory by Mowrer
 
@@ -10,3 +21,12 @@ See link:zelftoets3.html[zelftoets].
 * OR ... onvoorwaardelijke reactie
 * VP ... voorwaardelijke prikkel (conditional)
 * VR ... voorwaardelijke reactie
+
+== From Selfest
+
+* Pavlov states learning is forming new associations.
+* Classical conditioning can extinct via: CR (VR) disappears, if CS (VP) is not followed by US (OP).
+* According to the two-factor theory, avoidance behavior is a conditioned fear response.
+* Learn theory says that "spontaneous recovery" is when CR (VR) happens again after total extinction.
+* Thorndike showed via instrumental conditioning (cats) that behavior increases if the outcome is desirable.
+* Latent inhibition happens if kids are made slowly getting used to a dentist, step-by-step.

@@ -2,53 +2,53 @@
 
 == Multiple Choice
 
-. Hoe noemt men de interviewvorm waarbij een psycholoog informatie over een cliënt inwint bij de partner of ouders van die cliënt?
+. Hoe noemt men de *interviewvorm* waarbij een psycholoog informatie over een cliënt inwint bij de *partner of ouders* van die cliënt?
 .. familieanamnese
 .. auto-anamnese
 .. indirecte anamnese
 .. hetero-anamnese
 ** [hiddenAnswer]#d.#
 
-. Voor de gestructureerde interviews geldt dat
+. Voor de *gestructureerde interviews* geldt dat
 .. de betrouwbaarheid dikwijls laag is.
 .. zij betrekking hebben op (slechts) één onderwerp of probleemgebied.
 .. interviewers vaak van tevoren moeten worden getraind in de uitvoering van een interview.
 .. de informatie die deze interviews opleveren in sterke mate wordt beïnvloed door de theoretische achtergrond van de psycholoog.
 ** [hiddenAnswer]#c.#
 
-. Bij welke diagnostische methode vormt 'reactiviteit' met name een groot probleem?
+. Bij welke diagnostische methode vormt *reactiviteit* met name een groot probleem?
 .. bij vragenlijstonderzoek
 .. bij projectieve methoden
 .. bij gedragsobservatie
 .. bij het klinisch interview
 ** [hiddenAnswer]#c.#
 
-. Welke van de volgende beweringen over de Symptom Check List (SCL-90) is niet juist?
+. Welke van de volgende beweringen over de Symptom Check List (*SCL-90*) is *niet juist*?
 .. De SCL-90 wordt vaak gebruikt in ons taalgebied.
 .. De SCL-90 meet onder andere hostiliteit en angst.
 .. De SCL-90 is een multidimensioneel instrument.
 .. De SCL-90 meet relatief stabiele persoonlijkheidseigenschappen.
 ** [hiddenAnswer]#d.#
 
-. Een klinisch psycholoog heeft bij een cliënt een intelligentietest afgenomen. Hij vergelijkt de scores die de cliënt op 'stabiele' subtests heeft behaald, met diens scores op de minst stabiele subtests. In een klinisch-psychologische context wordt deze methode gebruikt om
+. Een klinisch psycholoog heeft bij een cliënt een intelligentietest afgenomen. Hij vergelijkt de scores die de cliënt op *stabiele* subtests heeft behaald, met diens scores op de *minst stabiele* subtests. In een klinisch-psychologische context wordt deze methode gebruikt om
 .. de mogelijkheid van intelligentieverval te onderzoeken.
 .. te onderzoeken of problemen van een client in de werksituatie of in de relationele sfeer voortvloeien uit vaardigheidstekorten op specifieke gebieden.
 .. de emotionele en intellectuele labiliteit van een cliënt te kunnen beoordelen.
 .. zwakbegaafdheid vast te kunnen stellen.
 ** [hiddenAnswer]#a.#
 
-. Bij projectieve methoden kunnen verschillende procedures worden toegepast. Welke van de volgende taken is _geen_ voorbeeld van een projectieve test of methode?
-.. een test waarbij de cliënt de opdracht krijgt specifieke patronen te vormen van blokken
+. Bij projectieve methoden kunnen verschillende procedures worden toegepast. Welke van de volgende taken is *geen* voorbeeld van een *projectieve test* of methode?
+.. een test waarbij de cliënt de opdracht krijgt _specifieke_ patronen te vormen van blokken
 .. een methode waarbij de cliënt een verhaal moet vertellen bij een plaat
 .. een test waarbij een cliënt zinnen moet aanvullen
 .. een methode waarbij de cliënt de opdracht krijgt om een boom te tekenen
 ** [hiddenAnswer]#a.#
 
-. Welke van de volgende stellingen is juist?
-.. Neuropsychologische diagnostiek is vaak gericht op de informatieverwerking en op de stoornissen die daarin kunnen optreden.
-.. Het belangrijkste doel van neuropsychologische diagnostiek is het met behulp van gedragsgegevens opsporen van afwijkingen in de hersenen.
-.. Door somatisch onderzoek te verrichten, vergroten neuropsychologen de betrouwbaarheid van hun diagnose.
-.. Neuropsychologisch onderzoek kan niet worden gebruikt voor voor de differentiële diagnostiek
+. Welke van de volgende stellingen is *juist*?
+.. Neuropsychologische diagnostiek is vaak gericht op de *informatieverwerking* en op de stoornissen die daarin kunnen optreden.
+.. Het belangrijkste doel van neuropsychologische diagnostiek is het met behulp van gedragsgegevens opsporen van afwijkingen in de *hersenen*.
+.. Door *somatisch onderzoek* te verrichten, vergroten neuropsychologen de betrouwbaarheid van hun diagnose.
+.. Neuropsychologisch onderzoek kan niet worden gebruikt voor voor de *differentiële diagnostiek*.
 ** [hiddenAnswer]#a.#
 
 . Er bestaan zes klassen diagnostische instrumenten, namelijk: +
@@ -60,8 +60,6 @@ a) Bourdon-Wiersma-test b) elektronische dagboekjes c) Hamilton Rating Scale for
 .. 1: b + c; 2: d + h; 3) i + l; 4) j + k; 5) a + e; 6) a + h
 .. 1) a + e ; 2) c + i; 3) b + g; 4) f + k ; 5) h + j; 6) c + d
 ** [hiddenAnswer]#a.#
-
-
 
 
 == Free Text

@@ -2,7 +2,26 @@
 
 See link:zelftoets7.html[zelftoets].
 
+== Keyterms
+
+N/A
+
+== Keypeople
+
+N/A
+
+== Introduction
+
 // TODO fix
 * parallel/paradoxal/sym./compl. relations
 * interpunctieproblematiek
 * los-zand & ... gezin (soft/hard border)
+
+== From Selfest
+
+* An unhealthy, equivalent relation between parent and child is called a symmetric relation.
+* Symmetric relations can lead to escalating power struggles.
+* Positive feedback processes promote change towards balance.
+* Interpunctuation problems indicate disagreements of cause and effect.
+* "Loose sand" families have rigid borders within family, and blurry borders to the external world.
+* Criticism exists about circular causality.

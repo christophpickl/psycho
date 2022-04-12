@@ -2,6 +2,26 @@
 
 See link:zelftoets5.html[zelftoets].
 
+== Keyterms
+
+N/A
+
+== Keypeople
+
+* Freud
+* Kernberg
+
+== Introduction
+
 // TODO fix
 * positive VS negative transference
 * kernberg: personality organisations: defense/reality = narc/border/neuro/psychotic
+
+== From Selfest
+
+* Id, Ego and Superego are part of the structural model.
+* Egopsychology emphasize more on sync drives and conscience.
+* Object-relational theory is about the individuation and speration.
+* It's a gradual transition from normal to neurotic/abnormal.
+* A patient has the same feeling of hate for the therapist as she had for her father - negative transference.
+* Borderline has primitive defense and a working reality check.

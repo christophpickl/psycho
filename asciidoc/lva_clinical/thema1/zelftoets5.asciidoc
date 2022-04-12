@@ -2,21 +2,21 @@
 
 == Multiple Choice
 
-. De beschrijving van het innerlijk van de mens in termen van de psychische instanties Id, Ego en Superego wordt in de psychoanalyse aangeduid als het
+. De beschrijving van het innerlijk van de mens in termen van de psychische instanties *Id, Ego en Superego* wordt in de psychoanalyse aangeduid als het
 .. driftmodel.
 .. gehechtheidsmodel.
 .. genetische model.
 .. structurele model.
 ** [hiddenAnswer]#d.#
 
-. Een verschil tussen de egopsychologie en de klassieke psychoanalyse van Freud is dat egopsychologen
+. Een verschil tussen de *egopsychologie* en de klassieke psychoanalyse van Freud is dat egopsychologen
 .. het accent verleggen naar de bewuste driftmatige aspecten van het psychisch functioneren.
 .. meer nadruk leggen op het vermogen om driften en geweten op elkaar af te stemmen.
 .. de ontwikkeling van de persoonlijkheid beschrijven als een opeenvolging van fasen die de persoon in vaste volgorde doorloopt.
 .. veronderstellen dat de ontwikkeling van de persoonlijkheid pas in de puberteit is afgerond.
 ** [hiddenAnswer]#b.#
 
-. Welke factoren of processen spelen een centrale rol in objectrelatietheorieën?
+. Welke factoren of processen spelen een centrale rol in *objectrelatietheorieën*?
 .. identiteit en generativiteit
 .. intimiteit en isolement
 .. hechting en ego-integriteit
@@ -24,22 +24,22 @@
 ** [hiddenAnswer]#d.#
 
 . Beoordeel de juistheid van de volgende twee stellingen over psychoanalytische opvattingen van psychopathologie. +
-I Het onderscheid tussen patiënten met een psychische stoornis, mensen met neurotische trekjes en 'normale' mensen is volgens de klassieke psychoanalyse slechts gradueel. +
-II In tegenstelling tot de latere objectrelatietheoretici zocht Freud de oorzaken van psychische stoornissen vooral in problemen in de pre-oedipale fasen.
+I Het *onderscheid tussen* patiënten met een psychische stoornis, mensen met neurotische trekjes en 'normale' mensen is volgens de klassieke psychoanalyse slechts *gradueel*. +
+II In tegenstelling tot de latere objectrelatietheoretici zocht Freud de oorzaken van psychische stoornissen vooral in problemen in de *pre-oedipale* fasen.
 .. I en II zijn onjuist.
 .. Alleen I is juist.
 .. I en II zijn juist.
 .. Alleen II is juist.
 ** [hiddenAnswer]#b.#
 
-. Een patiënte heeft in het verleden heimelijke gevoelens van haat gevoeld jegens haar vader, en lijkt die vervolgens in de therapie opnieuw te beleven in haar relatie met de therapeut. In dit geval spreken we van
+. Een patiënte heeft in het verleden heimelijke *gevoelens* van haat gevoeld jegens *haar vader*, en lijkt die vervolgens in de therapie opnieuw te beleven in haar relatie met de *therapeut*. In dit geval spreken we van
 .. positieve overdracht
 .. negatieve tegenoverdracht
 .. negatieve overdracht
 .. positieve tegenoverdracht
 ** [hiddenAnswer]#c.#
 
-. In het systeem van Kernberg worden drie criteria gehanteerd om persoonijkheidsorganisaties te onderscheiden: identiteit, afweer en realiteitstoetsing. Van welk type persoonlijkheidsorganisaties spreekt Kernberg wanneer de afweer primitief is en de realiteitstoetsing intact?
+. In het systeem van Kernberg worden drie criteria gehanteerd om persoonijkheidsorganisaties te onderscheiden: identiteit, afweer en realiteitstoetsing. Van welk type persoonlijkheidsorganisaties spreekt Kernberg wanneer de *afweer primitief* is en de *realiteitstoetsing intact*?
 .. borderline persoonlijkheidsorganisatie
 .. neurotische persoonlijkheidsorganisatie
 .. psychotische persoonlijkheidsorganisatie

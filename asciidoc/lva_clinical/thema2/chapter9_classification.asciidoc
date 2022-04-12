@@ -2,7 +2,33 @@
 
 See link:zelftoets9.html[zelftoets].
 
+== Keyterms
+
+N/A
+
+== Keypeople
+
+* Peterson
+* Seligman
+
+
+== Introduction
+
 // TODO fix
 * nosologische eenheid
 * mono/polythetisch
 * kon/divergent inter-rater/validity
+
+== From Selfest
+
+* Nosologic/disease unit has a specific treatment, is different to other units in terms of etyology/prognosis and is NOT similar to dimensional model.
+* Polythetic systems parts share many same characteristics, but have not to share a specific characteristic.
+* Strong convergent, and low divergent, means high validity.
+* Dramatic cluster of DSM-5 contains: narcism, borderline, antisocial.
+* DSM-5 main categories do NOT contain traumaspectrum/obsessive disorder.
+* ICD-10 has less detailed disorder criteria.
+* Positive psychology, developed by Peterson and Seligman, states that positive attributes protect from disorders, is contrary to DSM (it is NOT most important to integrate multiple personality traits).
+* Validity:
+** Divergent = Coherence of classes with disparat concepts.
+** Predictive = Predictive value of prognosis / treatment outcome.
+** Convergent = Same results from different methos/instruments with measuring the same thing.

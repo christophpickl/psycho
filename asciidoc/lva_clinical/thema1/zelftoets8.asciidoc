@@ -2,42 +2,42 @@
 
 == Multiple Choice
 
-. Met de bewering dat bepaalde theoretische perspectieven incommensurabel zijn, wordt bedoeld dat
+. Met de bewering dat bepaalde theoretische perspectieven *incommensurabel* zijn, wordt bedoeld dat
 .. de verklaringen die vanuit dit theorieën zijn geformuleerd, niet toetsbaar zijn in onderzoek.
 .. verschillende theorieën en de eruit voortvloeiende verklaringen strijdig zijn met elkaar.
 .. de verklaringen die vanuit dit theorieën zijn geformuleerd, onjuist zijn gebleken.
 .. verschillende theorieën, bij gebrek aan objectieve maatstaf niet met elkaar vergeleken kunnen worden.
 ** [hiddenAnswer]#d.#
 
-. Hoe is het proces van inductie het best te omschrijven? Inductie is het
+. Hoe is het proces van *inductie* het best te omschrijven? Inductie is het
 .. bereiken van consensus door algemene arumenten uit te wisselen.
 .. logisch afleiden van een specifieke voorspelling uit een algemene theorie.
 .. samenvoegen van specifieke waarnemingen tot een algemene theorie.
 .. reduceren van een serie theorieën tot één specifieke verklaring.
 ** [hiddenAnswer]#c.#
 
-. Wat is de kern van de kritisch rationalistische filosofie van Popper?
+. Wat is de kern van de kritisch rationalistische filosofie van *Popper*?
 .. Alle kennis is relatief dus enige dogmatiek is noodzakelijk in de wetenschap.
 .. Alleen met behulp van een rationalistische attitude kunnen we kritisch blijven bij het bedrijven van wetenschap.
 .. Alleen theorieën die gebaseerd zijn op een natuurwetenschappelijk uitgangspunt kunnen we serieus nemen.
 .. Zekerheid bereiken we alleen op het moment dat in onderzoek bijkt dat onze theorieën niet kloppen.
 ** [hiddenAnswer]#d.#
 
-. Een wetenschapper stelt: 'alles in de wereld wordt bepaald door de blinde werking van causale mechanismen'. Met welke term benoemen we dit standpunt?
+. Een wetenschapper stelt: 'alles in de wereld wordt bepaald door de blinde werking van *causale mechanismen*'. Met welke term benoemen we dit standpunt?
 .. reductionisme
 .. objectivisme
 .. determinisme
 .. holisme
 ** [hiddenAnswer]#c.#
 
-. Wanneer spreken we van technisch eclecticisme in de klinische psychologie?
+. Wanneer spreken we van *technisch eclecticisme* in de klinische psychologie?
 .. als therapeuten uitsluitend therapeutische technieken inzetten die theoretisch gevalideerd zijn
 .. als therapeuten vanuit één bepaald theoretisch uitgangspunt werken, maar technieken lenen uit andere theoretische benaderingen
 .. als therapeuten zonder achterliggende conceptuele integratie uiteenlopende therapeutische methoden inzetten
 .. als therapeuten proberen tot een integratieve aanpak te komen door diverse theoretische uitgangspunten met elkaar te integreren
 ** [hiddenAnswer]#c.#
 
-. Voluntarisme is het standpunt dat
+. *Voluntarisme* is het standpunt dat
 .. we het individu moeten begrijpen in relatie tot diens ecologische, sociale en maatschappelijke context.
 .. het individu beschikt over een vrije wil en dus geen speelbal is van genen en opvoeding.
 .. verklaringen voor fenomenen herleidbaar zijn naar onderliggende niveaus.

@@ -1,3 +1,20 @@
 = Chapter 2 - Neurobiological approach
 
 See link:zelftoets2.html[zelftoets].
+
+== Keyterms
+
+N/A
+
+== Keypeople
+
+N/A
+
+== From Selfest
+
+* *Twin studies*: Fear is based on genes which predisposition to a general neurotic base.
+* *Laesion* of the frontal lobe can lead pseudo-depressive syndrome.
+* Imaging techniques like *fMRI* can be done in vivo without much hussle.
+* *Neuronal communication* uses blocking agents to block receptors of the postsynaptic neuron.
+* Panic disorder relates to *over-activity* of the brainstem/limbic system.
+* Antisocial behavior is an *external disorder*.
