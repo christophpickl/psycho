@@ -1,3 +1,224 @@
 = Oefenententamen 2
 
-// FIXME fill me in
+
+. Beoordeel de juistheid van de volgende twee stellingen over **ADHD**. +
+I 	ADHD is een **internaliserende** psychische stoornis. +
+II 	Volwassenen met ADHD **overrapporteren** de ernst van hun symptomen.
+.. I en II zijn juist.
+.. Alleen I is juist.
+.. Alleen II is juist.
+.. I en II zijn onjuist.
+** [hiddenAnswer]#d., p198/201#
+
+. Er worden drie **subtypen** van ADHD onderscheiden. Welk wordt het minst **frequent gediagnosticeerd**?
+.. het hyperactief-impulsieve type
+.. het onoplettende type
+.. het impulsieve type
+.. het gecombineerde type
+** [hiddenAnswer]#a., p198#
+
+. Britt, een alleenstaande werkende vrouw van 35 jaar, voelt zich al ruim drie jaar niet optimaal. Ze voelt zich vrijwel dagelijks bijna de hele dag neerslachtig en kan 's avonds moeilijk in slaap komen. Britt: 'Ik voel me vaak net een vaatdoek, zo slap en lusteloos. Ik doe op een dag ook vaak veel minder dan ik had gepland en na zo'n weinig vruchtbare dag vind ik mezelf zo'n slap mens. Ik pieker veel over hoe ik dingen het beste kan aanpakken. Maar ik zie overal dan zo veel voor- en nadelen dat ik maar moeilijk tot een beslissing kom. Als iedereen zo in elkaar zou zitten als ik, leefden we hier nog in de Middeleeuwen! Ik ben soms zo lamlendig dat ik geen energie heb om voor mezelf te koken. Eigenlijk heb ik dan ook helemaal geen trek. Maar het komt ook wel voor dat ik een vreetaanval heb: om m'n somberheid wat te verdrijven verwen ik mezelf dan met ongezonde dingen. Ik eet dan bijvoorbeeld een half pond drop op. Gelukkig heb ik geen aanleg om dik te worden en ben ik lichamelijk gezond.' Er zijn wel perioden dat Britt zich niet somber en lamlendig voelt, maar die duren nooit langer dan hooguit zes weken ('Dan trekt die grauwe sluier een beetje op en kan ik genieten van kleine dingen.') Vrienden van Britt vinden haar een beetje cynisch en verbitterd, maar - aldus een vriendin - 'zo zit ze nu eenmaal in elkaar en dat weet ze. Ze maakt er zelf vaak grappen over, ze heeft wel humor. Toch heb ik haar aangeraden om naar een psycholoog te gaan. Als je je zo vaak - en zo lang al - zo neerslachtig voelt, en je komt er zelf niet uit, moet je hulp zoeken vind ik. Britt zelf zal het niet aan iedereen willen toegeven, maar wie haar goed kent, ziet gewoon dat ze er erg onder gebukt gaat en dat het haar belemmert in haar functioneren.' Veronderstel dat Britt behalve de beschreven verschijnselen geen andere psychische klachten heeft en dat bij haar op dit moment een diagnose in termen van DSM-5 kan worden gesteld. Welke van de volgende diagnosen is op grond van de gegeven informatie dan het meest waarschijnlijk?
+.. depressieve stoornis
+.. cyclothyme stoornis
+.. dysthyme stoornis
+.. De symptomen die Britt vertoont, voldoen niet aan de diagnostische criteria van een van de stemmingsstoornissen die in DSM-5 worden beschreven.
+** [hiddenAnswer]#c., p209/210#
+
+
+. Beoordeel de juistheid van de volgende twee stellingen over **comorbiditeit** van **depressieve** stoornissen. +
+I 	**Somatoforme** stoornissen treden soms tegelijkertijd op met depressieve stoornissen, maar zijn daarvan **niet moeilijk te onderscheiden**. +
+II 	Depressieve stoornissen gaan vaak samen met andere vormen van psychische stoornissen, met name met **angststoornissen**.
+.. I en II zijn juist.
+.. Alleen I is juist.
+.. Alleen II is juist.
+.. I en II zijn onjuist.
+** [hiddenAnswer]#c., p219/220#
+
+. Welke van de volgende beweringen over de **specifieke fobie** is __niet__ juist?
+.. Kenmerkend voor een specifieke fobie is een hevige **irrationele angst** voor een welomschreven object of situatie.
+.. De angst of vrees is **persistent** en duurt meestal **zes maanden** of langer.
+.. Specifieke fobieën van volwassenen **verdwijnen** meestal na enige tijd **vanzelf**, zonder behandeling.
+.. Bij mensen met een specifieke fobie leidt **blootstelling** aan de fobische prikkel doorgaans onmiddellijk tot een hevige **angst**.
+** [hiddenAnswer]#c., p241#
+
+. Welke van de volgende beweringen over therapie bij verschillende **angststoornissen** is juist?
+.. Bij een paniekstoornis heeft een combinatiebehandeling van **cognitieve gedragstherapie en farmacotherapie** de voorkeur.
+.. Bij **agorafobie** heeft een combinatiebehandeling van een **psychologische en een medicamenteuze** behandeling de voorkeur.
+.. Bij een **specifieke fobie** is **exposuretherapie weinig** effectief; met cognitieve therapie worden betere resultaten behaald.
+.. De effecten van **cognitieve gedragstherapie** zijn nog **niet goed onderzocht**, zodat geen harde uitspraken over de effectiviteit mogelijk zijn.
+** [hiddenAnswer]#a., p254#
+
+. Op grond van hun werking kunnen globaal drie soorten psychoactieve stoffen worden onderscheiden, waaronder de **verdovende middelen**. Welke van de volgende middelen behoort (uitgaande van deze indeling) __niet__ tot de verdovende middelen?
+.. morfine
+.. alcohol
+.. cocaïne
+.. de anxiolytica
+** [hiddenAnswer]#c., p269/270#
+
+. In de geest van de cognitieve psychologie concentreerden onderzoekers zich in de jaren zeventig van de vorige eeuw op specifieke denkpatronen van **verslaafden**. Zij herformuleerden de **spanningsreductietheorie** onder andere in termen van perceived self-efficacy (waargenomen eigen competentie), motieven voor gebruik en outcome expectancies (uitkomstverwachtingen). +
+Uit het experiment van Marlatt en collegas (1973) bleek dat ...
+.. perceived **self-efficacy** een belangrijke determinant is voor het **stoppen** met drinken.
+.. **motieven** voor gebruik voor adolescenten een belangrijke determinant is voor het **beginnen** met drinken.
+.. **outcome expectancies** een belangrijke determinant zijn voor een **hogere inname** van alcohol.
+.. **geen** van deze determinanten van belang is bij het gebruik van alcohol.
+** [hiddenAnswer]#c., p283#
+
+. Susan, een 32-jarige ambitieuze accountant, werkt bij een groot accountantskantoor. Op een dag deelt haar chef haar mee dat hij erg tevreden over haar is en dat haar tijdelijke arbeidscontract zal worden omgezet in een vast contract. Susan is daar erg opgetogen over, maar ze vindt ook wel dat ze het heeft verdiend; sinds haar indiensttreding een jaar geleden heeft ze erg hard gewerkt, ook in de avonduren. Twee weken na het gunstige bericht komt Susans chef echter naar haar toe met de mededeling dat ze toch geen vaste aanstelling krijgt; op een hoger niveau in de organisatie is men tegen uitbreiding van de afdeling waar Susan werkt. Susan is totaal verbijsterd en kan geen woord meer uitbrengen ('Ik was woedend, maar in plaats van flink tekeer te gaan tegen m'n chef, sloeg de woede naar binnen. Ik ontplofte inwendig en ben meteen naar huis gegaan'). De rest van de dag brengt Susan huilend in bed door, totdat ze in slaap valt. De volgende ochtend kan ze tot haar schrik niet meer lopen, haar beide benen lijken verlamd. Ze weet kruipend de telefoon te bereiken en wordt per ambulance naar een ziekenhuis vervoerd. Uitgebreide neurologische en andere medische onderzoeken brengen geen lichamelijke oorzaak voor de klachten aan het licht. Susan blijkt, naast de verlamming van haar benen, ook allerlei onwillekeurige stuiptrekkingen in de linkerhelft van haar lichaam te hebben. Na enkele dagen komt de kracht in haar benen gedeeltelijk terug. Ze kan voorzichtig lopen met krukken. Ze blijft echter last houden van tintelingen en stuiptrekkingen. Ook doen haar benen zeer. Susan, die nooit eerder lichamelijke of psychische klachten had, voelt zich erg somber en kan de beperkingen die haar klachten met zich meebrengen moeilijk accepteren. +
+Veronderstel dat bij Susan een diagnose in termen van DSM-5 kan worden gesteld. Welke van de volgende diagnosen is dan het meest waarschijnlijk?
+.. acute-stresssyndroom
+.. somatische-symptoomstoornis
+.. nagebootste stoornis
+.. conversiestoornis
+** [hiddenAnswer]#d., p294#
+
+. In het model van Looper en Kirmayer (2002) worden verschillende psychologische mechanismen bij het ontstaan en voortduren van de **somatisch-symptoomstoornis** en verwante stoornissen onderscheiden, met bijbehorende psychologische interventies. Welke **interventie** is volgens het model het meest geschikt voor **ziekteangst**?
+.. gedragsexperiment
+.. aandachtstraining
+.. psycho-educatie
+.. exposure
+** [hiddenAnswer]#c., p.299/300#
+
+. De regeling van het dagelijkse slapen en waken wordt gestuurd door twee neurobiologische processen: het **homeostatisch en het circadiaan proces**. Welke bewering over beide processen is juist?
+.. De homeostatische slaapfactor en het circadiane slaperigheidsritme neutraliseren elkaar met een stabiele waaktoestand als resultaat.
+.. In de loop van de dag daalt de homeostatische slaapfactor en stijgt het circadiane slaperigheidsritme met een stabiele waaktoestand als resultaat.
+.. De meeste slaapstoornissen zijn het gevolg van een verstoring in het homeostatisch en circadiaan proces.
+.. Bij ouderen gaan beide processen precies andersom dan bij jongeren.
+** [hiddenAnswer]#a., p316#
+
+. Sommige patiënten met een eetstoornis gebruiken **laxeermiddelen** om af te vallen. Laxeermiddelengebruik is voor dit doel echter **minder effectief** dan deze patiënten denken omdat
+.. er vooral **vocht afvloeit**, terwijl er nauwelijks vet verloren gaat.
+.. er vooral **caloriearme** ruwvezelstoffen uit het lichaam **verwijderd** worden.
+.. laxeermiddelen het **hongergevoel stimuleren**, waardoor de patiënt meer gaat eten en in gewicht toeneemt.
+.. laxeermiddelen een vertragend effect op de stofwisseling hebben, waardoor het lichaam **meer calorieën** uit het voedsel **opneemt**.
+** [hiddenAnswer]#a., p338#
+
+. Welke onderzoeksbevinding ondermijnt de **set-point-theorie**?
+.. Mensen met **overgewicht** die succesvol afvallen krijgen last van **eetbuien**.
+.. **Niet alle** patiënten met **anorexia** hebben eetbuien.
+.. De regelmatige neiging tot **overeten** leidt tot lijnen.
+.. Lijners nemen na beëindiging van het dieet **weer toe** in gewicht.
+** [hiddenAnswer]#b., p345/346#
+
+. Sjon, 25 jaar, heeft al meerdere malen bedrijfspanden in brand gestoken. Een vriend helpt hem aan 'opdrachten': tegen een beloning sticht Sjon brand bij bedrijven die zo een flinke geldsom van een verzekeringsmaatschappij hopen op te strijken. Het levert Sjon een aardige bijverdienste op, wat hij goed kan gebruiken. Panden van particulieren wil Sjon niet aansteken, omdat hij niet het risico wil lopen dat er doden vallen. Voorafgaand aan en tijdens het brandstichten voelt Sjon zich steeds gespannener worden. Als hij ongemerkt zijn werk heeft kunnen doen, voelt hij zich erg opgelucht. Eén keer ging het bijna mis: de politie en brandweer waren zo snel ter plaatse dat Sjon geen tijd had om ervandoor te gaan. Hij werd toen als getuige verhoord ('Dat was wel even spannend, maar die lui hadden gelukkig niet door dat ik de boosdoener was'). Is in het geval van Sjon sprake van pyromanie en waarom wel of niet?
+.. **ja**, omdat Sjon opzettelijk en doelgericht **meer dan eens** brand heeft gesticht en daarmee doorgaat ondanks de mogelijke negatieve gevolgen voor hem
+.. **ja**, omdat Sjon voor en tijdens het brandstichten een toenemend gevoel van **spanning** ervaart en naderhand een sterk gevoel van **o**pluchting
+.. **nee**, omdat het brandstichten geen uiting is van **woede of wraak** en Sjon nadenkt over de mogelijke negatieve gevolgen die zijn daad voor anderen kan hebben
+.. **nee**, omdat het brandstichten voortkomt uit de wens er **financieel** beter van te worden
+** [hiddenAnswer]#d., p367/368#
+
+. Welke kenmerken horen bij een **periodieke explosieve stoornis**?
+.. geïrriteerd en ongeduldig zijn
+.. ruzie maken en extreem boos worden
+.. vechten en bedreigen
+.. extreme agressie en impulsiviteit
+** [hiddenAnswer]#d., p362#
+
+. Welke van de volgende verschijnselen behoort __niet__ tot de diagnostische criteria voor een **genderdysforie** bij jongens in de kinderleeftijd?
+.. afwijkingen hebben in de **uitwendige geslachtsorganen**
+.. een geuite afkeer van hun seksuele **anatomie**
+.. een sterke voorkeur hebben voor het **spelen met meisjes**
+.. herhaaldelijk de wens uiten tot de **andere sekse te behoren**
+** [hiddenAnswer]#a., p379#
+
+. **Asfyxiofilie** is een parafiele stoornis. Het **kenmerk** van deze stoornis is seksuele opwinding door ...
+.. het **aanraken** van iemand die hier niet mee instemt.
+.. het **pijnigen van zichzelf**, bij voorbeeld door het beperken van de ademhaling.
+.. het gebruik van **niet-levende** voorwerpen die daar oorspronkelijk niet voor ontworpen zijn.
+.. het zien van **zoogdieren** die seks hebben.
+** [hiddenAnswer]#b., p386#
+
+. Beoordeel de juistheid van de volgende twee stellingen over **schizofreniespectrum-** en andere psychotische stoornissen. +
+I 	Bij **positieve** symptomen gaat het om het aanwezig zijn van symptomen zoals **weinig initiatief** nemen, zich sociaal terugtrekken en weinig emoties uiten. +
+II 	**Wanen** zijn onjuiste overtuigingen (**false beliefs**) van de patiënt.
+.. I en II zijn juist.
+.. Alleen I is juist.
+.. Alleen II is juist.
+.. I en II zijn onjuist.
+** [hiddenAnswer]#d., p406/407#
+
+. De vriendin van Marit verliest plotseling de macht over het stuur, waarna de auto met een harde klap tegen een boom tot stilstand komt. Marit is uit de auto geslingerd en heeft nauwelijks lichamelijk letsel opgelopen. Ze ziet haar vriendin met bebloed hoofd en buiten bewustzijn in het autowrak liggen en raakt dan helemaal in paniek. Het komt niet in haar op om hulp te gaan halen. Ze loopt eerst druk heen en weer naast de auto en gaat daarna als verdoofd in het gras zitten. Een passerende automobilist belt het alarmnummer. Marits zwaar gewonde vriendin wordt per ambulance naar een ziekenhuis vervoerd. Marit weet niet wat er gebeurd is, kan geen woord uitbrengen en reageert nauwelijks op wat mensen tegen haar zeggen. Twee dagen na het ongeluk keren de herinneringen aan het ongeluk langzaam terug. Marit ziet telkens haar gewonde vriendin voor zich (die inmiddels buiten levensgevaar is), valt 's nachts moeilijk in slaap en droomt ook van het ongeluk. Ze wil het ongeval zo snel mogelijk vergeten, maar dat lukt haar niet goed. Overdag is ze rusteloos en erg schrikachtig. Ze heeft vaak het gevoel 'in een waas te leven', vooral tijdens en na een bezoek aan haar vriendin in het ziekenhuis. Voor geen goud gaat ze terug naar de plaats des onheils. Hoewel Marit in lichamelijk opzicht alleen wat blauwe plekken en een pijnlijke nek aan het ongeluk heeft overgehouden, heeft ze psychisch zoals ze zelf zegt 'een flinke tik gehad'. Het ongeluk is nu twee weken geleden gebeurd en sindsdien heeft Marit niet gewerkt. Omdat ze zich al weer iets beter voelt, wil ze morgen toch weer met werken beginnen. +
+Veronderstel dat bij Marit een diagnose in termen van DSM-5 kan worden gesteld. Welke van de volgende diagnosen is op basis van de gegeven informatie het meest waarschijnlijk?
+.. acute-stressstoornis
+.. aanpassingsstoornis
+.. chronische-stressstoornis
+.. posttraumatische-stressstoornis
+** [hiddenAnswer]#a., p441/442#
+
+. Een overeenkomst tussen het begrip **dissociatie** dat door Janet werd ingevoerd, en de term **verdringing** van Freud is dat beide begrippen primair verwijzen naar ...
+.. processen die een uiting zijn van **psychopathologie**.
+.. het **afweren** van uit de persoon **zelf** afkomstige impulsen.
+.. processen waarmee bepaalde psychische inhouden **buiten het bewustzijn** worden gehouden.
+.. het **afweren** van buiten de persoon komende bedreigende of traumatiserende **invloeden**.
+** [hiddenAnswer]#c., p546#
+
+. Welke bewering over de **dissociatieve identiteitsstoornis** (DIS) is juist?
+.. Kenmerkend voor een DIS is dat het in de regel optreedt **na belastende** omstandigheden, bijvoorbeeld ernstige financiële problemen.
+.. Bij patiënten met een DIS is de **realiteitstoetsing** ernstig verstoord.
+.. Een DIS ontstaat doorgaans geleidelijk, waarbij de verwarring over de eigen identiteit verder **toeneemt** naarmate de **tijd** verstrijkt.
+.. De meeste DIS-patiënten hebben last van **akoestische hallucinaties** van ruziënde stemmen.
+** [hiddenAnswer]#d., p464/465#
+
+. Beoordeel de juistheid van de volgende twee stellingen over biologische aspecten van de neurocognitieve stoornis door de ziekte van **Alzheimer**. +
+I 	**Degeneratie** van de neuronen en synapsen bij alzheimerpatiënten is in het eerste stadium het meest uitgesproken in de **hippocampus** en de **hypofyse**. +
+II 	Bij alzheimerpatiënten is in het hersenvocht de concentratie **bèta-amyloïd verhoogd** en de concentratie **tau-eiwit verlaagd**.
+.. I en II zijn juist.
+.. Alleen I is juist.
+.. Alleen II is juist.
+.. I en II zijn onjuist.
+** [hiddenAnswer]#d., p477/478#
+
+. **Obsessies** hebben betrekking op een aantal centrale thema's. Welke van de volgende **terugkerende gedachten** is __geen__ voorbeeld van deze thematiek?
+.. 'Ik ga nooit **dicht bij iemand** staan, want je weet nooit waar hij of zij mij mee kan **besmetten**.'
+.. 'Als ik in een stil **straatje loop**, denk ik vaak dat ik iemand zou kunnen aanranden of **beroven**.'
+.. 'Ik heb vaak **pijn** op mijn borst en ben dan bang dat ik een **hartaanval** krijg.'
+.. 'Ik **controleer** vaak of ik de **frituurpan** heb uitgezet voordat ik weg ga, anders is straks het hele huis afgebrand.'
+** [hiddenAnswer]#c., p495#
+
+. Welke stellingen over de **obsessieve-compulsieve** stoornis is juist?
+.. De obsessieve-compulsieve stoornis wordt gekenmerkt door een combinatie van een **verhoogd besef van dreiging** en een **overdreven verantwoordelijkheidsgevoel**.
+.. Obsessies roepen bij patiënten met een obsessieve-compulsieve stoornis verschillende **emotionele** reacties op: sommige dwanggedachten worden als **aangenaam** beleefd, andere worden **onaangenaam** gevonden.
+.. Patiënten met een obsessieve-compulsieve stoornis **zien niet** in dat de dwanggedachten een product van hun **eigen** geest zijn.
+.. Het continu herhalen van dwanghandelingen kan verklaard worden door **domeinspecifieke geheugenafwijkingen**.
+** [hiddenAnswer]#a., p496#
+
+. In het onderzoek van Kehoe, Toomey, Balsters en Bokde werden **persoonlijkheidstrekken** onderzocht met behulp van **fMRI**. De bevindingen pasten bij **Eysenck’s** voorspellingen over verschillen in hersenfunctioneren ...
+.. met betrekking tot **neuroticisme**, en met betrekking tot **extraversie**
+.. met betrekking tot **neuroticisme**, maar **niet** met betrekking tot **extraversie**
+.. met betrekking tot **extraversie**, maar **niet** met betrekking tot **neuroticisme**
+.. **noch** met betrekking tot **extraversie**, **noch** met betrekking tot **neuroticisme**
+** [hiddenAnswer]#b., p34#
+
+. Wat houdt de **Fundamental Lexical Hypothesis** van **Goldberg** met betrekking tot persoonlijkheidsfactoren in?
+.. De belangrijkste individuele verschillen in menselijk handelen zullen in sommige of alle talen ter wereld uitgedrukt worden als **enkelvoudige begrippen**.
+.. De individuele verschillen in menselijk **gedrag** zijn fundamenteel terug te voeren op verschillen in **taalvaardigheden**.
+.. De belangrijkste individuele verschillen tussen mensen zijn herkenbaar aan hun **voorkeuren** voor bepaalde manieren van zich **uitdrukken** in taal.
+.. De individuele verschillen tussen mensen zijn gerelateerd aan de **wijze** waarop fundamentele begrippen **uitgedrukt** worden in een bepaalde taal.
+** [hiddenAnswer]#a., p45/46#
+
+. Biologisch onderzoek naar **persoonlijkheidsverschillen** in de onderzoeksgroep van **Schwartz** et al. (2003) toonde het volgende aan:
+.. vrouwen die als kind op tweejarige leeftijd een **sterkere cortisolrespons op stress** vertoonden, waren meer geïnhibeerd dan vrouwen die vroeger een zwakkere cortisolrespons vertoonden.
+.. vrouwen die als kind op tweejarige leeftijd een **sterkere amygdalarespons** op het zien van **nieuwe gezichten** vertoonden, waren meer geïnhibeerd dan vrouwen die vroeger een zwakkere amygdalarespons vertoonden.
+.. de **amygdalarespons** op het zien van **onbekende gezichten** van vrouwen die op tweejarige leeftijd gecategoriseerd waren als **geïnhibeerd** was **hoger** dan de amygdalarespons van vrouwen die vroeger gecategoriseerd waren als niet geïnhibeerd.
+.. de **amygdalarespons** op **bekende en onbekende** gezichten van vrouwen die op tweejarige leeftijd gecategoriseerd waren als **geïnhibeerd** was **hoger** dan de amygdalarespons van vrouwen die vroeger gecategoriseerd waren als niet geïnhibeerd.
+** [hiddenAnswer]#c., p87/88#
+
+. In het kader van de persoonlijkheidsstoornissen wordt wel de term **egosyntoon** gebruikt. Egosyntoon wil zeggen dat de persoon met een persoonlijkheidsstoornis ...
+.. zijn of haar stoornis ziet als een **problematisch aspect** van zichzelf.
+.. meestal **sterk lijdt** onder het probleem dat ontstaan is door deze stoornis.
+.. **goed inziet** dat er iets aan hem of haar zou moeten veranderen.
+.. van zichzelf vindt dat hij of zij ‘**nu eenmaal zo is**’.
+** [hiddenAnswer]#d., p512#
+
+. Welke van de volgende kenmerken behoort niet tot de diagnostische criteria van de **dwangmatige**-persoonlijkheidsstoornis?
+.. een grote neiging tot het trekken van **aandacht** en het **vasthouden** daarvan.
+.. een **perfectionisme** dat de persoon **belemmert** om een taak af te maken.
+.. overdreven **zorgvuldigheid en inflexibiliteit** inzake morele of ethische kwesties.
+.. niet in staat zijn om versleten of waardeloze **spullen weg te gooien**.
+** [hiddenAnswer]#a., p526#
+
+. De schatting van de **prevalentie** van een willekeurige **persoonlijkheidsstoornis** in de algemene populatie ligt tussen
+.. 0% - 0.5%.
+.. 0.5% - 2.0%.
+.. 2.0% - 4.4%.
+.. 4.4% - 15.7%.
+** [hiddenAnswer]#d., p531#

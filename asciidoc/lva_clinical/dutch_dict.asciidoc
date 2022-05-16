@@ -8,6 +8,7 @@
 * beginsel ... principle
 * belevingen ... experiences / Erlebnisse
 * beschikbaarheid ... availability
+* besef ... realize, awareness
 * beweringen ... claims
 * bijsturen ... adjust / beisteuern
 * bron/bronnen ... source/s
