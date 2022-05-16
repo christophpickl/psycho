@@ -20,6 +20,15 @@ N/A
 ** OCEAN: Openness, Conscientiousness, Extroversion, Agreeableness, Neuroticism
 ** See: https://www.psychologytoday.com/us/basics/big-5-personality-traits
 
+* Good old rorschach test, do it yourself here: https://psycho-tests.com/test/rorschach-inkblot
+* Or the Thematic Apperception Test: https://www.utpsyc.org/tatintro/
+
+// my personal rorschach result is:
+// Most probably, you possess above-average intelligence level, all-embracing mindset. You are able to correctly understand the real situation, to assess the reality critically, but the high predisposition to excessive self-criticism can bring you a lot of inconvenience. In a stressful situation, your logic allows you to quickly find the right solution
+//
+//You are a mature person, clearly understanding and accepting your inner world, your needs and desires. You are able to sympathize and empathize, you are interested in the emotions of your nearest and dearest. You aspire to do something unusual and original, combining ideas and solutions.
+//
+//You are not prone to rapid changes in lifestyle, first prefer to weigh everything carefully, and then get involved in an adventure.
 == Tools
 
 * Hamilton Rating Scale for Depression: clinical interview

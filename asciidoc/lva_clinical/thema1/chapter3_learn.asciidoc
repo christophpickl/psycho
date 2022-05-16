@@ -30,3 +30,7 @@ Related to behaviorism, but not the same.
 * Learn theory says that "spontaneous recovery" is when CR (VR) happens again after total extinction.
 * Thorndike showed via instrumental conditioning (cats) that behavior increases if the outcome is desirable.
 * Latent inhibition happens if kids are made slowly getting used to a dentist, step-by-step.
+
+== From Oefenententamen
+
+* Blocking-effect: two stimuli at the same time, but only one paired. (not suppression-effect!)

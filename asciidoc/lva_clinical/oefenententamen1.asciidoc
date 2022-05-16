@@ -1,0 +1,229 @@
+= Oefenententamen 1
+
+. Een vrouw is ernstig *depressief*. Ze reageert nauwelijks op haar omgeving en denkt alleen maar aan de dood. Op basis van lichamelijk onderzoek en laboratoriumonderzoek komen artsen tot de conclusie dat haar verstoorde stemming voortvloeit uit de fysiologische gevolgen van een somatische aandoening: de vrouw heeft een *schildklieraandoening*. +
+Vanuit welk model zal deze vrouw als 'abnormaal' of 'geestesziek' worden benoemd?
+.. alleen vanuit het medisch model
+.. alleen vanuit het medisch model en het statistisch model
+.. alleen vanuit het statistisch model en het leer- of onderwijsmodel
+.. zowel vanuit het medisch model, het statistisch model als het leer- of onderwijsmodel
+** [hiddenAnswer]#b.#
+
+. Het aantal *neurotransmitters* in de synaptische spleet wordt beïnvloed door verschillende processen, zoals de chemische afbraak (*katabolisme*) van neurotransmitters in de synaps. +
+Deze afbraak wordt bewerkstelligd door
+.. dendrieten.
+.. blocking agents.
+.. axonen.
+.. enzymen.
+** [hiddenAnswer]#d.#
+
+. Problemen in de *emotieregulatie* kunnen leiden tot verschillende vormen van psychopathologie. Daarbij wordt wel onderscheid gemaakt tussen internaliserende en externaliserende stoornissen. +
+Wat is een typisch symptoom van een *externaliserende stoornis*?
+.. depressie
+.. angst
+.. psychosomatische klachten
+.. hyperactiviteit
+** [hiddenAnswer]#d.#
+
+. De *neurobiologische* benadering van psychopathologie gaat er in het algemeen van uit dat stoornissen ontstaan als een gevolg van de interactie *tussen genetische en omgevingsfactoren*. Een van de stellingen die daarbij gehanteerd wordt, is dat mensen met een bepaalde genetische vatbaarheid gevoeliger zijn voor negatieve omgevingsinvloeden. +
+Deze stelling ligt aan de basis van
+.. het diathese-stressmodel.
+.. de differential susceptibility theory.
+.. de concordantietheorie.
+.. het reductionisme.
+** [hiddenAnswer]#a.#
+
+. Een *rat* wordt in een kooi gestopt, met aan een van de wanden een *pedaaltje*, met daaronder een *voedselbakje*. Als de rat op het pedaaltje drukt kan er voedsel in het bakje vallen. Het moment wordt automatisch geregistreerd met een *polygraaf*. Deze proefopstelling werd door een van de grondleggers van de operante conditionering gebruikt om het natuurlijk verloop van leergedrag te observeren. +
+Hoe werd die opstelling genoemd?
+.. de puzzle box
+.. de skinnerbox
+.. de shuttle-box
+.. de ‘trial-and-error’-box
+** [hiddenAnswer]#b.#
+
+. Kamin (1967) trainde ratten met een *auditieve prikkel* die voorafging aan elektrische stimulatie, met als gevolg dat zij een schrikreactie vertoonden bij het aanbieden van die auditieve prikkel. Vervolgens bood hij tezamen met de auditieve prikkel een *visuele prikkel* aan en wederom gingen beide stimuli vooraf aan elektrische stimulatie. Hij testte daarna de reactie van de ratten wanneer zij enkel de visuele prikkel zagen en ontdekte dat zij nauwelijks hadden geleerd om op de visuele prikkel te reageren ondanks dat deze gepaard was gegaan met de elektrische stimulatie. +
+Hoe wordt binnen de leertheoretische benadering dit effect genoemd waarbij een dier nauwelijks leert te reageren op een prikkel die blijkbaar *redundant* is omdat het dier in een eerdere fase al heeft geleerd te reageren op een andere prikkel?
+.. het suppressie-effect
+.. het inhibitie-effect
+.. het blokkeringseffect
+.. het extinctie-effect
+** [hiddenAnswer]#c.#
+
+. Leerpsychologen hebben zich de vraag gesteld hoe het ophalen van informatie uit het extinctiegeheugen vergemakkelijkt kan worden. +
+Wat blijkt uit *extinctieonderzoek*?
+.. Het uitvoeren van extinctie in verschillende contexten kan helpen.
+.. Een geheugensteuntje in de vorm van een soort souvenir aan de extinctiefase kan helpen.
+.. Twee VP’s (voorwaardelijke prikkels) apart conditioneren met eenzelfde OP (onvoorwaardelijke prikkel), en tijdens de extinctie beide VP’s aanbieden zonder de OP kan helpen.
+.. Alle drie de genoemde antwoorden zijn juist.
+** [hiddenAnswer]#d.#
+
+. Welke van de volgende beweringen over de *cognitief*-psychologische benadering is *niet juist*?
+.. In de experimentele cognitieve psychologie wordt veel waarde gehecht aan introspectie als wetenschappelijke methode om mentale processen in kaart te brengen.
+.. De cognitieve psychologie beoogt theorieën over mentale processen te formuleren en die empirisch, met behulp van laboratoriumexperimenten, te toetsen.
+.. Cognitief psychologen bestuderen de invloed van informatieverwerkingsprocessen op andere factoren (zoals motieven en fysiologische processen) en - andersom - de invloed van die andere factoren op de informatieverwerking.
+.. In de cognitief-psychologische theorievorming worden begrippen uit de informatica gebruikt, waarbij het menselijk brein vergeleken wordt met een computer.
+** [hiddenAnswer]#a.#
+
+. Uit cognitief-psychologisch onderzoek blijkt dat *aandachtsbiaseffecten* vooral kenmerkend zijn voor patiënten met een
+.. depressieve stoornis.
+.. angststoornis.
+.. slaapstoornis.
+.. aandachtstekortstoornis.
+** [hiddenAnswer]#b.#
+
+. Beoordeel de juistheid van de volgende twee stellingen over de *aandachtsbias*. +
+I *Angstpatiënten* blijken een aandachtsbias te vertonen bij woorden die specifiek zijn voor hun angststoornis maar ook bij negatief-emotionele woorden. +
+II *Depressieve patiënten* hebben meer moeite zich los te maken van negatieve informatie als hun aandacht hier eenmaal al op gericht is.
+.. I en II zijn juist.
+.. Alleen I is juist.
+.. Alleen II is juist.
+.. I en II zijn onjuist.
+** [hiddenAnswer]#c.#
+
+. Beoordeel de juistheid van de volgende twee stellingen over de relatie tussen bewustzijnsniveaus en het Ich, Es en Über-Ich. +
+I Het *Ich* en het *Es* bevatten allebei zowel *onbewuste als bewuste* elementen. +
+II Het *Über-Ich* is volledig *onbewust*.
+.. I en II zijn juist.
+.. Alleen I is juist.
+.. Alleen II is juist.
+.. I en II zijn onjuist.
+** [hiddenAnswer]#d.#
+
+. Volgens *objectrelatietheoretici* wordt de ontwikkeling van de persoonlijkheid met name bepaald door
+.. de wijze waarop een individu de kernconflicten in de vijf fasen van de psychoseksuele ontwikkeling oplost.
+.. de afwikkeling van het oedipus- en het elektracomplex.
+.. de verhouding tussen moeder en kind in de eerste levensjaren.
+.. iemands vermogen om met anderen samen te werken bij het streven naar persoonlijke en maatschappelijke doelen.
+** [hiddenAnswer]#c.#
+
+. Paul had drie jaar een relatie met Linda, toen zij, voor Paul totaal onverwacht, hun *relatie beëindigde*. Linda heeft inmiddels een andere vriend. Op de vraag hoe hij zich voelt, antwoordt Paul: '_Och, het doet me niet zo veel, ik denk dat ze er zelf veel meer verdriet van heeft, ik was per slot de liefde van haar leven, en ze had het idee met mij oud te worden. Waarom ze weg gegaan is, dat snap ik dan ook niet._' +
+De egopsychologie onderscheidt een aantal afweermechanismen. Van welk *afweermechanisme* is het gedrag van Paul een karakteristiek voorbeeld?
+.. van regressie
+.. van projectie
+.. van reactievorming
+.. van rationalisering
+** [hiddenAnswer]#b.#
+
+. De *holistische* theorie van de humanistische benadering van psychopathologie
+.. gaat uit van ‘heel de mens’ en probeert te achterhalen waar het gedrag uit voort komt.
+.. gaat uit van ‘heel de mens’ en probeert gedrag te begrijpen vanuit een intentie.
+.. gaat uit van huidige, gehele waarnemingsprocessen en probeert gedrag te begrijpen vanuit een intentie.
+.. gaat uit van de huidige waarneming en probeert tegelijkertijd te achterhalen waar het gedrag uit voortkomt.
+** [hiddenAnswer]#b.#
+
+. De volgorde van de treden van Maslows *behoeftepiramide* van de basis tot de top is
+.. veiligheid; fysiologische behoeften; liefde/erbij willen horen; zelfwaardering; zelfactualisatie
+.. fysiologische behoeften; veiligheid; liefde/erbij willen horen; zelfwaardering; zelfactualisatie
+.. zelfactualisatie; veiligheid; fysiologische behoeften; liefde/erbij willen horen; zelfwaardering
+.. fysiologische behoeften; veiligheid; zelfwaardering; liefde/erbij willen horen; zelfactualisatie
+** [hiddenAnswer]#b.#
+
+. Maslow formuleerde de positieve *motivatietheorie*. Wat is het uitgangspunt van deze theorie?
+.. Mensen zijn gemotiveerd om zowel lagere als hogere behoeften te vervullen.
+.. Mensen streven naar bevrediging van hogere behoeften als de lagere vervuld zijn.
+.. Mensen streven naar hogere kwaliteiten en naar zelfverwerkelijking.
+.. Mensen zijn gemotiveerd om positieve doelen te bereiken en werken daar ook naartoe.
+** [hiddenAnswer]#b.#
+
+. De *algemene systeemtheorie* is een abstract denkkader dat in diverse takken van wetenschap is gebruikt om verschijnselen en de samenhang tussen verschijnselen te beschrijven. +
+Welke van de volgende termen behoort niet tot de centrale begrippen in de algemene systeemtheorie?
+.. homeostase
+.. circulaire causaliteit
+.. positieve-feedbackprocessen
+.. dubbele binding
+** [hiddenAnswer]#d.#
+
+. Beoordeel de juistheid van de volgende twee stellingen over begrippen uit de *structurele gezinstherapeutische* stroming. +
+I Binnen de structurele gezinstherapie wordt van een *associatie* gesproken als twee of meer gezinsleden een subsysteem vormen voor het realiseren van een gemeenschappelijk doel. +
+II Een kind dat als vertegenwoordiger van de ouders bepaalde opvoedingstaken krijgt, wordt binnen de structurele gezinstherapie een adjudant of *hulpouder* genoemd.
+.. I en II zijn juist.
+.. Alleen I is juist.
+.. Alleen II is juist.
+.. I en II zijn onjuist.
+** [hiddenAnswer]#a.#
+
+. Met de term *bliksemafleider* wordt in de structurele gezinstherapeutische benadering een kind bedoeld dat
+.. de illusie van een harmonieuze relatie tussen ouders in stand houdt.
+.. de aanvoerder is van een coalitie binnen een gezin.
+.. een afstandelijke relatie heeft met de andere gezinsleden.
+.. als vertegenwoordiger van de ouders bepaalde opvoedingstaken krijgt.
+** [hiddenAnswer]#a.#
+
+. Het invoelend begrijpen van de *belevingswereld* van een individu noemen we ook wel de
+.. voluntaristische methode.
+.. atheoretische houding.
+.. hermeneutische methode.
+.. eclectische houding.
+** [hiddenAnswer]#c.#
+
+. Wat zegt Jannes Eshuis (interview masterclass) over de verklaringskracht van de *metaforen* in de vroege *psychoanalytische* theorie van Freud over het onbewuste?
+.. De therapeut heeft met de verklaring van het gedrag van de cliënt altijd gelijk: als de cliënt het niet eens is met de therapeut dan ligt dat aan het afweermechanisme van de cliënt.
+.. Naar het psychoanalytisch kader van Freud is in het verleden grondig onderzoek verricht, maar de theorie is inmiddels achterhaald.
+.. De therapeut biedt een verklaring voor de wijze waarop het gedrag van de cliënt tot stand gekomen is, waardoor het mogelijk is een behandelingsplan op te stellen.
+.. De theorie heeft een beperkt toepassingsgebied, want het betreft alleen het onbewuste van de cliënt.
+** [hiddenAnswer]#a.#
+
+. Kenmerkend voor *monothetische* classificatie is dat
+.. de indeling in klassen plaatsvindt op slechts één glijdende schaal of dimensie.
+.. de leden van een klasse ten minste één gemeenschappelijk kenmerk hebben.
+.. de indeling in klassen is gebaseerd op slechts één pathogeen mechanisme.
+.. de leden van een klasse verschillende kenmerken gemeen hebben maar niet noodzakelijk een specifiek kenmerk hoeven te delen.
+** [hiddenAnswer]#b.#
+
+. Op het classificatiesysteem *DSM* zijn verschillende punten van *kritiek* geuit. +
+Wat is *geen* punt van kritiek op de DSM?
+.. De diagnostische criteria binnen de DSM zijn vooral tot stand gekomen op grond van consensus en veel te weinig op basis van empirische gegevens.
+.. De DSM bemoeilijkt de onderlinge communicatie tussen werkers in de geestelijke gezondheidszorg.
+.. Binnen de DSM wordt te sterk de nadruk gelegd op de negatieve aspecten van het functioneren van cliënten en hun omgeving.
+.. De DSM doet onvoldoende recht aan de diversiteit van stoornissen en aan de verschillende gradaties waarin symptomen zich kunnen voordoen.
+** [hiddenAnswer]#b.#
+
+. Heeft de *DSM* volgens Trudy Dehue (interview masterclass) een *wetenschappelijke basis*?
+.. Ja, de DSM is gebaseerd op een wetenschappelijk kader en symptomen die psychologisch verankerd zijn.
+.. Ja, de DSM is gebaseerd op de opvatting van de psychiatrie over menselijke eigenschappen die gebaseerd is op een theoretisch kader.
+.. Nee, de DSM is gebaseerd op de opvatting van de psychiatrie over menselijke eigenschappen waar mensen zelf en anderen last van hebben en dus als een stoornis beschouwd kunnen worden.
+.. Nee, de DSM is gebaseerd op de opvatting van de psychiatrie over gedrag dat wel en niet geaccepteerd kan worden binnen de samenleving.
+** [hiddenAnswer]#c.#
+
+. Vergeleken met het open klinische interview heeft het (semi)*gestructureerde interview* als voordeel dat
+.. het meer informatie oplevert over een grotere diversiteit aan onderwerpen.
+.. de betrouwbaarheid van het interview hoger is.
+.. het niet nodig is interviewers te trainen in het afnemen van een dergelijk interview.
+.. de verwachtingen van de cliënt geen invloed hebben op de informatie die het interview oplevert.
+** [hiddenAnswer]#b.#
+
+. Voor *projectieve methoden* geldt dat zij
+.. het mogelijk maken 'geestelijk gezonde' mensen en mensen met psychische problemen van elkaar te onderscheiden.
+.. een geringe betrouwbaarheid en validiteit hebben.
+.. betrouwbare informatie opleveren over de innerlijke drijfveren en persoonlijkheid van een cliënt.
+.. weliswaar betrouwbare informatie opleveren over de persoonlijkheid van een cliënt, maar niet over diens onbewuste motieven.
+** [hiddenAnswer]#b.#
+
+. Volgens Trudy Dehue (interview masterclass) hoeft een *stoornis* niet altijd negatief te zijn; sommige mensen hechten hier een *positieve* betekenis aan. +
+Welke is dit?
+.. het ontvangen van gepaste hulp en het niet langer toeschrijven van de schuld aan de eigen persoon
+.. medicatie krijgen en niet meer als gek verklaard worden
+.. niet langer op zoek moeten zijn voor een verklaring van de klachten en identificatie met de eigen stoornis
+.. Alle drie de genoemde antwoorden zijn juist.
+** [hiddenAnswer]#a.#
+
+. Uit een van de artikelen uit de masterclass blijkt dat de *interpretatie- en de aandachtstaak* worden gebruikt bij onderzoek naar
+.. informatieverwerking bij depressie.
+.. comorbiditeit bij angst.
+.. comorbiditeit en informatiewerking bij depressie.
+.. geheugenproblemen bij angst.
+** [hiddenAnswer]#a.#
+
+. In het artikel ‘wat *antidepressiva* met je doen’ (masterclass) worden de bijwerkingen van SSRI’s besproken. Volgens dit artikel kunnen SSRI’s bij de behandeling van depressie ervoor zorgen dat
+.. het mechanisme van zelfcontrole minder sterk wordt waardoor er sprake is van ontremming.
+.. de eetlust afneemt, waardoor er een emotionele afstomping plaatsvindt.
+.. behoefte aan seks sterk toeneemt, waardoor er relatieproblemen kunnen ontstaan.
+.. de negatieve en positieve pieken hoger zijn, maar dat daar wat gemakkelijker mee te leven is.
+** [hiddenAnswer]#a.#
+
+. In het artikel ‘Connor was een onhandelbaar kind’ uit de masterclass vertelt een professional die werkt met kinderen die gediagnosticeerd zijn met een *autismespectrumstoornis* dat het belangrijk is de *omgeving* bij de behandeling te betrekken. +
+Waarom is dat volgens haar belangrijk voor deze kinderen?
+.. omdat deze kinderen zich slecht kunnen aanpassen aan de omgeving
+.. omdat daarmee het kind ‘ontschuldigt’ wordt
+.. omdat deze kinderen behoefte hebben aan structuur en duidelijkheid
+.. Alle drie de genoemde antwoorden zijn juist.
+** [hiddenAnswer]#d.#
