@@ -1,6 +1,32 @@
+* !!! PDF chapter 8
+* !!! PDF chapter 9
+
+
 * quick cheatsheet (table) of all diseases
-* for each chapter:
-    * noordhoof test exams
-    * mindmap ANALOG/DIGITAL
-    * wiki summary (terms, people; summary)
 * go through oefenententamen 2 => pick up key terms/people/research/focus topics
+* go through YouLearn exams => pick up key terms/people/research/focus topics
+* test exams from other universities (PDFs from daiana, 3 stueck)
+
+
+* PPT ... noordhoff PPTs into wiki
+* MM ... mindmap ANALOG/DIGITAL
+* YL ... read YouLearn texts
+* Wik ... enhance wiki (terms, people; summary; pics from youLearn)
+* NEx ... noordhoof test exams
+| Ch | PPT | MM  | YL  | Wik | NEx |
++----+-----+-----+-----+-----+-----+
+| 11 |     |     |     |     |     |
+| 12 |     |     |     |     |     |
+| 13 |     |     |     |     |     |
+| 14 |     |     |     |     |     |
+| 15 |     |     |     |     |     |
+| 16 |     |     |     |     |     |
+| 17 |     |     |     |     |     |
+| 18 |     |     |     |     |     |
+| 19 |     |     |     |     |     |
+| 20 |     |     |     |     |     |
+| 21 |     |     |     |     |     |
+| 22 |     |     |     |     |     |
+| 23 |     |     |     |     |     |
+| 24 |     |     |     |     |     |
+| 25 |     |     |     |     |     |

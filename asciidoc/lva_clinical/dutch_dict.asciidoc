@@ -2,8 +2,10 @@
 
 == New Terms
 
+* aandoening ... condition
 * aanleiding ... cause
 * aanschouwen ... anschauen
+* afleidbaarheid ... distractibility
 * achterhalen ... track down
 * beginsel ... principle
 * belevingen ... experiences / Erlebnisse

@@ -1,0 +1,161 @@
+= Zelftoets
+
+== Chapter 11 -  Neurobiological development disorders
+
+. Beoordeel de juistheid van de volgende twee stellingen over de autismespectrumstoornis (*ASS*).  +
+I Door een gemiddelde tot bovengemiddelde *intelligentie* wordt ASS vaak pas op latere leeftijd zichtbaar. +
+II Door een verstoorde *hechtingsrelatie* wordt ASS vaak pas op latere leeftijd zichtbaar.
+.. Alleen I is juist.
+.. Alleen II is juist.
+.. I en II zijn beide juist.
+.. I en II zijn beide onjuist.
+** [hiddenAnswer]#a.#
+
+. Welke van de volgende kenmerken van de autismespectrumstoornis behoort _niet_ tot het *criterium 'Afwijkende sociale wederkerigheid'*?
+.. het ontbreken van het besef van sociale conventies
+.. het in het geheel niet weten wat te zeggen in sociale situaties
+.. het moeite hebben met het maken van oogcontact
+.. het onvermogen om spontaan emoties te delen met anderen
+** [hiddenAnswer]#c.#
+
+. Welke van de volgende methoden wordt op dit moment vooral gebruikt bij de classificerende *diagnostiek* van ASS?
+.. genetisch onderzoek
+.. neuropsychologische tests
+.. een semigestructureerd interview
+.. vragenlijstonderzoek
+** [hiddenAnswer]#c.#
+
+. Beoordeel de juistheid van de volgende twee stellingen over *ADHD*. +
+I Bij *volwassenen* met ADHD is *hyperactiviteit minder* prominent aanwezig dan bij kinderen. +
+II In het klassieke beeld van volwassenen met ADHD valt de verhoogde *afleidbaarheid, en onoplettendheid* op.
+.. Alleen II is juist.
+.. Alleen I is juist.
+.. I en II zijn juist.
+.. I en II zijn onjuist.
+** [hiddenAnswer]#c.#
+
+. Bij het vaststellen van ADHD worden veelal *drie stappen* in het *diagnostisch proces* gevolgd. Welke van de volgende uitspraken is _niet_ juist?
+.. In stap 2 wordt de oorsprong van de symptomen vastgesteld. Hierbij wordt vaker gebruik gemaakt van semi-gestructureerde interviews dan in fase 1.
+.. In stap 3 wordt de aan- of afwezigheid van comorbide problemen in kaart gebracht. Hierbij wordt vaak gebruik gemaakt van hetero-anamneses.
+.. In stap 1 worden eventuele symptomen vastgesteld. Hierbij wordt vooral gebruik gemaakt van screeningsformulieren en vragenlijsten.
+.. Door het gebruikte instrumentarium in de verschillende stappen speelt het inzicht van de clinicus nauwelijks een rol bij het diagnosticeren van ADHD bij volwassenen.
+** [hiddenAnswer]#d.#
+
+. Welke *behandeling* wordt het meest toegepast bij *volwassenen* met ADHD?
+.. concentratietherapie
+.. ontspanningstherapie
+.. gedragstherapie
+.. medicatie
+** [hiddenAnswer]#d.#
+
+== Chapter 12 -  Depression and bipolar mood disorders
+
+. Kenmerkend voor een *hypomane episode* van een stemmingsstoornis is dat de patiënt ...
+.. minstens *vier dagen* lang symptomen van een manische episode vertoont *zonder grote beperkingen* in het dagelijks functioneren.
+.. gedurende ten *minste twee jaar afwisselend* manische episoden en depressieve episoden doormaakt.
+.. gedurende ten *minste twee maanden* bijna *elke dag* symptomen vertoont die voldoen aan de criteria van zowel een *depressieve* stoornis als een *angststoornis*.
+.. *afwisselend* een manische of hypomane episode doormaakt, terwijl de tussenliggende periode van *normaal* functioneren *nooit langer* dan *twee maanden* duurt.
+** [hiddenAnswer]#a.#
+
+. Welke van de onderstaande symptomen behoort _niet_ tot de diagnostische *kenmerken* van een *manische episode*?
+.. minder behoefte aan *slaap*
+.. duidelijke *gewichtsvermindering*
+.. *grootheidsideeën*
+.. snel *afgeleid* zijn
+** [hiddenAnswer]#b.#
+
+. Een man heeft al jarenlang een *neerslachtige* stemming. Hij voelt zich het grootste deel van de dag *vermoeid*. Aan zijn werk beleeft hij *weinig plezier*. Het komt vaak voor dat hij zich niet goed op zijn werkzaamheden kan *concentreren*. Naar zijn mening hebben de verschillende reorganisaties in het bedrijf waar hij werkt, hem ‘murw’ gemaakt. Heel *af en toe* is er een periode dat het *beter* gaat; hij voelt zich dan weer net zo *energiek* als vroeger. Deze ‘gelukkige’ perioden duren echter *nooit langer dan een maand*. +
+Welke van de volgende diagnosen is het meest waarschijnlijk, aangenomen dat er onvoldoende symptomen zijn om te voldoen aan de criteria van een depressieve stoornis?
+.. dysthyme stoornis
+.. bipolaire II-stoornis
+.. cyclothyme stoornis
+.. bipolaire I-stoornis
+** [hiddenAnswer]#a.#
+
+. Beoordeel de juistheid van de volgende twee stellingen over het medisch of ziektemodel. +
+I Aanhangers van het *leertheoretische* model zijn van mening dat een depressieve stoornis kan ontstaan als mensen onvoldoende geleerd hebben *beloningen* te ontlokken aan de buitenwereld. +
+II Volgens de *biologische* benadering is er bij een depressieve stoornis sprake van *genetische* factoren en van een ontregeling in de *hypothalamus-hypofyse-bijnier*.
+.. Alleen I is juist.
+.. Alleen II is juist.
+.. I en II zijn onjuist.
+.. I en II zijn juist.
+** [hiddenAnswer]#d.#
+
+. Een *depressieve* vrouw beschouwt *zichzelf* als een *verliezer*. Ze vindt ook dat de *wereld niet rechtvaardig* is, dat *anderen niet te vertrouwen* zijn en dat het leven te zware eisen stelt. De vrouw denkt dat ze de situatie waarin zij zich bevindt, niet kan verbeteren. Dit voor depressieven kenmerkende denken wordt in de theorie van *Beck aangeduid* als ...
+.. de cognitieve triade.
+.. aangeleerde hulpeloosheid.
+.. instabiele attributies.
+.. de depressieve positie.
+** [hiddenAnswer]#.#
+
+. Hulpverleners die zich baseren op de theorie van *Lewinsohn of het zelfcontrolemodel van Rehm*, zullen bij de behandeling van depressieve stoornissen ...
+.. zoeken naar *schemata* die ten grondslag liggen aan het *negatieve zelfbeeld* van de patiënt.
+.. de patiënt leren de *(zelf)bekrachtiging* te verhogen.
+.. kiezen voor een combinatie van *psychofarmaca en cognitieve gedragstherapie*.
+.. een steungevende *psychoanalytische* behandeling toepassen, gericht op specifieke probleemgebieden.
+** [hiddenAnswer]#b.#
+
+== Chapter 13 -  Anxiety disorders
+
+.
+** [hiddenAnswer]#.#
+
+== Chapter 14 -  Substance abuse
+
+.
+** [hiddenAnswer]#.#
+
+== Chapter 15 -  Somatosymptomic disorders
+
+.
+** [hiddenAnswer]#.#
+
+== Chapter 16 -  Sleeping disorders
+
+.
+** [hiddenAnswer]#.#
+
+== Chapter 17 -  Eating disorders
+
+.
+** [hiddenAnswer]#.#
+
+== Chapter 18 -  Disruptibe imppulsive behavioral disorders
+
+.
+** [hiddenAnswer]#.#
+
+== Chapter 19 -  Genderdysforie, paraphile and sexual disorders
+
+.
+** [hiddenAnswer]#.#
+
+== Chapter 20 -  Schizophrenia spectrum
+
+.
+** [hiddenAnswer]#.#
+
+== Chapter 21 -  Trauma and stress-related disorders
+
+.
+** [hiddenAnswer]#.#
+
+== Chapter 22 -  Dissociative disorders
+
+.
+** [hiddenAnswer]#.#
+
+== Chapter 23 -  Neurocognitive disorders
+
+.
+** [hiddenAnswer]#.#
+
+== Chapter 24 -  Obsessive-compulsive disorders
+
+.
+** [hiddenAnswer]#.#
+
+== Chapter 25 -  Personality disorders
+
+.
+** [hiddenAnswer]#.#
