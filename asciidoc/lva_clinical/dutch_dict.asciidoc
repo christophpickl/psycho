@@ -23,11 +23,15 @@
 * kwaad ... bad (pissed off)
 * maatschappij ... society / Gesellschaft
 * met name ... in particular
+* misselijkheid ... nausea
+* nagebootste ... imitated
 * onderwijs ... education / Ausbildung ("Unterweisung")
 * onoplettendheid ... inattention
 * ontsnappen ... escape
 * onvoorspelbaarheid ... unpredictability / Unvorhersehbarkeit
 * opvoeding ... upbringing
+* opwinding ... arousal
+* prestaties ... performance
 * redenering ... reasoning (reden = reason)
 * slechts ... only
 * somber ... sad (ook: verdrietig)
@@ -37,6 +41,8 @@
 * toeschouwer ... spectator / Zuschauer
 * toetsing ... check, review
 * uitdoving ... extinction
+* verhoudingsgewijs ... proportionally
+* vernederen ... humiliate
 * vertekenen ... distort
 * vertekening ... bias
 * verschijnsel ... phenomenon / Erscheinung
@@ -46,6 +52,7 @@
 * wantrouwen ... mistrust
 * wetmatigheden ... laws
 * zeggenschap ... control/saying
+* zwerfgedrag .. wandering behavior
 
 == Old Terms
 

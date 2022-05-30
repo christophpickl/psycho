@@ -1,0 +1,122 @@
+= Zelftoets
+
+== Personality theory
+
+. Welke bewering over de concepten van *surface traits* en *source traits* van *Cattell* is juist?
+.. 'Source traits' zijn de *belangrijkste* persoonlijkheidstrekken.
+.. 'Surface traits' en 'source traits' zijn *hiërarchisch* geordend.
+.. 'Surface traits' zijn oppervlakkige, weinig relevante *gedragskenmerken*.
+.. 'Surface traits' en 'source traits' liggen op *hetzelfde analyseniveau*.
+** [hiddenAnswer]#b.#
+
+. Welke bewering is juist? *Eysenck's 'superfactors'* zijn:
+.. gebaseerd op *empirisch* onderzoek
+.. clusters van de *zestien* factoren van Cattell
+.. afgeleid met behulp van *factoranalyse*
+.. sterk *gecorreleerd* met elkaar
+** [hiddenAnswer]#c.#
+
+. Welke van de volgende beweringen over het *Big Five*-model is juist?
+.. Het model sluit aan bij de opvatting van *syndroomcontinuïteit*.
+.. De vijf factoren worden in verschillende *culturen* teruggevonden; het model blijkt algemeen geldig te zijn.
+.. Het Big Five-model is het meest *prominente* categoriële persoonlijkheidsmodel.
+.. De vijf factoren zijn extraversie, openheid, conciëntieusheid, neuroticisme en altruïsme.
+** [hiddenAnswer]#c.#
+
+. Persoonlijkheidstrekken zijn stabiel in de tijd. Longitudinaal onderzoek heeft echter ook aangetoond dat trekken in de *loop van het leven* meer of minder kunnen veranderen. Welke bewering is juist over de *veranderlijkheid* van persoonlijkheidstrekken?
+.. Ouderen scoren hoger op neuroticisme, extraversie en openheid, en lager op aardigheid (agreeableness) en consciëntieusheid dan adolescenten en jonge volwassenen.
+.. Ouderen scoren lager op neuroticisme, extraversie en openheid, en hoger op aardigheid (agreeableness) en consciëntieusheid dan adolescenten en jonge volwassenen.
+.. Ouderen scoren lager op consciëntieusheid, extraversie en openheid, en hoger op aardigheid (agreeableness) en neuroticisme dan adolescenten en jonge volwassenen.
+.. Ouderen scoren hoger op consciëntieusheid, extraversie en openheid, en hoger op aardigheid (agreeableness) en neuroticisme dan adolescenten en jonge volwassenen.
+** [hiddenAnswer]#b.#
+
+. In het debat over de *person-situation controversy* in relatie tot persoonlijkheidstrekken is er kritiek op de trait theorie die stelt dat persoonlijkheidstrekken stabiel zijn over tijd en situatie. Wat wordt door de *kritici* in twijfel getrokken?
+.. de hoge longitudinale en de lage cross-situationele stabiliteit van persoonlijkheidstrekken
+.. de hoge longitudinale stabiliteit van persoonlijkheidstrekken
+.. de hoge cross-situationele stabiliteit van persoonlijkheidstrekken
+.. de lage longitudinale en de hoge cross-situationele stabiliteit van persoonlijkheidstrekken
+** [hiddenAnswer]#c.#
+
+. De *erfelijkheidsfactoren* voor de Big-Five persoonlijkheidstrekken blijken enigszins verschillend. +
+Welke bewering is juist? +
+De erfelijkheidsfactor van X is (op populatieniveau) groter dan van Y bij:
+.. X: Aardigheid (agreeableness); Y: Consciëntieusheid
+.. X: Consciëntieusheid; Y: Neuroticisme
+.. X: Neuroticisme; Y: Extraversie
+.. X: Openheid; Y: Aardigheid (agreeableness)
+** [hiddenAnswer]#d.#
+
+. Moleculair *genetisch onderzoek* (Caspi et al., 2002) naar de veerkracht van kinderen na *traumatische* ervaringen op *jonge leeftijd* heeft het volgende aangetoond:
+.. *Alle* kinderen ontwikkelen meer of minder antisociaal gedrag na een geschiedenis van vroege traumatisering.
+.. Er is geen *genetische bijdrage* aan het ontstaan van antisociaal gedrag na vroege traumatisering.
+.. Er is een genetisch gecodeerd *enzym* dat *beschermt* tegen antisociaal gedrag na vroege traumatisering.
+.. Er is een genetisch gecodeerd *enzym* dat *kwetsbaar* maakt voor antisociaal gedrag na traumatisering.
+** [hiddenAnswer]#c.#
+
+. *Gedragsgenetici onderzoeken* naast de bijdrage van genetische factoren aan het ontwikkelen van de persoonlijkheid ook de relatieve bijdragen van twee verschillende typen van *omgevingsinvloeden*, respectievelijk de *gedeelde* en de niet-gedeelde invloeden. +
+Wat is uit dit onderzoek tot nu toe vast komen te staan?
+.. Alleen de effecten van *gedeelde* omgevingsinvloeden bleken *betrouwbaar* vast te stellen.
+.. De effecten van *gedeelde* omgevingsinvloeden zijn verwaarloosbaar *klein*; de effecten van *niet-gedeelde* invloeden zijn *groot*.
+.. De effecten van *gedeelde* omgevingsinvloeden zijn *groot*; de effecten van *niet-gedeelde* invloeden zijn verwaarloosbaar *klein*.
+.. De effecten van *gedeelde en niet-gedeelde* omgevingsinvloeden zijn even *groot*.
+** [hiddenAnswer]#b.#
+
+== Personality disorders
+
+. Het essentiële kenmerk van de *borderline*-persoonlijkheidsstoornis is een aanhoudend patroon van
+.. *instabiliteit* van het *zelfbeeld*, *emotionele* reacties en de *relaties* met anderen
+.. *sociale* beperkingen, *cognitieve* en perceptuele vervormingen, en eigenaardig gedrag
+.. het negeren en schenden van de *rechten* van anderen
+.. *afstandelijkheid* in relaties met anderen en een beperkte variatie in emotionele uitingen
+** [hiddenAnswer]#a.#
+
+. Welke van de volgende persoonlijkheidsstoornissen behoort *niet* tot het *angstige* cluster zoals dat in DSM-5 wordt onderscheiden?
+.. de paranoïde persoonlijkheidsstoornis
+.. de dwangmatige persoonlijkheidsstoornis
+.. de afhankelijke persoonlijkheidsstoornis
+.. de ontwijkende persoonlijkheidsstoornis
+** [hiddenAnswer]#a.#
+
+. Wat is het hoofddoel van de *dialectische gedragstherapie* (Linehan, 1996) voor borderlinepatiënten?
+.. training van vaardigheden, aangevuld met het veranderen van *misinterpretaties* van de werkelijkheid die patiënten erop nahouden
+.. het *vervangen* van ineffectieve, slecht aangepaste *gedragingen* door *vaardige reacties*
+.. het integreren van *tegenstrijdige aspecten* van de persoonlijkheid van patiënten tot een stabiel geheel
+.. het bewerken van *overdrachtsrelaties* en aanleren van *emotieregulerende* vaardigheden
+** [hiddenAnswer]#b.#
+
+. Met de bewering dat persoonlijkheidsstoornissen *egosyntoon* zijn, wordt bedoeld dat een persoon met deze stoornis:
+.. zijn problemen heel duidelijk kan *onderkennen*
+.. de problemen ziet als een *deel van zichzelf*
+.. bijzonder *lijdt* onder deze aandoening
+.. vindt dat hij/zij hierdoor *niet zichzelf* kan zijn
+** [hiddenAnswer]#b.#
+
+. Moffit (2005) heeft een metaanalyse gepubliceerd van studies van de *genetische* bijdrage aan het ontwikkelen van *antisociale* persoonlijkheidsstoornis. Het geschatte percentage van de genetische bijdrage dat gevonden werd was:
+.. 60-70 procent
+.. 20-30 procent
+.. 0-10 procent
+.. 40-50 procent
+** [hiddenAnswer]#d.#
+
+. Welke van de volgende trekken behoort *niet* tot de diagnostische kenmerken van een *antisociale* persoonlijkheidsstoornis?
+.. oneerlijkheid
+.. achterdocht (=suspicion)
+.. impulsiviteit
+.. prikkelbaarheid
+** [hiddenAnswer]#b.#
+
+. Mensen met een *ontwijkende* persoonlijkheidsstoornis vermijden sociale contacten omdat ze
+.. geen *behoefte* hebben aan (intieme) relaties met anderen
+.. bang zijn hun eigen *identiteit* te verliezen in een relatie met een ander
+.. verwachten door anderen te worden *uitgebuit* of benadeeld
+.. bang zijn te worden *bekritiseerd of afgewezen*
+** [hiddenAnswer]#d.#
+
+. Meneer Spang is 53 jaar en al bijna dertig jaar getrouwd. Zijn huwelijk omschrijft hij als ‘goed’ en ‘stabiel’. Hij heeft twee kinderen die in een andere stad studeren en wonen. Hij kijkt er altijd erg naar uit als ze in het weekend thuiskomen. De heer Spang is altijd al een zeer *gesloten* man geweest. Hij vertelt vrijwel nooit iets over zichzelf aan anderen, vanuit de gedachte dat ‘alles wat ze van je weten, tegen je gebruikt kan worden’. *Zijn vrouw* is de enige die hij vertrouwt, ook al is er een periode geweest dat hij vermoedde dat zij zijn vertrouwen *beschaamde* en een seksuele relatie had met een collega op haar werk. Mevrouw Spang heeft haar man er uiteindelijk van kunnen overtuigen dat deze relatie louter vriendschappelijk was. Het heeft echter nog ruim een jaar geduurd voordat de laatste twijfels bij Spang waren verdwenen. Sinds de vermeende buitenechtelijke escapades van zijn vrouw *controleert* hij met behulp van de geheugenfunctie van haar mobiele telefoon welke nummers zij het laatst heeft gebeld en bestudeert hij ook altijd de gespecificeerde telefoonrekening van hun vaste telefoon: hij kijkt na met wie en hoe lang er is gebeld vanuit zijn huis. Bovendien kan hij zo nagaan of KPN er niet ‘stiekem een tientje of meer bovenop gooit’. Het zou hem niet verbazen als dat wel eens gebeurde; de meeste abonnees zouden dat immers toch niet merken. +
+Een opvallend trekje van de heer Spang is ook dat hij opmerkingen van anderen al snel *interpreteert* als een aanval *op zijn persoon*. Hij wordt dan *furieus*, terwijl de anderen niet begrijpen waar hij zich toch zo druk om maakt. Zijn *woede ebt daarna slechts langzaam weg*. Als anderen hem een gunst verlenen, vindt Spang dat niet prettig, want ‘daar moeten ze later toch altijd wat voor terug hebben’. +
+Veronderstel dat bij de heer Spang een persoonlijkheidsstoornis kan worden gediagnosticeerd. Welke van de volgende diagnosen is dan, op basis van de gegeven informatie, het meest waarschijnlijk?
+.. schizotypische persoonlijkheidsstoornis
+.. paranoïde persoonlijkheidsstoornis
+.. schizoïde persoonlijkheidsstoornis
+.. obsessief-compulsieve persoonlijkheidsstoornis
+** [hiddenAnswer]#b.#

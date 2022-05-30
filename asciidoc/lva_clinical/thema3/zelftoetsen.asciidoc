@@ -97,65 +97,596 @@ II Volgens de *biologische* benadering is er bij een depressieve stoornis sprake
 
 == Chapter 13 -  Anxiety disorders
 
-.
-** [hiddenAnswer]#.#
+. Mevrouw Venema heeft een probleem waar ze erg onder lijdt: haar vriend woont namelijk op de zevende etage van een appartementencomplex en ze durft hem daar niet te bezoeken. Met de lift naar *boven gaan* is voor haar niet zo’n probleem, maar zodra ze uitstapt en de stad beneden haar ziet liggen, slaat de paniek toe. Ze is bang dat ze *naar beneden zal springen* en de val niet zal overleven. Haar vriend heeft inmiddels geaccepteerd dat ze niet samen naar een bergachtig landschap op vakantie gaan en dat zijn vriendin de Eiffeltoren niet wil beklimmen. Hij vindt het echter ‘absurd’ dat hij altijd naar haar huis moet komen en dat ze elkaar nooit eens in zijn appartement kunnen ontmoeten. Onder welk subtype valt de *specifieke fobie* van mevrouw Venema?
+.. overig
+.. bloed-injectie-verwonding
+.. situationeel
+.. natuurverschijnselen
+** [hiddenAnswer]#d.#
+
+. Welke van de onderstaande symptomen behoort *niet* tot de criteria voor een *paniekstoornis* in de DSM5?
+.. misselijkheid (=nausea) of buikklachten
+.. een gevoel van onwerkelijkheid (derealisatie)
+.. angst om de zelfbeheersing te verliezen
+.. een buitensporige bezorgdheid over uiteenlopende zaken in het dagelijks leven
+** [hiddenAnswer]#d.#
+
+. Beoordeel de juistheid van de volgende twee stellingen over de *specifieke fobie*. +
+I De *lijdensdruk* van mensen met een specifieke fobie is dikwijls *geringer* dan de lijdensdruk van mensen met een andere psychische stoornis. +
+II In tegenstelling tot de paniekstoornis *verdwijnen* specifieke fobieën van volwassenen meestal na enige tijd.
+.. Alleen II is juist.
+.. Alleen I is juist.
+.. I en II zijn juist.
+.. I en II zijn onjuist.
+** [hiddenAnswer]#b.#
+
+. Welke angststoornis komt het meeste voor?
+.. gegeneraliseerde-angststoornis
+.. specifieke fobie
+.. paniekstoornis
+.. sociale fobie
+** [hiddenAnswer]#d.#
+
+. Welke hersengebieden worden ook wel als het *angstnetwerk* aangeduid?
+.. de prefrontale cortex, de hypofyse en de temporal lobe
+.. de hypothalamus, de anterior cingulate cortex en de hypofyse
+.. de insula, de amygdala en de anterior cingulate cortex
+.. de amygdala, de hypothalamus en de insula
+** [hiddenAnswer]#c.#
+
+. Beoordeel de juistheid van de volgende twee stellingen over *individuele casus-conceptualisatie*. +
+I bij *sequentiële associaties* in de cognities van de patiënt worden interventies gebruikt die gericht zijn op het *verifiëren* van angstige verwachtingen. +
+II bij *referentiële associaties* in de cognities van de patiënt is een *exposurebehandeling* geïndiceerd.
+.. I en II zijn juist.
+.. Alleen II is juist.
+.. Alleen I is juist.
+.. I en II zijn onjuist.
+** [hiddenAnswer]#d.#
+
+. Welke van de onderstaande beweringen over *stagering en profilering* is juist?
+.. In de klinische praktijk wordt de weging van verzamelde klinische *gegevens optimaal gebruikt* voor stagering en profilering.
+.. Profilering verwijst naar het *indelen* van de ernst van de angststoornissen in verschillende *fasen*.
+.. Het proces van stagering en profilering is *nieuw* in de klinische praktijk.
+.. Profilering wordt gebruikt om, binnen de door stagering onderscheiden fasen, aan te duiden of specifieke *kenmerken* van patiënten samenhangen met verschillende *prognoses* en/of behandelmethoden.
+** [hiddenAnswer]#d.#
 
 == Chapter 14 -  Substance abuse
 
-.
-** [hiddenAnswer]#.#
+. Welke van de volgende middelen heeft een *remmende werking* op het centrale zenuwstelsel en een bewustzijnsverlagend effect?
+.. nicotine
+.. wekamine
+.. heroïne
+.. LSD (lyserginezuurdiëthylamide)
+** [hiddenAnswer]#c. (wekamine: zoals amphetamine, coffeein)#
+
+. Met *negatieve tolerantie* bij middelengebruik wordt bedoeld dat
+.. bij herhaald gebruik van een middel een hogere dosis van dat middel nodig is om het gewenste effect te bereiken.
+.. bij herhaald gebruik van een middel een lagere dosis van dat middel nodig is om het gewenste effect te bereiken.
+.. stoppen met het gebruik van een bepaald middel onthoudingsverschijnselen veroorzaakt.
+.. stoppen met het gebruik van een bepaald middel niet tot onthoudingsverschijnselen leidt.
+** [hiddenAnswer]#b.#
+
+. Welke van de volgende verschijnselen zijn kenmerkende *symptomen* voor intoxicatie door *amfetamine*?
+.. veranderde waarneming en oordeelvermogen, toename van eetlust, rode ogen en een droge mond
+.. veel energie, opgewektheid, helder kunnen denken en veel lichamelijke en geestelijke prestaties
+.. vertraagde ademhaling en hartslag,verminderde pijn, verlaagde temperatuur en een remmende werking op het centrale zenuwstelsel
+.. stoornis in het denkvermogen, hallucinaties bij hoge doseringen, vermindering van seksuele interesse een daling van de lichaamstemperatuur
+** [hiddenAnswer]#b.#
+
+. Wat is volgens een cognitieve herformulering van de *spanningsreductiehypothese* (o.a. Marlatt, 1987) de beste voorspeller van het *drinkgedrag* dat mensen vertonen?
+.. de stemming van mensen, voorafgaand aan het drinken
+.. de persoonlijke normen en waarden over gebruik en misbruik van alcohol
+.. de verwachtingen van mensen over de effecten van het drinken
+.. het al dan niet optreden van spanningsvolle gebeurtenissen, voorafgaand aan het drinken
+** [hiddenAnswer]#c.#
+
+. Een van de klassieke-conditioneringsmodellen voor het ontstaan van middelgebonden stoornissen is het *compensatoire model* (Siegel, 1983, 1984). Wanneer is – geredeneerd vanuit dit compensatoire model – het risico dat *heroïnejunks* aan een *overdosis* overlijden, het grootst?
+.. in een koude, onaangename omgeving, waarin het gevaar bestaat dat zij worden betrapt
+.. in situaties waarin zij zichzelf nooit eerder heroïne hebben toegediend
+.. als de heroïne door een ander wordt ingespoten
+.. als de heroïne wordt toegediend met een reeds eerder gebruikte spuit
+** [hiddenAnswer]#b.#
+
+. Welke van de volgende beweringen over de behandeling van mensen met een stoornis in het *middelengebruik* is *niet juist*?
+.. Bij ernstige onttrekkingsverschijnselen wordt een intramurale opname voorafgaand door detoxificatie aangeraden.
+.. Bewezen effectieve vormen van psychologische behandeling voor middelgebonden stoornissen zijn motiverende gespreksvoering en cognitieve gedragstherapie.
+.. De meeste behandelingen zijn weinig succesvol: bij het merendeel van de behandelden is er sprake van een terugval binnen het jaar.
+.. Uit onderzoek blijkt dat online hulpverleningsprogramma's effectieve interventiews zijn voor de reductie van de alcoholconsumptie.
+** [hiddenAnswer]#c.#
 
 == Chapter 15 -  Somatosymptomic disorders
 
-.
-** [hiddenAnswer]#.#
+. Welke van de volgende beweringen over de *conversiestoornis* is *niet* juist?
+.. Veel patiënten met een conversiestoornis veroorzaken met opzet hun *lichamelijke* symptomen.
+.. Het is bekend dat *vroegtijdige* onderkenning en behandeling van de conversiestoornis tot betere behandelresultaten leidt.
+.. Er wordt verondersteld dat conflicten of andere *stress* veroorzakende factoren samenhangen met het begin en het verergeren van de symptomen.
+.. Uit klinisch onderzoek moet blijken dat het symptoom *incompatibel* is met een bekende *neurologische* of andere somatische aandoening.
+** [hiddenAnswer]#a.#
+
+. Renée, 17 jaar, heeft de laatste tijd vaak *pijn* aan haar *neus* en is daarvoor naar de *huisarts* geweest. Ze meende een knobbel te voelen en dacht dat er *misschien poliepen* of andere ‘enge gezwellen’ in haar neus zaten. De huisarts zei dat er niets met haar reukorgaan aan de hand was en Renée voelde zich gerustgesteld. Toch blijft Renée zich zorgen maken: ze denkt toch echt een knobbel te voelen en vindt dat haar neus *gigantisch scheef* staat. Ze is *erg bang* dat de knobbel kwaadaardig is en dat haar neus steeds schever zal gaan staan. Haar neus staat inderdaad niet helemaal recht, maar anderen zien het alleen als Renée hen er op wijst. Als Renée alleen is, wrijft ze vaak lange tijd (soms wel een *uur lang*) ruw over haar neus. Ze hoopt dat door dat ‘masseren’ de knobbel kleiner wordt en haar neus daardoor wat rechter komt te staan. Welke van de volgende diagnosen is (op basis van de gegeven informatie) het meest waarschijnlijk bij Renée?
+.. nagebootste stoornis
+.. somatisatiestoornis
+.. somatisch-symptoomstoornis
+.. ziekteangststoornis
+** [hiddenAnswer]#d.#
+
+. Mensen met een *ziekteangststoornis verschillen* van mensen met een *somatisch-symptoomstoornis* in die zin dat ze
+.. paniekaanvallen hebben die worden opgeroepen door hun bezorgdheid over de ziekte.
+.. niet bang zijn dat ze zullen overlijden aan de ziekte die ze mogelijk onder de leden hebben.
+.. gepreoccupeerd zijn met een ernstige niet gediagnosticeerde somatische aandoening.
+.. alleen toepasbaar is bij persoonlijke eigenschappen en psychische stoornissen die zeldzaam zijn in een bepaalde populatie.
+** [hiddenAnswer]#c.#
+
+. Twee jaar geleden heeft mevrouw Meijer een van haar drie kinderen bij een *verkeersongeval* verloren. Sindsdien heeft ze veel ruzie met haar man. Ze verwijt hem dat hij haar niet steunt en dat hij ‘vlucht voor zijn verdriet door zich volledig op zijn werk te storten’. Mevrouw Meijer is een jaar geleden naar de huisarts gegaan vanwege vage pijnklachten in haar rug die naar haar zeggen uitstraalden naar haar linkerbeen. De huisarts heeft haar toen naar een fysiotherapeut verwezen, die de klachten met succes behandelde. +
+Drie maanden geleden heeft mevrouw Meijer zich weer bij de huisarts gemeld, nu met acute *verlammingsverschijnselen* in haar linkerbeen. Uitgebreid neurologisch onderzoek heeft uitgewezen dat zij een kleine vergroeiing heeft bij haar onderste ruggenwervels, maar volgens de neuroloog kan dat onmogelijk de oorzaak zijn van het verlamde been. Sinds enkele weken vertoont ook de linkerarm van mevrouw Meijer lichte verlammingsverschijnselen; de arm voelt ‘dood’ aan en ze kan hem soms niet bewegen. Mevrouw Meijer liep de laatste maanden met krukken, maar dat is nu niet meer mogelijk; ze verplaatst zich tegenwoordig per rolstoel. Afgezien van de verlammingsverschijnselen aan haar linkerbeen en -arm heeft mevrouw Meijer geen lichamelijke klachten. Welke van de volgende diagnosen is op grond van deze informatie het meest waarschijnlijk?
+.. conversiestoornis
+.. psychische factoren die somatische aandoeningen beïnvloeden
+.. stoornis in de lichaamsbeweging
+.. ziekteangststoornis
+** [hiddenAnswer]#a.#
+
+. In het model van Looper en Kirmayer (2002) wordt een overzicht gegeven van factoren die een rol spelen bij het ontstaan en voortduren van de *somatisch-symptoomstoornis* en verwante stoornissen. Welke van onderstaande *factoren* hoort daar *niet* bij?
+.. vermijden
+.. geruststelling zoeken
+.. negatieve bekrachtiging
+.. catastroferen
+** [hiddenAnswer]#c.#
+
+. Welke van onderstaande uitspraken over de *behandeling* van de *somatisch-symptoomstoornis* en verwante stoornissen is juist?
+.. Tricyclische antidepressiva in combinatie met cognitieve gedragstherapie heeft een gunstig effect.
+.. Een poliklinische behandeling met hypnose of met suggestieve therapie kan effectief zijn.
+.. Cognitieve gedragstherapie blijken effectiever dan geen behandeling of een pseudo behandeling
+.. De derde generatie cognitieve gedragstherapeutische technieken, waaronder mindfulness based therapie, lijken niet zo effectief te zijn.
+** [hiddenAnswer]#c.#
 
 == Chapter 16 -  Sleeping disorders
 
-.
-** [hiddenAnswer]#.#
+. De regeling van het dagelijks slapen en waken wordt gestuurd door twee *neurologische processen*: het homeostatisch en het circadiane proces. Welke van de volgende stellingen over deze twee processen is juist?
+.. Onder normale omstandigheden zijn de homeostatische en circadiane processen niet gesynchroniseerd.
+.. In de loop van de dag stijgt de homeostatische slaapfactor geleidelijk, terwijl het circadiane slaperigheidsritme daalt.
+.. Het homeostatisch proces heeft betrekking op fysiologische processen in de organen, en het circadiane proces heeft betrekking op de afvalstoffen.
+.. In de loop van de slaap neemt de homeostatische slaapdruk geleidelijk toe, terwijl het circadiane ritme afneemt.
+** [hiddenAnswer]#b.#
+
+. In *stadium 4* van de slaap is er sprake van
+.. een lange duur van de REM-slaapperioden.
+.. trage, grote EEG-golven.
+.. een korte duur van de REM-slaapperioden.
+.. snelle, kleine EEG-golven.
+** [hiddenAnswer]#b.#
+
+. Welke van volgende slaapstoornissen heeft de hoogste *comorbiditeit*?
+.. slaapapneu
+.. insomnia
+.. narcolepsie
+.. hypersomnolentie
+** [hiddenAnswer]#b.#
+
+. Wat is een kenmerk van *hypersomnolentie*?
+.. excessieve slapeloosheid
+.. excessieve slaperigheid
+.. een onbedwingbare slaapdruk
+.. nachtelijke ademhalingsstoornissen
+** [hiddenAnswer]#b.#
+
+. Onder *65-plussers* wordt *insomnia* aanmerkelijk vaker gerapporteerd dan onder de gehele bevolking. Wat is de waarschijnlijke reden?
+.. medische en psychosociale risicofactoren
+.. genetische factoren
+.. een verschuiving richting ochtendmens
+.. een afname van lichte slaap
+** [hiddenAnswer]#a.#
+
+. Welke slaapstoornis kan leiden tot *slaapwandelen*?
+.. non-remslaap-arousalstoornissen
+.. slaapapneu
+.. narcolepsie
+.. circadianeritme-slaap-waakstoornissen
+** [hiddenAnswer]#a.#
 
 == Chapter 17 -  Eating disorders
 
-.
-** [hiddenAnswer]#.#
+. Welke van de volgende manieren om gewicht te verliezen of gewichtstoename te voorkomen is een vorm van *purgeergedrag* bij patiënten met een eetstoornis?
+.. het gebruik van benzodiazepinen
+.. het gebruik van diuretica
+.. vasten
+.. sporten
+** [hiddenAnswer]#b.#
+
+. Welke van de volgende beweringen over *anorexia-nervosa* patiënten is juist?
+.. Anorexia-nervosapatiënten proberen uitsluitend af te vallen door extreem te lijnen en veel te sporten, niet door zelfopgewekt braken.
+.. Sommige anorexia-nervosapatiënten worden net als boulimia-nervosapatiënten gekweld door eetbuien.
+.. De angst van anorexia-nervosapatiënten om dikker te worden neemt af bij voortschrijdend gewichtsverlies.
+.. Anorexia nervosa begint in de regel met een gebrek aan eetlust, waardoor patiënten niet veel kunnen eten, ook al zouden ze dat willen.
+** [hiddenAnswer]#b.#
+
+. Welke van de volgende beweringen behoort *niet* tot de diagnostische criteria voor *bulemia-nervosa*?
+.. De *zelfwaardering* is in te sterke mate afhankelijk van de *lichaamsvorm*.
+.. inadequaat *compensatiegedrag*
+.. De *menstruatie* is gedurende ten minste drie opeenvolgende menstruele cycli verstoord.
+.. een gevoel van *controleverlies* tijdens *eetbuien*
+** [hiddenAnswer]#c.#
+
+. Welke van de volgende beweringen over de *eetbuistoornis* is juist?
+.. Om te kunnen spreken van een eetbuistoornis dient de patiënt minimaal twee eetbuien per week te hebben.
+.. De eetbuistoornis komt minder vaak voor dan anorexia en boulimia nervosa.
+.. De eetbuistoornis komt vaker voor bij mensen die voor gewichtsverlies in behandeling gaan dan bij mensen die hiervoor niet in behandeling gaan.
+.. Patiënten met een eetbuistoornis zijn succesvol in het nemen van gewichtscontrolerende maatregelen na een eetbui.
+** [hiddenAnswer]#c.#
+
+. Guido Janssens lijdt niet aan een eetstoornis, maar is zijn hele leven al aan de forse kant. Hij was vroeger al een *dik* jongetje en kampt ook nu nog – hij is inmiddels veertig jaar – met overgewicht. Zijn weinig succesvolle lijnpogingen heeft hij jaren geleden gestaakt. Volgens de *set-pointtheorie* bevindt het gewicht van meneer Janssens zich
+.. Op basis van deze informatie kunnen vanuit de set-pointtheorie *geen uitspraken* worden gedaan over het set-pointgewicht van meneer Janssens.
+.. *onder* set-pointniveau.
+.. *op* set-pointniveau.
+.. *boven* set-pointniveau.
+** [hiddenAnswer]#c.#
+
+. Beoordeel de juistheid van de volgende twee stellingen over de epidemiologie van *anorexia en boulimia nervosa*. +
+I Anorexia en boulimia nervosa komen in *alle lagen* van de bevolking in ongeveer *dezelfde mate* voor. +
+II Anorexia nervosa komt veel *vaker* voor bij *vrouwen* dan bij mannen, boulimia nervosa is ongeveer gelijk over de seksen verdeeld.
+.. Alleen II is juist.
+.. I en II zijn onjuist.
+.. I en II zijn juist.
+.. Alleen I is juist.
+** [hiddenAnswer]#d.#
+
+. Volgens het *serotoninemodel* leidt het eten van verhoudingsgewijs *veel koolhydraten* tot
+.. een *toename* van de aanmaak van serotonine en een *verbetering* van de stemming.
+.. een *afname* van de aanmaak van serotonine en een *verbetering* van de stemming.
+.. een *afname* van de aanmaak van serotonine en een *verslechtering* van de stemming.
+.. een *toename* van de aanmaak van serotonine en een *verslechtering* van de stemming.
+** [hiddenAnswer]#a.#
+
+. Welke *behandeling* kregen patiënten met *anorexia* nervosa vroeger?
+.. een intramurale behandeling, gericht op gewichtstoename en gebaseerd op operante leerprincipes
+.. een poliklinische behandeling met cognitieve gedragstherapie, gericht op het gestoorde eetgedrag en een toename van de zelfwaardering
+.. een intramurale behandeling, gericht op het gestoorde eetgedrag, irrationele cognities en het bespreken van emoties
+.. een poliklinische behandeling, gericht op gewichtstoename en gebaseerd op operante leerprincipes
+** [hiddenAnswer]#a.#
 
 == Chapter 18 -  Disruptibe imppulsive behavioral disorders
 
-.
-** [hiddenAnswer]#.#
+. Waarmee wordt het optreden van agressieve uitbarstingen bij patiënten met een *periodieke explosieve* stoornis in verband gebracht?
+.. met acetylcholine
+.. met een afwijking in de amygdala
+.. met adrenaline
+.. met een afwijking in het lymbisch systeem
+** [hiddenAnswer]#d.#
+
+. Wat is voor *kleptomanen* (uitgaande van de DSM-5-definitie van kleptomanie) het *motief* om te stelen?
+.. de *daad* van het stelen *zelf*
+.. wraak voor het (vermeende) *onrecht* dat hun door anderen is aangedaan
+.. het verkrijgen van gewenste *artikelen*
+.. *financieel* voordeel
+** [hiddenAnswer]#a.#
+
+. Welke van de volgende beweringen over *pyromanie* is juist?
+.. De meeste pyromanen voldoen aan de DSM-criteria voor de *antisociale persoonlijkheidsstoornis*.
+.. De meeste pyromanen stichten brand *om de brand* en niet met het oogmerk geldelijke of andere materiële winsten te boeken.
+.. Een groot deel van de pyromanen heeft een *intelligentie* op het niveau van *zwakbegaafdheid*.
+.. De meeste pyromanen zijn *jonger* dan 40 jaar.
+** [hiddenAnswer]#b.#
+
+. Wat is de *overeenkomst* tussen een *oppositioneel*-opstandige stoornis en een *normoverschrijdend*-gedragsstoornis?
+.. Mensen met deze stoornissen zijn vaak geneigd om hun eigen gedrag te beschouwen als *redelijke en terechte reacties* op het gedrag van anderen.
+.. Mensen met deze stoornissen verliezen vaak hun kalmte, zijn lichtgeraakt, vaak *boos en ontevreden*.
+.. Mensen met deze stoornissen maken vaak *ruzie met gezagsfiguren*, en verzetten zich tegen verzoeken van gezagsfiguren.
+.. Mensen met deze stoornissen geven vaak *anderen de schuld* van de eigen fouten of negatieve consequenties van hun eigen gedrag.
+** [hiddenAnswer]#a.#
+
+. Wat zijn de symptomen van een *periodieke explosieve* stoornis?
+.. buitensporige *verbale* agressieve uitbarstingen en vaak voorkomende *mishandeling*
+.. buitensporige *verbale en fysieke* agressieve uitbarstingen
+.. buitensporige *fysieke* agressieve uitbarstingen en *ruziezoekend* gedrag
+.. *verbaal* actief verzet regen regels en regelmatige terugkerende *vandalisme*
+** [hiddenAnswer]#b.#
+
+. Bij welke van de volgende stoornissen is er *geen* sprake van een *lijdensdruk* of schaamte van degene die deze stoornis heeft?
+.. oppositioneel-opstandige stoornis
+.. kleptomanie
+.. normoverschrijdend-gedragsstoornis
+.. periodieke explosieve stoornis
+** [hiddenAnswer]#c.#
 
 == Chapter 19 -  Genderdysforie, paraphile and sexual disorders
 
-.
-** [hiddenAnswer]#.#
+. Welke van de volgende verschijnselen behoort *niet* tot de diagnostische criteria voor een *genderdysforie* bij meisjes in de kinderleeftijd?
+.. beweren in de toekomst niet te willen *menstrueren*
+.. uitsluitend stereotiepe *mannenkleding* willen dragen
+.. beweren een *penis* te hebben
+.. een *hormonale afwijking* (bijv. androgeen-ongevoeligheid)
+** [hiddenAnswer]#d.#
+
+. Een verschil tussen *transseksuelen* en personen met *transvestiestoornis* is dat deze laatsten
+.. meestal niet het gevoel hebben *anatomisch* tot het verkeerde geslacht te behoren
+.. zich niet schamen voor de drang, *kleding* van de andere sekse te willen dragen
+.. *geen seksuele* opwinding beleven bij het omkleden
+.. meestal al vanaf hun vroege *jeugd* de behoefte hebben om *kleding* van de andere sekse te dragen
+** [hiddenAnswer]#a.#
+
+. Peter is 17 jaar. Sinds twee maanden heeft hij vrijwel dagelijks intense fantasieën over het tonen van zijn *blote lichaam* aan *nietsvermoedende* mannen en vrouwen. Hij stelt zich voor dat hij zich helemaal uitkleedt voor het raam van zijn slaapkamer en dat toevallige voorbijgangers hem dan zullen zien. Zelf raakt hij *seksueel opgewonden* van deze fantasie en hij hoopt dat dat voor zijn publiek ook geldt. Twee keer heeft hij zijn fantasieën uitgevoerd, maar hij weet niet of hij dat wel nog een keer wil doen, omdat hij zich er eigenlijk erg voor *schaamt*. +
+Welke van deze beweringen is juist?
+.. Er is bij Peter geen sprake van een parafiele stoornis in termen van DSM-5, omdat de fantasieën en handelingen *niet* zijn gericht op het *lijden* of vernederen van een slachtoffer.
+.. Er is bij Peter geen sprake van een parafiele stoornis in termen van DSM-5, omdat de fantasieën en handelingen bij Peter *pas enkele maanden* aanwezig zijn.
+.. Er is bij Peter geen sprake van een parafiele stoornis in termen van DSM-5, omdat Peter er zelf *last* van ondervindt: hij gaat gebukt onder *schaamtegevoelens*.
+.. Er is bij Peter geen sprake van een parafiele stoornis in termen van DSM-5, omdat er geen sprake is van steeds terugkerende intense seksueel opwindende fantasieën en handelingen, gericht op *niet-instemmende* personen.
+** [hiddenAnswer]#b.#
+
+. *Money* (1977, 1986; Lehne & Money, 2003) bespreekt *parafilieën* binnen een algemeen model over paarvorming. Volgens Money is parafiel gedrag het gevolg van
+.. *mislukte* seksuele relaties in de volwassenheid.
+.. *genetische* of hormonale afwijkingen.
+.. seksuele ervaringen in de jeugd die de *love-map* hebben beschadigd.
+.. positieve *bekrachtiging* van al vroeg in de jeugd ontstane parafiele fantasieën
+** [hiddenAnswer]#c.#
+
+. Beoordeel de juistheid van de volgende drie stellingen over *orgasmestoornissen* (volgens de diagnostische criteria van DSM-5). +
+I Bij mensen met een orgasmestoornis verloopt de seksuele-opwindingsfase *normaal*. +
+II Bij de '*vertraagde ejaculatiestoornis bij de man*' beperkt het probleem zich doorgaans tot het onvermogen, *in de vagina een orgasme* te bereiken. +
+III Kenmerkend voor *vrouwen met een orgasmestoornis* is dat de *spieren* van het buitenste derde deel van de vaginawand *verkrampen*, waardoor de coïtus belemmerd wordt.
+.. I, II en III zijn onjuist.
+.. II en III zijn juist.
+.. Alleen I is juist.
+.. I en II zijn juist.
+** [hiddenAnswer]#d.#
+
+. Als mevrouw De Bont met haar man vrijt, blijkt er geen *lubricatiezwelling* op te treden tijdens de seksuele activiteit. Mevrouw De Bont lijdt *niet* aan een *somatische* aandoening of een *psychiatrische* stoornis die haar klachten kunnen verklaren. In het gesprek met het echtpaar De Bont komt de therapeut tot de conclusie dat er wel sprake is van adequate stimulatie. De klacht is ongeveer een jaar geleden ontstaan. Voor die tijd waren mevrouw De Bont en haar partner zeer tevreden over hun seksuele relatie, maar de klachten hebben het vrijen voor beiden een stuk minder aangenaam gemaakt. Mevrouw De Bont heeft bijvoorbeeld vaak *pijn na de coïtus*. Welke van de volgende diagnosen is op grond van deze informatie het meest waarschijnlijk voor mevrouw De Bont?
+.. seksuele-interesse-/opwindingsstoornis
+.. genitopelviene-pijn-/penetratiestoornis
+.. orgasmestoornis
+.. seksuele-relatieprobleem
+** [hiddenAnswer]#a.#
 
 == Chapter 20 -  Schizophrenia spectrum
 
-.
-** [hiddenAnswer]#.#
+. Wat is de belangrijkste voorspeller van de lijdensdruk bij *auditief verbale hallucinaties*?
+.. de intensiteit van de stemmen
+.. de interpretaties van wat de stemmen zeggen
+.. de inhoud van de stemmen
+.. de frequentie van de stemmen
+** [hiddenAnswer]#b.#
+
+. Beoordeel de juistheid van de volgende twee stellingen over verschillende stadia uit het *stadiëringsmodel*. +
+I Voor het stadium ‘Psychoseachtige ervaringen’ zijn monitoring/vinger aan de pols houden en educatie de aanbevolen vormen van interventie. +
+II Het stadium ‘ultrahoog risico’ wordt gekenmerkt door een eerste episode van psychotische symptomen al dan niet vergezeld van ernstige stemmingssymptomen.
+.. Alleen II is juist.
+.. I en II zijn beide onjuist.
+.. Alleen I is juist.
+.. I en II zijn beide juist.
+** [hiddenAnswer]#b.#
+
+. *Ultrahoge risicogroepen* ontwikkelen in ongeveer een derde van de gevallen een psychotische stoornis binnen drie jaar. Welke van de onderstaande subgroepen behoort *niet* tot de subgroepen die een zeer hoog risico lopen?
+.. de groep met kortdurende psychoses van minder dan een week die vanzelf in remissie is gekomen
+.. de groep met familiale belasting
+.. de groep met subklinische psychotische symptomen
+.. de groep met een lage sociaaleconomische status
+** [hiddenAnswer]#d.#
+
+. Beoordeel de juistheid van de volgende drie stellingen over het *neuropsychische model van psychoses*. +
+I *Dopaminesensitisatie* is een voorbeeld van een *top-downproces*. +
+II Wanneer het dopaminerge systeem *overmatig geprikkeld* wordt, geeft dat veel momenten van *verlaagde betekenisgeving*. +
+III de *covariatietendens* leidt ertoe dat mensen alleen nog uit zijn op het eigen gelijk en *tegenstrijdige bewijzen* naast zich neerleggen.
+.. I en II zijn juist.
+.. II en III zijn juist.
+.. I, II en III zijn onjuist.
+.. Alleen I is juist.
+** [hiddenAnswer]#c.#
+
+. Welke van de volgende uitspraken over diagnostiek en behandeling van *psychotische* stoornissen is *onjuist*?
+.. Antipsychotica worden meestal voorgeschreven om wanen en hallucinaties terug te dringen.
+.. Dopamine is een biomarker van psychotische stoornissen en kan bij de individuele diagnostiek worden gebruikt.
+.. Bij alle vormen van psychoses is een cognitief gedragstherapeutische behandeling zinvol.
+.. Een cognitieve gedragstherapeutische behandeling bij psychoses is meestal gericht op het verminderen van de lijdensdruk.
+** [hiddenAnswer]#b.#
+
+. Het belangrijkste effect van *medicamenteuze* behandeling van *schizofreniespectrum-* en andere psychotische stoornissen is dat
+.. de positieve symptomen worden teruggedrongen.
+.. de inactiviteit en apathie afneemt.
+.. de bewegingsstoornissen worden teruggedrongen.
+.. de gedragstekorten op het sociale vlak afnemen.
+** [hiddenAnswer]#a.#
 
 == Chapter 21 -  Trauma and stress-related disorders
 
-.
-** [hiddenAnswer]#.#
+. Welke van de onderstaande gebeurtenissen behoort *niet* tot de *traumatische gebeurtenissen* zoals gedefinieerd in de DSM-5?
+.. er getuige van zijn hoe anderen worden bedreigd door een gewapende overvaller in een postkantoor
+.. na een goed huwelijk van twintig jaar plotseling te horen krijgen dat je partner van je wil scheiden
+.. halsoverkop moeten evacueren naar veiliger gebied omdat er een zware orkaan op komst is
+.. jarenlang seksueel misbruikt zijn door een familielid
+** [hiddenAnswer]#b.#
+
+. De *posttraumatische-stressstoornis* gaat gepaard met verschijnselen van verhoogde arousal of prikkelbaarheid. Welke van de volgende *symptomen* is daar *geen* uiting van?
+.. concentratieproblemen
+.. woedeuitbarstingen
+.. beperkt uiten van affect
+.. slaapproblemen
+** [hiddenAnswer]#c.#
+
+. Beoordeel de juistheid van de volgende twee stellingen over herbeleving bij de *posttraumatische-stressstoornis*. +
+I Herbeleving kan zowel worden uitgelokt door *externe* prikkels als door *interne prikkels*. +
+II Herbeleving uit zich vaak in algehele *amnesie*.
+.. Alleen I is juist.
+.. I en II zijn juist.
+.. I en II zijn beide onjuist.
+.. Alleen II is juist.
+** [hiddenAnswer]#a.#
+
+. Een *verschil* tussen de *acute*-stressstoornis en de *posttraumatische*-stressstoornis (PTSS) is dat
+.. de symptomen van een acute-stressstoornis hooguit twee *dagen* aanhouden, terwijl PTSS *jarenlang* kan duren.
+.. de acute-stressstoornis altijd gepaard gaat met *herbeleving*, terwijl dat bij PTSS *niet* het geval hoeft te zijn.
+.. de acute-stressstoornis tussen de drie *dagen en een maand* en een PTSS *langer dan een maand* duurt.
+.. de symptomen van een acute-stressstoornis hooguit een *half jaar na* de traumatische gebeurtenis beginnen, terwijl PTSS zich ook *veel later* kan openbaren.
+** [hiddenAnswer]#c.#
+
+. Volgens het cognitieve model van Ehlers en Clark (2000) ontstaat *chronische PTSS* door het zodanig cognitief verwerken van een traumatische gebeurtenis dat er een gevoel van dreiging blijft bestaan. Drie factoren spelen volgens dit model een sleutelrol in het ontstaan en in stand blijven van dat gevoel van dreiging. Welke van de volgende *factoren* behoort daar *niet* toe?
+.. verstoring van het autobiografische geheugen
+.. negatieve beoordelingen van een traumatische gebeurtenis en/of de gevolgen ervan
+.. het ontbreken van datagestuurde en conceptuele verwerking
+.. disfunctionele cognitieve en gedragsmatige reacties
+** [hiddenAnswer]#c.#
+
+. Op grond van recent onderzoek naar de effecten van eenmalige *debriefing* van *getraumatiseerden* vlak na een schokkende gebeurtenis wordt geconcludeerd dat deze methode
+.. leidt tot *verbetering* van de natuurlijke verwerking met behulp van sociale steun van gezin, verdere familie en vrienden.
+.. het natuurlijk herstel na een traumatische gebeurtenis *niet verbetert*, en zelfs kan leiden tot *meer* PTSS-klachten.
+.. leidt tot een *snellere habituatie* aan interne en externe traumagerelateerde prikkels.
+.. door de meeste slachtoffers niet wordt gewaardeerd; zij hebben *geen behoefte* aan emotionele eerste hulp.
+** [hiddenAnswer]#b.#
 
 == Chapter 22 -  Dissociative disorders
 
-.
-** [hiddenAnswer]#.#
+. In tegenstelling tot Janet beschouwt *Hilgard dissociatie* als
+.. een proces waarbij traumatische ervaringen als *afgesplitste bewustzijnskernen* blijven voortbestaan.
+.. een fenomeen dat met behulp van *hypnose* kan worden behandeld.
+.. een *gebrekkige integratie* van diverse psychische functies.
+.. een verschijnsel dat ook een onderdeel vormt van meer *alledaagse ervaringen*.
+** [hiddenAnswer]#d.#
+
+. Beoordeel de juistheid van de volgende twee stellingen over de *depersonalisatiestoornis*. +
+I Het verschijnsel depersonalisatie doet zich vrijwel uitsluitend voor bij mensen die in hun *jeugd* ernstig zijn mishandeld of seksueel misbruikt. +
+II Kenmerkend voor de depersonalisatiestoornis is het optreden van *wanen* (bijvoorbeeld de overtuiging hebben een robot te zijn).
+.. Alleen I is juist.
+.. I en II zijn beide juist.
+.. Alleen II is juist.
+.. I en II zijn beide onjuist.
+** [hiddenAnswer]#d.#
+
+. Voor de stoornis *dissociatieve amnesie* geldt dat
+.. er doorgaans sprake is van een *verlies* van *impliciete* kennis van vaardigheden en automatismen.
+.. de vergeten informatie meestal verband houdt met *traumatische* gebeurtenissen.
+.. het vermogen om *nieuwe kennis* op te doen doorgaans is aangetast.
+.. de amnesie meestal gepaard gaat met *zwerfgedrag*.
+** [hiddenAnswer]#b.#
+
+. Welke van de volgende verschijnselen is *geen* kenmerk van de *dissociatieve fugue*?
+.. gedrag vertonen dat door buitenstaanders *opvallend* wordt genoemd
+.. een geheel of gedeeltelijk *nieuwe identiteit* aannemen
+.. een omvangrijke *amnesie*
+.. een veranderde *bewustzijnstoestand*.
+** [hiddenAnswer]#a.#
+
+. Veel patiënten met de diagnose *dissociatieve-identiteitsstoornis* (DIS) melden *traumatische* gebeurtenissen in hun verleden. Opvallend is dat zij in hun *latere leven vaak* opnieuw melding maken van traumatiserende ervaringen. Welke verklaring wordt hiervoor geopperd (Ensink, 1992)?
+.. De meeste patiënten met DIS zijn afkomstig uit de *lagere sociale milieus*, waar het risico op stressvolle gebeurtenissen (zoals werkloosheid en financiële problemen) groter is.
+.. Patiënten met DIS *simuleren* vaak: zij verzinnen steeds nieuwe ingrijpende gebeurtenissen om medeleven van anderen op te wekken.
+.. De door DIS-patiënten gerapporteerde traumatische gebeurtenissen maken deel uit van een *hardnekkig waansysteem* en doen zich niet in werkelijkheid voor.
+.. Er is bij DIS-patiënten sprake van *aangeleerde hulpeloosheid*: ze hebben onvoldoende verweer bij belastende gebeurtenissen en komen daardoor opnieuw in de slachtofferpositie terecht.
+** [hiddenAnswer]#d.#
+
+. Auteurs die van mening zijn dat de dissociatieve-identiteitsstoornis (DIS) een *iatrogeen verschijnsel* is (bijvoorbeeld Merskey, 1992) stellen dat
+.. de alters door de persoon zelf worden gecreëerd ter vervanging van ontbrekende beschermende *sleutelfiguren*, zoals ouders.
+.. hulpverleners de symptomen van DIS uitlokken door *suggestieve vragen* te stellen.
+.. spontane *hypnotische trances* tijdens traumatisering de basis vormen van de dissociaties die bij mensen met DIS optreden.
+.. de symptomen van DIS sterk *verergeren* doordat hulpverleners *medicatie* (met name benzodiazepinen) toedienen.
+** [hiddenAnswer]#b.#
+
+. De meeste hulpverleners die met *DIS*-patiënten werken, passen een *behandeling* toe die bestaat uit een combinatie van
+.. psychotherapie en hypnose.
+.. relaxatieoefeningen en 'grounding'.
+.. hypnose en farmacotherapie met serotonine.
+.. gedragstherapie en farmacotherapie met neuroleptica.
+** [hiddenAnswer]#a.#
 
 == Chapter 23 -  Neurocognitive disorders
 
-.
-** [hiddenAnswer]#.#
+. Beoordeel de juistheid van de volgende drie stellingen over *biologische* aspecten van neurocognitieve stoornissen door de ziekte van *Alzheimer*. +
+I Mensen die lijden aan de ziekte van Alzheimer, vertonen kenmerkende afwijkingen in de hersenen, met name in de *hippocampus* en de *temporaalschors*. +
+II Bij mensen met de ziekte van Alzheimer is sprake van een *tekort* aan de neurotransmitter *acetylcholine*. +
+III *Plaques en tangles* worden bij mensen met de ziekte van Alzheimer slechts in zeer *beperkte mate* gevonden.
+.. I en II zijn beide juist.
+.. I, II en III zijn juist.
+.. Alleen I is juist.
+.. II en III zijn juist.
+** [hiddenAnswer]#a.#
+
+. Rens de Vries is zestig jaar en gebruikt sinds twintig jaar vrijwel dagelijks grote hoeveelheden *alcohol*, met name sterke drank. Daarnaast heeft Rens de Vries een normaal voedingspatroon. Zijn hoge alcoholconsumptie heeft ertoe geleid dat zijn vrouw bij hem is weggegaan en dat zijn baas hem heeft ontslagen. Sinds een jaar heeft Rens *geheugenproblemen*. Als je hem iets vertelt, kan hij dat wel direct navertellen, maar vijf minuten later weet hij niet meer wat je hebt gezegd. *Verder* zijn er *geen cognitieve stoornissen*. +
+Welke van de volgende *diagnoses* is, op basis van deze informatie, het meest waarschijnlijk?
+.. vasculaire neurocognitieve stoornis
+.. korsakovsyndroom
+.. neurocognitieve stoornis door de ziekte van Alzheimer
+.. neurocognitieve stoornis door een middel/medicatie
+** [hiddenAnswer]#d.#
+
+. Welke van de onderstaande symptomen is *niet* kenmerkend voor neurocognitieve stoornissen met *lewylichaampjes*?
+.. uitgesproken variaties in bewustzijn en aandacht
+.. recidiverende visuele hallucinaties
+.. parkinsonistische kenmerken
+.. ontremd gedrag
+** [hiddenAnswer]#d.#
+
+. Beoordeel de juistheid van de volgende twee stellingen over de neurocognitieve stoornis door de ziekte van *Parkinson*. +
+I De ziekte van Parkinson wordt veroorzaakt door *celverlies* in de *substantia nigra*. +
+II Bij mensen met de ziekte van Parkinson worden *lewylichaampjes* aangetroffen.
+.. I en II zijn onjuist.
+.. I en II zijn juist.
+.. Alleen II is juist.
+.. Alleen I is juist.
+** [hiddenAnswer]#b.#
+
+. Welke uitspraak over neurocognitieve stoornissen als gevolg van een *prionziekte* is juist?
+.. Het Korsakovsyndroom is een bekende prionziekte.
+.. Typisch voor de prionziekte is dat de concentratie bèta-amyloïd in het hersenvocht is verlaagd.
+.. Typisch voor de prionziekte is dat de concentratie tau-eiwit in het hersenvocht is verhoogd.
+.. De ziekte van Creutzfeldt-Jakob is een bekende prionziekte.
+** [hiddenAnswer]#d.#
+
+. Welke van de uitspraken over een *frontotemporale* neurocognitieve stoornis is *onjuist*?
+.. Deze stoornis is vooral het gevolg van neurodegeneratieve schade aan de frontale en temporale hersenschors.
+.. Deze stoornis kent twee klinische varianten, een gedragsvariant (gedragsproblemen) en een persoonlijkheidsvariant (persoonlijkheidsveranderingen).
+.. Deze stoornis begint veelal voor het 65e levensjaar.
+.. Symptomen van deze stoornis kunnen lange tijd aangezien worden voor werk- relatie- of levensfaseproblemen.
+** [hiddenAnswer]#b.#
+
+. *Neuropsychologische tests* bestrijken verschillende cognitieve domeinen. Welk domein hoort hier *niet* bij?
+.. aandacht
+.. motoriek en praxis
+.. taalbegrip en expressie
+.. foutloos leren
+** [hiddenAnswer]#d.#
 
 == Chapter 24 -  Obsessive-compulsive disorders
 
-.
-** [hiddenAnswer]#.#
+. Voor *dwanggedachten* geldt dat zij
+.. ook wel worden aangeduid als ‘compulsies’.
+.. door een patiënt met een dwangstoornis niet worden herkend als een product van het eigen denken.
+.. meestal worden gevolgd door dwanghandelingen.
+.. meestal een reactie zijn op obsessieve invallen.
+** [hiddenAnswer]#c.#
 
-== Chapter 25 -  Personality disorders
+. *Dwanggedachten* hebben meestal betrekking op een aantal centrale thema’s. Welke van de volgende gedachten is *geen* voorbeeld van deze thematiek?
+.. ‘Ik ben bang dat ik onze baby zal wurgen als hij voor de zoveelste keer begint te huilen.’
+.. ‘Het is onhygiënisch om een ander een hand of een zoen te geven.’
+.. ‘Ik voel me steeds zo moe, ik heb vast kanker of een andere enge ziekte onder de leden.’
+.. ‘Zou ik de schoonmaakmiddelen wel in de kast hebben gestopt, zodat de kinderen er niet bij kunnen?’
+** [hiddenAnswer]#c.#
 
-.
-** [hiddenAnswer]#.#
+. Welke van de volgende kenmerken behoort tot de DSM-5-criteria voor de *obsessieve-compulsieve* stoornis?
+.. De obsessies en compulsies worden als zinloos beleefd.
+.. De patiënt probeert de obsessies te neutraliseren met andere obsessies.
+.. De patiënt ervaart de obsessies als opgedrongen.
+.. De obsessies of compulsies zijn tijdrovend en veroorzaken beperkingen.
+** [hiddenAnswer]#d.#
+
+. Welke van de volgende beweringen over de *obsessieve-compulsieve* stoornissen is juist?
+.. Uit onderzoek blijkt dat *exposure* in vivo met *responspreventie* positieve langetermijneffecten heeft.
+.. Obsessief-compulsieve stoornissen ontstaan doorgaans *plotseling*, vlak na een stressvolle gebeurtenis.
+.. Van de mensen met een obsessieve-compulsieve stoornissen heeft ongeveer 80% *alleen last* van *obsessies*.
+.. Het vermijden van de stimuli of de situaties die aanleiding geven voor dwanggedachten is een vorm van *actieve vermijding*.
+** [hiddenAnswer]#a.#
+
+. De meest toegepaste behandeling voor de *verzamelstoornis* is gebaseerd op het protocol van *Steketee en Frost*. Wat houdt deze behandeling in?
+.. verbeteren van informatieverwerking en relativeren van de waarde van bezittingen en emotionele hechting daaraan
+.. een combinatie van cognitieve gedragstherapie en farmacotherapie
+.. het aanleren van zelfcontroleprocedures door middel van cognitieve gedragstherapie
+.. motivatie voor verandering, het categoriseren en organiseren van spullen, bespreking van het aankoopbeleid en imaginaire en in vivo wegdoen van spullen
+** [hiddenAnswer]#d.#
+
+. Wat is een kenmerk van mensen met een *morfodysfore* stoornis?
+.. Zij worden door de omgeving als fysiek bijzonder aantrekkelijk, beschouwd, maar hechten alleen waarde aan hun eigen oordeel over het uiterlijk.
+.. Zij zijn gepreoccupeerd met onvolkomenheden van het uiterlijk, die door de omgeving niet waarneembaar zijn of als onbeduidend beschouwd worden.
+.. Zij ervaren veel lijdensdruk wanneer zij merken dat zij door de omgeving als fysiek lelijk beschouwd worden.
+.. Alle bovengenoemde kenmerken zijn juist.
+** [hiddenAnswer]#b.#
+
+. Bij mensen die een onweerstaanbare neiging hebben hun *haren uit te trekken* is sprake van ... en mensen die een onweerstaanbare neiging hebben te krabben aan wondjes of onregelmatigheden aan de huid is sprake van ...
+.. hoarding-stoornis en body dysmorphic-stoornis
+.. trichotillomanie- en body dysmorphic stoornis
+.. trichotillomanie- en excoriatiestoornis
+.. excoriatiestoornis en hoarding-stoornis
+** [hiddenAnswer]#d.#
