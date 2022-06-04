@@ -50,6 +50,7 @@
 * voorspelbaar ... predictable
 * voorwaardelijke ... conditional
 * wantrouwen ... mistrust
+* wederkerigheid ... reciprocity
 * wetmatigheden ... laws
 * zeggenschap ... control/saying
 * zwerfgedrag .. wandering behavior

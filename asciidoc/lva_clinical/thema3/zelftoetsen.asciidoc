@@ -11,11 +11,11 @@ II Door een verstoorde *hechtingsrelatie* wordt ASS vaak pas op latere leeftijd 
 .. I en II zijn beide onjuist.
 ** [hiddenAnswer]#a.#
 
-. Welke van de volgende kenmerken van de autismespectrumstoornis behoort _niet_ tot het *criterium 'Afwijkende sociale wederkerigheid'*?
-.. het ontbreken van het besef van sociale conventies
-.. het in het geheel niet weten wat te zeggen in sociale situaties
-.. het moeite hebben met het maken van oogcontact
-.. het onvermogen om spontaan emoties te delen met anderen
+. Welke van de volgende kenmerken van de *autismespectrumstoornis* behoort _niet_ tot het *criterium 'Afwijkende sociale wederkerigheid'*?
+.. het ontbreken van het besef van *sociale conventies*
+.. het in het geheel *niet weten* wat te *zeggen* in sociale situaties
+.. het moeite hebben met het maken van *oogcontact*
+.. het onvermogen om spontaan *emoties te delen* met anderen
 ** [hiddenAnswer]#c.#
 
 . Welke van de volgende methoden wordt op dit moment vooral gebruikt bij de classificerende *diagnostiek* van ASS?
@@ -63,6 +63,8 @@ II In het klassieke beeld van volwassenen met ADHD valt de verhoogde *afleidbaar
 .. *grootheidsideeën*
 .. snel *afgeleid* zijn
 ** [hiddenAnswer]#b.#
+
+// TODO until here incorporated in cheatsheet
 
 . Een man heeft al jarenlang een *neerslachtige* stemming. Hij voelt zich het grootste deel van de dag *vermoeid*. Aan zijn werk beleeft hij *weinig plezier*. Het komt vaak voor dat hij zich niet goed op zijn werkzaamheden kan *concentreren*. Naar zijn mening hebben de verschillende reorganisaties in het bedrijf waar hij werkt, hem ‘murw’ gemaakt. Heel *af en toe* is er een periode dat het *beter* gaat; hij voelt zich dan weer net zo *energiek* als vroeger. Deze ‘gelukkige’ perioden duren echter *nooit langer dan een maand*. +
 Welke van de volgende diagnosen is het meest waarschijnlijk, aangenomen dat er onvoldoende symptomen zijn om te voldoen aan de criteria van een depressieve stoornis?

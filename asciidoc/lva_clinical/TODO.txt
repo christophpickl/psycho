@@ -11,7 +11,7 @@
 * test exams from other universities (PDFs from daiana, 3 stueck)
 
 
-* EXA ... ⚠️ YouLearn exam; ✅ incorporate zelftoetsen in regular cheatsheet; add explanations why (correct answer)
+* EXA ... ⚠️ YouLearn exam; ✅ incorporate zelftoetsen in regular cheatsheet; 🦄 add explanations why (correct answer)
 * PPT ... noordhoff PPTs into wiki
 * MM ... mindmap ANALOG/DIGITAL
 * YL ... read YouLearn texts
@@ -19,7 +19,7 @@
 * NEx ... noordhoof test exams
 | Ch | EXA | PPT | MM  | YL  | Wik | NEx |
 +----+-----+-----+-----+-----+-----+-----+
-| 11 | ⚠️  |     |     |     |     |     |
+| 11 | ✅  |     |     |     |     |     |
 | 12 | ⚠️  |     |     |     |     |     |
 | 13 | ⚠️️  |     |     |     |     |     |
 | 14 | ⚠️  |     |     |     |     |     |
@@ -34,3 +34,9 @@
 | 23 | ⚠️  |     |     |     |     |     |
 | 24 | ⚠️  |     |     |     |     |     |
 | 25 | ⚠️  |     |     |     |     |     |
+
+EXTRA PDFS
+
+         | H7 | H8 | H9 |
++--------+----+----+----+
+summary  | ✅ | ✅ |    |

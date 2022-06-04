@@ -1,0 +1,19 @@
+= Gorden W. Allport
+
+[#img-allport-gorden]
+.Gorden Allport himself
+image::allport-gorden.jpg[Gorden Allport,200,100]
+
+== Facts
+
+* 1897-1967
+* American psychologist
+
+== Achievements
+
+* One of the founding fathers of personality psychology, as well as: link:cattell-raymond.html[Catell] and link:eyseneck-hans.html[Eyseneck] (see: link:../lva_clinical/thema4/index.html[Clinical Psychology - Thema 4])
+** Came up with Cardinal/Central/Secondary Traits (a bit like Freud based on case studies, rather not scientific)
+
+== Links
+
+* https://en.wikipedia.org/wiki/Gordon_Allport

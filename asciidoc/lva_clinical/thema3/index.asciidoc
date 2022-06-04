@@ -23,49 +23,163 @@ Chapter 11-25 (300 pages):
 
 == Chapter 11 -  Neurobiological development disorders
 
-TODO
+. Autisme-spectrum-stoorniss (ASS)
+. ADHD
+
+=== Autism (ASS)
+
+* diagnosis:
+** because of above average intelligence, often diagnosed later
+** often semi-structured interviews used
+* criteria for "divergent social reciprocity":
+** lack of awareness of social conventions
+** not knowing at all what to say in social situations
+** the inability to spontaneously share emotions with others
+** (they indeed can make eye contact)
+
+=== ADHD
+
+* adults with ADHD (compared to children):
+** have less hyperactivity, more distractibility/inattention
+* diagnose:
+** three steps:
+*** 1) check symptoms via screenings/questionaires
+*** 2) symptom cause via semi-structured interviews
+*** 3) check comorbidity via hetero-anamnesis
+* treatment: medication
 
 == Chapter 12 -  Depression and bipolar mood disorders
 
-TODO
+. Depressieve st.
+.. disruptieve-stemmingsdisregulatiest.
+.. depressieve st.
+.. persisterende depressieve st. (dysthyme)
+.. premenstruele stemmingsst.
+.. depr.stemm.st. door middle/medicatie
+.. depr.stemm.st. door somatische aandoening
+. Bipolaire st.
+.. bipolaire I st.
+.. bipolaire II st. = no full mania, but hypomania (mild form)
+.. cyclothyme st. = mild form
+.. bip.st. door middle/medicatie
+.. bip.st. door somatische aandoening
+
+=== Bipolar
+
+* hypomane episdoe: min. 4 days, maniac symptoms, not really limited in daily functioning
+* symptoms maniac episode:
+** need less sleep
+** "excentric" ideas
+** easily distracted
 
 == Chapter 13 -  Anxiety disorders
+
+. separatie-angst-st.
+. selectief mutisme
+. speciefieke fobie
+. sociale-angst-st.
+. paniekst.
+. agorafobie
+. GAD
 
 TODO
 
 == Chapter 14 -  Substance abuse
 
+. gebruik van middel
+. gokst. (gambling)
+
 TODO
 
 == Chapter 15 -  Somatosymptomic disorders
+
+. somatisch-symptoomst.
+. ziekte-angstst.
+. conversiest.
+. psychic factors somatic influences
+. nagebootste st. (=imitated disorder) (pathomimie, "Münchhausensyndrom")
 
 TODO
 
 == Chapter 16 -  Sleeping disorders
 
+. insomniast.
+. hyper-somnolentie-st. (hypersomnia)
+. narcolepsie
+. obstructieve-slaapapneu-/hypo-pneu-syndroom
+. centrale-slaap-apneu-syndroom
+. circadian-ritme-slaap-waakst.
+. non-REM-slaap-arousalst.
+. nachtmerriest.
+. REM-slaap-gedragst.
+. rusteloze-benensyndroom
+. slaapst. door substance/medication
+
 TODO
 
 == Chapter 17 -  Eating disorders
+
+. anorexia nervosa
+. boulimia nervose
+. eetbuist.
 
 TODO
 
 == Chapter 18 -  Disruptibe imppulsive behavioral disorders
 
+. oppositionele-opstandige st.
+. periodiek explosieve st.
+. norm-overschrijdend-gedragsst.
+. pyromanie
+. kleptomanie
+
 TODO
 
 == Chapter 19 -  Genderdysforie, paraphile and sexual disorders
+
+. genderdysforie
+. parafiele st.
+. voyeurism
+. exhibitionism
+. frotteurismest.
+. sexual maschochism
+. sexual sadism
+. pedofiele st.
+. fetisjismest.
+. transvestiest.
+. seksuele opwindingsst. vrouw
+. hypoactive-seksueel-verlangenst. man
+. erectiest.
+. orgasmest. vrouw
+. vertraagde ejaculatie
+. voortijdige ejaculatie
+. genitopelvienepijn/penetratiest. (dyspareunie)
 
 TODO
 
 == Chapter 20 -  Schizophrenia spectrum
 
+. waanst.
+. kortdurende psychotische st.
+. schizofrenieforme st.
+. schizofrenie
+. schizoaffectieve st.
+
 TODO
 
 == Chapter 21 -  Trauma and stress-related disorders
 
+. post-traumatische-stress-st. (PTSS)
+. acute-stress-st.
+. aanpassingsst.
+
 TODO
 
 == Chapter 22 -  Dissociative disorders
+
+. depersonalisatie-derealisatiest.
+. dissociatieve amnesie
+. dissociatieve-identiteits-st. (DIS)
 
 TODO
 
@@ -73,13 +187,44 @@ Fugue = a state or period of loss of awareness of one's identity, often coupled 
 
 == Chapter 23 -  Neurocognitive disorders
 
+NCS = neuro-cognitive stoornis
+
+. uitgebreide NCS
+.. alzheimer
+.. vasculaire
+.. frontotemporale
+.. lewylichaampjes
+.. (prion disease)
+. dementie, mild cognitive impairment (MCI)
+. parkinson
+. traumatisch hersenletsel (THL)
+. NCS through substance/medication
+
 TODO
 
 == Chapter 24 -  Obsessive-compulsive disorders
+
+. obsessieve-compulsieve st.
+. verzamelst. (hoarding disorder)
+. morodysfore st. (body dysmorphic disorder, BDD)
+. trichotillomanie (hair pull), excoriatiest. (wondjes krabben)
 
 TODO
 
 == Chapter 25 -  Personality disorders
 
-TODO
+. cluster A
+.. paranoide
+.. schizoide
+.. schizotypische
+. cluster B
+.. antisociale
+.. borderline
+.. histronische
+.. narcistische
+. cluster C
+.. vermijdende
+.. afhankelijke
+.. dwangmatige
 
+TODO
