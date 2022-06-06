@@ -62,12 +62,11 @@ tasks.register<GradleBuild>("deploy") {
 }
 
 tasks.register<Copy>("copyLocalDocs") {
-    val targetDir = File(project.projectDir, "docs")
     doFirst {
-        println("Local copy to: $targetDir")
+        println("Local copy to: ${Locations.githubTargetDirectory}")
     }
     from(Locations.htmlBuildOutput)
-    into(targetDir)
+    into(Locations.githubTargetDirectory)
 }
 
 tasks.register<Copy>("copyLocalSite") {
