@@ -1,0 +1,19 @@
+= Carl Gustav Jung
+
+[#img-jung-cg]
+.C.G. Jung himself
+image::jung-cg.jpg[C.G. Jung,200,100]
+
+== Facts
+
+* 1875-1961
+* Swizterland
+* Psychiatrist, psychoanalyst
+
+== Achievements
+
+* Founder of analytical psychology (to distinct from Freud's psychoanalysis)
+
+== Links
+
+* https://en.wikipedia.org/wiki/Carl_Jung

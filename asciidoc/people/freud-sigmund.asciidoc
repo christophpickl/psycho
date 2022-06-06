@@ -10,7 +10,10 @@ image::freud-sigmund.jpg[Sigmund Freund,200,100]
 * Full name: Sigismund Schlomo Freud
 * Life: 1856-1939, Austria
 * Occupation: Neurologist
+* "Student" of link:https://en.wikipedia.org/wiki/Josef_Breuer[Josef Breuer], and "teacher" of link:jung-cg.html[C.G. Jung]
 
 == Achievements
 
-* Founder of psychoanalysis
+* Founder of psychoanalysis (umbrella term: "psychodynamics")
+* Personality model: Superego, ego, id (iceberg);
+* Un/consciousness

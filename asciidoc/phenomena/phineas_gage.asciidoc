@@ -1,9 +1,19 @@
 = Phineas Gage
 
-His intelligence stayed unchanged, yet his personality and ability to plan and make decisions was radically affected.
+== The Case
+
+1848 Phineas Gage suffered a terrible accident while working as a railroad construction foreman. He tried to blast through a hard rock, by drilling a hole into it, fill it with explosive powder, insert an iron rod and fuse it. Unfortunately he got distracted and the iron rod went right through his left cheek, the base of his skull and the front of his brain. It destroyed large parts of his frontal cortex before existing the top of his head.
+
+.A reconstruction, showing how the metal rod destroyed his frontal lobes and disconnected them from other brain parts.
+image::phineas_gage_3d_model.png[3D Model,400,100]
+
+Miraculously he survived. He could walk and speak normally after long time of recovery. He could describe the accident in detail and communicate about it rationally, his intelligence stayed unchanged. Yet there was a deep change...
+
+His personality and ability to plan and make decisions was radically affected. As link:../people/damasio-antonio.html[Damasio] said: "Gage's disposition, his likes and dislikes, his dreams and aspirations are all to change. Gage's body may be alive and well, but there is a new spirit animating it. Gage was no longer Gage". Previously serious, industrious, energetic, responsible; now he was irresponsible, thoughtless of others, lacking in planfulness, and indifferent to the consequences of his actions.
+
+He lost job and family, and ended up as an attraction in a circus ...
 
 .The man and his metal rod.
 image::phineas_gage.jpg[Phineas Gage,500,100]
 
-.A reconstruction, showing how the metal rod destroyed his frontal lobes and disconnected them from other brain parts.
-image::phineas_gage_3d_model.png[3D Model,400,100]
+Gage's story shows us the deep interconnections between brain/body and personality/mind.

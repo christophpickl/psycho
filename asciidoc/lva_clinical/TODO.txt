@@ -40,3 +40,28 @@ EXTRA PDFS
          | H7 | H8 | H9 |
 +--------+----+----+----+
 summary  | ✅ | ✅ |    |
+
+
+==============
+	- ad "big five":
+		- incorporate scales&examples: https://www.youtube.com/watch?v=nu7boTdSVgk
+		- find all facets
+		- practical psychology on traits: https://www.youtube.com/watch?v=oUgCIvKxbAE - write list of VIP
+
+
+clinical II masterplan -> exam 15.6.
+	* (8 weeks until then, from 20.4.)
+	* chapter 11-25 == 14 chapters
+	* doings per chapter:
+		- mindmap analog + PPT
+		- mindmap digital
+		- write basic wiki
+		- wiki pics and references
+		- YouLearn Exam
+		- Noordhoff Exam
+
+clinical I masterplan: 31.8. exam, 2nd attempt; make long-term plan
+	!!! masterclass! => auch die masterclass exercises ins psywiki
+	- noordhoff oefen exams!
+	- mini wiki (only keywords)
+	--- free text OU questions

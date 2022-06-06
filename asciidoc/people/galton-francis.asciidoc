@@ -1,0 +1,19 @@
+= Francis Galton
+
+[#img-galton-francis]
+.Sir Francis Galton himself
+image::galton-francis.jpg[Francis Galton,200,100]
+
+== Facts
+
+* 1822-1911
+* English polymath: statistician, sociologist, psychologist, anthropologist, ...
+* half-cousin of darwin
+
+== Achievements
+
+* Coined the phrase "nature veresus nurture"
+
+== Links
+
+* https://en.wikipedia.org/wiki/Francis_Galton

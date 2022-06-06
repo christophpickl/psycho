@@ -265,3 +265,270 @@ image::eyseneck_superfactors.png[Superfactors,400,100]
 
 == Chapter 9 - Biological foundations of personality
 
+=== Introduction
+
+* link:../../people/galton-francis.html[Sir Francis Galton] coined and started the discussion of: "nature VS nurture"
+* Evolution = Shaping of personality by processes from our ancestral past
+* Temperament = biologically based individual differences evident early in life
+** Longitudinal studies, objective measures (behavior/consitutional-biological variables)
+** Kagan's research on un-/inhibited children
+* Evolutionary theory
+** Ultimate cause of behavior (why evolved, adaptive function it serves)
+** Sex differences in mate preferences/jealousy/parental investment/parenthood probability.
+* Establish genetic-behavior relationships via:
+** 1) selective breeding 2) twin studies 3) adoption studies
+** Significant heritability of intelligence and most personality charactersitic (about 50% variance in personality due to genetics)
+* Neuroscientifically...
+** Neurotransmitters like dopamine and serotonin
+** Differences in hemispheric lateralization
+** Amygdala and processing emotional stimuli/emotional memories
+** 3D temperament model (Clark and Watson) systemazing relation neuroscience and personality.
+** fMRI helped to identify brain arease for things like judgement about self/morality of actions (cognitive higher-level functions)
+* Plasticity: Potential to change in neurobiological systems (as a result of experience)
+** Not only genetics, but also environment plays a role for personality
+* Sometimes scientific advances happen due to accidents, Newton's apple or the case of link:../../phenomena/phineas_gage.html[Phineas Gage]
+** Gage's story shows us the interconnections between brain and personality functioning.
+
+=== Definitions
+
+* **Adoption studies** (also see Twin studies): Establish genetic-behavior relationships, by comparing biological siblings reared together VS apart.
+* **Behavioral genetics**: Study of genetic contributions to behaviors, by comparing similarity among individuals of varying degrees of biological-genetic similarity.
+* **Effortful control**: Capacity to control one's actions by stopping one activity (dominant response) in order to do another; a quality of temperament.
+* **Evolved psychological mechanisms** (evolutionary psychology): Mechanisms resulted out of evolution by selection (adaptive for survival/reproduction).
+* **fMRI** (functional Magnetic Resonance Imaging): Brain-imaging technique; recording changes of blood flow (thus implied more neuronal activity, as needs more "fuel").
+* **Heritability**: Proporation of variance in scores, specific population, attributed to genetic factors.
+* **Inhibited-uninhibited temperaments**: Inhibited child reacts to unfamiliar persons/events with restraint/avoidance/distress, takes longer to relax, more unusual fears/phobias. Uninhibited child enjoy these things, responding with spontaneity/laughter/smiles easily.
+* **nature VS nurture**: heredity, genetic, biology VS environment, learned, social (by link:../../people/galton-francis.html[Sir Francis Galton])
+* **Neurotransmitters**: Chemical substances, transmitting information among neurons (e.g. dopamine, serotonine).
+* **Parental investment theory**: Women have greater investment in offspring than men (fewer genes passed on).
+* **Phrenology**: Early 19th century attempt, location of brain arease responsible for emotions/behavior; developed by Gall; discredited as quackery/superstition.
+* **Plasticity**: Ability to change (of neurobiological systems), within limits of genes, to meet current adaptive demands and as a result of experience.
+* **Proximate causes**: Explanations for behavior associated with current biological processes in the organism.
+* **Selective breeding**: Establish genetic-behavior relationships, by breeindg particular characteristics.
+* **Non-/Shared environments**: Comparison in behavioral genetics research, effects of siblings growing up in same/different environment.
+* **3D temperament model**: Three superfactors as temperaments: PE (Positive Emotion), NE (Negative Emotion) and DvC (Disinhibition versus Constraint).
+* **Twin studies** (also see Adoption studies): Establish genetic-behavior relationships, by comparing identical/fraternal/nontwin siblings.
+
+=== Temperament
+
+* Definition: Biologically based individual differences in emotional&motivational tendencies (evident early in life)
+* Children are already showing signs of (different) temperaments; variation in styles of emotion and behavior
+** Their world experiences are so limited, thus it cannot be product of social experience; it must be biological
+** E.g. experiencing positive/negative moods, aroused in response to stimuli, or calm oneself down after being upset
+
+==== Early view
+
+* Greece:
+** Hippocrates posited his theory on the four bodily fluids (blood, black bile, yellow bile, phlegm)
+** Reflecting beliefs about the universe, which consists of nothing but: air, earth, fire water
+** Thus four temperaments: sanguine (cheerful, optimistic), melancholic (loyal, calm, orderly), choleric (practical, analytical, tough), phlegmatic (intuitive, agreeable, warm)
+** Lasted for two millenia! Even Immanuel Kant based on this.
+* Gall's phrenology: Idea that shape of skull leads to indications of brain functions
+* Three critical publications:
+[arabic]
+... "The Origin of Species" (1859, Charles Darwin), science of biology
+... "The Expression of Emotions in Man and Animals" (1872, Charles Darwin), study of temperament, and base of evolutionary psychology
+... "Experiments on Plant Hybrids" (1865, Gregor Mendel); breeding, base of genetics
+
+==== Longitudinal Studies
+
+* Longitudinal studies observe people over an extended period of time; something which was missing for studying temperaments a long time.
+* Question is: Are these psychological qualities evident in early life and enduring
+* Infant characteristics measured like: activity level, general mood, attentions pan, persistence.
+* Three types of babies:
+[arabic]
+.. easy: playful, adaptable
+.. difficult: negative, unadaptable
+.. slow-to-warm-up: low in reactivity, mild responses
+* Also used parental ratings of children based on dimensions like: emotionality, activity and sociability
+* Studies found result: There is a link between early temperament and later personality characteristics
+
+==== Un/inhibited Children
+
+* Research (by Kagan et al) about biological bases of temperament
+** Direct observation of children's behavior in a lab setting
+* Result are two types of children's temperaments: *Uninhibited and inhibited* children
+** Inhibited children react to unfamiliar persons/events with restraint/avoidance/distress, takes longer to relax, more unusual fears/phobias.
+** Uninhibited children enjoy these things, responding with spontaneity/laughter/smiles easily.
+* Those types are pretty stable over the years (=consistent over time)
+** Yet again: Enviornment plays a considerable role, allowing people's temperemant to change
+** Kagan says: "Any predisposition conferred by our genetic endowment is far from being a life sentence; there is no inevitable adult outcome of a particular infant temperament" yet "it is very difficult to change one's inherited predisposition completely"
+* Neuroimaging shows: amygdala involved (fear response) and frontal cortex (emotional regulation)
+** Social experiences can modify brain functioning
+** Confirmed by fMRI scans of adults (before grouped as strong un/inhibited children), showing familiar/novel faces; amygdala reactivity differs
+* On molecular basis (at least for mice), a protein called "stathmin" could be found, influencing amygdala's functioning
+** Yet: Don't overinterpret the influence of biological foundations of personality!
+** The amygdala has many different responsibilities then fear response, and also is the only biological mechanism in fear response.
+** People with amygdala damage do not differ in their fear response
+** It may have more to do with novelty than fear: "a state of surprise is a more reliable incentive for amygdalar activation than a state of fear" (Kagan)
+
+==== Effortful Control
+
+* How to influence/regulate emotions/actions?
+* Effortful control: stop one thing in order to do another
+** Or: "The ability to suppress a dominant response in order to perform a subdominant response"
+** E.g.: Stop watching TV to study; stop eating sweets to lose bodyfat.
+* Interesting in regards to moral conscience (called "superego" by link:../../people/freud-sigmund.html[Freud])
+** Capacity to adhere to social norms by internalizing moral/ethical standards of behavior
+* Approaches:
+[arabic]
+.. Freud focused on child's experience with parents
+.. Examine differences in inherited biology
+.. Inherited biology _and_ parental influence (what has been done here)
+* Examine relations among: 1) effortful control 2) development of conscience 3) mothers authority assertion
+** The more authoritive, the less the child internalizes rules of proper social conduct (failing self-control skills)
+** Famous "snack delay" experiment, where a child learns delayed gratification by self-control
+
+=== Genes
+
+* 23 pairs of chromosomes, each pair from each parent
+** Each chromosome has thousands genes
+** Genes made up of DNA molecules; direct protein synthesis
+* Genes don't govern behavior directly!
+** There is no "introversion gene", but they impact proteins/hormones that will influence behavior indirectly
+
+==== Behavioral Genetics
+
+* ... is the study of genetic contributions to behavior
+* Three primary research methods/studies: selective breeding, twin, adoption
+[arabic]
+.. Selective Breeding Studies
+*** Desired trait can be selected by a selection/reproduction process with successive generations
+*** E.g. breed barking/fearful dogs; also used outside research (race horses, dogs with certain characteristics)
+*** Helps to understand genetical difference VS different environmental rearing conditions
+*** Instead of blaming it to the individual person (e.g. alcohol addiction) we can see the role of genes
+.. Twin Studies
+*** As we don't want to do selective breeding studies with humans, twins help out a lot
+*** Identical twins (monozygotic; MZ) develop from same fertilized egg VS fraternal twins (dizygotic; DZ) genetically similar as any sibling (50%)
+*** As (identical) twins are genetically identical, the only difference is the environment
+*** Also when they (fraternal twins, regular siblings) share the same environment, but have different genes
+*** Interestingly, although MZs reared apart, and meet in later adulthood, they show same personalities
+.. Adoption Studies
+*** Same environment, different genes (or same if identical twins)
+*** Interesting to compare with biological/adoptive parents
+*** Also nice to include biological and adoptive children
+*** Finding: The more genetically similar, to more similar the IQ (high correlation): Strong genetic contribution to intelligence
+* **Heratibility Coefficient**
+** Also called "h2" (squared, as the numbers are squared when computing variations around an average score)
+** Representing proportion of observed variance in scores, attributed to genetics
+** If MZ twins are not any more similar than DZ, then there is no genetic effect: h2 is zero
+*** If MZ differs greatly from DZ, then h2 is large (upper limit is 1.0, or 100%)
+** When the h2 is lower, then there are other factors than genetics at play (environmental)
+** Note: h2 refers to the population examined in a given study; it does not indicate how genetics influence individual characteristics
+* Heratibility of Personality
+** Two key quotes summarizes it (mostly from twin/adoption studies):
+[arabic]
+... "It is difficult to find psychological traits that reliably show no genetic influence"
+... "For almost every behavioral trait so far investigated, from reaction time to religiosity, an important fraction of the variation among people turns out to be associated with genetic variation. This fact need no longer be subject to debate"
+** Identical twins, reared apart, sometimes not only look and sound alike, but also share same attitudes, hobbies and preferences for pets.
+** Criticism: Studies are mostly based on self-report questionnaire methods
+** Warning: Heritability estimate is a population statistic; variation between people in the overall population (not speaking about a single individual)
+** Although there is an inherited component in personality traits, they still can change (through environmental experiences)
+*** E.g. height is significantly determined by genes, but can be influenced by nutrition in childhood
+* Molecular genetic paradigms
+** The behavior-genetic paradigm is outdated today, nowadays we look more at the underlying biology
+** Identify specific genes, how linked to personality traits; show genetic variations/alleles
+** E.g. a gene that coes for an enzyme that lowers neurotransmitters that are linked to aggressive behavior (similar with depression)
+
+==== Environments
+
+* Genetic and environmental influences extremely linked
+** See "Maze-bright/dull rats experiment" using selective breeding and putting them in different environments
+** 40-50% variance for single personality characteristics and personality overall, determined by genetic factors
+*** Rest of the population variance = environmental effects and measurement errors
+*** "Genetic influence is so ubiquitous and pervasive in behavior, that a shift in emphasis is warranted: ask not what is heritable; ask instead what is not heritable" yet at the same time "other message is, that the same behavioral genetic data yield the strongest available evidence for the importance of environmental influence"
+* Non-/shared environments
+** Again the good old "nature / nurture" debate (of behavioral genetics)
+** Shared env.: environmental influences making siblings more alike (same experiences, same family)
+** Nonshared env.: creating differences among siblings who grow up in the same family (treated differently by parents)
+** Finding: Shared env. effects has only little impact on personality; nonshared are large though
+** Interestingly, parenting unique to each child, due to genetic characterists of that child
+*** The child evokes different behavior in the parent
+* Nature-nurture interactions
+** "The critical point to remember in all of this is, that in the dance of life, genes and environment are absolutely inextricable (=untrennbar) partners"
+** Three kinds of interactions:
+[arabic]
+... Same enviromental experiences, different effects on individuals with different genes
+... Individuals with different genes, evoke different responses from the environment
+... Individuals with different genes, select and create different environments
+
+=== Mood, Emotion, Brain
+
+==== Hemispheres
+
+* Brain has two halves, left/right hemispheric
+* *Hemispheric dominance in emotion*
+** Left = positive; Right = negative emotions (EEG finding by showing emotion evoking film clips)
+** Decreased left-anterior cortical activity = depressed individuals; Right-anterior brain damage = maniac
+** But, not so much a judged (good/bad), but rather whether to approach or avoid: when happy, you approach to interact; when angrey, you approach to confront
+* PS: Cause of behavior might be encoded in genes, and acquired from experience later on, but what about prenatal experiences?!
+** For example sexual orientation: Once you a younger brother has older brothers, you are more likely to be homosexual (a probabilistic statement!)
+** Does not apply to female, and does not have to do with postnatal experiences (reared up together)
+** Why? The mother develops some immune response to a substance important to male fetus development (Maternal Immune Hypothesis)
+
+==== Neurotransmitter
+
+* Neurotransmitters like: Dopamine and serotonine
+** Has to do with individual differences in mood
+** Dopamine: reward system, pleasure, feel good chemical; "that was good, let's do it again and let's remember exactly how we did it"
+*** Cocaine "masquerades" as dopamine, leading to pleasure when taking the drug (and also the "drop" when stop taking the drug)
+** Too much dopamine => schizophrenia; too little dopamine => Parkinson's disease
+** SSRIs (selective serotonin reuptake inhibitors; prozac): so serotonin stays longer in synaptic cleft and has longer effect
+*** Serotonoin is responsible for mood, thus alleviates depression
+*** When given to "normal" people: reduce nedgative affective experience; increase social/affiliative behavior
+*** Used to treat depression, phobias, OCD (not exactly known how they work)
+** Also cortisol is associated with stress response
+* Three dimensions (superfactors) of temperament: PE (Positive Emotion), NE (Negative Emotion), DvC (Disinhibition versus Constraint)
+** NE:
+*** high = threatened, problematic, distressed
+*** low = calm, emotionally stable, self-satisfied
+** PE (dopamine = thrill seeking, impulsivity, disinhibition):
+*** high = engage, social, active life, energetic, cheerful, enthusiastic
+*** low = (like introverts) reserved, socially aloof, low energy/confidence
+** Although PE&NE seem opposite-sounding, we can have both high/low at the same time (controlled by different internal biological systems)
+** DvC (serotonin, testosterone): style of affective regulation
+*** high = impulsive, reckless
+*** low = careful, controlled, risk avoiding
+** low serotonin = more aggressive; need more dopamine-activating drugs (alcohol)
+*** Serotonin, the "feel bad" chemical
+** Also left/right hemispheric lateralization plays a role
+** Also (excessive sensitivity of) amygdala plays a role (experiencing anxiety/distress)
+** There is no 1-to-1 correlation between biological porcesses and personality traits!
+* Brain is not one big unit, but consists of several subsystems ("suborgans").
+** link:../../people/damasio-antonio.html[Damasio] says: "I am not falling into the phrenological trap. To put it simply: The mind results from the operation of each of the separate components, and from the concerted operation of the multiple systems constituted by those separate systems."
+
+Links biology and personality:
+* **Amygdala**: Part of primitiv limbic system; emotional response center; aversive emotional learning.
+* **Hemispheric Lateralization**: right frontal = negative emotions, shyness, inhibition; left = positive emotions, boldness, disinhibition.
+* **Dopamine**: Neurotransmitter; reward, reinforcement, pleasure. High = positive emotions, energetic, disinhibition, impulsivity. Low = lethargy, anxiety, constriction.
+* **Serotonin**: Neurotransmitter; mood, irritability, impulsivity. Low = depression, violence, impulsivity. See SSRIs.
+* **Cortisol**: Hormone; stress-realted, facilitates threat-reaction; secreted by adrenal cortex; adaptive for short-term stress, chronic stress leads to depression/memory loss.
+* **Testosterone**: Hormone; secondary sex characteristic development; dominance, competitiveness, aggression.
+
+=== Plasticity
+
+* Only partly true that 1) biology is fixed; genes and 2) biology is the cuase for psychological experiences
+** Biology can change, as a result of behavioral experience.
+** Like plastic, biology can be shaped and molded => plasticity
+* Neural systems & neurotransmitters are "plastic"
+** Bidirectional: When high-ranked monkey is put down, his serotonin levels drop, new leaders increase.
+** Even when winning coin tossing game, testosterone levels increase!
+** "Winneres get a blast of testosterone; losers get a drain"
+** When learning to juggle, doing brain scan before and after, shows after the anatomy of the brain has changed.
+* Socioeconomic status
+** When exposed to more stressful neighborhood (along with lower nutrition), major impact on serotonergic activity
+** Poorer neighborhood => lower serotonergic responsivity
+
+=== Higher-level functions
+
+* Excursion: Stress and aging
+** Quick answer: the more stress, the faster one ages
+** Telomeres, located at the end of every chromosome, get smaller on each division, until the cell can no longer divide.
+*** A "bookmarker of a cell's biological (versus chronological) age"
+** Effects of stress on aging is huge (based on checking telomere lengths): high-stress = 10-20 years older (cellular age)! So "chill out" please ;)
+* Self-concept
+** Unique ability of human capacity, to reflect on the self.
+** Is it just "one other thing we think about", or is it something special/unique? Distinct system for it?
+** Yes, it is distinct: medial prefrontal cortex is "selectively engaged during self-referential judgments"
+** Yet, it is not "home of the self", as multiple regions are active at the same time (involving self-reflection)
+* Moral judgment
