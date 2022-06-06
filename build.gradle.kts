@@ -6,12 +6,23 @@
 repositories {
 //    jcenter() // don't delete, otherwise fails
     mavenCentral()
+    mavenLocal()
 }
 
 plugins {
     id("org.asciidoctor.jvm.convert") version "3.1.0"
+    id("com.github.christophpickl.link-checker") version "1.0"
 }
 
+//buildscript {
+//    repositories {
+//        gradlePluginPortal()
+//        mavenLocal()
+//        dependencies {
+//            classpath "com.github.christophpickl:linkChecker:1.0"
+//        }
+//    }
+//}
 
 tasks {
     "asciidoctor"(org.asciidoctor.gradle.jvm.AsciidoctorTask::class) {
@@ -70,8 +81,8 @@ tasks.register<Copy>("copyLocalSite") {
 
 
 // ./gradlew -q linkChecker
-tasks.create<LinkCheckerTask>("linkChecker") {
-    localBuildDirAbsPath = Locations.htmlBuildOutput.absolutePath
-    websiteHomePagePath = "/index.html"
-    linkCheckIgnore = setOf("https://quizlet.com/nl/603903561/psychology-flash-cards/")
-}
+//tasks.create<LinkCheckerTask>("linkChecker") {
+//    localBuildDirAbsPath = Locations.htmlBuildOutput.absolutePath
+//    websiteHomePagePath = "/index.html"
+//    linkCheckIgnore = setOf("https://quizlet.com/nl/603903561/psychology-flash-cards/")
+//}
