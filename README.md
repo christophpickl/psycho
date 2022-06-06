@@ -1,5 +1,6 @@
 # Gradle Builds
 
+Important tasks to execute:
+
 * `build`: trigger asciidoc HTML generation
-* `deploy`: FTP upload 
-* `linkCheck`: online checks all links
+* `checkLinks`: checks all links via custom plugin
