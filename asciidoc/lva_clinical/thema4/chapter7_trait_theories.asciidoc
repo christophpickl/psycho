@@ -1,0 +1,122 @@
+= Chapter 7 - Trait theories of personality
+
+== Introduction
+
+* The grounding fathers of personality psychology are:
+** link:../../people/allport-gorden.html[Allport]: Cardinal/Central/Secondary traits, unscientific
+** link:../../people/cattell-raymond.html[Cattell]: Surface/Source traits, 16 personality factors
+** link:../../people/eyseneck-hans.html[Eyseneck]: ("Greek") Superfactors on 3 dimensions; PEN = P(sychoticism), E(xtravertedness), N(euroticism)
+* Scientific functions of trait constructs: describe, predict, explain
+* Criticism: Personality psychology based on traits is very "limited", as it does not explain the whole being as such and its internal mental processes (like the psychodynamic approach does)
+
+== Definitions
+
+* **Ability, temperament, dynamic traits**: @Cattell, Capture major aspects of personality.
+* **Cardinal/Central/Secondary trait**: @Allport, ... see below ...
+* **Extraversion/Introversion**: @Eyseneck, one of two dimensions of personality (sociable, friendly, impulsive, risk taking VS quiet, reserved, reflective, risk avoiding)
+* **Factor analysis**: Statistical method for analzying correlations among a set of test items in order to determine those variables/test responses that increase/decrease together. Used in the development of personality tests and of some trait theories (Cattell, Eyseneck).
+* **Functional autonomy**: @Allport, motive may become independent of its origins; in particular, motives in adults may become independent of their earlier base in tension reduction.
+* **L/Q/OT-Data**: @Cattellk, Life-record data (everyday life behavior), Questionaires, Objective-test (observation in miniature situations)
+* **Psychoticism**: @Eyseneck, Dimension of personality, solitary & insensitivity VS accept social custom & care about others
+* **Neuroticism**: @Eyseneck, Dimension of personality, emotional unstability and high anxiety
+* **Role**: Appropriate behavior for a person's place/status in society; limiting influence of personality variables on behavior relative to situational variables.
+* **Source/Surface Trait**: @Cattell, behaviors that vary together forming independent dimension / behaviors that appear to be linked to one another but do not in fact increase/decrease together.
+* **State**: @Cattell, Emotional/mood changes (anxiety, depression, fatigue) influencing bheavior; behavior is predictable by traits and states.
+* **Superfactor**: @Eyseneck, A higher-order/secondary factor representing organization of traits than the initial factors derived from factor analysis.
+* **Trait**: Stable (more or less) disposition /  Tendency to behave/respond in a particular way, situation-dependent.
+
+== Allport
+
+.Gorden Allport himself
+image::../../people/allport-gorden.jpg[Gorden Allport,200,100]
+
+* He identified three main types of traits (top to down):
+** *Cardinal traits*: Pervasive and outstanding disposition; every act is traceable to its influence; we only have few of them
+*** E.g. Scrooge McDuck is stingy, cold-hearted; we identify him with this
+** *Central traits*: Disposition to behave in a particular way in a range of situations.
+*** E.g. Young girl being shy; used to predict her behavior in most situations
+** *Secondary dispositions*: Disposition to behave in a particular way that is relevant to few situations.
+*** E.g. You like chinese food; preferences in music and food
+* Functional autonomy
+** Like Freud suggested, a child has tension-reducing motives, yet Allport posits adults grow out of those
+** Instead doing things solely to reduce tension/anxiety, we continue doing the same thing out of pleasure, it becomes motivation on its own (autononmous).
+** Allport: "What was once extrinsic and instrumental becomes intrinsic and impelling (=treibend). The activity once served a drive or some simple need; it now serves itself or, in a larger sense, serves the self-image/-ideal of the person. Childhood is no longer in the saddle; maturity is."
+* Idiographic research
+** Allport focused on the uniqueness of the individual
+** Others more in terms of a common, unversal (nomothetic procedures)
+** He was critized for this approach, regarded as antiscientific (similar as with Freud and his detailed case studies)
+** "The road to the general, to the revelatory simplicities of science, lies through a concern with the particular, the circumstantial, the concrete"
+
+PS: link:https://en.wikipedia.org/wiki/Marquis_de_Sade[Marquis de Sade], where sadism stems from; similar link:https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli[Niccolo Machiavelli], where machiavellian person stems from
+
+== Factor Analysis
+
+* A purely statistical method/tool to make sense of data
+* Among a big set of terms, find which are basically saying the same
+** E.g. whoever smiles a lot, might also be happy a lot, meaning underneath it shares a common essence and can be reduced to a single term
+* Used by Eyseneck and Cattell (not by Allport)
+
+== Cattell
+
+.Raymond Cattell himself
+image::../../people/cattell-raymond.jpg[Raymond Cattell,200,100]
+
+* Two conceptual distinctions, representing different levels of analysis (introducing a hierarchy of traits)
+** *Surface traits*: Literally visible on the surface.
+** *Source traits*: Internal psychological structures, cause of observed surface traits.
+* Result was 16 source traits grouped into three:
+** Ability traits: Skills allowing us to function effectively, e.g. intelligence.
+** Temperament traits: emotional life, stylistic quality of behavior. Work quickly/slowly, calm/emotional, impulsively/deliberation.
+** Dynamic traits: The striving/motivational life.
+* Sources of data for evidence:
+** L-Data: Life record
+** Q-Data: Questionnaire, self report
+** OT-Data: Objective-test
+* The *16 personality factors* (16 P.F.) are:
+[arabic]
+.. reserved -- outgoing
+.. less intelligent -- more intelligent
+.. stable, ego strength -- emotionality/neuroticism
+.. humble -- assertive
+.. sober -- happy-go-lucky
+.. expedient (=praktisch) -- conscientious (=pflichtbewusst)
+.. shy -- venturesome
+.. tough minded -- tender minded
+.. trusting -- suspicious
+.. practical -- imaginative
+.. forthright (offen, direkt) -- shrewd (clever)
+.. placid (ruhig) -- apprehensive (besorgt)
+.. conservative -- experimenting
+.. group dependent -- self-sufficient
+.. undisciplined -- controlled
+.. relaxed -- tense
+** The reason his work is not so popular is simply that 16 is a too big number, thus impractical for application.
+* Traits are also dependent from states and roles:
+** State: The emotion/mood one is in at a given moment, determined by the situation, e.g.: anxious, depressed, fatigued, aroused, curious.
+** (Social) Role: E.g. shouting at sport games and not in church, or being a teacher in school.
+** "How vigorously one attacks his meal, depends not only on how hungry one happens to be, but also on ones temperament and whether one is having dinner with his employer or alone at home."
+
+== Eyseneck
+
+.Hans Eyseneck himself
+image::../../people/eyseneck-hans.png[Hans Eyseneck,200,100]
+
+* Three-factor theory
+* 16 traits as from Cattell were too many, he simplified it
+** Was influenced by Jung and Kretschmer
+** Came up with a conceptual explanation.
+* Superfactors
+** Like Cattell, used *factor analysis* but this time used it two times.
+*** E.g. shy and reserved are basically the same, statistically dependent
+** Result: He came up with two of them, intro-/extra-verted and neurotic/stable
+*** Extraversion = sociable, outgoing, active, lively
+*** Introversion = thoughtful, reserved, quiet
+*** Stable = easy-going, relaxed, well-adjusted, even-tempered
+*** Unstable (neurotic) = moody, anxious, restless
+** Similar to the Greek (Hippocrates 400 B.C., Galen 200 A.D.) four temperamental types.
+** Everyone can be located on this *continuum two-dimensional space*, it is a "nomothetic system"
+** Eyseneck later on added a third dimension: Psychoticism (abnormal personality: aggressive, cold, antisocial, egocentric, unempathic, creative, impersonal, impulsive, tough-minded)
+*** Together these factors are referred by PEN: P(sychoticism), E(xtravertedness), N(euroticism).
+
+.Eyseneck's Superfactors
+image::eyseneck_superfactors.png[Superfactors,400,100]

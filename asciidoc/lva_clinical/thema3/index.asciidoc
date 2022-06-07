@@ -2,7 +2,7 @@
 
 Also see link:zelftoetsen.html[Zelftoetsen] from YouLearn.
 
-Chapter 11-25 (300 pages):
+Chapters:
 
 [start=11]
 . Neurobiological development disorders
@@ -21,10 +21,16 @@ Chapter 11-25 (300 pages):
 . Obsessive-compulsive disorders
 . Personality disorders
 
+== Terms
+
+* bijnier = adrenal gland
+* dysthyme stoornis = persistent depression
+* hypofyse = pituitary gland
+
 == Chapter 11 -  Neurobiological development disorders
 
 . Autisme-spectrum-stoorniss (ASS)
-. ADHD
+. ADHD (Attention Deficit Hyperactivity Disorder)
 
 === Autism (ASS)
 
@@ -53,7 +59,13 @@ Chapter 11-25 (300 pages):
 . Depressieve st.
 .. disruptieve-stemmingsdisregulatiest.
 .. depressieve st.
+*** Learn-theoretically cause: people have not learned to get reward from external world.
+*** Biological approach: Genetical factors lead to disruption in the hypothalamic-pituitary-adrenal
+*** link:../../people/beck-aaron.html[Beck]'s cognitive triad is about negative thoughts about self/world/future
+*** link:https://warbletoncouncil.org/teoria-conductual-depresion-lewinsohn-2538[Lewinsohn's Behavioral Theory of Depression]: No reinforcement of actions, no gratification, leading to guilt and low self-esteem.
+*** link:https://warbletoncouncil.org/terapia-autocontrol-rehm-813[Rehm's Self-Control Therapy]: from CBT, about self-management (monitoring, assessement, reinforcement)
 .. persisterende depressieve st. (dysthyme)
+*** Case description: for years feels down; tired most of the day; work little pleasure; problems concentrating; now and then better; less energetic then past; lucky periods last never longer than a month
 .. premenstruele stemmingsst.
 .. depr.stemm.st. door middle/medicatie
 .. depr.stemm.st. door somatische aandoening
@@ -67,29 +79,55 @@ Chapter 11-25 (300 pages):
 === Bipolar
 
 * hypomane episdoe: min. 4 days, maniac symptoms, not really limited in daily functioning
-* symptoms maniac episode:
-** need less sleep
-** "excentric" ideas
-** easily distracted
+* symptoms maniac episode: need less sleep,  easily distracted, "excentric" ideas (=grootheidsideeën)
 
-== Chapter 13 -  Anxiety disorders
+== Chapter 13 - Anxiety disorders
+
+Disorders:
 
 . separatie-angst-st.
 . selectief mutisme
 . speciefieke fobie
+** subtypes: natural phenomena (e.g. fear of height; elevators, mountains)
+** Suffering is often less than of other psychological disorders
 . sociale-angst-st.
 . paniekst.
+** Symtpoms: Nausea, derealisation (feeling of not real), fear to lose selfcontrol
 . agorafobie
 . GAD
 
-TODO
+Info:
+
+* Social phobia is the most common anxiety disorder
+// TODO add some info about that; which treatment indicated; how interventions work for either of them
+* individuele casus-conceptualisatie: sequential/referential association
+* *Stagering* creating distinct phases, *profilering* creating specific criteria, of patients with different prognosis/treatments
+
+."Fear network", containing of: insula, amygdala, anterior cingulate cortex
+image::fear_network.png[Fear Network,300,100]
 
 == Chapter 14 -  Substance abuse
 
+Categories:
+
 . gebruik van middel
+** Heroin:
+*** Effect on CNS: inhibiting, consciousness-lowering effect
+*** Compensatoire model (classical conditioning): Heroin overdose often happens in situations the junkie has not been before (body doesn't prepare)
+** Wekamine (old term, not used these days anymore; "Weckmittel"):
+*** Effect on CNS: stimulating
+*** E.g. amphetamine, coffeein (body own wekamine: adrenaline)
+*** Symptoms intoxication by amphetamines: Much energy, cheerfulness, ability to think clearly, good physical/mental performance
+** Tolerance:
+*** Postiive tolerance: repeated use, higher dose needed to reach same effect
+*** Negative tolerance: repeated use, lower dose needed to reach same effect
+*** Stress reduction hypothesis (cognitive school): Good predictor for drinking is "expectation of the effects of drinking"
+** Treatment:
+*** When severe withdrawal symptoms, intramural (=institutional) admission prior to detoxification.
+*** CBT and motivational interviewing.
+*** Online counseling programs for reducing alcohol consumption.
 . gokst. (gambling)
 
-TODO
 
 == Chapter 15 -  Somatosymptomic disorders
 
@@ -98,8 +136,6 @@ TODO
 . conversiest.
 . psychic factors somatic influences
 . nagebootste st. (=imitated disorder) (pathomimie, "Münchhausensyndrom")
-
-TODO
 
 == Chapter 16 -  Sleeping disorders
 
@@ -115,15 +151,11 @@ TODO
 . rusteloze-benensyndroom
 . slaapst. door substance/medication
 
-TODO
-
 == Chapter 17 -  Eating disorders
 
 . anorexia nervosa
 . boulimia nervose
 . eetbuist.
-
-TODO
 
 == Chapter 18 -  Disruptibe imppulsive behavioral disorders
 
@@ -132,8 +164,6 @@ TODO
 . norm-overschrijdend-gedragsst.
 . pyromanie
 . kleptomanie
-
-TODO
 
 == Chapter 19 -  Genderdysforie, paraphile and sexual disorders
 
@@ -155,8 +185,6 @@ TODO
 . voortijdige ejaculatie
 . genitopelvienepijn/penetratiest. (dyspareunie)
 
-TODO
-
 == Chapter 20 -  Schizophrenia spectrum
 
 . waanst.
@@ -165,23 +193,17 @@ TODO
 . schizofrenie
 . schizoaffectieve st.
 
-TODO
-
 == Chapter 21 -  Trauma and stress-related disorders
 
 . post-traumatische-stress-st. (PTSS)
 . acute-stress-st.
 . aanpassingsst.
 
-TODO
-
 == Chapter 22 -  Dissociative disorders
 
 . depersonalisatie-derealisatiest.
 . dissociatieve amnesie
 . dissociatieve-identiteits-st. (DIS)
-
-TODO
 
 Fugue = a state or period of loss of awareness of one's identity, often coupled with flight from one's usual environment, associated with certain forms of hysteria and epilepsy.
 
@@ -200,16 +222,12 @@ NCS = neuro-cognitive stoornis
 . traumatisch hersenletsel (THL)
 . NCS through substance/medication
 
-TODO
-
 == Chapter 24 -  Obsessive-compulsive disorders
 
 . obsessieve-compulsieve st.
 . verzamelst. (hoarding disorder)
 . morodysfore st. (body dysmorphic disorder, BDD)
 . trichotillomanie (hair pull), excoriatiest. (wondjes krabben)
-
-TODO
 
 == Chapter 25 -  Personality disorders
 
@@ -226,5 +244,3 @@ TODO
 .. vermijdende
 .. afhankelijke
 .. dwangmatige
-
-TODO

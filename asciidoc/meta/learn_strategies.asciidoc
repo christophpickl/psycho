@@ -37,3 +37,11 @@ Advice from textbook:
 * *Actively process* over passively rereading.
 * Understand the *meaning*, question it.
 * Build up new *associations*, connect to other knowledge and personal experiences.
+
+== Learn to remember
+
+. *Read* the book
+. *Close* it
+. *Write* down what i remember
+. *Compare* (mark red what is missing/wrong)
+. _Do it again some other time_

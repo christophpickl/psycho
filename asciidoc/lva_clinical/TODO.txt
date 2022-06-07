@@ -1,8 +1,8 @@
-* !!! PDF chapter 8
-* !!! PDF chapter 9
 
-// practic remembering: read the book, close it, write down what i remember; compare (mark red what is missing/wrong), and do it again some other time.
 
+================================================================================
+Exam 2
+================================================================================
 
 
 * quick cheatsheet (table) of all diseases
@@ -10,8 +10,7 @@
 * go through YouLearn exams => pick up key terms/people/research/focus topics
 * test exams from other universities (PDFs from daiana, 3 stueck)
 
-
-* EXA ... ⚠️ YouLearn exam; ✅ incorporate zelftoetsen in regular cheatsheet; 🦄 add explanations why (correct answer)
+* EXA ... ⚠️ YouLearn exam; ✅ incorporate zelftoetsen in regular cheatsheet; 🦄 add explanations why (correct answer) + add wrong answers (if applicable)
 * PPT ... noordhoff PPTs into wiki
 * MM ... mindmap ANALOG/DIGITAL
 * YL ... read YouLearn texts
@@ -20,9 +19,9 @@
 | Ch | EXA | PPT | MM  | YL  | Wik | NEx |
 +----+-----+-----+-----+-----+-----+-----+
 | 11 | ✅  |     |     |     |     |     |
-| 12 | ⚠️  |     |     |     |     |     |
-| 13 | ⚠️️  |     |     |     |     |     |
-| 14 | ⚠️  |     |     |     |     |     |
+| 12 | ✅  |     |     |     |     |     |
+| 13 | ✅  |     |     |     |     |     |
+| 14 | ✅  |     |     |     |     |     |
 | 15 | ⚠️  |     |     |     |     |     |
 | 16 | ⚠️  |     |     |     |     |     |
 | 17 | ⚠️  |     |     |     |     |     |
@@ -36,29 +35,13 @@
 | 25 | ⚠️  |     |     |     |     |     |
 
 EXTRA PDFS
-
          | H7 | H8 | H9 |
 +--------+----+----+----+
-summary  | ✅ | ✅ |    |
+summary  | ✅ | ✅ | ✅ |
 
-
-==============
-	- ad "big five":
-		- incorporate scales&examples: https://www.youtube.com/watch?v=nu7boTdSVgk
-		- find all facets
-		- practical psychology on traits: https://www.youtube.com/watch?v=oUgCIvKxbAE - write list of VIP
-
-
-clinical II masterplan -> exam 15.6.
-	* (8 weeks until then, from 20.4.)
-	* chapter 11-25 == 14 chapters
-	* doings per chapter:
-		- mindmap analog + PPT
-		- mindmap digital
-		- write basic wiki
-		- wiki pics and references
-		- YouLearn Exam
-		- Noordhoff Exam
+================================================================================
+Exam 1
+================================================================================
 
 clinical I masterplan: 31.8. exam, 2nd attempt; make long-term plan
 	!!! masterclass! => auch die masterclass exercises ins psywiki

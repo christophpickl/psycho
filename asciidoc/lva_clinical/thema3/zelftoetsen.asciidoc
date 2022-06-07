@@ -64,8 +64,6 @@ II In het klassieke beeld van volwassenen met ADHD valt de verhoogde *afleidbaar
 .. snel *afgeleid* zijn
 ** [hiddenAnswer]#b.#
 
-// TODO until here incorporated in cheatsheet
-
 . Een man heeft al jarenlang een *neerslachtige* stemming. Hij voelt zich het grootste deel van de dag *vermoeid*. Aan zijn werk beleeft hij *weinig plezier*. Het komt vaak voor dat hij zich niet goed op zijn werkzaamheden kan *concentreren*. Naar zijn mening hebben de verschillende reorganisaties in het bedrijf waar hij werkt, hem ‘murw’ gemaakt. Heel *af en toe* is er een periode dat het *beter* gaat; hij voelt zich dan weer net zo *energiek* als vroeger. Deze ‘gelukkige’ perioden duren echter *nooit langer dan een maand*. +
 Welke van de volgende diagnosen is het meest waarschijnlijk, aangenomen dat er onvoldoende symptomen zijn om te voldoen aan de criteria van een depressieve stoornis?
 .. dysthyme stoornis
@@ -88,7 +86,7 @@ II Volgens de *biologische* benadering is er bij een depressieve stoornis sprake
 .. aangeleerde hulpeloosheid.
 .. instabiele attributies.
 .. de depressieve positie.
-** [hiddenAnswer]#.#
+** [hiddenAnswer]#a.#
 
 . Hulpverleners die zich baseren op de theorie van *Lewinsohn of het zelfcontrolemodel van Rehm*, zullen bij de behandeling van depressieve stoornissen ...
 .. zoeken naar *schemata* die ten grondslag liggen aan het *negatieve zelfbeeld* van de patiënt.
@@ -99,7 +97,8 @@ II Volgens de *biologische* benadering is er bij een depressieve stoornis sprake
 
 == Chapter 13 -  Anxiety disorders
 
-. Mevrouw Venema heeft een probleem waar ze erg onder lijdt: haar vriend woont namelijk op de zevende etage van een appartementencomplex en ze durft hem daar niet te bezoeken. Met de lift naar *boven gaan* is voor haar niet zo’n probleem, maar zodra ze uitstapt en de stad beneden haar ziet liggen, slaat de paniek toe. Ze is bang dat ze *naar beneden zal springen* en de val niet zal overleven. Haar vriend heeft inmiddels geaccepteerd dat ze niet samen naar een bergachtig landschap op vakantie gaan en dat zijn vriendin de Eiffeltoren niet wil beklimmen. Hij vindt het echter ‘absurd’ dat hij altijd naar haar huis moet komen en dat ze elkaar nooit eens in zijn appartement kunnen ontmoeten. Onder welk subtype valt de *specifieke fobie* van mevrouw Venema?
+. Mevrouw Venema heeft een probleem waar ze erg onder lijdt: haar vriend woont namelijk op de zevende etage van een appartementencomplex en ze durft hem daar niet te bezoeken. Met de lift naar *boven gaan* is voor haar niet zo’n probleem, maar zodra ze uitstapt en de stad beneden haar ziet liggen, slaat de paniek toe. Ze is bang dat ze *naar beneden zal springen* en de val niet zal overleven. Haar vriend heeft inmiddels geaccepteerd dat ze niet samen naar een bergachtig landschap op vakantie gaan en dat zijn vriendin de Eiffeltoren niet wil beklimmen. Hij vindt het echter ‘absurd’ dat hij altijd naar haar huis moet komen en dat ze elkaar nooit eens in zijn appartement kunnen ontmoeten. +
+Onder welk subtype valt de *specifieke fobie* van mevrouw Venema?
 .. overig
 .. bloed-injectie-verwonding
 .. situationeel
@@ -193,10 +192,12 @@ II bij *referentiële associaties* in de cognities van de patiënt is een *expos
 .. Bij ernstige onttrekkingsverschijnselen wordt een intramurale opname voorafgaand door detoxificatie aangeraden.
 .. Bewezen effectieve vormen van psychologische behandeling voor middelgebonden stoornissen zijn motiverende gespreksvoering en cognitieve gedragstherapie.
 .. De meeste behandelingen zijn weinig succesvol: bij het merendeel van de behandelden is er sprake van een terugval binnen het jaar.
-.. Uit onderzoek blijkt dat online hulpverleningsprogramma's effectieve interventiews zijn voor de reductie van de alcoholconsumptie.
+.. Uit onderzoek blijkt dat online hulpverleningsprogramma's effectieve interventies zijn voor de reductie van de alcoholconsumptie.
 ** [hiddenAnswer]#c.#
 
 == Chapter 15 -  Somatosymptomic disorders
+
+// TODO until here
 
 . Welke van de volgende beweringen over de *conversiestoornis* is *niet* juist?
 .. Veel patiënten met een conversiestoornis veroorzaken met opzet hun *lichamelijke* symptomen.

@@ -1,0 +1,147 @@
+= Chapter 8 - Trait theory: The five-factor model
+
+== Introduction
+
+* Applications and evaluation of trait approaches to personality.
+* Enormous research backing it ("proper", objective, empirical data)
+** Similar to what Eyseneck did; factor analysis, purely data driven (high evidence)
+** Result of the work of many, not a single person
+** Most accepted trait theory in psychology today
+* Tied to biology (from psychological to biological foundations; genetics and neurophysiology)
+* Five-factor model of personality
+** Also a factor-analytic trait approach (as used by Cattell and Eyseneck)
+** What's new this time? Evidence! => Using natural language and cross-culutural research
+* Cross-cultural research / are the big 5 universal?
+** Language is always slightly different, e.g. "aggressive", german = hostile, english = forceful-assertive
+** Some traits are more stable (CEA) across cultures, some less
+** "Chinese tradition factor"? needs more research/evidence
+* Even animals show consistent expression of emotions (thus also have traits; not only antropomorphism)
+* It tells us about certain test scores, but gives us little understanding about the "how" and the "why"
+
+== Definitions
+
+* **Big Five**: Short version for the five-factor model, five broad bipolar dimensions of personality
+* **Facets**: More specific components (traits) which make up the Big Five factors (e.g. extraversion: activity level, assertiveness, warmth, etc.)
+* **Five-factor theory**: big five are more than just descriptions => things that really exist; psychological structure (like we have a certain degree of height)
+* **Fundamental Lexical Hypothesis**: Over time, most important individual differences in human interaction, are encoded in single terms into language.
+** According to Goldberg: "the most important individual differences in human transactions will come to be encoded as single terms in some or all of the world's langauges"
+* **NEO-PI-R**: Personality questionnaire, designed to measure on the Big Five (and facets).
+* **OCEAN**: Acronym for: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism.
+* **Person-Situation controversy**: Controversy between consistency VS variability of behavior relating to a particular situation.
+
+== Big Five
+
+* Openness
+** High score: curious, broad interests, creative, original, imaginative, untraditional, open-minded
+** Low score: conventional, down-to-earth, narrow interests, unartistic, unanalytical, unimaginative
+** Trait scales: assesses proactive seeking and appreciation of experience for its own sake; toleration for and exploration of the unfamiliar
+* Conscientiousness
+** High score: organized, reliable, responsible, hard-working, self-disciplined, punctual, scrupulous, neat, ambitious, persevering (=ausdauernd), dutiful
+** Low score: aaimless, unreliable, iresponsible, lazy, careless, lax, negligent (=fahrlässig), weak-willed, hedonistic
+** Trait scales: assesses the individual's degree of organization, persistence and motivation in goal-directed behavior; contrasts dependable, fastidious (=anspruchsvoll) people with those who are lackadaisical (=nachlässig) and sloppy
+* Extraversion
+** High score: sociable, active, talkative, person-oriented, optimistic, fun-loving, affectionate, energetic
+** Low score: reserved, sober, unexuberant (=unüberschwänglich), aloof (=distanziert), task-oriented, retiring, quiet, shy
+** Trait scales: assesses quantity and intensity of interpersonal interaction; activity level; need for stimulation; capacity for joy
+* Agreeableness
+** High score: soft-hearted, good-natured, trusting, helpful, forgiving, gullible (=leichtgläubig), straightforward, sympathetic, cooperative, kind
+** Low score: cynical, rude, suspicious, uncooperative, vengeful, ruthless, irritable, manipulative, abrasive (=rau), jealous
+** Trait scales: assesses the quality of one's interpersonal orientation along a continuum from compassion to antagonism in thoughts, feelings and actions
+* Neuroticism (emotional stability)
+** High score: worrying, nervous, emotional, angry, complaining, insecure, inadequate, hypochondriacal
+** Low score: calm, relaxed, unemotional, hardy (=zaeh), secure, self-satisfied
+** Trait scales: asseses adjustment versus emotional instability; identifies individuals prone to psychological distress, unrealistic ideas, excessive cravings or urges, maladaptive coping responses
+
+== NEO-PI-R
+
+* https://en.wikipedia.org/wiki/Revised_NEO_Personality_Inventory
+* Questionnaire tailored for the big five
+* NEO (Neuroticism, Extraversion, Openness) Personality Inventory, Revised
+** Later added CA (Conscientiousness, Agreeableness) as well
+* Each factor differentiated into 6 facets; Each facet measured by 8 items
+** 240 question items = 5 factors * 6 facets * 8 items
+* Can be self- (S-data) and observer-report data (O-data)
+
+=== Facets
+
+* Openness: fantasy, aesthetics, feelings, ideas, actions, values
+* Conscientiousness: self-discipline, dutifulness, competence, order, deliberation, achievement striving (spock from star trek)
+* Extraversion: gregariousness, activity level, assertiveness, excitement seeking, positive emotions, warmth (bill clintion)
+* Agreeableness: straightforwardness, trust, altruism, modesty, tendermindedness, compliance
+* Neuroticism: anxiety, self-consciousness, depression, vulnerability, impulsiveness, angry hostility (woody allen)
+
+== Age differences
+
+* We have a certain set-point, yet changes over time a bit, and lot potential (within given range)
+* The older: -NEO and +AC
+* Teenagers have ("angry young man"):
+** +O = willing for experimentation
+** -C = less responsible to others
+** -A = more critical and demanding
+** +E = more phone/social activities
+** +N = anxieties/concerns acceptance and self-esteem
+* This contradicts five-factory theorie's brand of biologism
+** Not totally inherited (constant), but affected by social experiences
+* Children's personality seem more complex (less integrated): 7 instead of 5 factors (sociability/activity, fearful/irritability)
+** They merge together to form a broader; more fully integrated dimensions
+* Insights about personality/trait stability:
+[arabic]
+.. Personality more stable over short period (than over long)
+.. More stable in adulthood (than in childhood)
+.. Individual differences during development
+.. Determined limits of environmental influence on change
+.. Reasons for stability are genetic and environmental. Change happens also because of life circumstances and active efforts (psychotherapy).
+
+== More Factors?!
+
+* Sixth trait coming up: honesty/humility (e.g. Mother Teresa)
+** Low: honest, sincere, loyal/faithful, frank, truthful, true/genuine, veracious (=wahrhaftig), just, helpful, unselfish
+** High: mean, arrogant, egoistic, thoughtless, disloyal, pretending, flattering, smug (=selbstgefällig), haughty (=hochmütig), boastful (=prahlerisch), megalomaniac (=größenwahnsinnige), cunning (=gerissen)
+* If changing from only analyzing adjectives to nouns and verbs as well, we end up with even 8 factors
+
+== Applications
+
+* For: employers, educators, clinicians, ... reliable means for assessement.
+* Usecase: Predict future suitable occupation (performance in it).
+** High E: social, enterprising
+** High O: journalist/freelance writer (requiring curiosity, creativity, independent thinking)
+* Subjective well-being: High C means, take better care of themselves, live longer
+* Clinicians, for diagnose/prognosis/treatment:
+** E.g. compulsive personality has high CN; antisocial low AC
+** "Some people need to lie on a couch and talk about their mother. My therapy is working out at the gym."
+** High O: dream interpretation in psychoanalysis, or self-actualization of humanistic-existential approach.
+* Yet, there is no such thing as "trait theory therapy"
+
+== Person-Situation controversy
+
+* Trait is supposed to influence behavior *consistently*; how consistent is it though?!
+** Big criticism towards Big Five
+** Reason why it fails to predict behavior
+* In different situations (opportunities, constraints, rules, norms) we act differently
+* Differentiate:
+[arabic]
+.. Longitudinal stability: High on a trait one time and another time (more stable)
+.. Cross-situational consistency: High on a trait in some situations and also other situations (questionable)
+* E.g.: aggressiveness in church; agreeableness in football game
+* Approach to solve: Ask in different contexts, and aggregate measurements
+** Not working really well; e.g. student conscientious taking notes in lecture but very messy dorm room
+** Yet consistency is not equals zero, there is at least some consistency!
+
+== Evaluation
+
+* The database
+** Careful scientific observations -check
+** Objective -check (and also very diverse; different ages, ethnicities, sociocultural backgrounds)
+** More than self-reports
+* Systematic
+** Analyzing traits and also states, roles, motiviational processes
+** Although contemporary trait theories are less systematic
+* Testability
+** Can be tested empirically and objectively -check
+* Comprehensive
+** Remarkably comprehensive -check (in some respects)
+** All significant individual differences incorporated in the taxonomy (factor-analytic studiy of personality structure)
+** Not comprehensive due to... un/conscious processes, sexuality, dreams, parent/child or therapist/patient relationship
+*** No statement about these things. Simply not addressed.
+** How about physical factors like: Attractiveness, athelticism, healthiness
+** Maybe Big Five where never intended to be that comprehensive?!

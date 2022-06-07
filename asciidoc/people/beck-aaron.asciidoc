@@ -1,0 +1,18 @@
+= Aaron Temkin Beck
+
+[#img-beck-aaron]
+.Aaron Beck himself
+image::beck-aaron.jpg[Aaron Beck,200,100]
+
+== Facts
+
+* 1921-2021
+* American psychiatrist
+
+== Achievements
+
+* link:https://en.wikipedia.org/wiki/Beck%27s_cognitive_triad[Beck's Cognitive Triad] ("Negative Triad"): Negative thoughts about self & world & future.
+
+== Links
+
+* https://en.wikipedia.org/wiki/Aaron_Beck
