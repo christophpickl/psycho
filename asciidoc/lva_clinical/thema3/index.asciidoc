@@ -34,49 +34,172 @@ Chapters:
 
 === Autism (ASS)
 
-* diagnosis:
-** because of above average intelligence, often diagnosed later
-** often semi-structured interviews used
-* criteria for "divergent social reciprocity":
-** lack of awareness of social conventions
-** not knowing at all what to say in social situations
-** the inability to spontaneously share emotions with others
-** (they indeed can make eye contact)
+* Definition: Serious social/communication skill deficits; stereotypical behavior/interests.
+* Diagnosis:
+** Often diagnosed later in life, because of above average *intelligence*
+** Often semi-structured interviews used
+* Symptoms:
+** Divergent social reciprocity
+*** Lack of awareness of *social conventions*
+*** Not knowing at all what to *say* in social situations
+*** The inability to spontaneously share *emotions* with others
+*** (They indeed can make *eye contact*)
+** Divergent non-verbal communication
+** Relationship difficulties
+** Repetitive behavior/interests (obsessed with certain objects/subjects/activities)
+* Neurocognitively limitations with:
+** Theory of mind (social insight)
+** Central coherence (detailed informationprocessing)
+** Executive functions (planning, flexibility)
+* Prevention by using folic acid during pregnancy (7-times lower risk of ASS)
+* Prevalence
+** Less than 1%; more men than women (4:1)
+* Treatment
+** Usually reducing symptoms of comorbid disorders (anxieties)
+** Children: CBT, medication (risperidon)
+** Adults: Acceptance through psycho-education
+** MBSR seems working
 
 === ADHD
 
-* adults with ADHD (compared to children):
-** have less hyperactivity, more distractibility/inattention
-* diagnose:
-** three steps:
-*** 1) check symptoms via screenings/questionaires
-*** 2) symptom cause via semi-structured interviews
-*** 3) check comorbidity via hetero-anamnesis
-* treatment: medication
+* Definition: Externalized disorder; inattention, impulsivity, hyperactivity.
+** Criteria: min. 6 months; symptoms before age 12.
+** Adults with ADHD (compared to children): Have less hyperactivity, more distractibility/inattention
+* Three subtypes: 1) Inattentive 2) Hyperactive-impulsive 3) Combined
+* Diagnosis:
+** Difficult in general, as:
+*** Adults under-rate symptoms
+*** For adults, retrospective diagnose for age before 12
+*** Masquerade of symptoms (compensate limitations; extensive organizations to compensate)
+*** High comorbidity
+** Done in 3 steps:
+[arabic]
+... Check symptoms via screenings/questionaires (school, work, home, relations)
+... Exclude alternative explanations (via semi-structured interviews)
+... Check comorbid problems (via hetero-anamnesis)
+* Treatment:
+** Offer structure (not only to children, but also adults; e.g. use an alarm)
+** Medication (stimulantia work for all; contain methylphenidaat, e.g. *Ritalin*)
+* Prevalence: 5%; more men than women (2:1)
+* History: In past, only diagnosed for children (50% keep diagnose when growing adult)
+
 
 == Chapter 12 -  Depression and bipolar mood disorders
 
-. [disorderName]#Depressieve st.#
-.. [disorderName]#disruptieve-stemmingsdisregulatiest.#
-.. [disorderName]#depressieve st.#
+Disorders:
+
+. [disorderName]#Depressieve stemmingsst.#
+.. [disorderName]#Disruptieve-stemmingsdisregulatiest.#
+** Persistent irritable mood, violent tantrums ("hevige driftbuien"); Children until 18 years
+** Introduced new category as otherwise over-treatment for bipolar disorder
+.. [disorderName]#Depressieve st.#
+*** Symptoms: depressed mood, *anhedonia* (loss of interest/joy); no (hypo)manic symptoms
+**** Also: Significant weight change; insomnia/hypersomnia; psychomotoric agitation/delay; tired; feeling unworthy/guilty; problems concentrating; thinking about death
+*** Keep in mind difference between depression and regular mourning (feeling empty and longing for lost person)
 *** Learn-theoretically cause: people have not learned to get reward from external world.
 *** Biological approach: Genetical factors lead to disruption in the hypothalamic-pituitary-adrenal
 *** link:../../people/beck-aaron.html[Beck]'s cognitive triad is about negative thoughts about self/world/future
 *** link:https://warbletoncouncil.org/teoria-conductual-depresion-lewinsohn-2538[Lewinsohn's Behavioral Theory of Depression]: No reinforcement of actions, no gratification, leading to guilt and low self-esteem.
 *** link:https://warbletoncouncil.org/terapia-autocontrol-rehm-813[Rehm's Self-Control Therapy]: from CBT, about self-management (monitoring, assessement, reinforcement)
-.. [disorderName]#persisterende depressieve st. (dysthyme)#
+.. [disorderName]#Persisterende depressieve st. (PSD)#
+*** link:https://en.wikipedia.org/wiki/Dysthymia[Dysthyme] (persistent depressive disorder, PDD)
+*** Chronic disorder 2+ years; most of days depressed mood; not symptom-free for more than 2 months in a row (for last 2 years)
+*** Symptoms: low/high appetite; insomnia/hypersomnia; low energy/tired; low self-esteem; bad concentration; difficulty decisions; hopelessness
 *** Case description: for years feels down; tired most of the day; work little pleasure; problems concentrating; now and then better; less energetic then past; lucky periods last never longer than a month
-.. [disorderName]#premenstruele stemmingsst.#
-.. [disorderName]#depr.stemm.st. door middle/medicatie#
-.. [disorderName]#depr.stemm.st. door somatische aandoening#
+.. [disorderName]#Premenstruele stemmingsst.#
+*** Symptoms: Lability, angry, hot temper; personal conflicts; depressed mood, hopelessness, anxiety, tension
+**** Also: less interest, difficulties concentrate, lethargy, tired, changed appetite, insomnia/hypersomnia, overwhelmed by emotions, bodily complaints
+.. [disorderName]#Depr.stemm.st. door middle/medicatie/somatische aandoening#
+*** Medicine, alcohol or other drugs; intoxication (overuse) and abstinence possible cause
+*** E.g.: Drugs for cardiovascular diseases; stimulants/appetite suppressants; painkillers/anti-inflammatories; anti-cancer medication; parkinson's; rheumatism; vitamin (B12) deficiencies
 . [disorderName]#Bipolaire st.#
-.. [disorderName]#bipolaire I st.#
-.. [disorderName]#bipolaire II st.#
-*** no full mania, but hypomania (mild form)
-.. [disorderName]#cyclothyme st.#
-*** mild form
-.. [disorderName]#bip.st. door middle/medicatie#
-.. [disorderName]#bip.st. door somatische aandoening#
+** Used to be called "manic depression"
+.. [disorderName]#Bipolaire I st.#
+*** Symptoms like manic episode; can also be without depressive episodes (though usually predominate).
+*** Manic episode: euphoria, hyperactivity, fantastic ideas, lots words, overly excited/irritable
+*** Seasonality (manic in summer, depressed in spring/autumn); strong genetic contribution
+.. [disorderName]#Bipolaire II st.#
+*** Was at least one depressive and one hypomane episode (mild form, not a full mania).
+*** Less serious (duration, intensity) than manic epsiode; no limitations of social/work functioning
+*** Changes are visible to others (use hetero-anamnese)
+*** Diagnose: requires at least heightened energy (3) or irritable mood (4 symptoms)
+**** Symptoms: inflated ego; minder sleep need; change of talkativeness; avoiding thinking; excessive activities; psychomotoric agitation
+.. [disorderName]#Cyclothyme st.#
+*** Mild form; Problems in social life
+*** 2+ years suffering from hypomane and depressed symptoms (symptomfree for not longer than 2 months)
+.. [disorderName]#Bip.st. door middle/medicatie#
+.. [disorderName]#Bip.st. door somatische aandoening#
+
+Info:
+
+* Starting point is to differentiate between: depressive / hypomanic / manic epsidoes.
+** *Depressive episode*: Uninterrupted 2+ weeks; depressed mood OR no interest/joy
+** *Manic episode*: 1+ week; highly irritable, increased energy; daily functioning limited
+** *Hypomanic episode*: Same as manic, but: 4+ days; without daily functioning limitations
+* Mood episodes need to be evaluated in their seriousness:
+** melancholic - experience pleasure
+** atypical - reactivity
+** psychotic - hallucinations/delusions
+** seasonal - winter depression
+** peripartum - being pregnant
+** mixed episodes - manic/depressive episodes; symptoms of different mood pole present
+* Course:
+** Remission: complete recover
+** Partial remission: some symptoms stay
+** Response: 50+% symptoms less
+** Relapse: 2+ months recovered but back again
+* Assessement:
+** Screeningsmethods (questionnaires, checklist)
+** Syndromale classification (interviews; for trained clinici)
+** Seriousness; intensity/frequency (interviews, rating scales)
+* Epidemiology:
+** Pointprevelance: 5% (slightly more women than men)
+** Half people recover within 3 months
+** Comorbid with: anxieties, substance abuse, overweight, ...
+* Theoretical views:
+** Learn theoretical: link:../../people/skinner-burrhus_frederic.html[Skinner] says, depression is a reduction of the behaviorfrequence due to reduction in reinforcement
+** Reinforcement theory / *self-control model*:
+*** Not only too little external reward
+*** Also rewarding oneself too little & punish oneself too much
+*** "Strict for oneself, mild for others"
+** Cognitive view:
+*** link:../../people/beck-aaron.html[Beck] says: *cognitive triad* (negative view on oneself & future & world)
+*** link:../../people/seligman-martin.html[Seligman] says: learned helplessness
+** Causal attributes (how do people explain certain things, the why/cause)
+*** Intern VS extern:
+**** cause is within oneself or outside in the world; "i didn't learn enough" VS "the exam was too difficult"
+*** Stable VS instable:
+**** things which are changeable or not; "it's just because the way i am" VS "next time i will try harder"
+*** Global VS specific
+**** generalizing to everything or staying with the particular; "i am just too stupid to get anything" VS "i might not fit for this subject"
+*** intern + stable + global = depression; "i am and always will be just too stupid to do anything at all"
+** Biological approach:
+*** link:../../people/hippocrates-of-kos.html[Hippocrates] already saw biology as base for mood disorders
+*** Genetical predisposition (especially bipolar)
+*** Dysregulation of link:https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93adrenal_axis[hypothalamic-pituitary-adrenal axis] (cortisol=stress => lasting changes to HPA axis)
+*** Immunesystem activation (pro-inflammatory cytokines, such as serotonin/noradrenaline)
+** Neurobiological approach:
+*** Still little results...
+*** Currently research, divergent brain parts for diverget emotional regulation
+*** Heightened emotionality, due to low prefrontal cortex and high limbic system activity
+* Life-events:
+** *Diathese-stress model*
+** HPA-axis disturbance, leads to depressed schema
+** Difference first VS later episodes
+** Kindling/scar: every episode makes easier vulnerable for subsequent episodes
+* Treatment:
+** Staging and profiling model (for bipolar)
+*** Staging: stadium of patient; light depression, short intervention; serious depression, psychotherapy & medication
+*** Profiling: personalized medicine, based on characteristics of patient choose most fitting therapy
+** Internet therapy
+** Behavioral therapy: reward by recognition/compliments; strengthen intrinsic motivation
+** CBT: negative cognitions
+** ITP (InTerPersonal psychotherapy): eclectic; depression in social/interpersonal context
+*** Problems divided in: grief, role changes, interpersonal conflicts, interpersonal deficits
+* Third wave therapies (CBT based)
+** ACT: Acceptance and Commitment Therapy (steven hayes); increase cognitive flexibility/acceptance
+** MBCT: Mindfullness-Based Cognitive Therapy; prevention of relapse; congitive vulnerability hypothesis; meditation
+** CBASP: Cognitive Behavioral Analysis System of Psychotherapy; chronical depression; reconnect to environment; receptive to feedback
 
 === Bipolar
 

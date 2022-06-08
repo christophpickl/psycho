@@ -46,6 +46,7 @@
 * vernederen ... humiliate
 * vertekenen ... distort
 * vertekening ... bias
+* vertraging ... delay
 * verschijnsel ... phenomenon / Erscheinung
 * vervaagd ... faded, blured
 * voorspelbaar ... predictable

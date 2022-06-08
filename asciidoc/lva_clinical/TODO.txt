@@ -4,7 +4,6 @@
 Exam 2
 ================================================================================
 
-
 * quick cheatsheet (table) of all diseases
 * go through oefenententamen 2 => pick up key terms/people/research/focus topics
 * go through YouLearn exams => pick up key terms/people/research/focus topics
@@ -18,8 +17,8 @@ Exam 2
 * NEx ... noordhoof test exams
 | Ch | EXA | PPT | MM  | YL  | Wik | NEx |
 +----+-----+-----+-----+-----+-----+-----+
-| 11 | ✅  |     |     |     |     |     |
-| 12 | ✅  |     |     |     |     |     |
+| 11 | ✅  | ✅  |     |     |     |     |
+| 12 | ✅  | ✅  |     |     |     |     |
 | 13 | ✅  |     |     |     |     |     |
 | 14 | ✅  |     |     |     |     |     |
 | 15 | ✅  |     |     |     |     |     |
