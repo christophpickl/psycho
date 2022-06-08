@@ -120,3 +120,56 @@ Veronderstel dat bij de heer Spang een persoonlijkheidsstoornis kan worden gedia
 .. schizoïde persoonlijkheidsstoornis
 .. obsessief-compulsieve persoonlijkheidsstoornis
 ** [hiddenAnswer]#b.#
+
+== Verwerkingsopdracht - Personality theory
+
+
+. Q:
+.. Benoem wat een persoonlijkheidstrek is.
+.. Geef de functies weer die persoonlijkheidstrekken kunnen hebben.
+** [hiddenAnswer]#TODO.#
+. Q:
+.. Wat zijn de verschillen tussen de idiografische benadering (o.a. van Allport) en van de factoranalytische benadering van Eysenck en Cattell?
+.. Welke voordelen en nadelen kleven aan beide benaderingen?
+** [hiddenAnswer]#TODO.#
+. Q: Op pagina 44 van de reader (hoofdstuk 8) treft u een korte versie aan van een persoonlijkheidsvragenlijst gebaseerd op het Five-Factor Model van persoonlijkheid. In dit geval worden de factoren omschreven zoals Goldberg dat doet, in de vorm van tweepolige assen, waarvan een van beide uiteinden overeenkomt met de naam van de bekende vijf factoren (neuroticisme, extraversie, openheid, consciëntieusheid en aardigheid (agreeableness). +
+De instructie voor het invullen van de vragenlijst staat op pagina 43. Vertaald luidt deze: Probeer uzelf zo nauwkeurig mogelijk te beschrijven, zoals u uzelf ziet op dit moment, niet zoals u graag zou willen zijn. Beschrijf uzelf zoals u algemeen of typisch bent, vergeleken met andere mensen die u kent van uw eigen geslacht en leeftijd. Omcirkel het getal op de schaal dat u het beste omschrijft op de desbetreffende factor. +
+Vul de vragenlijst voor uzelf in en interpreteer het resultaat.
+** [hiddenAnswer]#TODO.#
+. Q: Persoonlijkheidstrekken zijn bijna per definitie stabiele kenmerken van de persoon die in de tijd en in verschillende situaties sterk overeenkomen. Maar hoe stabiel zijn persoonlijkheidstrekken in werkelijkheid?
+.. Beschrijf wat bekend is over de stabiliteit c.q. veranderlijkheid van persoonlijkheidstrekken.
+.. Benoem ook de rol van leeftijdsinvloeden tegenover cohorteffecten.
+** [hiddenAnswer]#TODO.#
+. Q:
+.. Geef een omschrijving van temperament.
+.. Longitudinaal onderzoek is een belangrijke manier om interpersoonlijke verschillen in temperament te onderzoeken. Beschrijf enkele bevindingen uit Kagan's onderzoek.
+** [hiddenAnswer]#TODO.#
+. Q:
+.. Welke onderzoeksvormen worden toegepast om de erfelijkheid van persoonlijkheidstrekken te onderzoeken?
+.. Wat is de erfelijkheidscoëfficiënt (h2)?
+** [hiddenAnswer]#TODO.#
+
+== Verwerkingsopdracht - Personality disorders
+
+. Q: De criteria van de American Psychological Association voor de classificatie van persoonlijkheidsstoornissen kunnen worden gegroepeerd onder drie begrippen. +
+Welke begrippen zijn dit? Leg elk begrip nader uit.
+** [hiddenAnswer]#TODO.#
+. Q: De DSM-5 hanteert een zogenaamd 'polythetisch classificatiesysteem'. +
+Leg uit wat dit inhoudt. Leg ook uit wat hiervan het gevolg kan zijn.
+** [hiddenAnswer]#TODO.#
+. Q: In de DSM-5 is ook een alternatief dimensioneel model van persoonlijkheidsstoornissen opgenomen. +
+Leg uit wat dit model inhoudt.
+** [hiddenAnswer]#TODO.#
+. Q: Een van de persoonlijkheidsstoornissen in cluster A is de paranoïde persoonlijkheidsstoornis. +
+Wat zijn hiervoor de diagnostische criteria?
+** [hiddenAnswer]#TODO.#
+. Q: Een van de persoonlijkheidsstoornissen in cluster B is de borderlinepersoonlijkheidsstoornis. +
+Wat zijn hiervoor de diagnostische criteria?
+** [hiddenAnswer]#TODO.#
+. Q: Welke aanwijzingen zijn er vanuit wetenschappelijk onderzoek voor het bestaan van biologische oorzaken van de antisociale persoonlijkheidsstoornis?
+** [hiddenAnswer]#TODO.#
+. Q: Welke aanwijzingen zijn er vanuit wetenschappelijk onderzoek voor het bestaan van cognitieve oorzaken van persoonlijkheidsstoornissen?
+** [hiddenAnswer]#TODO.#
+. Q: Er worden vooral psychologische interventies toegepast bij persoonlijkheidsstoornissen. +
+Beschrijf enkele verschillende interventievormen en geef bij elk de wetenschappelijke ondersteuning ervoor aan.
+** [hiddenAnswer]#TODO.#

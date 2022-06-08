@@ -18,3 +18,15 @@ image::seligman-martin.jpg[Seligman,200,100]
 == Links
 
 * https://en.wikipedia.org/wiki/Martin_Seligman
+
+.YouTube Video: "The new era of positive psychology" - TED talk, 23mins; 2008
+[link=https://www.youtube.com/watch?v=9FBxfd7DL3E]
+image::https://img.youtube.com/vi/9FBxfd7DL3E/0.jpg[New era of positive psychology,300]
+
+.YouTube Video: "On positive psychology" - TED talk, 23mins; 2013
+[link=https://www.youtube.com/watch?v=5CpLEOO5oyo]
+image::https://img.youtube.com/vi/5CpLEOO5oyo/0.jpg[Learned Helplessness,300]
+
+.YouTube Video: "Positive Psychology", 80mins; 2016, London
+[link=https://www.youtube.com/watch?v=HH0sssQzQGg]
+image::https://img.youtube.com/vi/HH0sssQzQGg/0.jpg[New era of positive psychology,300]

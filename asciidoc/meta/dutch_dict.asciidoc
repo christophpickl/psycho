@@ -25,6 +25,7 @@
 * met name ... in particular
 * misselijkheid ... nausea
 * nagebootste ... imitated
+* nauwkeurig ... accurate
 * onderwijs ... education / Ausbildung ("Unterweisung")
 * onoplettendheid ... inattention
 * ontsnappen ... escape

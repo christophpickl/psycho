@@ -29,8 +29,8 @@ Chapters:
 
 == Chapter 11 -  Neurobiological development disorders
 
-. Autisme-spectrum-stoorniss (ASS)
-. ADHD (Attention Deficit Hyperactivity Disorder)
+. [disorderName]#Autisme-spectrum-stoorniss (ASS)#
+. [disorderName]#ADHD (Attention Deficit Hyperactivity Disorder)#
 
 === Autism (ASS)
 
@@ -56,25 +56,27 @@ Chapters:
 
 == Chapter 12 -  Depression and bipolar mood disorders
 
-. Depressieve st.
-.. disruptieve-stemmingsdisregulatiest.
-.. depressieve st.
+. [disorderName]#Depressieve st.#
+.. [disorderName]#disruptieve-stemmingsdisregulatiest.#
+.. [disorderName]#depressieve st.#
 *** Learn-theoretically cause: people have not learned to get reward from external world.
 *** Biological approach: Genetical factors lead to disruption in the hypothalamic-pituitary-adrenal
 *** link:../../people/beck-aaron.html[Beck]'s cognitive triad is about negative thoughts about self/world/future
 *** link:https://warbletoncouncil.org/teoria-conductual-depresion-lewinsohn-2538[Lewinsohn's Behavioral Theory of Depression]: No reinforcement of actions, no gratification, leading to guilt and low self-esteem.
 *** link:https://warbletoncouncil.org/terapia-autocontrol-rehm-813[Rehm's Self-Control Therapy]: from CBT, about self-management (monitoring, assessement, reinforcement)
-.. persisterende depressieve st. (dysthyme)
+.. [disorderName]#persisterende depressieve st. (dysthyme)#
 *** Case description: for years feels down; tired most of the day; work little pleasure; problems concentrating; now and then better; less energetic then past; lucky periods last never longer than a month
-.. premenstruele stemmingsst.
-.. depr.stemm.st. door middle/medicatie
-.. depr.stemm.st. door somatische aandoening
-. Bipolaire st.
-.. bipolaire I st.
-.. bipolaire II st. = no full mania, but hypomania (mild form)
-.. cyclothyme st. = mild form
-.. bip.st. door middle/medicatie
-.. bip.st. door somatische aandoening
+.. [disorderName]#premenstruele stemmingsst.#
+.. [disorderName]#depr.stemm.st. door middle/medicatie#
+.. [disorderName]#depr.stemm.st. door somatische aandoening#
+. [disorderName]#Bipolaire st.#
+.. [disorderName]#bipolaire I st.#
+.. [disorderName]#bipolaire II st.#
+*** no full mania, but hypomania (mild form)
+.. [disorderName]#cyclothyme st.#
+*** mild form
+.. [disorderName]#bip.st. door middle/medicatie#
+.. [disorderName]#bip.st. door somatische aandoening#
 
 === Bipolar
 
@@ -85,16 +87,16 @@ Chapters:
 
 Disorders:
 
-. separatie-angst-st.
-. selectief mutisme
-. speciefieke fobie
+. [disorderName]#separatie-angst-st.#
+. [disorderName]#selectief mutisme#
+. [disorderName]#speciefieke fobie#
 ** subtypes: natural phenomena (e.g. fear of height; elevators, mountains)
 ** Suffering is often less than of other psychological disorders
-. sociale-angst-st.
-. paniekst.
+. [disorderName]#sociale-angst-st.#
+. [disorderName]#paniekst.#
 ** Symtpoms: Nausea, derealisation (feeling of not real), fear to lose selfcontrol
-. agorafobie
-. GAD
+. [disorderName]#agorafobie#
+. [disorderName]#GAD (Generalized Anxiety Disorder#
 
 Info:
 
@@ -110,7 +112,7 @@ image::fear_network.png[Fear Network,300,100]
 
 Categories:
 
-. gebruik van middel
+. [disorderName]#gebruik van middel#
 ** Heroin:
 *** Effect on CNS: inhibiting, consciousness-lowering effect
 *** Compensatoire model (classical conditioning): Heroin overdose often happens in situations the junkie has not been before (body doesn't prepare)
@@ -126,121 +128,261 @@ Categories:
 *** When severe withdrawal symptoms, intramural (=institutional) admission prior to detoxification.
 *** CBT and motivational interviewing.
 *** Online counseling programs for reducing alcohol consumption.
-. gokst. (gambling)
+. [disorderName]#gokst. (gambling)#
 
 
 == Chapter 15 -  Somatosymptomic disorders
 
-. somatisch-symptoomst.
-. ziekte-angstst.
-. conversiest.
-. psychic factors somatic influences
-. nagebootste st. (=imitated disorder) (pathomimie, "Münchhausensyndrom")
+Disorders:
+
+. [disorderName]#somatisch-symptoomst.#
+** Relevant factors (according model from Looper and Kirmayer): avoidance, seeking reassurance, catastrophing
+** Treatment: CBT (better than nothing/pseudo treatment)
+. [disorderName]#ziekte-angstst. ("hypochondria")#
+** Is: excessive worries about having a serious (not-diagnosed) illness.
+** Case: Often pain at her nose; going to GP often; comes up with self-diagnosis; although GP confirms there is nothing, worries continue; excessive self-treatment.
+. [disorderName]#conversiest. ("functional neurologic symptom disorder")#
+** There are neurological symptoms (numbness, blindness, paralysis), which are not consistent with a well-established organic cause, which cause significant distress, and can be traced back to a psychological trigger.
+** Stress (conflicts) seem to be associated with the onset/worsening of symptoms.
+** Case: A woman lost a child during a traffic accident; since then more conflicts with her husband; goes to GP because of back pain, referral physiotherapy, pain is gone; later she complains about a numb leg, nothing (physiologically) can be found which could be the cause; now also the left arm starts to be numb.
+. [disorderName]#psychic factors somatic influences#
+. [disorderName]#nagebootste st.#
+** =imitated disorder; also: "pathomimie", "Münchhausensyndrom"
+
 
 == Chapter 16 -  Sleeping disorders
 
-. insomniast.
-. hyper-somnolentie-st. (hypersomnia)
-. narcolepsie
-. obstructieve-slaapapneu-/hypo-pneu-syndroom
-. centrale-slaap-apneu-syndroom
-. circadian-ritme-slaap-waakst.
-. non-REM-slaap-arousalst.
-. nachtmerriest.
-. REM-slaap-gedragst.
-. rusteloze-benensyndroom
-. slaapst. door substance/medication
+. [disorderName]#insomniast.#
+** Has the highest comorbidity of all sleeping disorders.
+** Happens more frequent to 65+ old people, due to medical/psychosocial risk-factors.
+. [disorderName]#hyper-somnolentie-st. (hypersomnia)#
+** Key symptom: Excessive sleepiness
+. [disorderName]#narcolepsie#
+. [disorderName]#obstructieve-slaapapneu-/hypo-pneu-syndroom#
+. [disorderName]#centrale-slaap-apneu-syndroom#
+. [disorderName]#circadian-ritme-slaap-waakst.#
+. [disorderName]#non-REM-slaap-arousalst.#
+** Can lead to *sleepwalking*
+. [disorderName]#nachtmerriest.#
+. [disorderName]#REM-slaap-gedragst.#
+. [disorderName]#rusteloze-benensyndroom#
+. [disorderName]#slaapst. door substance/medication#
+
+Info:
+
+* Two neurological processes regulate sleep-wake rhythm: homeostatic and circadian process.
+** During the day, homeostatic increases, while circadian decreases; see link:#img-sleep-processes[sleep processes graph]
+* Sleep stadiums; see link:#img-sleep-brain-waves[sleep EEG/brainwaves diagram]
+** Awake: Beta waves.
+** Stage 1: Theta waves.
+** Stage 2: Sleep spindles, K comples.
+** Stage 3: Delta waves.
+** Stage 4: Delta waves. Slow, large EEG waves.
+** REM: Fast random waves. Where dreams happen.
+
+[#img-sleep-processes]
+.Homeostatic and circadian process
+image::sleep-wake-processes.jpg[Sleep processes,400,100]
+
+[#img-sleep-brain-waves]
+.Brain waves during sleep
+image::sleep-brain-waves.jpg[Sleep brain waves,400,100]
+
+[#img-sleep-cycles]
+.Sleep cycles
+image::sleep-cycles.jpg[Sleep cycles,300,100]
+
 
 == Chapter 17 -  Eating disorders
 
-. anorexia nervosa
-. boulimia nervose
-. eetbuist.
+. [disorderName]#anorexia nervosa#
+** Eat very little to lose weight
+** An institutional treatment, to gain weight (based on operant conditioning)
+. [disorderName]#boulimia nervose#
+** Eat excessive amounts, and then purge (vomit/take diuretics) or not-purge (fasting, extreme exercise)
+** Diagnostic criteria: self-esteem depends on body; inadequat compensation behavior; sense of loss of control during binge eating
+. [disorderName]#anorexia / boulimia nervosa#
+** Both distorted body image.
+** Different food-related behaviors (yet, both binge eat)
+** Both appear in all social classes roughly the same (women are disproportionally affected)
+. [disorderName]#eetbuist.#
+** = binge eating disorder
+** People who are in treatment for weight loss are more likely to have it.
 
-== Chapter 18 -  Disruptibe imppulsive behavioral disorders
+Info:
 
-. oppositionele-opstandige st.
-. periodiek explosieve st.
-. norm-overschrijdend-gedragsst.
-. pyromanie
-. kleptomanie
+* link:https://en.wikipedia.org/wiki/Set_point_theory_(body_weight)[Setpoint theory]
+** "A biological control method in humans, that actively regulates weight towards a *predetermined set weight* for each individual."
+* According to the "serotonin model", eating lots of carbs, increases serotonine production, improves mood.
+
+
+== Chapter 18 -  Disruptive imppulsive behavioral disorders
+
+. [disorderName]#oppositionele-opstandige st.#
+. [disorderName]#periodiek explosieve st.#
+** Related to deviations in the limbic system.
+** Symptoms: Excessive verbal/physical aggressive outbursts
+. [disorderName]#norm-overschrijdend-gedragsst.#
+** Same as with oppositionele-opstandige stoornis: Justifying own behavior as reasonable/appropriate responses to others.
+** Feeling no suffering/shame (the only one of all the disruptive disorders)
+. [disorderName]#pyromanie#
+** Motive: The fire itself (not for money or other materialistic reasons)
+. [disorderName]#kleptomanie#
+** Motive: the act of stealing itself (not money, unjustice, getting the product)
 
 == Chapter 19 -  Genderdysforie, paraphile and sexual disorders
 
-. genderdysforie
-. parafiele st.
-. voyeurism
-. exhibitionism
-. frotteurismest.
-. sexual maschochism
-. sexual sadism
-. pedofiele st.
-. fetisjismest.
-. transvestiest.
-. seksuele opwindingsst. vrouw
-. hypoactive-seksueel-verlangenst. man
-. erectiest.
-. orgasmest. vrouw
-. vertraagde ejaculatie
-. voortijdige ejaculatie
-. genitopelvienepijn/penetratiest. (dyspareunie)
+. [disorderName]#genderdysforie#
+** Diagnostic criteria (young girls): not wanting to menstruate, exclusively wanting to wear men's clothes, claim to have a penis
+. [disorderName]#parafiele st.#
+** if symptoms present only a few months, than not a fetish like exhibitionism (although fantasy qualifies as such).
+** According to some guy called "Money", result of sexual experiences in youth damaging the "love-map".
+. [disorderName]#voyeurism#
+. [disorderName]#exhibitionism#
+. [disorderName]#frotteurismest.#
+. [disorderName]#sexual maschochism#
+. [disorderName]#sexual sadism#
+. [disorderName]#pedofiele st.#
+. [disorderName]#fetisjismest.#
+. [disorderName]#transvestiest.#
+** Opposing to transsexual persons, they don't have the feeling of being in the anatomically wrong sex/body
+. [disorderName]#seksuele opwindingsst. vrouw#
+** Case: During sex of a couple, she doesn't get wet. Neither somatic nor psychiatric. Adequate stimulation? She has often pain after coitus.
+. [disorderName]#hypoactive-seksueel-verlangenst. man#
+. [disorderName]#erectiest.#
+. [disorderName]#orgasmest. vrouw#
+** Diagnostic criteria: Sexual arousal is normal.
+. [disorderName]#vertraagde ejaculatie#
+** Diagnostic criteria: Not being able to orgasm inside the vagina.
+. [disorderName]#voortijdige ejaculatie#
+. [disorderName]#genitopelvienepijn/penetratiest. (dyspareunie)#
 
 == Chapter 20 -  Schizophrenia spectrum
 
-. waanst.
-. kortdurende psychotische st.
-. schizofrenieforme st.
-. schizofrenie
-. schizoaffectieve st.
+// TODO positive/negative symptoms
+. [disorderName]#waanst.#
+** Predictor of suffering with audio-verbal hallucinations: Interpretation of what the voices say (not intensity/content/frequency)
+. [disorderName]#kortdurende psychotische st.#
+** Ultra-high risk group
+*** A third develop within 3 years a psychotic disorder
+*** Risk factor: Low social-economical status
+// TODO Neuropsychic model of psychosis; stimulation; dopamin, top-down; covariance-tendency
+// TODO stadieringsmodel; ultrahoog risico; characteristics
+** Diagnostic/treatment: antipsychotica for delusions/hallucinations; CBT (usually to lower suffering)
+. [disorderName]#schizofrenieforme st.#
+. [disorderName]#schizofrenie#
+** Medical treatment (for schizofrenispectrum- and other psychotic disorders), to remove positive symptoms.
+. [disorderName]#schizoaffectieve st.#
+
 
 == Chapter 21 -  Trauma and stress-related disorders
 
-. post-traumatische-stress-st. (PTSS)
-. acute-stress-st.
-. aanpassingsst.
+. [disorderName]#post-traumatische-stress-st. (PTSS)#
+** Traumatic events such as (internal or external stimuli):
+*** Witnessing a crime (others being threatened by an armed robber)
+*** Evacuate in a hurry because of a natural disaster (hurricane)
+*** Being sexually abused for years from a family member
+** Symptoms: increased arousal/irritability; concentration/sleeping problems, tantrums
+** According cognitive model (Ehlers & Clark) is chronic PTSD paired with a permanent feeling of threat. Three factors:
+[arabic]
+... disruption of autobiographical memory
+... negative assessments of a traumatic event and/or its consequences
+... dysfunctional cognitive/behavioral responses
+** Debriefing immediately after shock event does not improve healing process, it might even make it worse!
+. [disorderName]#acute-stress-st.#
+** Lasts 3 days until 1 month (PTSD longer than 1 month)
+. [disorderName]#aanpassingsst.#
 
 == Chapter 22 -  Dissociative disorders
 
-. depersonalisatie-derealisatiest.
-. dissociatieve amnesie
-. dissociatieve-identiteits-st. (DIS)
+. [disorderName]#depersonalisatie-derealisatiest.#
+// TODO youth abused? wanen?
+. [disorderName]#dissociatieve amnesie#
+** The forgotten information is related to the traumatic event.
+. [disorderName]#dissociatieve-identiteits-st. (DIS)#
+** Fugue = a state or period of loss of awareness of one's identity, often coupled with flight from one's usual environment, associated with certain forms of hysteria and epilepsy.
+** Dissociative fugue: adopting a (partially) new identity; extensive amnesia; altered state of consciousness
+** Learned helplessness, makes patients with DIS experience again traumatic events
+** Some claim DIS is an "iatrogen phenomena", meaning that health care specialists provoke it by suggestive questions
+*** Common treatment: psychotherapy & hypnosis.
 
-Fugue = a state or period of loss of awareness of one's identity, often coupled with flight from one's usual environment, associated with certain forms of hysteria and epilepsy.
+.YouTube Video: "Seligmans' Learned Helplessness", 6mins
+[link=https://www.youtube.com/watch?v=jEO3sJdoNV8]
+image::https://img.youtube.com/vi/jEO3sJdoNV8/0.jpg[Learned Helplessness,300]
+
+Info:
+
+// TODO theorie Janet; theory Hilgard
+* Dissociate is, according Hilgard: part of everyday experiences
 
 == Chapter 23 -  Neurocognitive disorders
 
 NCS = neuro-cognitive stoornis
 
-. uitgebreide NCS
-.. alzheimer
-.. vasculaire
-.. frontotemporale
-.. lewylichaampjes
-.. (prion disease)
-. dementie, mild cognitive impairment (MCI)
-. parkinson
-. traumatisch hersenletsel (THL)
-. NCS through substance/medication
+. [disorderName]#Uitgebreide NCS#
+.. [disorderName]#Alzheimer#
+*** Biological aspects: Brain abnormalities (hippocampus, temporal cortex), deficiency of acetylcholine (=neurotransmitter)
+.. [disorderName]#Vasculaire#
+.. [disorderName]#Frontotemporale#
+*** Caused by neurodegenerative damage to frontal/temporal cerebral cortex.
+*** Usually happens before age 65.
+*** Symptoms easily mistaken as problems in work/relationship/life stage.
+.. [disorderName]#Lewylichaampjes#
+*** These link:https://en.wikipedia.org/wiki/Lewy_body[Lewy bodies] are abnormal clumps of proteins in neurons.
+*** Symptoms
+**** variations in consciousness/attention
+**** recurrent visual hallucinations
+**** parkinsonistic features
+.. [disorderName]#prion disease#
+*** NCS due to prionziekte... e.g. Creutzfeldt-Jakob
+. [disorderName]#Dementie, mild cognitive impairment (MCI)#
+. [disorderName]#Parkinson#
+** Caused by cell loss in the substantia nigra
+** Lewylichaampjes are being found in the body
+. [disorderName]#Traumatisch hersenletsel (THL)#
+. [disorderName]#NCS through substance/medication#
+** Case: Alcoholic; wife left, lost job; 1 year memory problems, after 5mins forgets what being told
+
+Info:
+
+* Neuropsychological tests cover these cognitive domains:
+** attention, motor skills, language comprehension/expression.
 
 == Chapter 24 -  Obsessive-compulsive disorders
 
-. obsessieve-compulsieve st.
-. verzamelst. (hoarding disorder)
-. morodysfore st. (body dysmorphic disorder, BDD)
-. trichotillomanie (hair pull), excoriatiest. (wondjes krabben)
+. [disorderName]#obsessieve-compulsieve st.#
+** Almost every obsession ("forced thought") is followed by a compulsion ("forced behavior").
+** Characteristics: The obsessions are time-consuming and cause limitations.
+** Treatment: Exposure invivo with response-prevention (positive long-term effects)
+** Examples of obsessions are:
+*** "Ik ben bang dat ik onze baby zal wurgen als hij voor de zoveelste keer begint te huilen."
+*** "Het is onhygiënisch om een ander een hand of een zoen te geven."
+*** "Zou ik de schoonmaakmiddelen wel in de kast hebben gestopt, zodat de kinderen er niet bij kunnen?"
+. [disorderName]#verzamelst. (hoarding disorder)#
+** Taiolored treatment (according Steketee and Frost):
+*** Motivation for change
+*** Categorization/organization of items
+*** Purchasing policy
+*** Imaginary/in vivo disposal of items
+. [disorderName]#morodysfore st. (body dysmorphic disorder, BDD)#
+** Characteristic: Overly busy with imperfections (not visible/insignificant to others)
+. [disorderName]#Trichotillomanie#
+** Pulling out hair.
+. [disorderName]#Excoriatiest.#
+** Scratching wounds ("wondjes krabben")
 
 == Chapter 25 -  Personality disorders
 
-. cluster A
-.. paranoide
-.. schizoide
-.. schizotypische
-. cluster B
-.. antisociale
-.. borderline
-.. histronische
-.. narcistische
-. cluster C
-.. vermijdende
-.. afhankelijke
-.. dwangmatige
+. [disorderName]#cluster A#
+.. [disorderName]#paranoide#
+.. [disorderName]#schizoide#
+.. [disorderName]#schizotypische#
+. [disorderName]#cluster B#
+.. [disorderName]#antisociale#
+.. [disorderName]#borderline#
+.. [disorderName]#histronische#
+.. [disorderName]#narcistische#
+. [disorderName]#cluster C#
+.. [disorderName]#vermijdende#
+.. [disorderName]#afhankelijke#
+.. [disorderName]#dwangmatige#

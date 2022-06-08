@@ -197,8 +197,6 @@ II bij *referentiële associaties* in de cognities van de patiënt is een *expos
 
 == Chapter 15 -  Somatosymptomic disorders
 
-// TODO until here
-
 . Welke van de volgende beweringen over de *conversiestoornis* is *niet* juist?
 .. Veel patiënten met een conversiestoornis veroorzaken met opzet hun *lichamelijke* symptomen.
 .. Het is bekend dat *vroegtijdige* onderkenning en behandeling van de conversiestoornis tot betere behandelresultaten leidt.
@@ -316,7 +314,8 @@ Drie maanden geleden heeft mevrouw Meijer zich weer bij de huisarts gemeld, nu m
 .. Patiënten met een eetbuistoornis zijn succesvol in het nemen van gewichtscontrolerende maatregelen na een eetbui.
 ** [hiddenAnswer]#c.#
 
-. Guido Janssens lijdt niet aan een eetstoornis, maar is zijn hele leven al aan de forse kant. Hij was vroeger al een *dik* jongetje en kampt ook nu nog – hij is inmiddels veertig jaar – met overgewicht. Zijn weinig succesvolle lijnpogingen heeft hij jaren geleden gestaakt. Volgens de *set-pointtheorie* bevindt het gewicht van meneer Janssens zich
+. Guido Janssens lijdt niet aan een eetstoornis, maar is zijn hele leven al aan de forse kant. Hij was vroeger al een *dik* jongetje en kampt ook nu nog – hij is inmiddels veertig jaar – met overgewicht. Zijn weinig succesvolle lijnpogingen heeft hij jaren geleden gestaakt. +
+Volgens de *set-pointtheorie* bevindt het gewicht van meneer Janssens zich
 .. Op basis van deze informatie kunnen vanuit de set-pointtheorie *geen uitspraken* worden gedaan over het set-pointgewicht van meneer Janssens.
 .. *onder* set-pointniveau.
 .. *op* set-pointniveau.
@@ -624,9 +623,9 @@ II Bij mensen met de ziekte van Parkinson worden *lewylichaampjes* aangetroffen.
 
 . Welke uitspraak over neurocognitieve stoornissen als gevolg van een *prionziekte* is juist?
 .. Het Korsakovsyndroom is een bekende prionziekte.
-.. Typisch voor de prionziekte is dat de concentratie bèta-amyloïd in het hersenvocht is verlaagd.
-.. Typisch voor de prionziekte is dat de concentratie tau-eiwit in het hersenvocht is verhoogd.
-.. De ziekte van Creutzfeldt-Jakob is een bekende prionziekte.
+.. Typisch voor de prionziekte is dat de concentratie *bèta-*amyloïd in het hersenvocht is verlaagd.
+.. Typisch voor de prionziekte is dat de concentratie *tau-eiwit* in het hersenvocht is verhoogd.
+.. De ziekte van *Creutzfeldt-Jakob* is een bekende prionziekte.
 ** [hiddenAnswer]#d.#
 
 . Welke van de uitspraken over een *frontotemporale* neurocognitieve stoornis is *onjuist*?
@@ -692,4 +691,4 @@ II Bij mensen met de ziekte van Parkinson worden *lewylichaampjes* aangetroffen.
 .. trichotillomanie- en body dysmorphic stoornis
 .. trichotillomanie- en excoriatiestoornis
 .. excoriatiestoornis en hoarding-stoornis
-** [hiddenAnswer]#d.#
+** [hiddenAnswer]#c.#

@@ -8,3 +8,9 @@ body {
 .hiddenAnswer {
     color: white;
 }
+
+.disorderName {
+    color: #A01F22;
+    font-weight: bold;
+    font-size: 14pt;
+}
