@@ -27,7 +27,7 @@ Chapters:
 * dysthyme stoornis = persistent depression
 * hypofyse = pituitary gland
 
-== Chapter 11 -  Neurobiological development disorders
+== Chapter 11 - Neurobiological development disorders
 
 . [disorderName]#Autisme-spectrum-stoorniss (ASS)#
 . [disorderName]#ADHD (Attention Deficit Hyperactivity Disorder)#
@@ -84,53 +84,56 @@ Chapters:
 * History: In past, only diagnosed for children (50% keep diagnose when growing adult)
 
 
-== Chapter 12 -  Depression and bipolar mood disorders
+== Chapter 12 - Depression and bipolar mood disorders
 
-Disorders:
+=== Depressieve stemmingsst
 
-. [disorderName]#Depressieve stemmingsst.#
-.. [disorderName]#Disruptieve-stemmingsdisregulatiest.#
-** Persistent irritable mood, violent tantrums ("hevige driftbuien"); Children until 18 years
-** Introduced new category as otherwise over-treatment for bipolar disorder
-.. [disorderName]#Depressieve st.#
-*** Symptoms: depressed mood, *anhedonia* (loss of interest/joy); no (hypo)manic symptoms
-**** Also: Significant weight change; insomnia/hypersomnia; psychomotoric agitation/delay; tired; feeling unworthy/guilty; problems concentrating; thinking about death
-*** Keep in mind difference between depression and regular mourning (feeling empty and longing for lost person)
-*** Learn-theoretically cause: people have not learned to get reward from external world.
-*** Biological approach: Genetical factors lead to disruption in the hypothalamic-pituitary-adrenal
-*** link:../../people/beck-aaron.html[Beck]'s cognitive triad is about negative thoughts about self/world/future
-*** link:https://warbletoncouncil.org/teoria-conductual-depresion-lewinsohn-2538[Lewinsohn's Behavioral Theory of Depression]: No reinforcement of actions, no gratification, leading to guilt and low self-esteem.
-*** link:https://warbletoncouncil.org/terapia-autocontrol-rehm-813[Rehm's Self-Control Therapy]: from CBT, about self-management (monitoring, assessement, reinforcement)
-.. [disorderName]#Persisterende depressieve st. (PSD)#
-*** link:https://en.wikipedia.org/wiki/Dysthymia[Dysthyme] (persistent depressive disorder, PDD)
-*** Chronic disorder 2+ years; most of days depressed mood; not symptom-free for more than 2 months in a row (for last 2 years)
-*** Symptoms: low/high appetite; insomnia/hypersomnia; low energy/tired; low self-esteem; bad concentration; difficulty decisions; hopelessness
-*** Case description: for years feels down; tired most of the day; work little pleasure; problems concentrating; now and then better; less energetic then past; lucky periods last never longer than a month
-.. [disorderName]#Premenstruele stemmingsst.#
-*** Symptoms: Lability, angry, hot temper; personal conflicts; depressed mood, hopelessness, anxiety, tension
-**** Also: less interest, difficulties concentrate, lethargy, tired, changed appetite, insomnia/hypersomnia, overwhelmed by emotions, bodily complaints
-.. [disorderName]#Depr.stemm.st. door middle/medicatie/somatische aandoening#
-*** Medicine, alcohol or other drugs; intoxication (overuse) and abstinence possible cause
-*** E.g.: Drugs for cardiovascular diseases; stimulants/appetite suppressants; painkillers/anti-inflammatories; anti-cancer medication; parkinson's; rheumatism; vitamin (B12) deficiencies
-. [disorderName]#Bipolaire st.#
-** Used to be called "manic depression"
-.. [disorderName]#Bipolaire I st.#
-*** Symptoms like manic episode; can also be without depressive episodes (though usually predominate).
-*** Manic episode: euphoria, hyperactivity, fantastic ideas, lots words, overly excited/irritable
-*** Seasonality (manic in summer, depressed in spring/autumn); strong genetic contribution
-.. [disorderName]#Bipolaire II st.#
-*** Was at least one depressive and one hypomane episode (mild form, not a full mania).
-*** Less serious (duration, intensity) than manic epsiode; no limitations of social/work functioning
-*** Changes are visible to others (use hetero-anamnese)
-*** Diagnose: requires at least heightened energy (3) or irritable mood (4 symptoms)
-**** Symptoms: inflated ego; minder sleep need; change of talkativeness; avoiding thinking; excessive activities; psychomotoric agitation
-.. [disorderName]#Cyclothyme st.#
-*** Mild form; Problems in social life
-*** 2+ years suffering from hypomane and depressed symptoms (symptomfree for not longer than 2 months)
-.. [disorderName]#Bip.st. door middle/medicatie#
-.. [disorderName]#Bip.st. door somatische aandoening#
+. [disorderName]#Disruptieve-stemmingsdisregulatiest.#
+* Persistent irritable mood, violent tantrums ("hevige driftbuien"); Children until 18 years
+* Introduced new category as otherwise over-treatment for bipolar disorder
+. [disorderName]#Depressieve st.#
+** Symptoms: depressed mood, *anhedonia* (loss of interest/joy); no (hypo)manic symptoms
+*** Also: Significant weight change; insomnia/hypersomnia; psychomotoric agitation/delay; tired; feeling unworthy/guilty; problems concentrating; thinking about death
+** Keep in mind difference between depression and regular mourning (feeling empty and longing for lost person)
+** Learn-theoretically cause: people have not learned to get reward from external world.
+** Biological approach: Genetical factors lead to disruption in the hypothalamic-pituitary-adrenal
+** link:../../people/beck-aaron.html[Beck]'s cognitive triad is about negative thoughts about self/world/future
+** link:https://warbletoncouncil.org/teoria-conductual-depresion-lewinsohn-2538[Lewinsohn's Behavioral Theory of Depression]: No reinforcement of actions, no gratification, leading to guilt and low self-esteem.
+** link:https://warbletoncouncil.org/terapia-autocontrol-rehm-813[Rehm's Self-Control Therapy]: from CBT, about self-management (monitoring, assessement, reinforcement)
+. [disorderName]#Persisterende depressieve st. (PSD)#
+** link:https://en.wikipedia.org/wiki/Dysthymia[Dysthyme] (persistent depressive disorder, PDD)
+** Chronic disorder 2+ years; most of days depressed mood; not symptom-free for more than 2 months in a row (for last 2 years)
+** Symptoms: low/high appetite; insomnia/hypersomnia; low energy/tired; low self-esteem; bad concentration; difficulty decisions; hopelessness
+** Case description: for years feels down; tired most of the day; work little pleasure; problems concentrating; now and then better; less energetic then past; lucky periods last never longer than a month
+. [disorderName]#Premenstruele stemmingsst.#
+** Symptoms: Lability, angry, hot temper; personal conflicts; depressed mood, hopelessness, anxiety, tension
+*** Also: less interest, difficulties concentrate, lethargy, tired, changed appetite, insomnia/hypersomnia, overwhelmed by emotions, bodily complaints
+. [disorderName]#Depr.stemm.st. door middle/medicatie/somatische aandoening#
+** Medicine, alcohol or other drugs; intoxication (overuse) and abstinence possible cause
+** E.g.: Drugs for cardiovascular diseases; stimulants/appetite suppressants; painkillers/anti-inflammatories; anti-cancer medication; parkinson's; rheumatism; vitamin (B12) deficiencies
 
-Info:
+=== Bipolaire st.
+
+* hypomane episdoe: min. 4 days, maniac symptoms, not really limited in daily functioning
+* symptoms maniac episode: need less sleep,  easily distracted, "excentric" ideas (=grootheidsideeën)
+* Used to be called "manic depression"
+. [disorderName]#Bipolaire I st.#
+** Symptoms like manic episode; can also be without depressive episodes (though usually predominate).
+** Manic episode: euphoria, hyperactivity, fantastic ideas, lots words, overly excited/irritable
+** Seasonality (manic in summer, depressed in spring/autumn); strong genetic contribution
+. [disorderName]#Bipolaire II st.#
+** Was at least one depressive and one hypomane episode (mild form, not a full mania).
+** Less serious (duration, intensity) than manic epsiode; no limitations of social/work functioning
+** Changes are visible to others (use hetero-anamnese)
+** Diagnose: requires at least heightened energy (3) or irritable mood (4 symptoms)
+*** Symptoms: inflated ego; minder sleep need; change of talkativeness; avoiding thinking; excessive activities; psychomotoric agitation
+. [disorderName]#Cyclothyme st.#
+** Mild form; Problems in social life
+** 2+ years suffering from hypomane and depressed symptoms (symptomfree for not longer than 2 months)
+. [disorderName]#Bip.st. door middle/medicatie#
+. [disorderName]#Bip.st. door somatische aandoening#
+
+=== Info
 
 * Starting point is to differentiate between: depressive / hypomanic / manic epsidoes.
 ** *Depressive episode*: Uninterrupted 2+ weeks; depressed mood OR no interest/joy
@@ -201,111 +204,475 @@ Info:
 ** MBCT: Mindfullness-Based Cognitive Therapy; prevention of relapse; congitive vulnerability hypothesis; meditation
 ** CBASP: Cognitive Behavioral Analysis System of Psychotherapy; chronical depression; reconnect to environment; receptive to feedback
 
-=== Bipolar
-
-* hypomane episdoe: min. 4 days, maniac symptoms, not really limited in daily functioning
-* symptoms maniac episode: need less sleep,  easily distracted, "excentric" ideas (=grootheidsideeën)
-
 == Chapter 13 - Anxiety disorders
 
-Disorders:
+=== Disorders
 
-. [disorderName]#separatie-angst-st.#
-. [disorderName]#selectief mutisme#
-. [disorderName]#speciefieke fobie#
-** subtypes: natural phenomena (e.g. fear of height; elevators, mountains)
+. [disorderName]#Separatie-angst-st.#
+** Symptoms:
+*** Repeatedly angry about separation of VIP (expected or experienced)
+*** Excessive worries about losing VIP
+*** Excessive worry about events leading to separation from VIP
+*** Not wanting go outside/work/somewhere because of the anxiety
+*** Excessive fear being alone (without VIP) at home/other settings
+*** Persistent fear to sleep not at home (or without VIP)
+*** Repeated nightmares about separatoin
+*** Physical complaints when separation of VIP expected/happens
+. [disorderName]#Selectief mutisme#
+** People are able to, but simply won't speak (for 1+ month)
+** Often before age 5; is rare, especially in adults
+** It's in anxiety category, as often paired with social phobia
+. [disorderName]#Speciefieke fobie#
+** Disproportional fear of an object (spider, height) or situation (injections)
+** Subtypes:
+... Animals
+... Natural phenomena (e.g. height, mountains, water, weather)
+... Injections
+... Situations (tunnels, flying, elevators)
+... Others (situations leading to choking/vomiting)
 ** Suffering is often less than of other psychological disorders
-. [disorderName]#sociale-angst-st.#
-. [disorderName]#paniekst.#
-** Symtpoms: Nausea, derealisation (feeling of not real), fear to lose selfcontrol
-. [disorderName]#agorafobie#
-. [disorderName]#GAD (Generalized Anxiety Disorder#
+** Often children have it, and they also disappear by themselves; they usually never disappear with adults.
+** Symptoms:
+*** Phobic object/situation immediately evokes fear
+*** Phobic object/situation is avoided, or tolerated only with intense fear
+*** Fear is disproportional to real danger (considering the socio-cultural context)
+*** +6 months persistent (anxiety, fear, fear avoidance)
+. [disorderName]#Sociale-angst-st.#
+** Fear (and avoidance) of social contacts, or situations where one could be judged
+** Sometimes only in situations where people have to perform (speech, job interview; speaking in public)
+** Symptoms:
+*** Fear of social situations, exposed to possible judgment by others
+*** Afraid to behave/show symptoms of anxiety, as others might judge them negatively
+*** Social situations almost always evoke fear
+*** Social situations are avoided, or only tolerated with intense fear
+*** Fear is disproportional to real danger (considering the socio-cultural context)
+*** +6 months persistent (anxiety, fear, fear avoidance)
+. [disorderName]#Paniekst.#
+** Definition: Recurrent panic attacks, that occur unexpectedly for no apparent reason
+** Panic attack: Abrupt wave of intense fear/discomfort, peaking within minutes
+*** Having a panic attack, does NOT mean to have a panic disorder!
+*** Has 4+ symptoms:
+**** Physical: palpitations, sweating, tremors, feeling short of breath, chest tightness, nausea, abdominal discomfort, dizziness, tingling, hot flashes
+**** Cognitive: derealization (feeling of not real), depersonalization, fear of going mad (losing self-control), fear of dying.
+** Diagnose:
+*** Reoccuring, unexpected panic attacks
+*** After panic attack, +1 month worry about new one / consequences of it / leading to maladaptive change in behavior
+. [disorderName]#Agorafobie#
+** Fears of: being in public, being in closed rooms, queueing, public transportation, be alone outside
+** Avoiding those situations, as escape is difficult / help unavailable
+** Agoraphobic situations are consciously avoided (or require another person, or endured with intense fear)
+** +6 months
+** (A disorder on its own, rather a specific version of another)
+. [disorderName]#Generalized Anxiety Disorder (GAD)#
+** Haunted by multiple events/activities
+** Most of patients say always have been a worrier
+** Diagnose:
+*** Fear of multiple events/activities
+*** Difficulties to control anxiety
+*** Accompanied by +3 symptoms: restlessness, fatigued easily, difficulty concentrating, irritability, muscle tension, sleep disturbance
+*** +6 months
 
-Info:
+=== Info
 
-* Social phobia is the most common anxiety disorder
-// TODO add some info about that; which treatment indicated; how interventions work for either of them
-* individuele casus-conceptualisatie: sequential/referential association
+* Anxieties are the most prevalent psychological disorders
+** Social phobia is the most common anxiety disorder
+* Comorbidity is super high (60-90%), usually with: mood disorders, drug abuse
+* Fear response consists of:
+.. subjective feeling of fear
+.. physiological reactions
+.. cognitive component
+* Anxiety disorders share those (subjective feeling, physiological reactions)
+** As well as: avoiding behavior and irrational thoughts
+* Fear is a useful phenomena
+** Goal: prepare for flight-or-fight response
+** It gets pathological if it interferes with daily functioning
+** Taken into consideration: intensity, duration, type of events evoking the fear
+* Individuele casus-conceptualisatie: sequential/referential association
 * *Stagering* creating distinct phases, *profilering* creating specific criteria, of patients with different prognosis/treatments
+* Theories:
+** Biopsychosocial model: natura (biological factors, genes) VS nurture (environment, life experiences)
+** Biological theories:
+*** Neurotransmittersystem: noradrenaline, serotonin, GABA (see link:../../lva_introduction/ch4-neural/neurotransmitters.html[neurotransmitters page])
+*** Fear network: amygdala, insula, anterior cingulate cortex (ACC)
+* Etiology:
+** Psychologically: Behvioral model (classical/operant conditioning, avoiding/safety-behavior)
+** Cognitivially: Schemas (perception, memory, bias, core believes)
+* Assessment:
+** Process:
+... Clarify nature/seriousness of symptoms
+... Make valid diagnose
+... Exclude alternative diagnoses
+... Create a "case conceptualization" (theory how individual complaints arisen/maintained)
+**** Sequential associations => exposure treatment
+**** Referential associations => no exposure treatment
+** Checklist for assessement:
+*** DSM-classification
+*** seriousness/frequency of symptoms
+*** important characteristics of complaints
+*** relevant (social) skills
+*** development/progress of complaints
+*** treatment history/preference
+*** family factors
+*** health factors
+** How is assessed?
+*** Interview (SCID-I)
+*** Self (fear) questionaire
+*** Methods of self registration / observations (diary)
+* Treatment:
+** Pharmacological: anti-depressiva (SSRIs)
+** CBT; 3 phased:
+... start phase:
+**** inventory/diagnostic of complaints/problems
+**** formulate help request
+**** functional analysis: how to solve the bad, which negatives prevent goal
+**** meaning analysis: how is neutral situation interpreted (e.g.: "if i see a dog, it will bite me"")
+... middle phase:
+**** Execute interventions (described in treatment plan)
+**** E.g.: psycho-education, journaling, relaxation, cognitive restructuring, exposure, response prevention, skill training
+... end phase:
+**** usually short (3 session)
+**** transfer of change: patient does it by himself
+**** prevent relapse
+**** end evaluation and good bye
+* Misc:
+** After 7 years, in NL, 50% don't qualify the criteria for anxiety anymore
+** Poor the ones (progress wise) for those with anxiety and mood disorder
+** Relapse is frequent
+** *Subthreshold-symptoms* can still limit daily functioning
 
-."Fear network", containing of: insula, amygdala, anterior cingulate cortex
+."Fear network", containing of: amygdala, insula, anterior cingulate cortex
 image::fear_network.png[Fear Network,300,100]
 
-== Chapter 14 -  Substance abuse
+== Chapter 14 - Substance abuse, addiction
 
-Categories:
+=== Disorders
 
-. [disorderName]#gebruik van middel#
-** Heroin:
-*** Effect on CNS: inhibiting, consciousness-lowering effect
-*** Compensatoire model (classical conditioning): Heroin overdose often happens in situations the junkie has not been before (body doesn't prepare)
-** Wekamine (old term, not used these days anymore; "Weckmittel"):
-*** Effect on CNS: stimulating
-*** E.g. amphetamine, coffeein (body own wekamine: adrenaline)
-*** Symptoms intoxication by amphetamines: Much energy, cheerfulness, ability to think clearly, good physical/mental performance
+. [disorderName]#Gebruik van middel#
+** "Aan een middel gebonden stoornis"
+*** Disorder in usage of a substance (addiction) VS disorder created by a substance (intoxication, withdrawal, others like depression)
+** Withdrawal/abstinence
+*** Happens if stop/reduce after frequent use. Substance-specific withdrawal syndrome develops (social/occupational dysfunctioning)
+*** Drugs with short *half-life* (=time to halve the blood level of the drug), syndrome develops more quickly
+** Substance groups:
+*** According to DSM-5, 10 different ones: Alcohol, cannabis, link:https://en.wikipedia.org/wiki/Phencyclidine[phencyclidine] (alias PCP, angel dust), hallucinogens, inhalants (e.g. glue), opioids, hypnotics (e.g. sleep medication), stimulants (e.g. cocaine), tobacco, residual category (e.g. anabolic steroids)
+*** Narcotics:
+**** Consciousness-lowering drugs
+**** Alcohol, opioids (morphine, heroin, codeine, methadone), hypnotics (barbiturates)
+**** Anxiolytics (benzodiazepines) are sedating, yet not lowering consciousness
+**** Are pain-reducing/inhibitory on the CNS
+**** Withdrawal symptoms: sweating, fast hearbeat, nausea, insomnia (specifics differ per drug)
+**** Withdrawal with perceptual disturbances: hallucinations/illusions, while reality check works, and no delirium
+*** Stimulants:
+**** Amphetamines, cocaine, tobacco
+**** Stimulating the nervous system
+**** Tolerance increase with repeated use (need more for same effect)
+*** Psychodelics (consciousness altering substances)
+**** So-called "trips"
+** Specific substances:
+*** THC
+**** Cannabis, phencyclidines (PCP), hallucinogens, inhalants
+**** Active ingredient in cannabis is THC (tetra-hydro-cannabinol)
+**** Has negative tolerance: repeated use, lower dose needed ("high" feeling, eating flash, laugh flash)
+**** High dosage can cause hallucinations
+*** LSD
+**** The most famous hallucinogen
+**** Confused sense of time; consciousness/spatial orientation intact
+**** Synesthesia: mixing sensory experiences (hearing a picture, seeing music, feeling colors; "the number 8 is clearly blue, and so is friday")
+**** Often panic during a bad trip
+**** Symptoms: dilated pupils, high heart rate, sweating, slow breathing
+*** XTC
+**** Ecstasy, an amphetamine-like agent
+**** Mind-altering and stimulant (unclear how to classify); properties of hallucinogenic agents
+**** Symptoms: euphoric, extra energy, warm emotions, empathy, self-insight, sensuality, relaxation, pain relief
+**** Also symptoms: nausea, headache, shortness of breath, clammy ahnds, chills
+*** GHB
+**** Gamma-Hydroxy-Butyric acid; natural occuring neurotransmitter
+**** Party drug
+**** Effects: narcotic (relaxation), hallucinogen (euphoric), aphrodisiac
+**** Symptoms: sudden/intensive use cause severe withdrawal syndrome (anxiety, tremor, motor restlessness; hallucinations, delirium)
+*** Cocaine
+**** A stimulant
+**** Cocian dysphoria, with cornic use (depressed mood, anxiety, concentration problems, fatigue, crying)
+**** overdose: tremor, seizures
+**** Withdrawal: sadness, gloom (=truebsinn), over-tiredness, sleeping problems
+*** Heroin
+**** Effect on CNS: inhibiting, consciousness-lowering effect
+**** Compensatoire model (classical conditioning): Heroin overdose often happens in situations the junkie has not been before (body doesn't prepare)
+*** Wekamine
+**** "Wekamine" is an old term, not used these days anymore; "Weckmittel"
+**** Effect on CNS: stimulating
+**** E.g. amphetamine, coffeein (body own wekamine: adrenaline)
+**** Symptoms intoxication by amphetamines: Much energy, cheerfulness, ability to think clearly, good physical/mental performance
+*** Phencyclidine
+**** Alias: PCP, angel dust
+**** Dissociative hallucinogenic drug; typically smoked (also swallowed, snorted or injected)
 ** Tolerance:
-*** Postiive tolerance: repeated use, higher dose needed to reach same effect
-*** Negative tolerance: repeated use, lower dose needed to reach same effect
-*** Stress reduction hypothesis (cognitive school): Good predictor for drinking is "expectation of the effects of drinking"
+*** *Postiive tolerance*: repeated use, higher dose needed to reach same effect
+*** *Negative tolerance*: repeated use, lower dose needed to reach same effect
+*** *Stress reduction hypothesis* (cognitive school): Good predictor for drinking is "expectation of the effects of drinking"
 ** Treatment:
 *** When severe withdrawal symptoms, intramural (=institutional) admission prior to detoxification.
 *** CBT and motivational interviewing.
 *** Online counseling programs for reducing alcohol consumption.
 . [disorderName]#gokst. (gambling)#
+** The only non-substance related addiction in DSM-5 (internet/computer games not yet)
+** Gambling stimulates the reward center (dopamine) just like drugs
+** Min 4 criteria last 12 months (mild = 4-5, moderate = 6-7, serious, 8-9 criteria)
+** Criteria:
+*** Tolerance like: Have to gamble with more money, achieve same excitement
+*** Restless/irritable when trying to stop/reduce
+*** Repeated failures to stop/reduce
+*** Preoccupation with it
+*** Gambling with uneasy feelings
+*** Often (after losing) comes back to recoup loss
+*** Lies to disguise (seriousness of gambling behavior)
+*** Endangers relationships/work/education
+*** Borrows money for gambling
 
+=== Info
 
-== Chapter 15 -  Somatosymptomic disorders
+* Definition: Problematic pattern of abuse (of a substance), leading to significant limitations/suffering
+* Criteria:
+** Use of large amounts, or for longer than was intended
+** Persistent desire/futile attempts to reduce
+** Big time investment (getting, using, recovering)
+** Craving for it
+** Often use, despite not fulfilling role at work/school/home
+** Contued use, although social problems by it
+** Other activities abandoned/reduced for it
+** Usage where it poses physical danger
+** Usage although knowing it could lead to physical/psychological problems
+** Tolerance
+** Withdrawal symptoms
+* Major changes between DSM 4 and 5
+** Seriousness score from 2-11: 2-3 low, 4-5 middle, 6+ serious
+* Criteria: control lost, social limitations (due to addiction), risky use, pharmacological criteria
+** CAVE: Excessive use is not a criteria!
+* Remission:
+** If not meeting criteria (except cravings) for 3+ months
+** Early remission: Within first 12 months (risk highest here for relapse)
+** Long-term remission: After 12 months
+** Important to consider whether patient is in a controlled environment or not (can he obtain the drug himself?)
+* Prevalence
+** Most occuring 16-24 years
+** Alcohol and smoking are biggest problems (people's health and costs for society)
+** In NL: 1/20 alcohol addicted (in life time); 25% smokes daily tabacco; 1mio use benzodiazepin; 24k hard users (90% addicted of them)
+* History
+** Dutch "verslaving" from "enslave someone" (18th century); only after that "psychological dependency"
+** End 19th century, addiction seen as moral problem, weakness of character (it's the person's guilt)
+** Contingency Management: reinforce alternative behavior (such as *Community Reinforcement Approach*)
+* Biomedical science:
+** 50% of addiction is due to genetical factors
+** People with externalized traits: use as kick/intoxication/anti-boredom
+** People with internalized traits use relive anxiety/mood/shyness
+** Genes influence how much, not when they start drinking
+* Learn theortical approach:
+** Classical conditioning:
+*** Compensatory model
+**** No cues without intake, no intake without cues.
+**** Tolerance is situation-specific.
+*** Appetizing model
+**** Cues elicit reactions that resemble the drug effect (iso-directional), not only compensatory responses
+**** Craving is not the result of opposing compensatory responses.
+*** Sensitization model
+**** Activation of the sensitized reward system depends on the cues predicting the drug effect (not always consciously, may be associated with/without craving)
+**** Moods can act as conditioned stimulus.
+** Operant conditioning:
+*** Cognitive determinants: perceived self-efficacy; outcome expectations; stress reduction hypothesis
+*** Automatic processes: Attentional bias; implicit memory sizes; tendency to approach
+*** Social context: others who invite you to use it
+* Treatment
+** Detoxifying / Reduce cravings: Opioids => Methadon; Alcohol => Disulfiram; Tabacco => Nicotin replacements
+** Motivational interviewing:
+*** express empathy; strengthen self-efficacy; use resistance; increase ambivalence
+** CBT:
+*** Change addiction habit, better cope with life problems
+*** When serious addiction, combine it with motivational interviewing
+** E-mental-health:
+*** online self-help
+*** blended-care treatments (face-to-face therapist and online interventions)
+*** computer training to influence attentional bias
+
+== Chapter 15 - Somatosymptomic disorders
 
 Disorders:
 
 . [disorderName]#somatisch-symptoomst.#
+** Criteria:
+*** Causes distress / disrupts functioning
+*** Present +6 months
+*** Not physical complaints themselves, but how experienced/shown is important
+** Diagnosis:
+*** One or more physical complaints (patient suffers from it)
+*** Excessive thoughts/feelings/behaviors regarding health complaints, or
+**** disproportional/persistent thoughts about complaint severity
+**** High concern about health/complaints
+**** High time/energy investment on health/complaints
+*** Having complaints in total for 6+ months (not meaning, that every individual complaint has to be always present)
 ** Relevant factors (according model from Looper and Kirmayer): avoidance, seeking reassurance, catastrophing
 ** Treatment: CBT (better than nothing/pseudo treatment)
-. [disorderName]#ziekte-angstst. ("hypochondria")#
+** Prevelance 5%; more men than women
+** Etiology is unclear; risk factors were identified:
+*** Psychotrauma in youth; female; older; lower education; lower socio-economic class; high in neuroticism
+. [disorderName]#ziekte-angstst.#
+** Alias "Hypochondria"
+** Description:
+*** (Disproportional) busy with getting/having serious illness
+*** Physical complaints are mild/absent
+*** Anxiety about one's own health
+*** Excessive health-related behavior / maladaptive avoidance
+*** Preoccupation for 6+ month (specific diseases feared may change)
 ** Is: excessive worries about having a serious (not-diagnosed) illness.
 ** Case: Often pain at her nose; going to GP often; comes up with self-diagnosis; although GP confirms there is nothing, worries continue; excessive self-treatment.
-. [disorderName]#conversiest. ("functional neurologic symptom disorder")#
+** To have also anxieties/depressions doesn't have a bad impact on the development
+
+[#img-ziekteangst]
+.Circulair model van ziekteangst
+image::ziekteangst_circulair_model.png[Ziekteangst,200,100]
+
+[start=3]
+. [disorderName]#Conversiest.#
+** "Functional neurologic symptom disorder"
+** Description:
+*** Is a functional, neurological symptom disorder
+*** Change in voluntary motor/sensory function
+*** Symptoms incompatible with known neurological/medical condition
+*** It cannot be explained by a mental disorder
+*** Acute episode +6 months
 ** There are neurological symptoms (numbness, blindness, paralysis), which are not consistent with a well-established organic cause, which cause significant distress, and can be traced back to a psychological trigger.
 ** Stress (conflicts) seem to be associated with the onset/worsening of symptoms.
 ** Case: A woman lost a child during a traffic accident; since then more conflicts with her husband; goes to GP because of back pain, referral physiotherapy, pain is gone; later she complains about a numb leg, nothing (physiologically) can be found which could be the cause; now also the left arm starts to be numb.
-. [disorderName]#psychic factors somatic influences#
-. [disorderName]#nagebootste st.#
-** =imitated disorder; also: "pathomimie", "Münchhausensyndrom"
+** Prevelance about 5%; 3x more often women
+. [disorderName]#Psychic factors somatic influences#
+. [disorderName]#Nagebootste st.#
+** Alias "Pathomimie" or "Münchhausensyndrom" (injury to self) and "Münchhausen by proxy" (injury to others)
+** Imitated disorder; pretending physical/psychological complaints; deliberate induction of injury/illness (deception)
+*** Presenting to others as sick/disabled/injured
+*** Deceptive behavior is evident, even in the absence of clear external rewards
 
+[#img-psycho-physical]
+.Psychological mechanisms and physical complaints
+image::psycho_mechanism_physical_complaints.png[Psycho Physical,200,100]
 
-== Chapter 16 -  Sleeping disorders
+[#img-chronic-pain-avoidance]
+.Circular model for chronic pain ("fear avoidance model")
+image::chronic_pain_avoidance.png[Chronic pain avoidance,200,100]
 
-. [disorderName]#insomniast.#
+=== Info
+
+* Diagnosis:
+** Complaints anamnesis dimensions: somatic, cognitive, emotional, behavioral, social
+** Check for comorbidity
+** Examples questionaires:
+*** McGill Pain Questionnaire -- pain
+*** Checklist Individuele Spankracht (CIS) -- tiredness
+*** Symptom Checklist-90 (SCL-90) -- indications bodily/psychological complaints
+* About treatment:
+** Somatic treatment is no solution (can even cause "iatrogenic damage")
+*** iatrogenic = unintentional complication (words/actions; infection) resulting from physician's medical activity (diagnosis, intervention, error)
+** More acceptance, if doctors involved in collaboration
+** Confronting patient with simulated disorder is counterproductive:
+*** Ffind out the profit of the illness behavior
+*** Look for adaptive behaviors for disease gain
+*** Ensure that the client can report complaints without losing face
+*** Immediate intervention is necessary if there is a high risk of iatrogenic injury!
+* Treatment methods:
+** Mindfulness-based therapy
+** CBT
+** E-health CBT
+** Relaxation exercises
+** Attention training
+** Cognitive interventions
+** Behavioral experiment
+** Exposure-Response Prevention
+** Exposure and graded activity
+** System interventions around the complaint
+
+== Chapter 16 - Sleeping disorders
+
+=== Disorders
+
+. [disorderName]#Insomniast.#
 ** Has the highest comorbidity of all sleeping disorders.
 ** Happens more frequent to 65+ old people, due to medical/psychosocial risk-factors.
-. [disorderName]#hyper-somnolentie-st. (hypersomnia)#
-** Key symptom: Excessive sleepiness
-. [disorderName]#narcolepsie#
-. [disorderName]#obstructieve-slaapapneu-/hypo-pneu-syndroom#
-. [disorderName]#centrale-slaap-apneu-syndroom#
-. [disorderName]#circadian-ritme-slaap-waakst.#
-. [disorderName]#non-REM-slaap-arousalst.#
+** Symptoms:
+*** Main complaint is dissatisfaction with sleep quantity/quality
+*** Falling asleep (+30mins)
+*** Staying asleep (wake up for 30mins)
+*** Wake up too early / not sleep through (-6.5hrs)
+*** +3 nights a week; +3 months; happens although opportunity to sleep
+** Psycho-physiological insomnia: a learned/conditioned form (worrying can't sleep)
+** 10% have a chronic form
+** After menopoause, 50-100% more complaints about insomnia/fatigue
+** More often among 65+ people (30% have chronic insomnia)
+** Treatment: sleep restriction; reduce total bedtime, increase sleep pressure, increase sleep efficiency
+. [disorderName]#Hyper-somnolentie-st.#
+** "Hypersomnia"; Excessive sleepiness (despite enough sleep hours)
+** Symptoms: Multiple sleeps a day; not refreshing sleep although +9hrs; difficulty waking up fully
+** 3+ a week; 3+ months
+** Cave: rule out breathing problems!
+. [disorderName]#Narcolepsie#
+** Uncontrollable sleep pressure/falling asleep/day naps
+** Symptoms:
+*** link:https://en.wikipedia.org/wiki/Cataplexy[Cataplexy] (sudden muscle weakness, although fully aware; typically due emotions/laughing/crying/terror)
+*** link:https://en.wikipedia.org/wiki/Orexin[Hypocretin] deficiency (alias "Orexin", neuropeptide regulating arousal/wakefulness/appetite)
+*** Polysomnography shows REM sleep latency time of -15mins
+*** Multiple Sleep Latency Test, showing average of 8 minutes
+** Sleep paralysis: inability to move while falling asleep (rare cases also upon awakening)
+. [disorderName]#Obstructieve-slaapapneu-/hypo-pneu-syndroom#
+. [disorderName]#Centrale-slaap-apneu-syndroom#
+. [disorderName]#Circadian-ritme-slaap-waakst.#
+. [disorderName]#Non-REM-slaap-arousalst.#
 ** Can lead to *sleepwalking*
-. [disorderName]#nachtmerriest.#
+. [disorderName]#Nachtmerriest.#
 . [disorderName]#REM-slaap-gedragst.#
-. [disorderName]#rusteloze-benensyndroom#
-. [disorderName]#slaapst. door substance/medication#
+. [disorderName]#Rusteloze-benensyndroom#
+. [disorderName]#Slaapst. door substance/medication#
 
-Info:
+=== Info
 
-* Two neurological processes regulate sleep-wake rhythm: homeostatic and circadian process.
-** During the day, homeostatic increases, while circadian decreases; see link:#img-sleep-processes[sleep processes graph]
-* Sleep stadiums; see link:#img-sleep-brain-waves[sleep EEG/brainwaves diagram]
+* Two neurological processes regulate sleep-wake rhythm:
+** *Homeostatic* increases during day
+*** Energy investment to stay awake creates waste products; the higher the concentration, the higher the sleep need
+** *Circadian* decreases during day;
+*** Rhythmic process with about 24 hours (a bit more) measured by brain's biological clock
+** See link:#img-sleep-processes[sleep processes graph]
+* Different sleep stages/stadiums (in multiple cycles); see link:#img-sleep-brain-waves[sleep EEG/brainwaves diagram]
 ** Awake: Beta waves.
-** Stage 1: Theta waves.
-** Stage 2: Sleep spindles, K comples.
-** Stage 3: Delta waves.
-** Stage 4: Delta waves. Slow, large EEG waves.
-** REM: Fast random waves. Where dreams happen.
+** Stage 1: Theta waves
+*** Transition from wake to sleep.
+** Stage 2:
+*** Sleep spindles; actual onset of sleep
+*** Makes up 50% of sleep together with stage 1
+** Stage 3+4: Delta waves
+*** Deep sleep/slow-wave sleep (slow, large EEG waves)
+*** Difficult to wake up
+*** Makes up 20% of sleep
+** REM (Rapid Eye Movement):
+*** Fast random waves
+*** Dreams happen; reduction muscle tension; fluctuations heart rate/blood pressure
+*** First REM happens after 1 hour after falling asleep
+*** Makes up 25% of sleep
+** Non-REM/REM cycle:
+*** The REM episodes occur about every hour and a half throughout the night.
+*** The first episode lasts less than 5 minutes and the last about 25 minutes.
+* To research sleep(problems), the following measures can be taken:
+** EEG (electro-encephalo-gram): electrical brain activity
+** EOG (electro-oculo-gram): eye movements
+** EMG (electro-myo-gram): muscle tension
+** ECG (electro-cardio-gram): heart beat
+** Polysomnogram: nosa/mouth airstream, chest/belly breathing, leg movements, oxygen saturation in arteries
+* Between 10-20 years more evening person, after age 20 shift towards morning person
+* Anamnesis aspects:
+** sleep complaints; sleep-wake schedule; history; sleeping conditions (sleep hygiene); lifestyle; medical status; psychological status
 
 [#img-sleep-processes]
 .Homeostatic and circadian process
 image::sleep-wake-processes.jpg[Sleep processes,400,100]
+
+[#img-sleep-processes2]
+.Homeostatic and circadian process 2
+image::sleep-wake-processes2.png[Sleep processes 2,400,100]
 
 [#img-sleep-brain-waves]
 .Brain waves during sleep
@@ -315,8 +682,17 @@ image::sleep-brain-waves.jpg[Sleep brain waves,400,100]
 .Sleep cycles
 image::sleep-cycles.jpg[Sleep cycles,300,100]
 
+[#img-sleep-night-day]
+.Sleep during night/day
+image::sleep-night-day.png[Sleep during night/day,400,100]
 
-== Chapter 17 -  Eating disorders
+[#img-sleep-prevalence]
+.Sleep disorder prevalence
+image::sleep-prevalence.png[Sleep prevalence,400,100]
+
+
+
+== Chapter 17 - Eating disorders
 
 . [disorderName]#anorexia nervosa#
 ** Eat very little to lose weight
@@ -339,7 +715,7 @@ Info:
 * According to the "serotonin model", eating lots of carbs, increases serotonine production, improves mood.
 
 
-== Chapter 18 -  Disruptive imppulsive behavioral disorders
+== Chapter 18 - Disruptive imppulsive behavioral disorders
 
 . [disorderName]#oppositionele-opstandige st.#
 . [disorderName]#periodiek explosieve st.#
@@ -353,7 +729,7 @@ Info:
 . [disorderName]#kleptomanie#
 ** Motive: the act of stealing itself (not money, unjustice, getting the product)
 
-== Chapter 19 -  Genderdysforie, paraphile and sexual disorders
+== Chapter 19 - Genderdysforie, paraphile and sexual disorders
 
 . [disorderName]#genderdysforie#
 ** Diagnostic criteria (young girls): not wanting to menstruate, exclusively wanting to wear men's clothes, claim to have a penis
@@ -380,7 +756,7 @@ Info:
 . [disorderName]#voortijdige ejaculatie#
 . [disorderName]#genitopelvienepijn/penetratiest. (dyspareunie)#
 
-== Chapter 20 -  Schizophrenia spectrum
+== Chapter 20 - Schizophrenia spectrum
 
 // TODO positive/negative symptoms
 . [disorderName]#waanst.#
@@ -398,7 +774,7 @@ Info:
 . [disorderName]#schizoaffectieve st.#
 
 
-== Chapter 21 -  Trauma and stress-related disorders
+== Chapter 21 - Trauma and stress-related disorders
 
 . [disorderName]#post-traumatische-stress-st. (PTSS)#
 ** Traumatic events such as (internal or external stimuli):
@@ -416,7 +792,7 @@ Info:
 ** Lasts 3 days until 1 month (PTSD longer than 1 month)
 . [disorderName]#aanpassingsst.#
 
-== Chapter 22 -  Dissociative disorders
+== Chapter 22 - Dissociative disorders
 
 . [disorderName]#depersonalisatie-derealisatiest.#
 // TODO youth abused? wanen?
@@ -438,7 +814,7 @@ Info:
 // TODO theorie Janet; theory Hilgard
 * Dissociate is, according Hilgard: part of everyday experiences
 
-== Chapter 23 -  Neurocognitive disorders
+== Chapter 23 - Neurocognitive disorders
 
 NCS = neuro-cognitive stoornis
 
@@ -471,7 +847,7 @@ Info:
 * Neuropsychological tests cover these cognitive domains:
 ** attention, motor skills, language comprehension/expression.
 
-== Chapter 24 -  Obsessive-compulsive disorders
+== Chapter 24 - Obsessive-compulsive disorders
 
 . [disorderName]#obsessieve-compulsieve st.#
 ** Almost every obsession ("forced thought") is followed by a compulsion ("forced behavior").
@@ -494,7 +870,7 @@ Info:
 . [disorderName]#Excoriatiest.#
 ** Scratching wounds ("wondjes krabben")
 
-== Chapter 25 -  Personality disorders
+== Chapter 25 - Personality disorders
 
 . [disorderName]#cluster A#
 .. [disorderName]#paranoide#

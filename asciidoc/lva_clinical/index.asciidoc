@@ -6,8 +6,6 @@ This is all about clinical psychologoy, also known as "abnormal psychology" or "
 [https://www.bol.com/nl/nl/f/klinische-psychologie/33149586/]
 image::klinische_psychologie_cover.jpg[Klinische Psychologie Book,200,100]
 
-See link:dutch_dict.html[Dutch-English dictionary] for some language support.
-
 == Structure
 
 * Exam 1 (first 10 chapters of the book, interviews, masterclass articles)
