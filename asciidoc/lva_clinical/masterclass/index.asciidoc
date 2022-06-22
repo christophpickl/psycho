@@ -1,0 +1,11 @@
+= Masterclass
+
+* See: link:https://youlearn.ou.nl/web/pb0104212234/cursus/-/coursenavigator/314974801?_nl_ou_dlwo_courseview_WAR_nloudlwocourseplanportlet__facesViewIdRender=%2Fxhtml%2Fviewer%2FcourseNavigator.xhtml[Online sources]
+* Divided into 4 subparts:
+[arabic]
+.. *Orientation psychological disorders and theoretical perspectives*: De eerste dag van de masterclass oriënteer je je op het onderwerp en de theoretische referentiekaders. Je krijgt een aantal casussen voorgelegd en je wordt gevraagd de klachten en symptomen te interpreteren volgens verschillende referentiekaders. Deze eerste dag eindigt met een interview met Jannes Eshuis over het nut van de theorie.
+.. De tweede dag is gericht op de instrumenten die gebruikt worden om de aard en de ernst van psychische klachten in te schatten, en op de classificering van verschillende stoornissen. De nadruk ligt op diverse tests, een introductie van de DSM en een aantal veelvoorkomende stoornissen, waarover je een aantal artikelen gaat lezen.
+.. Op de derde dag gaan we kritisch kijken naar de classificatie van psychische stoornissen en de voor- en nadelen van de DSM. De dag begint met een interview met Trudy Dehue over classificatie en diagnostiek. Daarna voer je een aantal opdrachten uit over dit thema.
+.. De vierde en laatste dag gaat over online psychotherapie binnen de klinische psychologie. De dag staat in het teken van een interview met een psychotherapeut uit de praktijk. Over dit interview kun je via e-mail vragen stellen aan de examinator van de cursus.
+* It consists of interviews with Jannes Eshuis, and  Trudy Dehue, and articles.
+* Additionally, there was a task to answer questions/contribute to a group discussion
