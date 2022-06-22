@@ -1,4 +1,39 @@
 
+================================================================================
+Exam 1
+================================================================================
+
+date 2nd attempt: 31.8.
+
+DOINGS
+--------------------------------------------------------------------------------
+[ ] ask marlene, do regular private lessons
+[ ] daily repeat one cheatsheet; correct with red color
+
+MASTERPLAN
+--------------------------------------------------------------------------------
+
+| Ch | ... |
++----+-----+-----+-----+-----+-----+-----+
+|  1 |
+Ch 1-10
+
+| Masterclass
++----+-----+-----+-----+-----+-----+-----+
+!!! masterclass! => auch die masterclass exercises ins psywiki
+
+list of doings:
+    * YuLe ... read YouLearn texts
+    * YuEx ... do youlearn test exams (use my own versions); add some explanations
+    * NoEx ... do noordhoof test exams
+    * finish wiki (terms, people, ...)
+        * WChe ... Wiki Cheat: write cheatsheet one page
+        * WMed ... media: add pictures from YouLearn & videos from youtube
+        * WYEx ... YouLearn exams; free text question ones
+        * WPpt ... noordhoff PPTs
+        * WNoo ... noordhoof test exams
+
+
 
 ================================================================================
 Exam 2
@@ -37,13 +72,3 @@ EXTRA PDFS
          | H7 | H8 | H9 |
 +--------+----+----+----+
 summary  | ✅ | ✅ | ✅ |
-
-================================================================================
-Exam 1
-================================================================================
-
-clinical I masterplan: 31.8. exam, 2nd attempt; make long-term plan
-	!!! masterclass! => auch die masterclass exercises ins psywiki
-	- noordhoff oefen exams!
-	- mini wiki (only keywords)
-	--- free text OU questions
