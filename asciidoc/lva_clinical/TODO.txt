@@ -5,33 +5,43 @@ Exam 1
 
 date 2nd attempt: 31.8.
 
-DOINGS
---------------------------------------------------------------------------------
-[ ] ask marlene, do regular private lessons
-[ ] daily repeat one cheatsheet; correct with red color
-
 MASTERPLAN
 --------------------------------------------------------------------------------
-
-| Ch | ... |
-+----+-----+-----+-----+-----+-----+-----+
-|  1 |
-Ch 1-10
-
-| Masterclass
-+----+-----+-----+-----+-----+-----+-----+
-!!! masterclass! => auch die masterclass exercises ins psywiki
 
 list of doings:
     * YuLe ... read YouLearn texts
     * YuEx ... do youlearn test exams (use my own versions); add some explanations
     * NoEx ... do noordhoof test exams
+    * Chea ... Write cheatsheet one page
     * finish wiki (terms, people, ...)
-        * WChe ... Wiki Cheat: write cheatsheet one page
         * WMed ... media: add pictures from YouLearn & videos from youtube
         * WYEx ... YouLearn exams; free text question ones
         * WPpt ... noordhoff PPTs
         * WNoo ... noordhoof test exams
+
+| Ch | Read | Chea | YuLe | YuEx | NoEx | WMed | WYEx | WPpt | WNoo |
++----+------+------+------+------+------+------+------+------+------+
+|  1 |   ✅ |   ✅ |      |      |      |      |      |      |      |
+|  2 |   ✅ |      |      |      |      |      |      |      |      |
+|  3 |      |      |      |      |      |      |      |      |      |
+|  4 |      |      |      |      |      |      |      |      |      |
+|  5 |      |      |      |      |      |      |      |      |      |
+|  6 |      |      |      |      |      |      |      |      |      |
+|  7 |      |      |      |      |      |      |      |      |      |
+|  8 |      |      |      |      |      |      |      |      |      |
+|  9 |      |      |      |      |      |      |      |      |      |
+| 10 |      |      |      |      |      |      |      |      |      |
+
+masterclass doings:
+    * add ins wiki
+
+| Masterclass
++-----+-----+-----+-----+-----+-----+-----+
+| I   | ?
+| II  | ?
+| III | ?
+| IV  | ?
+
 
 
 

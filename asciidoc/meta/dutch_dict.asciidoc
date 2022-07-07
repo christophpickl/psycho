@@ -19,6 +19,7 @@
 * gehechtheid ... attachment
 * geneeskunde ... medicine
 * gezondheidszorg ... healthcare / Gesundheitswesen
+* herwaardering ... revaluation
 * kennis ... knowledge
 * kwaad ... bad (pissed off)
 * maatschappij ... society / Gesellschaft

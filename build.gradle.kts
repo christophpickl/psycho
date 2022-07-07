@@ -11,18 +11,18 @@ repositories {
 
 plugins {
     id("org.asciidoctor.jvm.convert") version "3.1.0"
-    id("com.github.christophpickl.link-checker") version "1.0"
+    id("com.github.christophpickl.linkchecker") version "1.0"
 }
 
-//buildscript {
-//    repositories {
-//        gradlePluginPortal()
-//        mavenLocal()
+buildscript {
+    repositories {
+        gradlePluginPortal()
+        mavenLocal()
 //        dependencies {
 //            classpath "com.github.christophpickl:linkChecker:1.0"
 //        }
-//    }
-//}
+    }
+}
 
 tasks {
     "asciidoctor"(org.asciidoctor.gradle.jvm.AsciidoctorTask::class) {
