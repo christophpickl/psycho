@@ -3,16 +3,17 @@
 Exam 1
 ================================================================================
 
-date 2nd attempt: 31.8.
+=> date 2nd attempt exam 1: 31.8.
 
 MASTERPLAN
 --------------------------------------------------------------------------------
 
-list of doings:
+Legend:
+    * Read ... fly over book; study mindmaps
+    * Chea ... Write cheatsheet one page
     * YuLe ... read YouLearn texts
     * YuEx ... do youlearn test exams (use my own versions); add some explanations
     * NoEx ... do noordhoof test exams
-    * Chea ... Write cheatsheet one page
     * finish wiki (terms, people, ...)
         * WMed ... media: add pictures from YouLearn & videos from youtube
         * WYEx ... YouLearn exams; free text question ones
@@ -32,15 +33,19 @@ list of doings:
 |  9 |      |      |      |      |      |      |      |      |      |
 | 10 |      |      |      |      |      |      |      |      |      |
 
-masterclass doings:
-    * add ins wiki
 
-| Masterclass
-+-----+-----+-----+-----+-----+-----+-----+
-| I   | ?
-| II  | ?
-| III | ?
-| IV  | ?
+Masterclass; Legend:
+    * Wiki ... summarize content in wiki
+    * Inter ... summarize interview in wiki (only day 1&4)
+    * Exer ... do exercises and write in wiki
+    * Chea ... design cheatsheet
+
+| Clas | Wiki | Inter | Exer | Chea |
++------+------+------+-------+------+
+| Day1 |      |      |       |      |
+| Day2 |      |      |       |      |
+| Day3 |      |      |       |      |
+| Day4 |      |      |       |      |
 
 
 

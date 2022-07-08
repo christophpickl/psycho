@@ -1,6 +1,6 @@
 = Thema 4 - Personality theory & disorders
 
-See `h7.pdf`, `h8.pdf` and `h9.pdf` in YouLearn sources (not in book).
+See link:h7.pdf[`h7.pdf`], link:h8.pdf[`h8.pdf`] and link:h9.pdf[`h9.pdf`] documents from the YouLearn sources (not part of the book).
 
 * Chapter 7: link:chapter7_trait_theories.html[Trait Theories]
 * Chapter 8: link:chapter8_big_five.html[Big Five]
