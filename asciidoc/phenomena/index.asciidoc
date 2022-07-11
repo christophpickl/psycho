@@ -24,6 +24,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * Cognitive Dissonance
 * link:confirmation_bias.html[Confirmation Bias]
 * link:dunning_kruger_effect.html[Dunning Kruger Effect] -- The tendency of beginners to overestimate their level of skill.
+* Hindsight bias: "i knew it all along"
 * Framing; loss aversion
 * Fundamental Attribution Error (a.k.a. "Person Bias")
 * link:hawthorne_effect.html[Hawthorne Effect]
