@@ -1,0 +1,19 @@
+= Fritz Perls
+
+[#img-perls-fritz]
+.Fritz Perls himself
+image::perls-fritz.jpg[Fritz Perls,200,100]
+
+== Facts
+
+* 1893-1970
+* Germany (died in US)
+* Psychiatrist, psychoanalyst and psychotherapist
+
+== Achievements
+
+* Coined the term "Gestalt therapy" (together with his with Laura Perls)
+
+== Links
+
+* https://en.wikipedia.org/wiki/Fritz_Perls

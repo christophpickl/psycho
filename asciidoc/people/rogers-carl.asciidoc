@@ -1,0 +1,19 @@
+= Carl Rogers
+
+[#img-rogers-carl]
+.Carl Rogers himself
+image::rogers-carl.jpg[Carl Rogers,200,100]
+
+== Facts
+
+* 1902-1987
+* US
+* Psychologist (Humanism)
+
+== Achievements
+
+* Founder of: Client-centered Therapy
+
+== Links
+
+* https://en.wikipedia.org/wiki/Carl_Rogers

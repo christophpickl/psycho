@@ -1,0 +1,18 @@
+= Albert Ellis
+
+[#img-ellis-albert]
+.Albert Ellis himself
+image::ellis-albert.png[Albert Ellis,200,100]
+
+== Facts
+
+* 1913-2007
+* American psychologist and psychotherapist
+
+== Achievements
+
+* Founder of cognitive (behavioral) approach.
+
+== Links
+
+* https://en.wikipedia.org/wiki/Albert_Ellis
