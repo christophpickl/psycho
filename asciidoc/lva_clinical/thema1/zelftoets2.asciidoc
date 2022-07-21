@@ -17,13 +17,13 @@
 ** [hiddenAnswer]#c.#
 
 . Een groot *voordeel* van nieuwe *beeldvormende technieken*, zoals fMRI, is dat met deze technieken.
-.. gegevens worden verzameld die goed te interpreteren zijn zonder gedragsgegevens.
+.. gegevens worden verzameld die goed te *interpreteren* zijn *zonder gedragsgegevens*.
 .. duidelijke *oorzaak-gevolgrelaties* aangaande de etiologie van stoornissen worden vastgesteld.
 .. *in vivo* rechtstreeks hersenprocessen worden gemeten op een *weinig belastende* manier.
-.. directe neuronale activiteit wordt gemeten in plaats van verschillen in bloedtoevoer, waardoor een resolutie op '*single neuron*'-niveau mogelijk is.
+.. directe neuronale activiteit wordt gemeten in plaats van verschillen in *bloedtoevoer*, waardoor een resolutie op *single neuron*-niveau mogelijk is.
 ** [hiddenAnswer]#c.#
 
-. Bij de communicatie tussen neuronen is sprake van een complex samenspel van neurotransmitters die van het presynaptisch neuron naar het postsynaptisch neuron bewegen. Hierbij zijn vijf factoren van invloed op de manier waarop die communicatie verloopt. Een daarvan is het fenomeen waarbij een inactieve stof zich hecht aan de receptoren van het postsynaptisch neuron, zodat de neurotransmitter het *neuron niet kan activeren*. In dat geval spreken we van
+. Bij de *communicatie tussen neuronen* is sprake van een complex samenspel van neurotransmitters die van het presynaptisch neuron naar het postsynaptisch neuron bewegen. Hierbij zijn *vijf factoren* van invloed op de manier waarop die communicatie verloopt. Een daarvan is het fenomeen waarbij een inactieve stof zich hecht aan de receptoren van het postsynaptisch neuron, zodat de neurotransmitter het *neuron niet kan activeren*. In dat geval spreken we van
 .. blocking agents.
 .. catabolisme.
 .. remmende neuronen.
@@ -46,27 +46,26 @@
 
 == Free Text
 
-. Genetica: Binnen de neurobiologische benadering wordt onderscheid gemaakt tussen de studie van de fysiologie zelf, en de studie van de invloed van onze genen.
-.. Hoe wordt vanuit dat genetisch perspectief het ontstaan van gedrag en dus van psychopathologie verklaard?
-.. Noem twee voorbeelden van stoornissen die langs deze weg verklaard kunnen worden en leg kort uit hoe zij volgens het genetisch perspectief ontstaan.
+. *Genetica*: Binnen de neurobiologische benadering wordt onderscheid gemaakt tussen de studie van de fysiologie zelf, en de studie van de *invloed* van onze *genen*.
+.. Hoe wordt vanuit dat genetisch perspectief het ontstaan van gedrag en dus van *psychopathologie verklaard*?
+.. Noem *twee* voorbeelden van *stoornissen* die langs deze weg verklaard kunnen worden en leg kort uit hoe zij volgens het genetisch perspectief ontstaan.
 ** [hiddenAnswer]#x.#
 
-. Neurobiologie: In het boek worden twee globale hersenstructuren behandeld die een belangrijke rol spelen bij de etiologie van pathologisch gedrag
-.. Noem beide structuren en vat kort samen wat hun normale functie lijkt te zijn.
-.. Geef bij elk een voorbeeld van een stoornis die samenhangt met verstoring van deze functies.
-.. Zijn deze twee hersenstructuren onafhankelijk van elkaar bij het ontstaan van gedrag en pathologie, of juist
-niet?
-.. Wat zegt dat in het algemeen over de relatie tussen neurobiologie en pathologisch gedrag?
+. *Neurobiologie*: In het boek worden twee globale *hersenstructuren* behandeld die een belangrijke rol spelen bij de *etiologie* van pathologisch gedrag.
+.. Noem beide structuren en vat kort samen wat hun *normale functie* lijkt te zijn.
+.. Geef bij elk een voorbeeld van een *stoornis* die samenhangt met verstoring van deze functies.
+.. Zijn deze twee hersenstructuren *onafhankelijk* van elkaar bij het ontstaan van gedrag en pathologie, of juist
+*niet*?
+.. Wat zegt dat in het algemeen over de *relatie tussen neurobiologie en pathologisch gedrag*?
 ** [hiddenAnswer]#x.#
 
-. Emotieregulatie: Een van de belangrijkste taken van ons neurobiologisch systeem is de regulatie van onze emoties. Problemen in die emotieregulatie kunnen leiden tot verschillende vormen van psychopathologie, zoals stemmingswisselingen, angsten en problemen met zelfcontrole. In het hoofdstuk wordt in dit verband ook wel gesproken over het onderscheid tussen externaliserende en internaliserende stoornissen. +
-Hoe moeten we dit onderscheid begrijpen, en hoe staat het in verband met het principe van emotieregulatie? +
-Geef in uw bespreking aan beide zijden van het spectrum een aantal voorbeelden van bijbehorende stoornissen +
-In hoeverre is dit onderscheid tussen externaliserende en internaliserende stoornissen te herleiden tot een onderliggend fysiologisch onderscheid?
+. *Emotieregulatie*: Een van de belangrijkste taken van ons neurobiologisch systeem is de regulatie van onze emoties. Problemen in die emotieregulatie kunnen leiden tot verschillende vormen van psychopathologie, zoals stemmingswisselingen, angsten en problemen met zelfcontrole. In het hoofdstuk wordt in dit verband ook wel gesproken over het onderscheid tussen externaliserende en internaliserende stoornissen.
+.. Hoe moeten we dit *onderscheid* begrijpen, en hoe staat het in verband met het *principe* van emotieregulatie?
+.. Geef in uw bespreking aan *beide zijden* van het spectrum een aantal voorbeelden van *bijbehorende stoornissen*.
+.. In hoeverre is dit onderscheid tussen externaliserende en internaliserende stoornissen te herleiden tot een *onderliggend fysiologisch* onderscheid?
 ** [hiddenAnswer]#x.#
 
-. Reductionisme: De (neuro)biologische benadering van gedrag en pathologie wordt vaak beschuldigd van reductionisme. Of dat terecht is, is echter zeer de vraag. Om te beginnen kan men zich afvragen of zij wel reductionistisch is, en als dat zo blijkt te zijn dan is daarmee nog niet gezegd dat dit een probleem is. +
-Wat is reductionisme, en is dat typerend en uniek voor biologische benaderingen van gedrag? +
-Met name in de jaren zeventig werd tegen dat reductionisme gestreden omdat het zou leiden tot verwerpelijke toepassing van kennis. +
-Is dat gevaar van verwerpelijke toepassing van kennis terecht, in die zin dat dit gevaar typerend en uniek is voor biologische benaderingen van gedrag?
+. *Reductionisme*: De (neuro)biologische benadering van gedrag en pathologie wordt vaak beschuldigd van reductionisme. Of dat terecht is, is echter zeer de vraag. Om te beginnen kan men zich afvragen of zij wel reductionistisch is, en als dat zo blijkt te zijn dan is daarmee nog niet gezegd dat dit een probleem is.
+.. *Wat is* reductionisme, en is dat typerend en *uniek* voor biologische benaderingen van gedrag?
+.. Met name in de jaren zeventig werd tegen dat reductionisme gestreden omdat het zou leiden tot *verwerpelijke toepassing van kennis*. Is dat *gevaar* van verwerpelijke toepassing van kennis *terecht*, in die zin dat dit gevaar typerend en *uniek* is voor biologische benaderingen van gedrag?
 ** [hiddenAnswer]#x.#

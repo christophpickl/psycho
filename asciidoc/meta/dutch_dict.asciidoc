@@ -43,6 +43,7 @@
 * toeschouwer ... spectator / Zuschauer
 * toetsing ... check, review
 * uitdoving ... extinction
+* vatbaarheid ... susceptibility
 * verhoudingsgewijs ... proportionally
 * vernederen ... humiliate
 * vertekenen ... distort
