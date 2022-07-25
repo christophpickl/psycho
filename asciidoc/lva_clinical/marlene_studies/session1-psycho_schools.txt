@@ -26,5 +26,6 @@ PSYCHO SCHULEN
 	client-centered therapy: unbedingte wertschaetzung, empathie, authentizitaet
 	(gehoert auch gestalt-psychology dazu; fritz/friedrich perl)
 *) NEURO BIOLOGISCH:
-	neurotransmitter (serotonin, dopamin, endorphin, noradrenalin, oxytocin, GABA, MOA), hirn-areale
+	neurotransmitter (serotonin, dopamin, endorphin, +noradrenalin/norepinephrine, oxytocin, -GABA, ACh, MOA), +excite/-inhibit
+	hirn-areale, 5 lobes, cortex, limbic, lateralization
 	dank moderner bildgebende verfahren: fMRT (real-time), CT-scan, PET, BOLD, ...
