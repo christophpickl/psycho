@@ -1,0 +1,19 @@
+= Alfred Adler
+
+[#img-adler-aflred]
+.Alfred Adler himself
+image::adler-alfred.jpg[Alfred Adler,200,100]
+
+== Facts
+
+* 1870-1937
+* Austria (-Hungary)
+* Medical doctor, psychotherapist
+
+== Achievements
+
+* Founder of: *Individual Psychology*
+
+== Links
+
+* https://en.wikipedia.org/wiki/Alfred_Adler

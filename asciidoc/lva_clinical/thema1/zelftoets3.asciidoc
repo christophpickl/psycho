@@ -24,10 +24,10 @@
 ** [hiddenAnswer]#c.#
 
 . Binnen de leertheoretische benadering wordt van *spontaan herstel* gesproken wanneer
-.. de voorwaardelijke reactie weer optreedt nadat zij eerst volledig uitgedoofd was.
-.. de onvoorwaardelijke reactie weer optreedt nadat zij eerst volledig uitgedoofd was.
-.. de voorwaardelijke reactie op de onvoorwaardelijke prikkel verdwijnt.
-.. de onvoorwaardelijke reactie op de onvoorwaardelijke prikkel verdwijnt.
+.. de *voorwaardelijke* reactie weer optreedt nadat zij eerst volledig *uitgedoofd* was.
+.. de *onvoorwaardelijke* reactie weer optreedt nadat zij eerst volledig *uitgedoofd* was.
+.. de *voorwaardelijke* reactie op de onvoorwaardelijke *prikkel verdwijnt*.
+.. de *onvoorwaardelijke* reactie op de onvoorwaardelijke *prikkel verdwijnt*.
 ** [hiddenAnswer]#a.#
 
 . Wat toonde *Thorndike* aan met zijn experimenten naar instrumentele conditionering bij katten?

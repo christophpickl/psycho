@@ -1,0 +1,49 @@
+= Psychologische Ansaetze
+
+Verschiedene paradigmen sind wie blinde die den Elefanten beruehren: Jeder kennt nur einen Teil.
+
+== Psychoanlayse
+
+* VIP: link:../../people/freud-sigmund.html[sigi freud] (und anna), link:../../people/jung-cg.html[jung], link:../../people/adler-alfred.html[adler], link:../../people/erikson-erik.html[erikson], klein
+* id-ego-superego, innerer konflikt, unbewusst, defensive mechanisms
+* unwissenschaftlich, innere prozesse/introspektion
+
+== LERNtheoretisch/behaviorism
+
+* VIP: pavlov, thorndike, skinner, watson
+* konditionierung: classical, operant/instrumental, (pos/neg) reward/punishment
+* bandura: lernen durch beobachtung/model / imitation (exp.: pruegel auf puppe)
+
+== Kognitiv (behavioral)
+
+* VIP: aaron beck, ellis, (kahnemann)
+* gedanken, interpretation, wahrnehmung
+* beck's focus: depression, schema; denkfehler/irrationale gedanken aufdecken/fixen
+* cognitive triad: pessimistisch mich, umgebung, zukunft ("alles ist scheisse")
+** (VS: dark triad: narcissism, psychopathy, machiavellianism)
+* heuristiken: schablonen um interpretieren ("vaage vorhersagen")
+** => https://www.simplypsychology.org/what-is-a-heuristic.html
+** repraesentations- (zb auslaender), confirmation-bias, ... fundamental attribution error, familiarity heuristic, anchoring ...
+* learned helplessness: dog experiment, by seligman
+
+== Systemisch
+
+* VIP: bronfenbrenner ('s ecological systems)
+* individuum eingebettet in soziales system (familie, arbeit/schule, ...)
+* wechselseitige beziehungen (zb: essstoerung in kontext der familie)
+* u.a. manche aufstellungen (gibt viele verschiedene) sind systemisch
+* beinhaltet: stroemung "konstruktivismus" (zb watzlawick)
+* realitaet ist konstruiert, keine objektivitaet; rolle der gedanken!
+
+== Humanistisch
+
+* VIP: carl rogers, maslov
+* faehigkeit des menschen zu wachstum; selbstbestimmt; non-directiveness
+* client-centered therapy: unbedingte wertschaetzung, empathie, authentizitaet
+* (gehoert auch gestalt-psychology dazu; fritz/friedrich perl)
+
+== Neurobiologisch
+
+* neurotransmitter (serotonin, dopamin, endorphin, +noradrenalin/norepinephrine, oxytocin, -GABA, ACh, MOA), +excite/-inhibit
+* hirn-areale, 5 lobes, cortex, limbic, lateralization
+* dank moderner bildgebende verfahren: fMRT (real-time!), CT-scan, PET, BOLD, ...

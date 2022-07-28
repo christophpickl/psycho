@@ -1,0 +1,44 @@
+= Neurobiologische Paradigma
+
+* Reduktionistisch; "alles psychologisch ist physiologisch/biologisch" (drunterliegende koerperliche mechanismen)
+* "Geisteskrankenheiten sind Gehirnkrankheiten" (by Willhelm Griesinger)
+
+== Gene
+
+* Predisposition (=erhoehte Vulnerabilitiaet/Risiko/Wahrscheinlichkeit)
+** Mit Hilfe von Familienstudien (besonders ein-eiige zwillinge; concordant-koeffizient)
+** Diathese (biologischer einfluss: gene, koerperliche/entwicklungs-schaeden) stress (psychosoziale effekte; traumas, grundannahmen, ...) model
+
+.Diathese Stress model
+image::diathese-stress.jpg[Diathese stress model,500,100]
+
+* HPA axis: Stress-reaktions-bildung
+
+.HPA axis
+image::hpa-axis.jpg[HPA axis,500,100]
+
+.. Hypothalamus (Hirnteil): CRH (Corticotrophin releasing hormone)
+.. Pituitary (Hypophyse): ACTH (Adrenocorticotropic hormone)
+.. Adrenal gland (Nebennierenrinde): Cortisol (aber auch nor-/adrenalin)
+
+PS: adrenalin = british english, epinephrine = international english
+
+[start=2]
+
+== Hirnareale
+
+...
+
+== Botenstoffe
+
+Neurotransmitter, Hormone.
+
+.Neuronenverkehr
+image::neuronen.png[Neuronen,600,100]
+
+== Zusatz: Psychopharmaca Gruppen
+
+. anti-depressive: bessere stimmung/antrieb/schlaf, weniger angst/schmerz
+. anti-psychotica (neuroleptica): bei psychosen/schizophrenie; reizabschirmung/besserer schlaf (sedieren)
+. phasen-prophilaktika: bei bipolar ("stimmungs-stabilisatoren")
+. tranquilizers: (teil davon sind benzos subgruppe, zb xanoa), bei angst/panikattacke (in hospital) zum beruhigen ("wurschtigkeitsspritze"); super hohe abhaengigkeit

@@ -36,6 +36,8 @@ It is expected that after the course the student is able to answer the following
 
 == Extra Resources
 
+link:marlene_studies/index.html[Study sessions] with a friend (German).
+
 .YouTube Playlist: "Clinical Psychology, University of Housten", 33 lectures each 60min
 [link=https://www.youtube.com/watch?v=5pEgIV9jfz4&list=PLjjVfXgqEfhgT8As4ZsNetrVoFQIG6Xcg]
 image::https://img.youtube.com/vi/5pEgIV9jfz4/0.jpg[Clinical Psychology Housten,300]

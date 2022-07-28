@@ -1,0 +1,20 @@
+= Erik Erikson
+
+[#img-erikson]
+.Erik Erikson himself
+image::erikson-erik.jpg[Erik Erikson,200,100]
+
+== Facts
+
+* 1902-1994
+* German
+* Developmental psychologist, psychoanalyst
+
+== Achievements
+
+* Stages based on age, each has a virtua/duty
+* Coined "identity crisis"
+
+== Links
+
+* https://en.wikipedia.org/wiki/Erik_Erikson
