@@ -4,30 +4,28 @@
 
 A list of some people good to know in the area of psychology:
 
-* Ainsworth: Attachment Theory
-* Asch Solomon
+* link:ainsworth-mary.html[Ainsworth, Mary]: Attachment Theory
+* link:asch-solomon.html[Asch, Solomon]: Social/Gestalt psychologist; conformity, group pressure
 * link:bandura-albert.html[Bandura, Albert]
 * link:broca-paul.html[Broca, Paul]
-* Beck, Aaron: Cognitive Therapy
-* Bowlby: Attachment Theory
-* Chomsky
-* Darwin, Charles: Evolution Theory
+* link:beck-aaron.html[Beck, Aaron]: Cognitive Therapy
+* link:bowlby-john.html[Bowlby, John]: Attachment Theory
+* link:darwin-charles.html[Darwin, Charles]: Evolution Theory
 * link:descartes-rene.html[Descartes, Rene]
 * link:ellis-albert.html[Ellis, Albert]
-* Frankl, Viktor
+* link:frankl-viktor[Frankl, Viktor]
 * link:freud-sigmund.html[Freud, Sigmund]: Psychoanalysis
 * link:galton-francis.html[Galton, Francis]
-// https://www.youtube.com/watch?v=sx7lBzHH7c8
-* Heider, Fritz
+* link:heider-fritz[Heider, Fritz]
 * link:hobbes-thomas.html[Hobbes, Thomas]
-* Hume, David: Philosopher
+* link:hume-david.html[Hume, David]: Philosopher
 * link:james-william.html[James, William]
-* Jung, Carl Gustav
+* link:jung-cg.html[Jung, Carl Gustav]
 * link:kant-immanuel.html[Kant, Immanual]
-* Kernberg, Otto: Psychoanalysis
-* Klein, Melanie: Psychoanalysis
-* Kuhn, Thomas
-* Kohut, Heinz: Psychoanalysis
+* link:kernberg-otto.html[Kernberg, Otto]: Psychoanalysis
+* link:klein-melanie.html[Klein, Melanie]: Psychoanalysis
+* link:kuhn-thomas.html[Kuhn, Thomas]
+* link:kohut-heinz.html[Kohut, Heinz]: Psychoanalysis
 * link:leibniz-gottfried_wilhelm.html[Leibniz, Gottfried Wilhelm]
 * link:locke-john.html[Locke, John]
 * link:milgram-stanley.html[Milgram, Stanley]
@@ -52,6 +50,7 @@ A list of some people good to know in the area of psychology:
 * Bandura, Albert: Social learning
 * Bloom, Paul: Yale University
 * link:cattell-raymond.html[Catell, Raymond]: Personality
+* link:chomsky-noam.html[Chomsky, Noam]: Linguist
 * link:damasio-antonio.html[Damasio, Antonio]: Neuroscience, depression
 * Eckman, Paul: facial emotional expressions
 * link:erikson-erik.html[Erikson, Erik]: Psychoanalyst
@@ -60,6 +59,7 @@ A list of some people good to know in the area of psychology:
 * Fromm, Erich
 * link:kahnemann_daniel.html[Kahnemann, Daniel]
 * Peterson, Jordan: Show-off guy ;)
+* Sacks, Oliver: Author, has prosopagnosia (can't recognize his own face in the mirror); https://www.youtube.com/watch?v=unWnZvXJH2o
 * Sapolsky, Robert: Evolutionary Behaviorism
 * link:seligman-martin.html[Seligman, Martin]: Positive Psychology
 * Spitzer, Manfred: https://www.youtube.com/watch?v=pHOIdOG9oJM

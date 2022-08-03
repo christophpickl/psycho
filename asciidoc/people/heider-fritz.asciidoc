@@ -1,0 +1,24 @@
+= Fritz Heider
+
+[#img-heider-fritz]
+.Fritz Heider himself
+image::heider-fritz.jpg[Fritz Heider,200,100]
+
+== Facts
+
+* 1896-1988
+* Austria
+* Psychologist (Gestalt)
+
+== Achievements
+
+* Creator of: attribution theory, balance theory
+
+.YouTube Video: "Heider & Simmel animation", 1min
+[link=https://www.youtube.com/watch?v=sx7lBzHH7c8]
+image::https://img.youtube.com/vi/sx7lBzHH7c8/0.jpg[Heider & Simmel animation,300]
+
+
+== Links
+
+* https://en.wikipedia.org/wiki/Fritz_Heider

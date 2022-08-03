@@ -1,0 +1,20 @@
+= Thomas Kuhn
+
+[#img-kuhn-thomas]
+.Thomas Kuhn himself
+image::kuhn-thomas.jpg[Thomas Kuhn,200,100]
+
+== Facts
+
+* 1922-1996
+* America
+* Philosopher of science
+
+== Achievements
+
+* Book: "The structure of scientific revolutions"
+** "Competing paradigms are often incommenusrable."
+
+== Links
+
+* https://en.wikipedia.org/wiki/FOO_BAR

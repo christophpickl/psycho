@@ -1,0 +1,23 @@
+= Viktor Frankl
+
+[#img-frankl-viktor]
+.Viktor Frankl himself
+image::frankl-viktor.jpg[Viktor Frankl,200,100]
+
+== Facts
+
+* 1905-1997
+* Austria
+* Neurologist, psychiatrist, philosopher, writer
+
+== Achievements
+
+* Founder of logotherapy (part of existential and humanistic psychology)
+** Third school of Viennese Psychotherapy (next to link:freud-sigmund.html[Freud] and link:adler-alfred.html[Adler])
+* Holocaust survivor
+* Author of the book:
+** link:https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning[Man's search for meaning]
+
+== Links
+
+* https://en.wikipedia.org/wiki/Viktor_Frankl

@@ -1,0 +1,19 @@
+= Otto Kernberg
+
+[#img-kernberg-otto]
+.Otto Friedmann Kernberg himself
+image::kernberg-otto.jpg[Otto Kernberg,200,100]
+
+== Facts
+
+* 1928-
+* Austria
+* Psychoanalyst
+
+== Achievements
+
+* Ego psychology, object relations
+
+== Links
+
+* https://en.wikipedia.org/wiki/FOO_BAR

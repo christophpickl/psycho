@@ -1,0 +1,18 @@
+= Solomon Asch
+
+[#img-asch-solomon]
+.Solomon Asch himself
+image::asch-solomon.jpg[Solomon Asch,200,100]
+
+== Facts
+
+* 1907-1996
+* Polish-American Gestalt psychologist; social psychology (conformity, group pressure)
+
+== Achievements
+
+* ?
+
+== Links
+
+* https://en.wikipedia.org/wiki/Solomon_Asch

@@ -1,0 +1,19 @@
+= John Bowlby
+
+[#img-bowlby-john]
+.John Bowlby himself
+image::bowlby-john.jpg[John Bowlby,200,100]
+
+== Facts
+
+* 1907-1990
+* British psychologist/psychiatrist/psychoanalyst
+* link:klein-melanie.html[Melanie Klein] was his supervisor during his psychoanalytic training.
+
+== Achievements
+
+* Attachment theory
+
+== Links
+
+* https://en.wikipedia.org/wiki/John_Bowlby

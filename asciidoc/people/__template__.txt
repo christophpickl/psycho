@@ -2,7 +2,7 @@
 
 [#img-BAR]
 .FOO BAR himself
-image::BAR-FOO.png[FOO BAR,200,100]
+image::BAR-FOO.jpg[FOO BAR,200,100]
 
 == Facts
 

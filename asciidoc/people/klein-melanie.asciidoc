@@ -1,0 +1,20 @@
+= Melanie Klein
+
+[#img-klein-melanie]
+.Melanie Klein himself
+image::klein-melanie.jpg[Melanie Klein,200,100]
+
+== Facts
+
+* 1882-1960
+* Austria-Britain
+* Psychoanalyst, author
+
+== Achievements
+
+* Object relations theory
+* Child analysis
+
+== Links
+
+* https://en.wikipedia.org/wiki/Melanie_Klein

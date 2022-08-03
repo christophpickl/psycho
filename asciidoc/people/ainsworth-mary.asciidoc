@@ -1,0 +1,18 @@
+= Mary Ainsworth
+
+[#img-ainsworth-mary]
+.Mary Ainsworth himself
+image::ainsworth-mary.jpg[Mary Ainsworth,200,100]
+
+== Facts
+
+* 1913-1999
+* American-Canadian developmental psychologist
+
+== Achievements
+
+* Attachment theory (strange situation experiment)
+
+== Links
+
+* https://en.wikipedia.org/wiki/Mary_Ainsworth

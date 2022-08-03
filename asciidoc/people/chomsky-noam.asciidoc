@@ -1,0 +1,19 @@
+= Noam Chomsky
+
+[#img-chomsky-noam]
+.Noam Chomsky himself
+image::chomsky-noam.jpg[Noam Chomsky,200,100]
+
+== Facts
+
+* 1928-
+* America
+* Linguist, philosopher, cognitive scientist
+
+== Achievements
+
+* ?
+
+== Links
+
+* https://en.wikipedia.org/wiki/Noam_Chomsky
