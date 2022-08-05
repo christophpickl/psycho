@@ -1,0 +1,21 @@
+= George Miller
+
+[#img-miller-george]
+.George Armitage Miller himself
+image::miller-george.jpg[George Miller,200,100]
+
+== Facts
+
+* 1920-2012
+* America
+* Psychologist
+
+== Achievements
+
+* Author of "The magical number seven, plus or minus two"
+* Founder of cognitive psychology/science
+* Contribution to psycholinguistics
+
+== Links
+
+* https://en.wikipedia.org/wiki/George_Armitage_Miller

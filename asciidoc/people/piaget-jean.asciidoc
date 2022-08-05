@@ -1,0 +1,20 @@
+= Jean Piaget
+
+[#img-piaget-jean]
+.Jean Piaget himself
+image::piaget-jean.jpg[Jean Piaget,200,100]
+
+== Facts
+
+* 1896-1980
+* Switzerland
+* Psychologist
+
+== Achievements
+
+* Child development, schemas;  (next to link:vygotsky-lev.html[Vygotsky])
+** Four stages: sensorimotor, preoperational, concrete op., formal op.
+
+== Links
+
+* https://en.wikipedia.org/wiki/Jean_Piaget

@@ -29,16 +29,16 @@ A list of some people good to know in the area of psychology:
 * link:leibniz-gottfried_wilhelm.html[Leibniz, Gottfried Wilhelm]
 * link:locke-john.html[Locke, John]
 * link:milgram-stanley.html[Milgram, Stanley]
-* Miller
+* link:miller-george.html[Miller, George]: 7 +/- 2
 * link:pavlov-ivan.html[Pavlov, Ivan]: Classical Conditioning
 * link:perls-fritz.html[Perls, Fritz]: Gestalt Psychology
-* Piaget: Developmental Psychology
-* Popper, Karl
+* link:piaget-jean.html[Piaget, Jean]: Developmental Psychology
+* link:popper-karl.html[Popper, Karl]
 * link:rogers-carl.html[Rogers, Carl]
-* Rousseau, Jean-Jacques
+* link:rousseau-jean.html[Rousseau, Jean-Jacques]
 * link:skinner-burrhus_frederic.html[Skinner, Burrhus Frederic]
 * link:thorndike_edward.html[Thorndike, Edward]
-* Vygotsky
+* link:vygotsky-lev.html[Vygotsky, Lev]
 * Wallace, Alfred Russel
 * Watson
 * link:wundt-wilhelm.html[Wundt, Wilhelm]

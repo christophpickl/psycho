@@ -1,0 +1,20 @@
+= Jean-Jacques Rousseau
+
+[#img-rousseau-jean]
+.Jean-Jacques Rousseau himself
+image::rousseau-jean.jpg[Jean-Jacques Rousseau,200,100]
+
+== Facts
+
+* 1712-1778
+* Geneva (Swiss)
+* Philosopher, writer, composer
+
+== Achievements
+
+* Romanticism
+* French revolution
+
+== Links
+
+* https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau

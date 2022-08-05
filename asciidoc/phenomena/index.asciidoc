@@ -69,13 +69,20 @@ Some people's medical cases (accidents and other abnormalities in medical histor
 
 == Experiments
 
-* link:bobo_doll.html[Bobo doll experiment]
 * blue/brown eye experiment
 * Nodding/shaking head, influencing judgement.
 * Judging something while stick in mouth (forcing a smile).
-* Stanford prison experiment (in-/outgroup bias in social psychology)
-* Wire VS cloth mother and primate.
+
+=== Classic Experiments
+
+* Clever Hans
 * link:little_albert.html[Little Albert]
+* Milgram's Obedience
+* Harlow's Rhesus Monkey: Wire VS cloth mother and primate
+* Robbers Cave
+* The Stanford Prison: in-/outgroup bias in social psychology
+* Asch's Conformity
+* link:bobo_doll.html[Bobo doll experiment]
 
 == Studies
 
@@ -99,7 +106,7 @@ Famous studies and experiments everyone should know of.
 == Tests
 
 * Strange Situation Test
-// implicit association
+* Implicit Association Test
 
 == Others
 
