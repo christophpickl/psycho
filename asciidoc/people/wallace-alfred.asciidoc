@@ -1,0 +1,19 @@
+= Alfred Wallace
+
+[#img-wallace-alfred]
+.Alfred Wallace himself
+image::wallace-alfred.jpg[Alfred Wallace,200,100]
+
+== Facts
+
+* 1823-1913
+* UK
+* Naturlist, explorer, geographer, anthropologist, biologist
+
+== Achievements
+
+* ?
+
+== Links
+
+* https://en.wikipedia.org/wiki/Alfred_Russel_Wallace

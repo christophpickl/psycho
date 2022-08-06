@@ -1,5 +1,9 @@
 = Bobo Doll Experiment
 
-See: https://www.youtube.com/watch?v=eqNaLerMNOE
+See: https://www.youtube.com/watch?v=
 
-by link:/people/bandura-albert.html[Albert Bandura].
+Conducted by link:../people/bandura-albert.html[Albert Bandura].
+
+.YouTube Video: "Bobo Doll experiment (Bandura)", 5mins
+[link=https://www.youtube.com/watch?v=eqNaLerMNOE]
+image::https://img.youtube.com/vi/eqNaLerMNOE/0.jpg[Bobo Doll experiment,300]

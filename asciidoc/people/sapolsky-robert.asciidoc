@@ -1,0 +1,19 @@
+= Robert Sapolsky
+
+[#img-sapolsky-robert]
+.Robert Sapolsky himself
+image::sapolsky-robert.jpg[Robert Sapolsky,200,100]
+
+== Facts
+
+* 1957-
+* American
+* Biologist, neuroendocrinology researcher
+
+== Achievements
+
+* ? books ?
+
+== Links
+
+* https://en.wikipedia.org/wiki/Robert_Sapolsky

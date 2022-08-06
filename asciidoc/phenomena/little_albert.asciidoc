@@ -1,3 +1,5 @@
 = Little Albert
 
 // TODO fill content
+
+Conducted by link:../people/watson-john.html[John Watson].

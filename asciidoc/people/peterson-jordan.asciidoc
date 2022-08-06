@@ -1,0 +1,19 @@
+= Jordan Peterson
+
+[#img-peterson-jordan]
+.Jordan Peterson himself
+image::peterson-jordan.jpg[Jordan Peterson,200,100]
+
+== Facts
+
+* 1962-
+* Canada
+* Clinical psychologist, YouTube personality, author, professor
+
+== Achievements
+
+* "Influencer" ;)
+
+== Links
+
+* https://en.wikipedia.org/wiki/FOO_BAR

@@ -1,0 +1,19 @@
+= Manfred Spitzer
+
+[#img-spitzer-manfred]
+.Manfred Spitzer himself
+image::spitzer-manfred.jpg[Manfred Spitzer,200,100]
+
+== Facts
+
+* 1958-
+* Germany
+* Studied philosophy and psychology
+
+== Achievements
+
+* ? books ?
+
+== Links
+
+* https://en.wikipedia.org/wiki/Manfred_Spitzer

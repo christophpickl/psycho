@@ -1,0 +1,19 @@
+= Erich Fromm
+
+[#img-fromm-erich]
+.Erich Seligmann Fromm himself
+image::fromm-erich.png[Erich Fromm,200,100]
+
+== Facts
+
+* 1900-1980
+* Germany
+* Social psychologist, psychoanalyst, sociologist, humanistic philosopher, democratic socialist
+
+== Achievements
+
+* Art of loving, freedom, religion, ...
+
+== Links
+
+* https://en.wikipedia.org/wiki/Erich_Fromm

@@ -1,0 +1,20 @@
+= John Watson
+
+[#img-watson-john]
+.John Broadus Watson himself
+image::watson-john.jpg[John Watson,200,100]
+
+== Facts
+
+* 1878-1958
+* America
+* Psychologist
+
+== Achievements
+
+* Popularized behaviorism
+* Conducted the controversial link:../phenomena/little_albert.html[little albert] experiment
+
+== Links
+
+* https://en.wikipedia.org/wiki/John_B._Watson

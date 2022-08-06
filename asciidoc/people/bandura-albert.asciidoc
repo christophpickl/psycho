@@ -1,4 +1,20 @@
 = Albert Bandura
 
-* social learning
-* see: link:/phenomena/bobo_doll.html[bobo doll experiment]
+[#img-bandura-albert]
+.Albert Bandura himself
+image::bandura-albert.jpg[Albert Bandura,200,100]
+
+== Facts
+
+* 1925-2021
+* Canadian-American
+* Psychologist
+
+== Achievements
+
+* Social cognitive/learning theory, personality psychology, therapy
+* See: link:../phenomena/bobo_doll.html[bobo doll experiment]
+
+== Links
+
+* https://en.wikipedia.org/wiki/Albert_Bandura
