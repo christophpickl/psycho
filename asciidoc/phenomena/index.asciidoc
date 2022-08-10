@@ -33,11 +33,13 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * Interpretation Bias
 * link:mcgurk_effect.html[McGurk Effect] -- A perceptual illusion where seeing and hearing influence each other.
 * Insufficient Justification Effect
+* Memory Bias
 * Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
 * Moralistic Fallacy
 * Naturalistic Fallacy
 * link:own_race_bias.html[Own-race bias]
 * Person Bias; See Fundamental Attribution Error
+* Planning fallacy (by Roger Buehler)
 * link:predictable_world_bias.html[Predictable World Bias]
 * Priming
 * Proportional Bias -- Base for conspiracy theories
@@ -45,6 +47,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * Scientific Bias
 // https://conservapedia.com/Scientific_bias
 * Selective Perception Bias
+* Selective Interpretation
 * Self-Fulfilling prophecies (a.k.a. Pygmalion Effect)
 * Self-Serving Attributional Bias; like person bias but for oneself
 * Spotlight Effect

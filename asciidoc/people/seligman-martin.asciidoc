@@ -14,10 +14,23 @@ image::seligman-martin.jpg[Seligman,200,100]
 == Achievements
 
 * Theory of "learned helplessness"
+* *PERMA* model (well-being theory):
+** *Positive emotion*: Simley face; joy, happyness, merry, cheerful (highly heritable!)
+*** Duchenne smile (a genuine smile; includes muscles underneath the eyes; orbicularis oculi muscle) VS a fake non-duchenne smile
+** *Engagement*: Flow, strengths matching challenges
+** *Relations*: It's a skill!
+** *Meaning*: Something bigger than the self
+** *Achievement*: Accomplishment, mastery, confidence
 
 == Links
 
 * https://en.wikipedia.org/wiki/Martin_Seligman
+
+https://www.youtube.com/watch?v=
+
+.YouTube Video: "PERMA" - 25mins; 2012
+[link=https://www.youtube.com/watch?v=iK6K_N2qe9Y]
+image::https://img.youtube.com/vi/iK6K_N2qe9Y/0.jpg[PERMA,300]
 
 .YouTube Video: "The new era of positive psychology" - TED talk, 23mins; 2008
 [link=https://www.youtube.com/watch?v=9FBxfd7DL3E]

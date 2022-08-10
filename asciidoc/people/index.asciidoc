@@ -12,7 +12,7 @@ A list of some people good to know in the area of psychology:
 * link:bowlby-john.html[Bowlby, John]: Attachment Theory
 * link:darwin-charles.html[Darwin, Charles]: Evolution Theory
 * link:descartes-rene.html[Descartes, Rene]
-* link:ellis-albert.html[Ellis, Albert]
+* link:ellis-albert.html[Ellis, Albert]: Cognitive Therapy
 * link:frankl-viktor[Frankl, Viktor]
 * link:freud-sigmund.html[Freud, Sigmund]: Psychoanalysis
 * link:galton-francis.html[Galton, Francis]
