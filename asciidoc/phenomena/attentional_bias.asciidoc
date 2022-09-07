@@ -1,0 +1,22 @@
+= Attention(al) Bias
+
+A cognitive bias.
+
+[#img-attentional-bias]
+.Not seeing what is due to attention blindness
+image::attentional_bias.jpg[Attentional bias,200,100]
+
+* An altered perception, based on selective attention.
+** Too much focused on one thing, thus not seeing/ignoring alternatives.
+* Factors:
+** External stimuli (perceived threat)
+** Internal states (hunger, sadness)
+** E.g. Cigarette smoker wired to pay only attention to smoking-related cues.
+* Background:
+** Our attention is a finite resource, we need to select what arrives in our working memory
+
+// TODO incorporate and link: https://www.verywellmind.com/what-is-an-attentional-bias-2795027 and https://thedecisionlab.com/biases/attentional-bias and wikipedia
+
+== Links
+
+* https://en.wikipedia.org/wiki/Attentional_bias

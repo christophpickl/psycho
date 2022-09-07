@@ -41,7 +41,7 @@ A list of some people good to know in the area of psychology:
 * link:vygotsky-lev.html[Vygotsky, Lev]
 * link:wallace-alfred.html[Wallace, Alfred Russel]
 * link:watson-john.html[Watson, John]
-* Winnicott
+* link:winnicott-donald.html[Winnicott, Donald]: Good enough (parents)
 * link:wundt-wilhelm.html[Wundt, Wilhelm]
 
 == Contemporary and Personal Favorites
@@ -49,19 +49,17 @@ A list of some people good to know in the area of psychology:
 * link:adler-alfred.html[Adler, Alfred]: Psychoanalysis
 * link:allport-gorden.html[Allport, Gorden]: Personality
 * link:bandura-albert.html[Bandura, Albert]: Social learning
-* Beck: Cognitive Theory
 * link:bloom-paul.html[Bloom, Paul]: Yale University
 * link:cattell-raymond.html[Catell, Raymond]: Personality
 * link:chomsky-noam.html[Chomsky, Noam]: Linguist
 * link:damasio-antonio.html[Damasio, Antonio]: Neuroscience, depression
 * link:ekman-paul.html[Ekman, Paul]: facial emotional expressions
 * link:erikson-erik.html[Erikson, Erik]: Psychoanalyst
-* Ellis: Cognitive Theory
 * link:eyseneck-hans.html[Eyseneck, Hans]: Personality
 * link:fromm-erich.html[Fromm, Erich]
 * link:kahnemann_daniel.html[Kahnemann, Daniel]
 * link:peterson-jordan.html[Peterson, Jordan]: Show-off guy ;)
-* link:sacks-oliver.html[Sacks, Oliver]: Author, has prosopagnosia (can't recognize his own face in the mirror); https://www.youtube.com/watch?v=unWnZvXJH2o
+* link:sacks-oliver.html[Sacks, Oliver]: Author which has prosopagnosia
 * link:sapolsky-robert.html[Sapolsky, Robert]: Evolutionary Behaviorism
 * link:seligman-martin.html[Seligman, Martin]: Positive Psychology
 * link:spitzer-manfred.html[Spitzer, Manfred]: https://www.youtube.com/watch?v=pHOIdOG9oJM

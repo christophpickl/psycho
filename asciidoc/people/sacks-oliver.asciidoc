@@ -13,7 +13,12 @@ image::sacks-oliver.jpg[Oliver Sacks,200,100]
 == Achievements
 
 * Book "The man who mistook his wife for a hat and other clinical tales"
+* Has prosopagnosia: can't recognize his own face in the mirror
 
 == Links
 
-* https://en.wikipedia.org/wiki/FOO_BAR
+* https://en.wikipedia.org/wiki/Oliver_Sacks
+
+.YouTube Video: "Sensation & Perception - Crash Course Psychologie # 5", first few moments
+[link=https://www.youtube.com/watch?v=unWnZvXJH2o]
+image::https://img.youtube.com/vi/unWnZvXJH2o/1.jpg[MacGurk Effect,300]
