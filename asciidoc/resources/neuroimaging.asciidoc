@@ -1,0 +1,54 @@
+= Neuroimaging Techniques
+
+
+Also see link:../lva_introduction/ch4-neural/index.html#sec-methods[Introduction Psychology - Neural Control / Methods]
+
+Methods to...
+
+* observe behavior when stimulated/damaged
+* observe neurons when doing a task
+
+Techniques can be based on electrical (EEG), anatomical or metabolic (fMRI) procedures.
+
+[width="70%"]
+[cols="1,5"]
+|=======
+| Name | Method
+
+2+| Electrical
+
+| EEG (Electro-Encephalo-Graphy)
+| Scalp electrodes record electrical activity of the cortex
+
+| ERPs (Event-Related Potentials)
+| Encephalographic measure of local changes to specific stimuli.
+
+| MEG (Magento-Encephalo-Graphy)
+| Detects magnetic field changes, produced by cortical electrical activity.
+
+| TMS (Transcranial Magnetic Stimulation)
+| Blocking electrical activity by magnetic fields to localize brain functions.
+
+| tDCS (Transcranial Direct Current Stimulation)
+| Stimulating electrical activity, by weak electrical currents, to localize brain functions.
+
+2+|Anatomical
+
+| MRI (Magnetic Resonance Imaging)
+| Measuring energy changes after magnetic field exposure.
+
+| DTI (Diffusion Tension Imaging)
+| Measures diffusion of water, imaging white matter tracts.
+
+2+|Metabolic
+
+| PET (Positron Emission Tomography)
+| Measures glucose/oxygen by following an injected radioactive tracer.
+
+| fMRI (Functional Magnetic Resonance Imaging)
+| Measures blood flow changes, thus indirectly measuring metabolic activity.
+
+|=======
+
+* first a quick overview table
+* then for each technique: a picture (associate easily); describe in 2 sentences (how it works); pros/cons

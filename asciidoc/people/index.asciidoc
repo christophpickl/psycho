@@ -7,6 +7,7 @@ A list of some people good to know in the area of psychology:
 * link:ainsworth-mary.html[Ainsworth, Mary]: Attachment Theory
 * link:asch-solomon.html[Asch, Solomon]: Social/Gestalt psychologist; conformity, group pressure
 * link:bandura-albert.html[Bandura, Albert]
+* Breuer, Josef: Freud's mentor
 * link:broca-paul.html[Broca, Paul]
 * link:beck-aaron.html[Beck, Aaron]: Cognitive Therapy
 * link:bowlby-john.html[Bowlby, John]: Attachment Theory
@@ -14,13 +15,14 @@ A list of some people good to know in the area of psychology:
 * link:descartes-rene.html[Descartes, Rene]
 * link:ellis-albert.html[Ellis, Albert]: Cognitive Therapy
 * link:frankl-viktor[Frankl, Viktor]
+* Freud, Anna: Psychoanalysis (defense mechanisms)
 * link:freud-sigmund.html[Freud, Sigmund]: Psychoanalysis
 * link:galton-francis.html[Galton, Francis]
 * link:heider-fritz[Heider, Fritz]
 * link:hobbes-thomas.html[Hobbes, Thomas]
 * link:hume-david.html[Hume, David]: Philosopher
 * link:james-william.html[James, William]
-* link:jung-cg.html[Jung, Carl Gustav]
+* link:jung-cg.html[Jung, Carl Gustav]: Analytical Psychology, Freud the mentor
 * link:kant-immanuel.html[Kant, Immanual]
 * link:kernberg-otto.html[Kernberg, Otto]: Psychoanalysis
 * link:klein-melanie.html[Klein, Melanie]: Psychoanalysis

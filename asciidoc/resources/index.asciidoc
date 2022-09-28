@@ -6,6 +6,7 @@ Subpages::
 
 * A summary of a set of 3x30 minute videos of: "link:history_video.html[The History of Psychology]".
 * A quick overview of the different link:drugs.html[drug classifications].
+* A list of link:neuroimaging.html[neuroimaging] techniques explained.
 
 
 Other pages::
