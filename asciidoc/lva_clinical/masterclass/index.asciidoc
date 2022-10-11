@@ -3,9 +3,27 @@
 * See: link:https://youlearn.ou.nl/web/pb0104212234/cursus/-/coursenavigator/314974801?_nl_ou_dlwo_courseview_WAR_nloudlwocourseplanportlet__facesViewIdRender=%2Fxhtml%2Fviewer%2FcourseNavigator.xhtml[Online sources]
 * Divided into 4 subparts:
 [arabic]
-.. *Orientation psychological disorders and theoretical perspectives*: De eerste dag van de masterclass oriënteer je je op het onderwerp en de theoretische referentiekaders. Je krijgt een aantal casussen voorgelegd en je wordt gevraagd de klachten en symptomen te interpreteren volgens verschillende referentiekaders. Deze eerste dag eindigt met een interview met Jannes Eshuis over het nut van de theorie.
-.. De tweede dag is gericht op de instrumenten die gebruikt worden om de aard en de ernst van psychische klachten in te schatten, en op de classificering van verschillende stoornissen. De nadruk ligt op diverse tests, een introductie van de DSM en een aantal veelvoorkomende stoornissen, waarover je een aantal artikelen gaat lezen.
-.. Op de derde dag gaan we kritisch kijken naar de classificatie van psychische stoornissen en de voor- en nadelen van de DSM. De dag begint met een interview met Trudy Dehue over classificatie en diagnostiek. Daarna voer je een aantal opdrachten uit over dit thema.
-.. De vierde en laatste dag gaat over online psychotherapie binnen de klinische psychologie. De dag staat in het teken van een interview met een psychotherapeut uit de praktijk. Over dit interview kun je via e-mail vragen stellen aan de examinator van de cursus.
+.. *Orientation psychological disorders and theoretical perspectives*: On the first day of the masterclass, you orientate yourself on the subject and the theoretical frames of reference. You will be presented with a number of cases and you will be asked to interpret the complaints and symptoms according to different frames of reference. This first day ends with an interview with Jannes Eshuis about the usefulness of the theory.
+.. *Diagnosis and Classification of Disorders*: The second day focuses on the instruments used to estimate the nature and severity of psychological complaints, and on the classification of different disorders. The emphasis is on various tests, an introduction to the DSM and a number of common disorders, about which you will read a number of articles.
+.. *A Critical Look at the Classification of Mental Disorders*: On the third day we will take a critical look at the classification of mental disorders and the advantages and disadvantages of the DSM. The day starts with an interview with Trudy Dehue about classification and diagnosis. Then you perform a number of assignments on this theme.
+.. *Occupational therapy*: The fourth and final day is about online psychotherapy within clinical psychology. The day is dominated by an interview with a psychotherapist from practice. You can ask questions about this interview to the examiner of the course by e-mail.
 * It consists of interviews with Jannes Eshuis, and  Trudy Dehue, and articles.
-* Additionally, there was a task to answer questions/contribute to a group discussion
+* Additionally, there was a task to answer questions/contribute to a group discussion.
+
+== Day 1 - Orientation
+
+.Interview with Dr. Jannes Eshuis
+image::day1-interview.jpg[Jannes Eshuis,200,100]
+
+== Day 2 - Diagnosis, Classificaiton
+
+
+== Day 3 - Critical Look
+
+.Interview with Prof.Dr. Trudy Dehue
+image::day3-interview.jpg[Trudy Dehue,200,100]
+
+== Day 4 - Occupation
+
+.Interview with Susan van Hooren
+image::day4-interview.jpg[Susan van Hooren,200,100]

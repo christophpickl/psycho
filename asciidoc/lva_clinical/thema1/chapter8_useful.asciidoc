@@ -18,7 +18,7 @@ N/A
 
 == From Selfest
 
-* Incommensurable theories means, that different theories can't be compared due to lack of objective measures.
+* **Incommensurable** theories means, that different theories can't be compared due to lack of objective measures.
 * Induction is merge specific perceptions to a general theory (small to big).
 * Karl Popper's core criticism about rationalistic philosophy is that we only get certainty when successfully falsifying our theories.
 * Blind causal mechanisms is descriptive for determinism.

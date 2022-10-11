@@ -1,0 +1,34 @@
+= Session 3
+
+6.10.2022
+
+* 6 Paradigmen (jedes Paradigma kann man weiter in Schulen unterteilen):
+** Neurobiologische
+*** Auf materielles fokusiert; Reduktionismus (Gewebe, Stoffe); "Geisteskrankheiten sind Gehirnkrankheiten"
+*** Neurotransmitter (Serotonin, Dopamin, Noradrenalin, Oxytocin, GABA=GammaAminoButterAcid => Anxiety) (Hormone: Adrenalin, Endorphin, Oxytocin)
+**** Antidepressiva: Serotonin (SSRI = Selective Serotonin Reuptake Inhibitor), Noradrenalin (SNRI), (SSRI+SNRI = SSNRI); Oldschool: MAO-remmers (Nebenwirkungen)
+**** Transmission factors: Menge an Neurotransmitter, Menge an Rezeptoren, Blocking Agents, Inhibiting Neuronen, Neuronale Sensitivitaet
+*** Hirnaktivitaet & Gehirnareala; Limbische System; HPA-Achse ("Stress")
+**** Imaging Techniques: metabolisch (wo arbeitet das gehirn; fMRI, PET), anatomisch (ein statisches bild vom gewebe; MRI, DTI, CT), elektrisch (EEG, ERP)
+*** Genetik (Transgenerational-, Epigenetik = Erfahrung ueber Genetik vererbt)
+*** Diathese-Stress Model; Emotion Regulation
+** Lerntheoretische
+*** Konditionierung: Klassisch = Pavlov (Reiz), Operationale = Skinner (Konsequenz; Belohnung/Bestrafung); [Instrumentale = Thorndike], Bandura (lernen am beobachten)
+*** S-S, S-R; Blackbox; Therapie: Extinction, Spontane Herstellung, Context Dependency; BT=Verhaltenstherapie, expose therapy
+*** Appetitve/Aversive Konditionierung; Learned helplessness (depression)
+** Kognitive (CBT; Mindfulness)
+*** Beck = Schemas, Kognitive Triade (ich + umgebung + zukunft = scheisse)
+*** Computer als Vorlage: Informationsverarbeitung/-selektion (Seligman = attribution theory), neuronale Netze
+*** Denkfehler (Cognitive Biases; Kahneman)
+** Psychoanalytische
+*** Psychologien: Triebe (Freud), Ego-, Objekt-relationale (kernberg; splitting, personality organisations), selbst-psychologie (Kohut), attachment- (sicher, unsicher-vermeidend, unsicher-ambivalent, disorganisiert)
+*** Unbewusste im Fokus (Eisberg Model); Triebe & Konflikte => (un/reife) Abwehrmechanismen (Repression, Displacement, Sublimation, Reaction formation, Projection, Rationalization; Humor); Uebertragung
+*** Ego: Ueberich (Gewissen) Ich (Harmonizer) Es (Lustgewinn); Oedipuskomplex (Elektra-)
+** Humanistische
+***
+***
+***
+** Systemische
+***
+***
+***

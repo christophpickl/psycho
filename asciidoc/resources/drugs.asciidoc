@@ -12,7 +12,7 @@ Excess vs moderation.
 Examples: DMT, psilocybin (mushrooms, truffles), mescaline (peyote), LSD, MDMA (XTC), Meth, Amphetamin, Speed, PCP, Ketamin
 
 .Psychodelics effects
-image::drugs-psychodelics_effect.jpg[Psychodelics,600,100]
+image::images/drugs-psychodelics_effect.jpg[Psychodelics,600,100]
 
 == Psychoactive Drugs
 
