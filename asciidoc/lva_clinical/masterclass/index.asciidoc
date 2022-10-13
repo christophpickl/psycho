@@ -12,8 +12,63 @@
 
 == Day 1 - Orientation
 
+See: link:https://youlearn.ou.nl/web/pb0104212234/cursus/-/coursenavigator/314974802[YouLearn - Day 1]
+
+=== Task 1
+
+**Task 1a**: Which of the following 7 factors for abnormal behavior do you personally think are most/least characteristic and why? (see link:../thema1/chapter1_about.html#seven_factors[Chapter 1 / Seven factors of abnormal behavior])
+
+. Personal suffering
+** Very high, as mental suffering is rather subjective, and it's difficult to reliably define pathology based on absolute terms when taking socio-cultural background into account.
+. Dysfunctional behavior
+** Very high, as due to dysfunctional behavior, I can imagine also suffering can result. If
+. Irrational / Incomprehensible behavior
+** Very low, as maybe for that person it is rational/comprehensible, just not for the observer/psychologist. As long as there is no consequences which leads to an experienced suffering, I see no real problem there.
+. Unpredictability / Loss of control
+** Low, as it leads to more comfort if there is more predictability in behavior, yet not required to life a fulfilled life.
+. Unconventional/notable behavior
+** Very low, as this seems rather arbitrary to me. Neither my own potential behavior, nor social norms should determine what is pathological/abnormal.
+. Discomfort evoking behavior
+** Very low, as although crossing implicit social norms lead to discomfort, it is not really severe to the person self.
+. Violating moral norms
+** High, as in order to guarantee a functioning society, we need to adhere moral norms, not necessarily superficial social norms though.
+
+**Task 1b**: Do external factors (such as social environment, culture, media, pharamceutical industry) influence on the common conception of abnormal behavior? Why?
+
+Of course, very much. Just think of media like TV, which basically influences most of our ideas around what is good and bad, healthy and sick. Media is tied to culture and social environment, which can't be separated. Whatever our mother told is, when it is justified to stay away from "strange people". Our conception (misconception?) of when someone "misbehaves" is not necessarily something defined by natural impulses, but rather has been developed over the years by observation and imitation. Additionally, the pharmaceutical industry might have added its own share, as their (commercial) interest is of course to sell more products, which they can't be blame for as this is their goal in our self-created capitalistic system.
+
+=== Theoretical Perspective
+
+A theory is created, whenever we succeeded in putting together concepts in a consistent system of terms which are put together in a logical way. These are being used to look at development and continuation of psychological disorders.
+
+As a clinical psychologist it is of utmost importance to have good knowledge about clinical theories (such as: neurobiological, learn, cognitive, psychodynamic, humanistic, systemic). They can be used to figure out causes/consequences and tailorize treatments.
+
+=== Interview
+
 .Interview with Dr. Jannes Eshuis
 image::day1-interview.jpg[Jannes Eshuis,200,100]
+
+=== Task 2
+
+**Case study**: Ms. Smit, 66 years, who's husband died 4 years ago. She still misses him daily. Stopped working 2 years ago. She is sad and lost her motivation. Sleeps bad. Can't focus, even TV and newspapers won't work. Stopped painting. Eats only fast food, although used to cook for friends and family. She thinks people don't like her paintings, her food, her company; although trying to be social. She thinks others can't put themselves into her position, thus she retreats into her house. Little contact with her kids. Hasn't asked for help yet. She doesn't mind dying, as life has no meaning to her anymore.
+
+**Task**: How can her complaints and symptoms be explained with the help of the cognitive approach (Ellis/Beck schemas)? How can they be complained from a learn-theoretical approach?
+
+. Cognitive:
+** Neurotic problems like depression stem from illogical/irrational ideas of people. Ellis emphasized the relevance of irrational conceptions for neurotic psychopathologies. Beck developed a theory for specific cognitive characteristics for different forms of psychopathology (e.g. depression).
+** Depressogene schemas (according to Beck) lead to thoughts about worthlessness and guilt. The unjustice of the world. Lovelessness of others. Being hopeless in the future.
+** The patient thinks she must be appreciated and liked by literally everyone (illogical/irrational thought). Her depressogene schemas also express themselves as she thinks her paintings are not appreciated, people are not interested in her and her dinner parties. That others don't like her company, not even her children. Her thoughts are about abandonment and hopelessness. Daily thinking about her husband, not seeing a future.
+. Learn:
+** Depression can develop once a social support is lost. People's behavior is not positively reinforced/rewarded anymore. Important concepts: Avoidance and learned helplessness (Seligman; own behavior has no impact on situation).
+** The patient has no husband and no colleagues anymore. She feels like she is not rewarded by other people, e.g. appreciated because of her paintings, dinner parties and her pro-social behaviour, although she tries so hard. She has no control any more (learned helplessness).
+** She avoids potentially pleasurable activities. Retreats. Consequence: Even less rewarded from environment, and less control over her situation.
+
+=== Task 3
+
+**Case study**: Ravi...
+
+=== Task 4
+
 
 == Day 2 - Diagnosis, Classificaiton
 

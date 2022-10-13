@@ -1,6 +1,6 @@
 = Alfred Adler
 
-[#img-adler-aflred]
+[#img-adler-alfred]
 .Alfred Adler himself
 image::adler-alfred.jpg[Alfred Adler,200,100]
 

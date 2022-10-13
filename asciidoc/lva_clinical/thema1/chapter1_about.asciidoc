@@ -70,6 +70,7 @@ There are fundamental **educational differences**: A psychologist studied psycho
 
 == Aspects of "abnormal" behavior
 
+[#seven_factors]
 === Seven factors
 
 Defined as by * link:../../people/seligman-martin.html[Seligman] et al:
@@ -79,7 +80,7 @@ Defined as by * link:../../people/seligman-martin.html[Seligman] et al:
 . **Dysfunctional behavior**
 ** Negatively affecting daily functioning and well-being. Function at work and in having satisfying relations.
 ** E.g.: When fears prevent from leaving the house, or alcoholism creates problems in the family.
-. **Irrational / Uncromprehensible behavior**
+. **Irrational / Incomprehensible behavior**
 ** Illogical things like from boulima nervosa patients, which vomit after eating; or people with psychosis.
 . **Unpredictability / Loss of control**
 ** We have the need for controlling our own lives and environment. For that, others need to behave consistently.
