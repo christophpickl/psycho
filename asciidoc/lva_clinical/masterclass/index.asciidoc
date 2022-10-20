@@ -43,11 +43,6 @@ A theory is created, whenever we succeeded in putting together concepts in a con
 
 As a clinical psychologist it is of utmost importance to have good knowledge about clinical theories (such as: neurobiological, learn, cognitive, psychodynamic, humanistic, systemic). They can be used to figure out causes/consequences and tailorize treatments.
 
-=== Interview
-
-.Interview with Dr. Jannes Eshuis
-image::day1-interview.jpg[Jannes Eshuis,200,100]
-
 === Task 2
 
 **Case study**: Ms. Smit, 66 years, who's husband died 4 years ago. She still misses him daily. Stopped working 2 years ago. She is sad and lost her motivation. Sleeps bad. Can't focus, even TV and newspapers won't work. Stopped painting. Eats only fast food, although used to cook for friends and family. She thinks people don't like her paintings, her food, her company; although trying to be social. She thinks others can't put themselves into her position, thus she retreats into her house. Little contact with her kids. Hasn't asked for help yet. She doesn't mind dying, as life has no meaning to her anymore.
@@ -65,12 +60,153 @@ image::day1-interview.jpg[Jannes Eshuis,200,100]
 
 === Task 3
 
-**Case study**: Ravi...
+**Case study**: Ravi was born in India, his single mom gave him free for adaption. He got adopted by Dutch parents, which themselves got children themselves, which lead to him receiving less attention. He is calm, adapted, sub-assertive. He gets mobbed in school, which he suffers from but his parents think he will get stronger from it. By age 18 he is in a psychiatric department, as he can't focus and learn anymore for his exams, and has the idea that his thoughts "run in chaos", without him being able to stop them. He thinks he is getting crazy, hearing an angry voice, telling him statements of non-self-worth and he should end his life, and also that he was the wrong child for his adoptive parents.
+
+**Task**: How can the complaints and symptoms from Ravi explained with the help of neurobiological and systemic approach respectively?
+
+. Neurobiological
+** Psychopathology is the result of interaction between predisposition (inborn vulnerability) and a stress-increasing environment (personal circumstances). Schizophreny means having a high amount of receptors, meaning the neuron can easily be stimulated to fire.
+** It is possible that Rafi has an increased inherited risk for neurological over-sensitivity. The stress evoced by the upcoming exam might have resulted in such an over-excitement, leading to lack of concentration and hearing voices.
+. Systemic
+** The systemic approach is an umbrella term for interpersonal processes, such as for the communication theory. Dysfunctional/sickening communication patterns within the family lead to psychopathology. Yet another approach is the structural approach, which sees the family as an ever-changing social system, which has to adapt to internal as well as external (social) changes.
+** Rafi's position is rather weak in his family due to his adoption. The combination of new (own) children and his personality of being more adaptive and sub-assertive might have lead to dysfunctional communication patterns; confirmed by the reaction of him being mobbed by his parents. Thus, it is difficult for Rafi to develop healthy in this family.
+
+=== Interview
+
+.Interview with Dr. Jannes Eshuis
+image::day1-interview.jpg[Jannes Eshuis,200,100]
+
+* Theoretical psychologist:
+** Research history in special areas within psychology.
+** Research scientific theories behind them. How did they get there? What does it mean to be a scientist?
+** A bit of a meta-science; philosophy of science. Research logical thought process.
+* What is the use of so many theories around psychopathology?
+** What is a theory?
+*** Science is human work. A scientist is just a human (just more systematically).
+*** He does what all humans do: Trying to understand the world around him.
+*** Our experience (such as perception from senses) is not correlating with the complete reality.
+**** E.g. vision is limited to a certain range of light (there is something beyond); same for hearing, only certain frequencies.
+*** Additionally, biases are at work, most prominent the link:../../phenomena/confirmation_bias.html[confirmation bias] and link:../../phenomena/attribution_bias.html[attribution bias].
+** What is a use of a theory?
+*** Represents a conviction of the "world out there", which we cannot know directly.
+*** Convictions guide our thoughts and behavior. Expectations over the world.
+*** Theory cannot be avoided, it always happens (like an implicit model we create over reality).
+*** For scientist this happens explicit, so critical/empirical research is possible. Systematic discussions, consent.
+** Clinical psychology?
+*** In psychology, they have time to reason about a single problem; in health-care they need to act with a patient immediately for an ever-changing situation.
+*** Also, the patient has his own theories/models about the world. In CBT patient and therapist work together, figuring out wrong cognitions.
+** Why are there so many theories?
+*** "There are as many theories as are there people."
+*** In science, we try to find consent, to pick only the relevant/effective/reliable ones.
+*** E.g. Freud's classical psychoanalysis (and the branches like from Jung): Nice metaphors in there, but what is the use in explaining reality? Not like analogies, which are more useful. The therapist is always right; No falsification, either patient agrees or it's a defense mechanism. Only explanation backwards, but no future prognosis.
+*** Psychoanalysis was the early beginning of clincial psychology. Defense mechanisms, ego- and drift-psychology (back then lot sexually centered). Focus on past; upbringing & childhood; e.g. attachment theory (insecure if parents are not available).
+*** Not a single approach can explain everything. Everyone has its limitations.
+**** E.g.: Biological approach can potentially be effective by prescribing drugs. Psychopharmaca to be able to solve underlying issue with psychotherapy can be considered to be good; giving those drugs for rest of the life (as a solution for e.g. depressions) is rather bad.
+**** They are not necessarily competeting/exclusive, but rather complementary to each other. Each can be used for different purposes and can be integrated with each other.
+**** Learntheoretical (behaviorism) and cognitive have a more deterministic view on human existence.
+*** It is useful to have different approaches, each with their own strength and usable for different circumstances/purposes, and can indeed be used in parallel.
+*** It is maybe even expected to have more than one theoretical approach ready as a clinical psychologist ("not everything can, and should, be solved via, for example, a humanistic approach; although very useful").
+**** Ad humanism: Carl Roger's attitude is great: Empathetical, judgementfree, supportive. But: Not all problems can be solved with this!
+*** Question is: Which tool is suitable for which problem?!
+* What about psychologist's own created approach?
+** Science has to stay moving / ever-changing.
+*** E.g. acupuncture. Argument is that it is an authority because it is 2500 years old. From scientific perspective this is actually a counterargument, as it was not changed since then. Not critically investigated whether something needs to be changed/improved.
+** Thus, actually a good thing. It just has to be properly established. Not just follow own idea, but put it into the public scientific community, so it can be discussed.
+** Especially for students it is good to come up with own ideas.
+* What is his favorite approach?
+** There is not a single, right perspective!
+** Other than that, CBT has the highest evidence given so far. Maybe in combination with neurobiological approach.
 
 === Task 4
 
+**Task 4a**: Why are there so many theories about psychopathology? And what is the difference between "the man on the street" and scientists/healthcare-professionals?
+
+Because every theory has its focus: It's like having different tools for different problems. And a scientist is someone who has a more systematic approach, using well proven procedures and empirical research, challenges one's own "babies" critically (to counteract confirmation bias; also see attribution bias), and allows his theories to be challenged in public, instead using a "filtered version of reality" like ordinary people. Healthcare-professionals are always faced with a slightly different problem for each patient, contrary to the scientist which is focused on a single (theoretical) problem.
+
+**Task 4b**: Which theory is best, and what is it dependent on?
+
+Non is the best, there are only different perspectives with different applications. Nevertheless, CBT and the neurobiological approach have proven to be most effective so far.
+
+**Task 4c**: What is the advantage of those theories for someone with a mental disorder, for healthcare professionals (HCP) respectively?
+
+There is no real use for the patient, but for HCPs: It leads to the most appropriate treatment. Often a learn-theoretical/cognitive approach in combination with a neurobiological (psychopharmaca) can be useful.
+
+**Task 4d**: What is the usefulness of psychoanalysis?
+
+There is quite some criticism towards Freud's original psychoanalysis, as it contains many metaphors and mythological terminology, thus it loses capability for explanations. Also the "therapist always right" attitude is questionable (admit or defense mechanism). Whereas in the meantime it has been considerable evolved. Suppressed drives are not that important anymore, but the childhood still is. For example within the attachment theory, which states our early relations will determine our later relationships we have.
+
+**Task 4e**: How about that HCPs have their own theoretical framework?
+
+Generally it's not bad, but it has to be challenged critically and verified (according to the scientific process), because if not, it has potential dangers with it. So for example acupuncture which has not changed for 2500 years, thus has not adopted to later insights/improvements.
 
 == Day 2 - Diagnosis, Classificaiton
+
+About: Diagnostic tools to determine the severity of the psychological complaint, and the classification of several disorders.
+
+=== Task 1
+
+*Question*: Many people think that Bill Gates has developed the corona virus to make money from the vaccine, others think the vaccination manipulates our DNA or contain microchips so the government can control us. According to the definition of "abnormal behavior", do those people have a psychological disorder or just an opinion which deviates from the consent?
+
+*Answer*: The 7 criteria for abnormal beahvior are the following:
+
+. Personal suffering: Just having another opinion doesn't necessarily mean that there is a directly associated suffering, whereas indirectly it could lead to disadvantages in daily life, once one is not aligned with the opinion with the majority. The conflicts which arise, by for example not wearing a facemask whereas it is considered to be mandatory, or the limitations in life in general because of not being vaccinated.
+. Dysfunctional behavior: It seems not obvious to me why the behavior should not lead to functional outcome. Yet, for example at work it could be possible that there are certain limitations once one's convictions lead to disobedience (not getting vaccinated).
+. Irrational / Incomprehensible behavior: The beliefs those people have lack any rational, logical reasoning, thus also their behavior could be considered irrational. Yet, by looking deeper, there is a certain (although maybe flawed) logic underneath, which in this case is coping with uncertainty and fear, by having "some kind" of explanation gives comfort, rather living in this complex, uncertain, ambigious world with a virus we don't know much about.
+. Unpredictability / Loss of control: Definitely not the case, as their behavior does show an effect (not getting vaccinated), as well is the cause of their behavior explainable, yet different from what the consent is.
+. Unconventional/notable behavior: Yes, as this kind of non-conforming and socially undesirable behavior (not getting vaccinated increases the risks of other people's death) is usually considered pathological.
+. Discomfort evoking behavior: Yes, as usually those convictions lead to behavior such as already mentioned by not wearing a facemask, which leads to other people feeling discomfort. Also having not vaccinated people around means an increased risk of getting infected. Those things are though more explicit, than implicit.
+. Violating moral norms: As social creatures, we are obliged to take care of each other, live up to a responsibility to obey for the greater good, and considering that a vaccination helps to prevent a pandemic and the deaths of millions, it is very much considered a violation of moral norms (the moral value of protecting each other from harm) to believe in explanations which bare any foundation.
+
+My personal judgement is, that it is not sufficiently "abnormal" enough in order to be justified as a psychological disorder. Some of those people might be stronger already into a psychosis (people which already before had a predisposition towards psychosis, as many conspiracy theorists are), some of them can be considered totally reasonable people, being able to be talked to reason, and functioning perfectly fine in society otherwise.
+
+=== Diagnostic
+
+* Research the psychological functioning of a patient is one of the most important tasks of a psychologist.
+* This is part of mental healthcare, somatic care, and also forensic. Takes place at beginning of a healthcare process.
+* Researched will be: Type, severity and cause. As well as the optimal treatment.
+** Basically asking "What is going on?", what are the complaints/symptoms and problems. And "How can it go away?" by choosing the most appropriate treatment.
+* Several methods are being used in combination: Usually talking/interview and observation, as well as questionaires.
+* Most of the tests are *intelligence tests*.
+** The reveal things like: Being able to understand a situation, learning from experiences, capacity to adapt to  circumstances.
+** Lower intelligence might be able to explain why CBT for example doesn't work.
+** For other tests like personality tests via questionnaires, a certain minimum IQ is necessary.
+** To get a social work facility, an IQ score is required.
+* *Personality tests* are also very commonly used.
+** They show how personal characteristics contribute to the development/continuuation of a psychological/personality disorder.
+** They also help to find the most appropriate treatment.
+* *Neurological tests* show presence/absence of neurological disorders.
+** They contain niveau- and screening-tests. Measuring cognitive and emotional functioning.
+* *Psychopathology questionaries* give an overal image over the psychological functioning (over type and severity of complaints).
+** Once the "rough direction" is clear, more specific questionnaires can be used; e.g. for depression or anxiety.
+
+Most used tests:
+
+. *Big Five*:
+** Most used and best validated personality test (statistical method of factor analysis).
+** The areas are (OCEAN):
+... Openness to experience: Intellect, imagination (instead traditioanl, conventional).
+... Conscientiousness: Careful, diligent (instead impulsive, disorganized).
+... Extroversion: Outgoing and social (instead being a "shut in" introvert).
+... Agreeableness: Friendly, optimistic (isntead critical, aggressive).
+... Neuroticism: Emotional stability.
+** Online tests:
+*** link:https://www.123test.nl/persoonlijkheidstest/[https://www.123test.nl/persoonlijkheidstest/] (Dutch)
+*** link:https://openpsychometrics.org/tests/IPIP-BFFM/[https://openpsychometrics.org/tests/IPIP-BFFM/] (English)
+. *BDI*: (Beck Depression Inventory)
+** Usually used after a preliminary test indicated depression first.
+** See: link:https://deprese.euzona.cz/en-index.php[https://deprese.euzona.cz/en-index.php]
+
+=== Task 2
+
+*Question*: What do you think about the result you got from the two tests?  Does it correlate to the image you have from yourself or not and why?
+
+*Answer*: Pretty much yes. Big Five was not a surprise. With the BDI I had slight problems with the imprecise questions and answer possibilities.
+
+=== Projective Tests
+=== Task 3
+=== Task 4
+
+=== Classification
 
 
 == Day 3 - Critical Look

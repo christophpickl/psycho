@@ -1,0 +1,12 @@
+= Attribution(al) bias
+
+A cognitive bias which states when we succeed it is because of us/internally, when we fail we search for blame externally. Otherway when others succeed it must be external, and when they fail it must have to do with them/internally.
+
+== Types
+
+Not sure about this???
+
+* Fundamental Attribution Error (a.k.a. "Person Bias")
+* Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
+* Person Bias; See Fundamental Attribution Error
+* Self-Serving Attributional Bias; like person bias but for oneself
