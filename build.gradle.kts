@@ -11,7 +11,7 @@ repositories {
 
 plugins {
     id("org.asciidoctor.jvm.convert") version "3.1.0"
-    id("com.github.christophpickl.linkchecker") version "1.0"
+//    id("com.github.christophpickl.linkchecker") version "1.0"
 }
 
 buildscript {
