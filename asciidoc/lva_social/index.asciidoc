@@ -1,0 +1,28 @@
+= Social Psychology
+
+== Book
+
+[#id-introduction-book]
+We use the book "Social Psychology" (10th edition) by Elliot Aronson, Timothy Wilson, Robin Akert and Samuel Sommers.
+
+.Course book "Social Psychology"
+[link=https://www.amazon.com/Social-Psychology-10th-Edition/dp/0134641280]
+image::book_socialpsychology.png[Social Psychology Book,200,100]
+
+[arabic]
+. link:ch1-introduction/index.html[Introduction]
+. link:ch2-xxx/index.html[Methodology]
+. link:ch3-xxx/index.html[Social Cognition]
+. link:ch4-xxx/index.html[Social Perception]
+. link:ch5-xxx/index.html[Self-Knowledge]
+. link:ch6-xxx/index.html[Self-Justification/Esteem]
+. link:ch7-xxx/index.html[Attitudes]
+. link:ch8-xxx/index.html[Conformity]
+. link:ch8-xxx/index.html[Group Process]
+. link:ch10-xxx/index.html[Interpersonal Attraction]
+. link:ch11-xxx/index.html[Prosocial Behavior]
+. link:ch12-xxx/index.html[Aggression]
+. link:ch13-xxx/index.html[Prejudice]
+. link:chA1-xxx/index.html[Action: Happyness]
+. link:chA2-xxx/index.html[Action: Healthy]
+. link:chA3-xxx/index.html[Action: Law]
