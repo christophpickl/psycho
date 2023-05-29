@@ -1,0 +1,9 @@
+= Choice-supportive Bias
+
+* Once a choice was made, we defend it, just because of the choice made before (and thus must be right).
+* Mine is the best, apple product, dog, political candidates...
+* Similar to link:confirmation_bias.html[confirmation bias]: Exaggerating its pros, downplaying/neglecting its cons.
+
+== Resources
+
+* link:https://en.wikipedia.org/wiki/Choice-supportive_bias[Wikipedia]

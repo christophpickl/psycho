@@ -58,7 +58,7 @@ tasks.build {
 }
 
 tasks.register<GradleBuild>("deploy") {
-    tasks = listOf("copyLocalDocs", "copyLocalSite")
+    tasks = listOf("copyLocalDocs") //, "copyLocalSite")
 }
 
 tasks.register<Copy>("copyLocalDocs") {
@@ -69,14 +69,14 @@ tasks.register<Copy>("copyLocalDocs") {
     into(Locations.githubTargetDirectory)
 }
 
-tasks.register<Copy>("copyLocalSite") {
-    doFirst {
-        println("Local deploy to: ${Constants.localWebRoot}")
-    }
-    from(Locations.htmlBuildOutput)
-    //include("**/*.jpg")
-    into(Constants.localWebRoot)
-}
+//tasks.register<Copy>("copyLocalSite") {
+//    doFirst {
+//        println("Local deploy to: ${Constants.localWebRoot}")
+//    }
+//    from(Locations.htmlBuildOutput)
+//    //include("**/*.jpg")
+//    into(Constants.localWebRoot)
+//}
 
 
 // ./gradlew -q linkChecker

@@ -1,0 +1,10 @@
+= Outcome Bias
+
+* Judge decision's efficacy based on how things turn out (result, outcome) even if it was based on pure luck (doing things out of intuition/gut feeling)
+** Or in other words: Decide whether an action is right/wrong based on the outcome. ("Consequentialism" and link:hindsight_bias.html[Hindsight Bias])
+* Rarely examine conditions during time of the decision, after it was made.
+
+
+== Resources
+
+* link:https://en.wikipedia.org/wiki/Outcome_bias[Wikipedia]

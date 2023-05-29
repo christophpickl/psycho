@@ -1,0 +1,42 @@
+= Anchoring Bias
+
+A cognitive bias (also called "focalism"), where judgement/decisions is based on the initial available information you got, used as a reference point (=anchor) for further data.
+
+Characteristics:
+
+* *Difficulty of avoiding*: Even when we know (and explicitly made aware!) it's wrong (and/or offered monetary incentives!), it impacts us.
+** E.g. Did Gandhi die before/after age 9 VS 140? Clearly wrong, still average guess then will be 50 VS 67.
+* *Durability*: It just won't leave our head. Anchoring effect may precede link:priming[Priming]
+* *In groups*: Groups are worse than individuals, as pre-existing biases are amplified in decision-making process. Yet, some groups perform better than individual members.
+
+Multiple theories exist about the *causes* of anchoring, no consensus yet as to which is best, like: Anchoring-and-adjusting, selective accessibility, attitude change and extremeness aversion.
+
+Influencing factors are: mood, personal experience, personality, cognitive ability and overconfidence.
+
+It involves other biases like: Common source bias, conservatism bias, functional fixedness and law of the instrument.
+
+== Example 1
+
+* You come to me, and want to buy a car
+* You ask me, how much, and I reply 30k
+* Next week you come again, and I tell you 20k
+* This time it seems like a very cheap price to you, right?!
+
+Now imagine the first time I would have said 10k instead of 30k...
+
+== Example 2
+
+* I want you to guess whether the average size of trees is more or less than 5 meters.
+* Additionally I ask you to estimate the average size.
+* Now clearly, you will pick a number roughly around the given 5 meters, won't you?!
+
+== Example 3
+
+* link:../people/kahnemann_daniel.html[Daniel Kahneman] and Amos Tversky researched this phenomena with several studies.
+* Participants were asked to calculate the result of one of two within 5 seconds: 1 x 2 x 3 x 4 x 5 x 6 x 7 x 8 or 8 x 7 x 6 x 5 x 4 x 3 x 2 x 1
+* Because of the limited time, they had to guess.
+* For the first instruction the median of the guesses was 512, and for the second 2,250 (the correct answer is 40,320).
+
+== Resources
+
+* link:https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)[Wikipedia]

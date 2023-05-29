@@ -9,22 +9,25 @@
 
 -- Laozi
 
-== Biases, Fallacies, Effects
+== Biases, Fallacies, Effects, Heuristics
 
 Some human flaws and unique traits, thanks to social psychology, well known due to pop-psychology, a list of (more or less) funny effects, illusions & co. Useful to know for everyone to try to see a bit more clearly:
 
-* link:attentional_bias[Attentional Bias]
+* link:attentional_bias.html[Attentional Bias]
 * Attractiveness Bias
+* link:anchoring_bias.html[Anchoring Bias]
 * link:availability_bias.html[Availability Bias]
+* link:bandwagon.html[Bandwagon Effect]
 * Baby-face Bias
 * Baseline -- very difficult for humans; Kahnemann
 * Bystander Effect
 * link:change_blindness.html[Change Blindness] -- A perceptual illusion where visual changes pass unnoticed to the observer.
+* link:choice_supportive_bias.html[Choice-supportive Bias]
 * Cocktail Party effect
 * Cognitive Dissonance
 * link:confirmation_bias.html[Confirmation Bias]
 * link:dunning_kruger_effect.html[Dunning Kruger Effect] -- The tendency of beginners to overestimate their level of skill.
-* Hindsight bias: "i knew it all along"
+* link:hindsight_bias.html[Hindsight Bias]: "I knew it all along"
 * Framing; loss aversion
 * Fundamental Attribution Error (a.k.a. "Person Bias")
 * link:hawthorne_effect.html[Hawthorne Effect]
@@ -38,11 +41,13 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
 * Moralistic Fallacy
 * Naturalistic Fallacy
+* link:ostrich_bias.html[Ostrich Bias]
+* link:outcome_bias.html[Outcome Bias
 * link:own_race_bias.html[Own-race bias]
 * Person Bias; See Fundamental Attribution Error
 * Planning fallacy (by Roger Buehler)
 * link:predictable_world_bias.html[Predictable World Bias]
-* Priming
+* link:priming.html[Priming]
 * Proportional Bias -- Base for conspiracy theories
 * Pygmalion Effect; see "Self-fulfilling prophecies"
 * Scientific Bias
@@ -55,8 +60,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * Sunk Cost Fallacy
 * link:transparency_illusion.html[Transparency Illusion]
 
-// https://www.youtube.com/watch?v=wEwGBIr_RIw
-// anchoring, availability, bandwagon, choice supportive, ostrich, outcome, overconfidence, palcebo effect, survivorshop, selective, blindspot
+// TODO: https://www.youtube.com/watch?v=wEwGBIr_RIw overconfidence, palcebo effect, survivorshop, selective, blindspot
 
 // https://science.howstuffworks.com/life/inside-the-mind/human-brain/10-types-study-bias.htm
 
@@ -128,6 +132,8 @@ Famous studies and experiments everyone should know of.
 * https://yourbias.is/
 * https://effectiviology.com/
 * https://en.wikipedia.org/wiki/List_of_cognitive_biases
+
+// https://www.scribbr.com/research-bias/
 
 German books:
 

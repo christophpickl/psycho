@@ -1,0 +1,13 @@
+= Priming
+
+* Being subconsciously influenced by external "priming stimulus" on a "target stimulus".
+* Works best of both stimuli are in the same modality (visual priming with visual cues).
+* Duration is not certain, yet it also works instantaneously.
+
+Types: positive/negative, perceptual/conceptual, repetition, semantic, associative, response, masked, kindness, affective, cultural and anti-priming.
+
+PS: There is a nice movie called link:https://www.youtube.com/watch?v=MxCRgtdAuBo[Focus] starring Will Smith, about the guy who got primed to say a particular number so they could make a fortune.
+
+== Resources
+
+* link:https://en.wikipedia.org/wiki/Priming_(psychology)[Wikipedia]

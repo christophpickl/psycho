@@ -1,8 +1,12 @@
 = Availability Bias
 
-* Over-emphasizing
-* Easily to mind
+* Also "availability heuristic" is a mental shortcut, an over-emphasizing of available information
+* Something that comes more easily to mind (more recently acquired) most be more right.
+** E.g. terrorism is the biggest threats (and so are sharks) as that's what we are mostly exposed to in news; an inflated danger. Yet, TVs cause 55 times more deaths (they fall on people hey!). More likely to killed by a cow or a coconut than by terrorism. 130 times more likely to be killed by the police.
+* Decisions not based on facts/statistics but by news ("when it bleeds, it leeds") and stories.
+
 
 Further Reading::
 
 * link:../lva_introduction/ch10-intelligence/index.html[Introduction Psychology, Chapter 10, Intelligence]
+* link:https://en.wikipedia.org/wiki/Availability_heuristic[Wikipedia]
