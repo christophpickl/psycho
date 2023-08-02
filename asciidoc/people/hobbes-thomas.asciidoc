@@ -12,9 +12,9 @@ image::hobbes-thomas.png[Thomas Hobbes,200,100]
 
 == Achievements
 
-* Main part in link:/introduction/ch1-background/index.html#sec-empiricism[British empiricism]
-* Came up with the philosophical theory of link:/introduction/ch1-background/index.html#sec-materialism[materialism]
-** An extension to link:/people/descartes-rene.html[Descartes]' dualism
+* Main part in link:../lva_introduction/ch1-background/index.html#sec-empiricism[British empiricism]
+* Came up with the philosophical theory of link:../lva_introduction/ch1-background/index.html#sec-materialism[materialism]
+** An extension to link:descartes-rene.html[Descartes]' dualism
 
 == Links
 

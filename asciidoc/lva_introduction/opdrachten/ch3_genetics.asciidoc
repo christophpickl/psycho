@@ -3,7 +3,7 @@
 == Opdracht 3.1
 
 .How genes affect behavior: Genes build proteins which change physiological systems (brain) which produce behavior, always with some environment.
-image::/introduction/ch3-genetics/images/gene_effect.jpg[Gene effect,400,100]
+image::../ch3-genetics/images/gene_effect.jpg[Gene effect,400,100]
 
 . Wat bedoelen de auteurs met "genen produceren nooit gedrag, je hoogstens genen geassocieeren met gedrag", en hoe weerlegt hun standpunt de boodschap van het link:http://www.nu.nl/wetenschap/3600806/gen-zwartgalligheid-gevonden.html[artikel op NU.nl]?
 ** [hiddenAnswer]#Genen kunnen ons nooit daadwerkelijk aanzetten tot een specifieke manier van gedragen. Zij hebben enkel indirect invloed op ons gedrag doordat zij de groei en huishouding van onze fysiologische structuur beïnvloeden. Dit wordt mooi geillustreerd in de bijgevoegde figuur. Genen staan hier namelijk nergens direct in verband met gedrag. Zij bevinden zich uitsluitend in de interne fysiologische omgeving van het lichaam, waarin chemische processen hun werk doen. In die context dragen zij bij aan de productie van proteïnen die op hun beurt de bouwstenen van ons lichaam zijn. +

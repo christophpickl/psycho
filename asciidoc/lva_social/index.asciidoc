@@ -11,21 +11,21 @@ image::book_social_psychology.jpg[Social Psychology Book,200,100]
 
 [arabic]
 . link:ch1-introduction/index.html[Introduction] (link:ch1-introduction/index_old.html[old version])
-. link:ch2-xxx/index.html[Methodology] -- How Social Psychologists Do Research
-. link:ch3-xxx/index.html[Social Cognition] -- How We Think About the Social World
-. link:ch4-xxx/index.html[Social Perception] -- How We Come to Understand Other People
-. link:ch5-xxx/index.html[Self-Knowledge] -- Understanding Ourselves in a Social Context
-. link:ch6-xxx/index.html[Self-Justification] -- Cognitive Dissonance and the Need to Protect Our Self-Esteem
-. link:ch7-xxx/index.html[Attitudes] -- Influencing Thoughts and Feelings
-. link:ch8-xxx/index.html[Conformity and Obedience] -- Influencing Behavior
-. link:ch8-xxx/index.html[Group Process] -- Influence in Social Groups
-. link:ch10-xxx/index.html[Interpersonal Attraction] -- From Initial Impressions to Long-Term Intimacy
-. link:ch11-xxx/index.html[Prosocial Behavior] -- Why Do People Help?
-. link:ch12-xxx/index.html[Aggression] -- Why Do We Hurt Other People? Can We Prevent It?
-. link:ch13-xxx/index.html[Prejudice] -- Causes, Consequences, and Cures
-. link:chA1-xxx/index.html[Action: Happiness] -- Using Social Psychology to Achieve a Sustainable and Happy Future
-. link:chA2-xxx/index.html[Action: Healthy] -- Social Psychology and Health
-. link:chA3-xxx/index.html[Action: Law] -- Social Psychology and the Law
+// . link:ch2-xxx/index.html[Methodology] -- How Social Psychologists Do Research
+// . link:ch3-xxx/index.html[Social Cognition] -- How We Think About the Social World
+// . link:ch4-xxx/index.html[Social Perception] -- How We Come to Understand Other People
+// . link:ch5-xxx/index.html[Self-Knowledge] -- Understanding Ourselves in a Social Context
+// . link:ch6-xxx/index.html[Self-Justification] -- Cognitive Dissonance and the Need to Protect Our Self-Esteem
+// . link:ch7-xxx/index.html[Attitudes] -- Influencing Thoughts and Feelings
+// . link:ch8-xxx/index.html[Conformity and Obedience] -- Influencing Behavior
+// . link:ch8-xxx/index.html[Group Process] -- Influence in Social Groups
+// . link:ch10-xxx/index.html[Interpersonal Attraction] -- From Initial Impressions to Long-Term Intimacy
+// . link:ch11-xxx/index.html[Prosocial Behavior] -- Why Do People Help?
+// . link:ch12-xxx/index.html[Aggression] -- Why Do We Hurt Other People? Can We Prevent It?
+// . link:ch13-xxx/index.html[Prejudice] -- Causes, Consequences, and Cures
+// . link:chA1-xxx/index.html[Action: Happiness] -- Using Social Psychology to Achieve a Sustainable and Happy Future
+// . link:chA2-xxx/index.html[Action: Healthy] -- Social Psychology and Health
+// . link:chA3-xxx/index.html[Action: Law] -- Social Psychology and the Law
 
 == Other Resources
 

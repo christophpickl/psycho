@@ -157,7 +157,7 @@ In psychology, we usually categorize research strategies in three dimensions:
 . *Correlational Study*
 ** Only observe/measure relations of data, no manipulation.
 ** Limitation: No causation! => "_Correlation does not imply causality!_"
-** See: link:/introduction/ch12-social_development/index.html#sec-baumrind_study[Baumrind's study] of parents' disciplinary styles and children's behavioral development.
+** See: link:../ch12-social_development/index.html#sec-baumrind_study[Baumrind's study] of parents' disciplinary styles and children's behavioral development.
 
 .Correlational studies have found relationship between violent TV and aggressive behavior, but which direction does it actually go?
 image::images/correlational_study.jpg[Correlation between violent TV and aggressive behavior,400,100]

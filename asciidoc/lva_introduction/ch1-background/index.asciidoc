@@ -19,7 +19,7 @@ image::images/mindmap.png[Mind Map,100%,100]
 - *Level of Analysis*: The way/perspective one can take to reason/understand a certain (psychological) phenomena
 - *Materialism*: Matter is the fundamental substance in nature (link:../../people/hobbes-thomas.html[Hobbes])
 ** All just brain/reflexes; Extreme: *Reflexology*; (link:../../people/pavlov-ivan.html[Pavlov])
-** Localization of function in the brain; link:/people/broca-paul.html[Broca]('s area); Extreme: *Phrenology*
+** Localization of function in the brain; link:../../people/broca-paul.html[Broca]('s area); Extreme: *Phrenology*
 - *Natural Selection*: Beneficial traits stay, others die; evolve gradually; survive and reproduce; common misconceptions
 - *Nativism*: counterpart empiricism; nurture VS nature; a priori knowledge
 - *Phrenology*: A link:../../meta/science.html[pseudoscience] claiming infer personality by feeling bumps on the skull.

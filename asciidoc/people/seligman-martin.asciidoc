@@ -26,8 +26,6 @@ image::seligman-martin.jpg[Seligman,200,100]
 
 * https://en.wikipedia.org/wiki/Martin_Seligman
 
-https://www.youtube.com/watch?v=
-
 .YouTube Video: "PERMA" - 25mins; 2012
 [link=https://www.youtube.com/watch?v=iK6K_N2qe9Y]
 image::https://img.youtube.com/vi/iK6K_N2qe9Y/0.jpg[PERMA,300]

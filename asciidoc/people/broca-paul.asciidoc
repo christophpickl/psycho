@@ -12,7 +12,7 @@ image::broca-paul.png[Paul Broca,200,100]
 
 == Achievements
 
-* Contributed coming up with the concept of link:/introduction/ch1-background/index.html#sec-brain_function_localization[localization of function in the brain]
+* Contributed coming up with the concept of link:/lva_introduction/ch1-background/index.html#sec-brain_function_localization[localization of function in the brain]
 * Region of the (usually left) frontal lobe is called after him, the Broca's area, which is responsible for speech production.
 ** Published evidence that injury to specific brain areas in the left hemisphere will lead to loss of ability to speak (_Broca's/expressive aphasia_), but not to other mental abilities.
 

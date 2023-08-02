@@ -50,12 +50,6 @@ image::images/growth_curves.png[growth curves,400,100]
 .Girls begin growth in puberty slightly before boys, leaving both of them substantially different in appearance.
 image::images/puberty_growth.png[puberty growth,400,100]
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Learn about Environment
 
 * Exploring
@@ -68,18 +62,6 @@ image::images/xxx[xxx,400,100]
 ** Identify impossibilities (tablet through object; object falls down)
 ** Object permanence
 ** Search problem (self-produced locomotion)
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 === Theories
 
@@ -102,18 +84,6 @@ image::images/xxx[xxx,400,100]
 ** Episodic memory
 ** Executive functions improve until 15 years
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Mind Understanding
 
 * Mental constructs
@@ -129,18 +99,6 @@ image::images/xxx[xxx,400,100]
 * Not playing (make-believe, false-belief)
 ** Thinking literally, not hypothethically
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Language
 
 * Universals
@@ -153,18 +111,6 @@ image::images/xxx[xxx,400,100]
 ** Tendency for over-generalization; e.g. "goed"
 ** Coo/babble to prepare vocal appartus
 ** First words by 12 months (overextend words, e.g. "daddy" to all men)
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 === Language Acquisition
 
@@ -182,18 +128,6 @@ image::images/xxx[xxx,400,100]
 ** Smaller vocabulary each
 ** Greater executive functions
 ** Simultan/sequential learning
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 == Additional Resources
 

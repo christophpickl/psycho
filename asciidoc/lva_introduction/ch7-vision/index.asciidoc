@@ -300,7 +300,7 @@ image::images/moon_illusion.jpg[Moon illusion,400,100]
 
 * Integration
 ** Visual + auditiv mostly
-** link:/phenomena/mcgurk_effect.html[McGurk Effect]
+** link:../../phenomena/mcgurk_effect.html[McGurk Effect]
 *** Visual dominance effect
 *** When in conflict: See lips, hear other
 ** Bouba-Kiki

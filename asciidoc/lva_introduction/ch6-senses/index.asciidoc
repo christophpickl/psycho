@@ -250,7 +250,7 @@ image::images/cochlear_implant.jpg[Cochlear implant,400,100]
 .The cochlea uncoiled, the basilar membrane in the middle as a line. Lower frequency sounds travel until the end, from left to far right; higher frequencies stay left; complex sounds peak on several locations.
 image::images/basilar_membrane_waves.jpg[Basilar Membrane waves,400,100]
 
-.Locating sound works due to the ears receiving signals at different times (just as with link:/introduction/ch7-vision/index.html[vision]'s "binocular disparity").
+.Locating sound works due to the ears receiving signals at different times (just as with link:../ch7-vision/index.html[vision]'s "binocular disparity").
 image::images/locating_sound.jpg[Locating sound,400,100]
 
 === Transduction inner ear

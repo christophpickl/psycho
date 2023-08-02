@@ -15,7 +15,7 @@ Physiological needs (food, water, warmth, rest), safety needs (security, safety)
 
 link:../people/eyseneck-hans.html[Hans Eysenck] used Jung's dichotomy of introversion and extroversion, and came up with the dimensional traits of extroversion and neuroticism. He also connected body and mind more, using the example of the limbic system and the need to stimulate more (extrovert) or less (introvert), pushing personality theory into a more sophisticated area, using objective evidence rather solely philosophical musings.
 
-link:../people/goldberg-html.html[Lewis Goldberg] might be the most prominent researcher in personality psychology. He improved upon link:../people/cattell-raymond.html[Raymond Cattell]'s 16 fundamental factors and used **factor analysis** to come up with 5 factors. The most outstanding aspects (next to its incredible high validity and reliability) of this theory are:
+link:../people/goldberg-lewis.html[Lewis Goldberg] might be the most prominent researcher in personality psychology. He improved upon link:../people/cattell-raymond.html[Raymond Cattell]'s 16 fundamental factors and used **factor analysis** to come up with 5 factors. The most outstanding aspects (next to its incredible high validity and reliability) of this theory are:
 
 * Conceptualizing traits on a spectrum instead of as dichotomous variables;
 * Contextualizing personality traits (exploring how personality shifts based on environment and time);

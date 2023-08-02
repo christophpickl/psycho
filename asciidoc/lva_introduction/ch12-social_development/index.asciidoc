@@ -15,11 +15,12 @@ Subpages::
 image::images/mindmap.png[Mind Map,100%,100]
 == Keywords
 
-- *Term*: xxx
+- *Term*: TODO
 
 == Keypeople
 
-- link:/people/xxx-yyy.html[XXX YYY]: some description.
+//- link:/people/xxx-yyy.html[XXX YYY]: some description.
+TODO
 
 == Content
 
@@ -35,15 +36,6 @@ image::images/mindmap.png[Mind Map,100%,100]
 * Cross-Cultural
 ** Hunter Gatherer: Constant contact and nursing at will
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Learn from others
 
 * Prosocial behavior
@@ -54,18 +46,6 @@ image::images/xxx[xxx,400,100]
 * Social learning
 ** Imitate, sometimes overimitate (with 3 years)
 ** Skills transmission among each other
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 [#sec-baumrind_study]
 === Parenting Styles
@@ -95,18 +75,6 @@ Or: Baumrind's disciplinary study
 * Promotes skills: For survival, culture-specific ones (by observing adults)
 * Age-mixed: Less competitive, better teach/learn
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Gender
 
 * Many small differences
@@ -118,18 +86,6 @@ image::images/xxx[xxx,400,100]
 ** Boys: Competitive, large, hierarchical
 ** Girls: Cooperative, small, intimate
 ** Muted by age-mix
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 === Adolescence
 
@@ -148,18 +104,6 @@ image::images/xxx[xxx,400,100]
 ** If father present determines sexual strategy
 *** Yes = Restraint; No = Promiscuit
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Adulthood
 
 * Love
@@ -176,19 +120,7 @@ image::images/xxx[xxx,400,100]
 ** Remember the positive better and focus more on present
 ** Death response is a more individual thing
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 == Additional Resources
 
-* xxx
+* TODO
 
