@@ -1,16 +1,115 @@
-= Introducing Social Psychology
+= Introducing to social psychology
+
+Why do we help complete strangers? Do we really feel attracted to opposites or are we fooling ourselves? Why do we love the people despite of them hurting us? Why do we simply watch someone committing suicide without helping? How could hundreds of people commit suicide, even killing their own children out of a believe?
 
 == Defining it
 
-== Conflicting Social Influences
+Social psychology is the scientific study of:
 
-== Social Situations and Shyness
+. *Social thinking*
+.. How we perceive ourselves/others
+.. What we believe
+.. Judgements we make
+.. Our attitudes
+. *Social influence*
+.. Culture
+.. Pressures to conform
+.. Persuasion
+.. Groups of people
+. *Social relations*
+.. Prejudice
+.. Aggression
+.. Attraction and intimacy
+.. Helping
 
-== The Power of the Situation
+.Social Psychology
+****
+Study how other people (real or imagined) influence ones thoughts, feelings, behaviors.
+****
 
-== What's in a Name?
+* The task is to *understand and predict* human behavior.
+* Focus on the *influence* other people have on us.
+* For example direct attempts for *persuasion*, whether advertisers (techniques to make us buy stuff), friends (wanting us to do stuff) or even bullies (use force to get what they want).
 
-== Basic Human Motives - Where Construals Come From
+.Social Influence
+****
+The effect of words/actions/presence of others on our thoughts/feelings/attitudes/behavior.
+****
 
-== Why Study it?
+* Social influence is a major part of social psychology.
+** It discusses topics like: *conformity, attitudes, and group processes*.
+* The mere presence of others, or even *strangers* which whom we are not interacting, has an effect on us.
+* We are governed by the imaginary *dis-/approval* of peers/authorities like parents/friends/teachers.
+** There are resulting conflicts of beliefs and values once put in different environments (family vs school or work).
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Social influences in your daily life*
+
+Imagine a situation with feelings of conflicting interpersonal pressure: A friends to go out watch a movie, but your romantic partner go out for dinner. How do you decide how to act in this situation?
+====
+
+=== Versus philosophy, science and common sense
+
+* *Philosophy* is the origin of contemporary psychology.
+** It gave insights about the nature of *consciousness*, and how people form *beliefs*.
+* Psychology deals with the same questions, but more *scientifically*:
+** Using *empirical* questions: Answers derived from experimentation/measurement rather personal opinion.
+** We could of course also simply *ask people*, but most often they are *unaware* of the underlying reasons behind their responses and feelings. Those justifications might not be the real reason.
+** We can also use *common sense* or folk wisdom, yet, they often *disagree* with one another.
+*** For example "_birds of a feather flock together_" (or "_same stays with same_") and on the other hand folk wisdom states "_opposites attract_".
+*** Another example would be "_out of sight is out of mind_" versus "_absence makes the heart grow fonder_".
+*** There are certain *conditions* where one or the other statement might be true.
+** Social psychologists use scientific methods to test assumptions/guesses/ideas in a empirically/systematically way.
+* Take for example when a suicide bomber attacks, the popular story says that he must be mentally ill, alienated loner, or a psychopath. As a social psychologist, we would try to understand the circumstances of this otherwise healthy, well-educated, bright person who did that for sake of a religious/political goal.
+
+=== How it differs from its cousins
+
+* Cousins like: biology, neuroscience, sociology, economics and political science.
+* All of them examine the determinants of human behavior, but on a different *level of analysis*.
+** E.g. neuroscientists operate on the level of genes and hormones, and biologists explain long necks of giraffes based on evolution theory.
+* Social behavior has also *genetic determinants*, which evolve through *natural selection*, leading to *evolutionary psychology*.
+** Evolution occurs veeery slowly though, thus is our behavior partly result of adaptations to environments in our distant past.
+** There is a lively debate about the *testability* of evolutionary hypotheses, as it relies on best guesses and can't be tested.
+** E.g. Have giraffes long necks because it was an advantage in fights? This is impossible to test directly...
+
+.Evolutionary Psychology
+****
+Explain behavior in terms of genetic factor evolved through natural selection.
+****
+
+* In *personality psychology* we focus more on traits of people, their *individual differences*.
+** For personality and clinical psychologists, the level of analysis is the individual.
+** Its disadvantage is that it ignores the powerful role of social influence.
+** For example, what is a person "really" like?! Arrogant or charming, shy or extroverted? It's the wrong question, as he is both and neither, depending on the situation.
+
+* For social psychologists, the level of analysis is the person's construal of the situation (shaped by social context).
+** For example, why do we hurt others? Look at the how he construes a specific situation: Does he feel frustrated? Was there aggression preceded? What are the conditions he would vent his frustration or restrain himself?
+
+.Construal
+****
+How we perceive/comprehend/interpret (=construct) the social world.
+****
+
+* Other *social sciences* focus more on society, economy, politics and history.
+** Sociology:
+
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Social situations and shyness*
+
+. Think of a friend who is shy. Change your view of "a shy person" to "he is afraid his words might be misunderstood".
+. List situations where he will behave shy.
+. List situations where he will be outgoing; e.g.: a small group of friends, or sharing interests with a stranger.
+. Set up a social environment that will make him comfortable. What is the effect on his behavior?
+====
+
+\... PAGE 30 top ...
+
+== The power of the situation
+
+== Basic human motives
+
+== Why study it?
 

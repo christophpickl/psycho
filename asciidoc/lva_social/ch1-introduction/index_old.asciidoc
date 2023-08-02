@@ -1,0 +1,531 @@
+= Chapter 1 - Introduction to Social Psychology
+
+== Mysteries of Social Life
+
+When *Frank Sinatra* stopped onto the stage, women started to faint, unleashing a mass hysteria. Hundreds other young women joined, 30 were rushed away in ambulances. -- _What mysterious social forces had he unleashed? Why do we do things in groups we would never do alone?_
+
+When Martin *Luther King Jr.* gave his famous speech ("I have a dream") drew over 200,000 Americans to Washington, D.C. Black people linked arms with whites that would change the fabric of American society. -- _What has reversed opinions about acceptable and proper interracial relations? What factors lead to racial prejudice and discrimination / cooperation and tolerance?_
+
+A truly puzzling episode of "intergroup" relations happened when a young boy fell into a *gorilla pit*, knocking himself unconscious on the rocks. The zookeepers tried to keep the gorilla's away, afraid they could attack him. An adult female gorilla (named Binta-Jua) ignored those attempts, and instead attacking, she protected the boy from the other gorilla's until he was rescued. -- _What motivated that gorilla's gesture? Was it observed behavior or "maternal instinct" at work? -- What about prosocial behavior: Are we capable of truly "selfless" actions, or is there always a hidden reward? What about biological influences: Is it only genetically and how does it interact with human culture?_
+
+There were 630 people on the top of Mount Everest, 144 died for their efforts, and only 1 percent had been women. -- _Women are less drawn to dangerous activities than men. Why is that? Has it to do with the way modern society raises women, with hormones or some interaction of the two?_
+
+== What is Social Psychology?
+
+Ordinary people read the newspaper, chat with friends about scandals and public outrages. Social psychologists go a step further and apply systematic methods. It is "*the scientific study of how people's thoughts, feelings, and behaviors are influenced by other people*".
+
+There are two distinct tasks:
+
+1. Description: Careful and reliable description based on observations via valid methods, to avoid carelessness or bias.
+2. Explanation: Connecting thousands of observations, converting unconnected facts into interconnected, coherent and meaningful patterns.
+
+"_Science is built up with facts, as a house is with stones, but a collection of facts is no more a science than a heap of stones is a house._" by philosopher Jules Henri Poincaré.
+
+*Theories*: Explanations that connect and organize existing observations, and suggest fruitful paths for future research.
+
+Darwin's theory not only explains (with the help of modern understanding of genes) long-necked giraffes and short-limbed seals, but also a dog's growl and a human's smile. Science helps us to make predictions about future events. Copernican theory allowed us to predict the next solar eclipse. Social psychological theories provide information about feelings of prejudice, kindness, and love; about why people join rioting mobs or religious cults.
+
+== Theoretical Perspectives
+
+Five major perspectives (=families of theories) have dominated the field:
+
+1. Sociocultural
+2. Evolutionary
+3. Social Learning
+4. Phenomenological
+5. Social Cognitive
+
+=== The Sociocultural Perspective
+
+It is "the theoretical viewpoint that searches for the causes of social behavior in influences from *larger social groups*". Social behavior is not rooted in the individual but in the social group, according to Edward Alsworth Ross in 1908. People get carried away on "social currents". He used the example of the Dutch tulip bulb craze of 1634, where people sold their houses to get a flower root, and instantly they became worthless when the craze stopped. Fainting teenagers or suicidal cultists, not look at the psyche of the individual but on the the "mob mind ... that irrational unanimity of interest, feeling, opinion or deed in a body of communicating individuals, which results from suggestion and imitation".
+
+In the modern sociocultural perspective emphasize is put on larger *social groupings*, like neighborhood gangs, ethnic groups or political parties. A person's prejudices, preferences and political persuasions are based on nationality, social class, and historical trends. Focus is on the *social norms*, rules about appropriate behavior, and at the core is the concept of *culture*: the beliefs, customs, habits, and language shared by people living in a particular time and place.
+
+=== The Evolutionary Perspective
+
+In the same year of 1908, another guy called William McDougall was less interested in the differences but in the similarities of human cultures and also different animal species. His evolutionary perspective, based on link:../people/darwin-charles.html[Charles Darwin's] theory of evolution, viewed human social behavior rooted in physical (walking upright) and psychological (smiling) *dispositions* that helped our ancestors *survive and reproduce*.
+
+The central idea is *natural selection*, the assumption that characteristics which are of advantage for survival and reproduction will be passed on. If those characteristics are well designed for an environment ("*adapted*") they will replace less designed ones. Dolphins are closely related to cows, but their legs have evolved into fins because it's just better for life under water. Just as the body is designed by natural selection, so is the brain, and thus the behavior.
+
+Focus on culture -- Homicide: In the US there is no news without mentioning a homicide. Why is that?! Is it showing something about the human nature? Not so, as for every 100 handgun murders in the US, there are 2 in Australia and 1 in Britain. The ethnic makeup for example of Canadians is closer to the US than to Japan, still Canada's homicide rate is more like that of Japan. The difference is, that the US is the only advanced industrial nation where citizens are free to purchase handguns (7 of 10 homicides were committed with guns). To prohibit mildly dangerous medicines and children's toys but not guns seems irrational, but it is rooted in the nation's birth by violent revolution and a particular brand of capitalism (sociocultural factor). There are though similarities, when looking at sex differences: About 80% of all homicides are done by men, across all nations and centuries that keep statistics. Also, females feel more attracted to males when they demonstrate dominance over other males (evolutionary factor).
+
+=== The Social Learning Perspective
+
+After some decades, the popularity of Ross's group centered, and McDougall's evolutionary perspective declined. Now the social learning perspective became popular: Social behavior driven by an individual's experiences with *reward and punishment*. That learning can be direct (encouragement from parents) or indirect (observing and imitating a successful person). link:../people/bandura-albert.html[Albert Bandura]'s experiments demonstrated observational learning: Children learn to punch a doll, after seeing another person punching it and getting rewarded.
+
+It's similar to the sociocultural perspective, as it also focuses on the causes of social behavior in a person's environment, yet different in their focus over time and place. Social learning theorists emphasize a person's unique experiences in smaller groups like family, school or peer group. Sociocultural theorists look instead at social aggregates, such as Europeans, college students or members of the upper class. They also assume that norms, like clothing styles, can change quickly.
+
+=== The Phenomenological Perspective
+
+The previous three perspectives emphasized the objective environment; real events trigger instincts, suggestions or learned habits. In the 1940s, Kurt Lewin emphasized a person's unique viewpoint, his phenomenology, thus: social behavior is driven by one's *subjective interpretation* of events in the social world. Not saying that there is no objective reality, but the emphasize is on the *interaction* between events and interpretation.
+
+For example, whether you run becoming the leader, depends on 1) whether your subjective guess about your chances justify the effort and 2) whether you actually want it (subjective evaluation of the benefits). Regardless of the objective chances or enjoyments.
+
+This can go that extreme, that 86 members of the David Koresh cult died as they believed it was the end of the world, and they would rather let their children die instead of surrendering to what they believed were agents of the devil.
+
+The interpretation also depends on one's *goals*: If a boy is itching for a fight, an accidently bump can easily be interpreted as a provocation.
+
+The emphasis of subjective interpretation over objective reality is also present in the modern *social constructivist view*: People don't discover reality, they construct it based on prior experiences and predispositions. This perspective is often applied to male-female differences: A "real man" with long hair, wearing a skirt or knitting? A "real woman" with short hair, wearing a sweater or boxing? They all seem too arbitrary, and clearly the answers vary from time and place.
+
+In link:chapter6-influence.html[chapter 6 on social influence], you will see that sometimes only the social reality is what matters. When trying to answer for example what to wear at a wedding. Yet, sometimes the local popular opinion might lead to the objectively wrong answer, as with the cult members or during the holocaust. Where to draw the line between arbitrary social reality and objective physical reality is not only interesting in philosophy, but also raises issues for all of us in daily life.
+
+=== The Social Cognitive Perspective
+
+The social constructivist view claim that people don't discover but rather *construct reality* (or invent). Thus, the social cognitive perspective focuses on the mental processes involved in paying attention to, noticing, interpreting, judging and remembering social experiences. (which social events pay attention to, which interpretations to make of these events, and how to store these experiences in memory)
+
+This was a consequence of the emphasis of the phenomenological perspective on inner experience: The merge of social and cognitive psychology. Especially after the computers led to a "cognitive revolution" in the 1950s.
+
+More about the specific issue of cognition and persuasive communication (think about King's "I have a dream" speech) in link:chapter5-xxx[chapter 5].
+
+=== Combining Perspectives
+
+The 5 perspectives don't necessarily compete, but rather have a *focus on different* parts of the mysteries of social life, *complementing* each other.
+
+Take famous musicians and the reaction of fainting women for example:
+
+* From a social cognitive or phenomenological perspective, the interest is in what is going on inside a woman's head at the time. How some of them focused their attention so hard that they fainted.
+* From a social learning perspective, we ask ourselves how women got rewarded for their physical symptoms; perhaps attention from mothers or peers?
+* From a sociocultural perspective, we might study fads and styles change. First swooning, then screaming to Elvis, then fainting to the Beatles, then slam-dance to punk.
+* From an evolutionary perspective, sexual attractiveness of high status males might get linked to observations from different cultures and animal species.
+
+Because each perspective focuses only on one aspect, we have to *combine and integrate* different approaches to see the full picture. For example, the processes of attention and memory studied by cognitive researchers are shaped by people’s learning histories and cultures, which are in turn the products of an evolutionary past in which humans have created, and been created by, their social groups.
+
+=== Overview
+
+[cols="1,3,3"]
+|===
+|*Perspective*
+|*Focus / What drives social behavior?*
+|*Example*
+
+|Sociocultural
+|Forces of larger social groups, such as social norms and class differences.
+|A 21st century woman wearing short hair, delaying marriage and work in an executive job, whereas her grandmother wearing long hair, traditional clothes, married early and caring for children at home.
+
+|Evolutionary
+|On similarities across different human cultures and different animal species, searching for evidence of inherited tendencies to respond to the social environment that would have helped our ancestors survive in their social groups
+|An angry face automatically grabs people's attention; such an expression of threat is similar to other species, such as dogs.
+
+|Social Learning
+|Clues in the patterns of rewards and punishments that people experience directly or learn by watching others
+|A boy watches a crowd screaming for a music band, which makes him wanting to become a musician himself.
+
+|Phenomenological
+|People's subjective interpretations of social situations.
+|Sect members believing police officers were sent by the devil signaling the end of the world.
+
+|Social Cognitive
+|How people pay attention to, interpret, remember events in their social lives, and connect the current situation to related experiences in memory.
+|If you interpret a homeless person's as out of his control, reminding you of the parable of the Good Samaritan, you are more likely to help him.
+|===
+
+== Basic Principles of Social Behavior
+
+Two of them which are shared across the different perspectives.
+
+1. Social behavior is *goal oriented*. People interact with one another to achieve some goal or satisfy some inner motivation.
+2. Social behavior represents a continual *interaction* between the person and the situation.
+
+People interact with each other to achieve a *goal or satisfy* an inner motivation:
+
+* Phenomenologically/cognitive: Conscious goals stimulated by the current situation.
+* Learning: Doing the same again which was previously rewarded (receiving gratitude, reciprocal act of kindness).
+* Evolutionary: Mutual helpful social groups were more likely to survive and pass on their genes than self-centered hermits.
+
+They also have in common that they assume motivations on the inside *interact with events* in the outside:
+
+* Evolutionary: Internal reactions (anger, fear, sexual arousal) are triggered by environmental events (competitors, predators, flirting glances).
+* Social learning: Internal, learned responses linked to rewards and punishments in the social setting.
+* Cognitive: Mental processes and representations connect to momentary changes in the social situation.
+
+=== Social Behavior is Goal Oriented
+
+Goals exist on different "levels". Such as on the day-to-day list of goals would be: Figuring out the latest gossip in the office, get comfort after failing an exam, making a good impression to the teacher or get a date for the next weekend.
+
+At a broader level, there are long-term goals such as: gain reputation as competent, be likable, feel good about oneself, or develop a romantic relationship.
+
+Broader goals then tie together several other day-to-day goals. Yet, at the broadest level, we can ask about fundamental motives which are often not even aware to us, such as: success in career, connection with people; both incorporating into an ultimate goal of "gaining and maintaining status".
+
+* If we don't see people for a long time we feel lonely. Whether moving to a new city or spending the weekend alone. Our ancestors would always live in groups, as it is beneficial for survival; sharing food and team up for mutual safety, but also simply to *establish social ties*.
+
+"_To be alone is one of the greatest of evils for a person. Solitary confinement is by many regarded as a mode of torture too cruel and unnatural for civilized countries to adopt. To one long pent up on a desert island the sight of a human footprint or a human form in the distance would be the most tumultuously exciting of experiences._" (William James, "to establish social ties")
+
+
+* Why gossip, read newspaper or seek for feedback? To gather information about *ourselves and others, understand* them better, and be more able to effectively manage our lives. Without certain social cognition, life can become pretty difficult.
+
+* Much of our social behavior is based on *gaining and maintaining social status*. Whether you are Martin Luther King Jr. wrestling for church finances or a student competing for grades or employees striving to win a promotion. All around the world, people use the dimension of "dominant versus submissive" to describe each other. We gain tangible social benefits form it such as respect and admiration.
+
+* When our reputation, resources or loved ones are threatened, it will trigger often aggression and violence. Building fences, joining gangs, or buy attack dogs or forming armies on a bigger scale. We have an intrinsic need *to defend ourselves and those we value* and our social behavior reflects that.
+
+* Some Indian authorities may have up to 350 spouses, in Western societies it might be only one at a time. Still we all invest a lot of effort (writing long love letters, making long lasting in the middle of the night or using dating apps) *to attract and retain mates*.
+
+==== Social Rules for Attracting Mates
+
+Long story short: Whatever pickup line you are using, if you are a woman, your chances for success are much higher than for men. Whether a direct approach, a simple "hi", or a "you remind me of someone", it's all the same (the last one is the worst when approaching a woman though, only 25% respond positively).
+
+Explanation from an biological perspective is due to *parental investment*: Women face greater physical costs bearing and rearing offspring than men do. A sociocultural theorist might explain it by using social norms in a given culture. Most likely they both interact with each other, and neither is correct on its own.
+
+From a pure evolutionary perspective, the goal of reproduction underlie all other social goals. We affiliate, seek social information, strive for status, act aggressively or self-protectively, ... all towards the ultimate end of reproducing our genes -hello Freud!
+
+=== Motives, Goals and Social Behavior
+
+But no one wakes up thinking "_Today, I’m going to work on gaining status and finding a good mate so I can reproduce my genes_" as those motives are all unconscious. There is a continuum of goals: On the surface level, people are consciously aware (get a date for Saturday); sometimes aware of broader underlying goals (romantic relationship); and rarely about fundamental motives, or ultimate functions, underlying their social behavior (attract and retain a mate).
+
+When looking closer, things seem pretty complex. Also the fact that a specific social behavior serves multiple goals. Fighting could be about protection, status and getting to know oneself. Dating about need for affiliation, social information, mating and even protection. But goals themselves can also be non-social, like purely material advantages (act nicely to get a higher tip).
+
+=== The Interaction between the Person and the Situation
+
+How we react to a particular situation depends on also on the person itself. The same situation will evoke different behaviors for different people.
+
+Although it is sometimes useful to separate those two, they always go with each other, influencing each other. Born as a boy for example will have an impact on physical size, distribution of muscle and body fat, capacity to bear children, ... but also the social environment (norms and sex of the others around him) has an impact on that person's behavior.
+
+==== Person
+
+A person can be defined as features or *characteristics* that individuals *carry into social situations*. They include physical and psychological traits, as well as permanent individual preferences. They are based on genetical or physiological factors, or on past learning experiences.
+
+==== Social Situation
+
+A social situation is anything which happens *outside the person*, an environmental *event or circumstance*. Either something happening now in the immediate social context like a glance from a person, or something more permanent like family background or cultural norms.
+
+==== Person-Situation Interactions
+
+They influence each other in several ways, seven of those are listed here:
+
+1. *Different situations trigger different parts of our personality.* As William James stated: "_Many a youth who is demure enough before his parents and teachers, swears and swaggers like a pirate among his tough young friends_". Also the social goals differs based on the specific situation we are in; sometimes we want to be liked or feared. Activating one goal may suppress the activity of another; looking angry at a stranger will block him from engaging romantically with another person for example.
+
+2. *Depending on which facet of a situation we are paying attention to will, activate another social motive.* While we kiss for example, we don't think about progressing in our job.
+
+3. *People respond differently to the same situation.* Some people see failure as a defeat and give up, others will be even more eager to succeed.
+
+4. *People change their situations.* Social situations are flexible phenomena on which we can have an impact on. Joining a friendly group and acting aggressively might change the atmosphere very shortly drastically.
+
+5. *People choose their situations.* We choose our environment, rather it is "happening to us". Which we choose are reflections of our personality, either long-term environments (which university) or short-term ones (afternoon activity).
+
+6. *Situations change people.* Just as people change situations, the reverse is also true. When we marry a person with different views, we adapt to those over the time.
+
+7. *Situations choose people.* For many situations there are certain requirements for people to enter. Think of playing for a high-class professional basketball team where one has to be at least a certain height tall. Situations and persons mutually shape and choose one another in a continuing cycle.
+
+[cols="1,2"]
+|===
+|*Interaction*
+|*Example*
+
+|Different situations trigger different personality aspects.
+|A boy is rude when hanging out with his peers, yet well-behaved when with his grandparents.
+
+|A situation has different facets, and which we are paying attention to activates different social motives.
+|You see an attractive person and get flirtatious; you notice her jealous boyfriend and act self-protectively.
+
+|People respond different to the same situation.
+|Some see riots as an opportunity for fun and excitement; others as horrifying disasters.
+
+|People change situations.
+|An aggressive person can turn a peaceful gathering into a war zone.
+
+|People choose situations.
+|One likes to go bungee jumping; another very much would like to avoid that.
+
+|Situations change people.
+|Different students choose different universities; after some years the differences between them grew bigger.
+
+|Situations choose people.
+|Not everyone is allowed to study at a certain university.
+|===
+
+==== Summary
+
+Two general principles are valid for all theoretical perspectives:
+
+1. Social behavior is goal-oriented. Either short-term (get a date), long-term (feeling good) or fundamental motives (attract mates).
+
+2. A persons traits and motives interact with situations. People and situations choose, respond to, and alter one another.
+
+== How Psychologists Study Social Behavior
+
+Just like a detective is faced with a mystery and uses a set of procedures to solve it, social psychologists do so as well. Just as for detectives there are pitfalls everywhere: Interviewees may lie or their testimony is based on unfounded assumptions, some motives may be hidden, and evidence may have been tampered with.
+
+The methods being used can be roughly divided into two categories:
+
+1. *Descriptive methods*: Measure (or record) behaviors, thoughts and feelings in their natural state without changing them. E.g.: naturalistic observations, case studies, archival studies and surveys.
+
+2. *Experimental methods*: Systematically manipulate social processes by varying aspects (variables) of the situation. Those help to answer the "why" question (causation); understand and explain, rather when and where those social encounters would happen outside the laboratory.
+
+=== Descriptive Methods
+
+There are 5 major descriptive methods: naturalistic observation, case studies, archives, surveys and psychological tests.
+
+==== Naturalistic Observation
+
+It observes (and records) behavior as it unfolds in its natural setting. E.g. going to a singles bar and observe people how they flirt, without them knowing and thus not influencing them (a woman would glance at a man, smile, flip her hair and tilt her head 45 degrees to expose her neck).
+
+One big advantage is that they are *spontaneous* instead of artificial. Some people might not be even consciously aware of their specific behavior, thus asking them in a laboratory might not lead to correct data. Or when knowing we are observed, our behavior changes (discomfort knowing being observed while flirting; being self-conscious).
+
+Yet, it is sometimes difficult to observe certain behavior as it is just very *rare to happen*. Think of a riot to happen spontaneously while waiting for one. Also a big issue arises due to *biased expectations*, nevertheless how systematically the research is conducted. Ignoring one, and exaggerating other influences.
+
+A *hypothesis* is basically a *good guess* about what to expect to find, leading to a *observer bias*; emphasizing information confirming the hypothesis, and fail to notice inconsistent evidence. (Instead of the hair-flip being a flirt-move, it could be simply that she wants to avoid her hair falling into her beer mug.)
+
+==== Case Studies
+
+It's an *intensive examination* of an individual/group, usually with some unusual pattern of behavior. Instead of hoping that a "road rage" will spontaneously happen on the streets, researches interview people involved, read police reports, and so on.
+
+===== The Case of a Mass Murderer and his Family
+
+*Charles Manson* went in the 1960s to San Francisco to start a new hippie sect called "*The Family*" to fight against the traditional US values ("the evil establishment"). He spent most of life in prison, yet he was charming and manipulative, thus was quickly able to find followers with the promotion of "free love" and drug experimentation. He was even able to convince them to commit ritual mass murders.
+
+What does this tell about him? How could a child, exposed to neglect, violence and criminal role models, become such a vicious and psychopathic adult? What does this tell about the followers in regards to everyday acts of violence?
+
+Case studies such as those can be rich sources of hypotheses. What's the cause of violent, antisocial behavior? Was it the influence of the anti-establishment *counterculture* or the mind-altering *drugs*? Or the other violent *people* he met in his life, lack of a stable *family* structure or even a shared *genetic* tendency in his family?
+
+Unfortunately, case studies can't tell which events are causal and which irrelevant, or maybe all of them are somehow involved?! Or none of the mentioned, like unusual hormones or brain damage while in the womb. There is no confidence about *cause-and-effect* relationships.
+
+As the same with naturalistic observations, the *observer bias* might kick in; a researcher interested in the effect of drugs to violent behavior might overemphasize the relevance of alcohol consumption of his mother or his abuse of LSD. Another issue is with *generalizability*, the extent a single research study can be universally applied to other similar cases.
+
+==== Archives
+
+It's the *examination of systematic data* (to test hypotheses) originally collected for *other purposes* (police reports, marriage licenses, newspaper articles, and so on). This can improve the generalizability drastically. Yet, many interesting social phenomena don't get recorded (failing marriages get archived, successful partnerships don't).
+
+==== Surveys
+
+*Asking people* to report on their beliefs, feelings, or behaviors; they can't be recorded or demonstrated in natural settings (think of human sexual behavior).
+
+Although it's good because a big amount of data can be collected which might be hidden otherwise. On the other hand people might not give accurate information (dishonest or memory biased), due to *social desirability bias* (asking men about homosexuality; only answer what's appropriate/acceptable).
+
+Another problem is how to get a *representative sample*. It has to follow the same distribution as the larger group, sharing the same characteristics.
+
+Also participants might not tell the truth, think about sex lives and other controversial topics, which then might lead to erroneous conclusions.
+
+==== Psychological Tests
+
+Instruments to assess: abilities, motivations, cognitions, or behaviors. Questions like: Are some people more social than others, or more critically thinking before persuaded by an argument? They are not perfect indications though.
+
+Usefulness is based upon two criteria: Reliability and validity.
+
+*Reliability* guarantees consistent outcome. Doing the same twice multiple times yields the same results. IQ tests are usually very reliable, the famous Rorschach inkblots test not at all.
+
+*Validity* indicates whether the test measures what it supposed to. Take for example a test which measures the length of the thumb to conclude the intelligence of a person. Highly reliable, yet totally invalid.
+
+=== Correlation and Causation
+
+*Correlation* indicates how strong two (or more) variables are associated with each other (co-occur), and are revealed from descriptive methods. One goes up, the other goes up as well; but it doesn't say anything about the cause-and-effect relationship.
+
+The *correlation coefficient* is a mathematical expression of the relationship of two variables. +1.0 is a perfect positive (one goes up, the other too) relationship, 0 has absolutely none, and -1.0 is a perfect negative one.
+
+There could be no causation yet a big correlation, when for example a third variable is influencing the first two. To investigate those, experimental methods are used to variables are separated which normally would co-occur, to reveal the underlying causation.
+
+=== Experimental Methods
+
+An *experiment* alters behavior by systematically manipulating certain aspects of the situation, while keeping other variables constant. In contrast to observational methods, where interferences is avoided to not change the natural pattern of behavior, or survey questions worded in such a way to lead people to misrepresent their true feelings or behaviors.
+
+==== Manipulating Variables
+
+The *independent variable* is the one being manipulated, and the *dependent variable* is the one being measured.
+
+*Random assignment* means that each participant has an equal chance (flip a coin) of being part of one or the other research group. Otherwise some factors might be concentrated in one group (systematic differences) and might affect the outcome in an undesirable way.
+
+E.g. Zimbardo's experiment, where people had to deliver shocks to a person (dependent variable), whereas one group stayed anonymous and the other didn't (independent variable), thus measuring who much more we are willing to inflict suffering to others (higher level of aggression) if we are de-individualized.
+
+==== Potential Limitations of the Experimental Method
+
+It has the advantage of being able to come up with causal statements, compared to descriptive methods, but: The laboratory setting is artificial, instead of the natural habitat. Is it thus really testing what it supposed to test? *Internal validity* indicates how good an experiment is in figuring out cause-and-effect.
+
+A *confound* variable changes along the independent variable, potentially misleading about the effect of the independent variable. For example, if group A gets a nice experimenter, and group B all get a mean experimenter. Thus, another variable systematically changes along. The experimenter's niceness is confounded with the actual independent variable. It's like the invisible third variable in correlations; difficult to know what caused the outcome.
+
+*External validity* indicates how much results can be generalized to other circumstances. True, no two situations are identical; yet, by choosing the right variables we can tap in the same mental and emotional processes as those operating in the real world.
+
+*Demand characteristics* are cues to the subjects, making them aware how the researches expect them to behave. Best known from the so-called link:../phenomena/hawthorne_effect.html[Hawthorne effect]: When people know they are being observed, the act differently, making a generalization from an experimental lab setting to the real world impossible. This can be worked around by distracting people by an interesting task, or deceiving people from the true experiment's purpose.
+
+==== Field Experiments
+
+Manipulating independent variables, using unknowing participants in natural settings, thus gaining the best of both worlds, natural observations (authentic behavior) and laboratory experiments(control of variables).
+
+When a researcher interacts with a participant, not revealing themselves as such, then acting in one or the other way (independent variable), leaves the stage yet observing them through a hidden camera, and then observe the impact on their behavior (dependent variable).
+
+=== Why Social Psychologists combine different Methods
+
+The weakness of one method is the strength of the other; thus combining them is the key to success to reach more trustworthy conclusions.
+
+Like in a detective story with different reports by different witnesses, a social psychologist has to gather all that data and find common denominators. Each evidence by itself is imperfect, but put together reveals the actual picture. Going in "full cycle" with hunches and evidence: Descriptive studies lead to theories, which are being tested by experiments, leading to new hunches for new theories.
+
+
+[cols="1,2,2,2"]
+|===
+|*Method*
+|*Description*
+|*Strengths*
+|*Weaknesses*
+
+|*Naturalistic Observation*
+|Unobtrusive recording of behavior in natural setting.
+|Authentic behavior. No report-skill necessary.
+|Tampered behavior. Difficult for rare behavior. Observer bias. Time consuming.
+
+|*Case Studies*
+|Examination of person/group.
+|Get many hypotheses. Also rare behaviors.
+|Observer bias. Difficult to generalize. Impossible reconstruct past events.
+
+|*Archives*
+|Examination of public records.
+|Easy access to data.
+|Much was never recorded.
+
+|*Surveys*
+|Ask people directly.
+|Study difficult-to-observer things.
+|Non-representative people. Biased/untruthful answers.
+
+|*Psychological Tests*
+|Using assessments.
+|Characteristics which are not observable.
+|Unreliable, or invalid.
+
+|*Laboratory Experiment*
+|Direct manipulation of variables.
+|Cause-effect conclusions. Control of extraneous variables.
+|Artificial environment and behavior.
+
+|*Field Experiment*
+|Same as laboratory experiment, but in natural setting.
+|Cause-effect conclusions. More natural responses.
+|Unnatural unfolding of events. Less control of factors.
+
+|===
+
+==== Focus on Method
+
+Which method to use to explain riots, cults, or love affairs? How to distinguish incontrovertible evidence from a remote possibility? How come to a conclusion when different studies provided mixed evidence? How to separate cultural/family influences from biological ones?
+
+=== Ethical Issues in Social Psychological Research
+
+For botany or geology, focusing on those logical issues might be enough, but as social psychologists ethic standards are important as we work with living, breathing, feeling human beings.
+
+==== Ethical Risks in Social Psychological Research
+
+When asking about commitment to partners or homicidal fantasies, this constitutes potential *invasion of privacy*, especially if people are not aware that they are observed, as it is the case with naturalistic observations and field experiments. Generally speaking, we say it's ok if participants stay anonymous and are not convinced to do things they would otherwise not do.
+
+How about inflicting physical or psychological injuries, such as strenuous exercises, injections of hormones, or exposure to uncomfortable environments; or inducing emotional states of embarrassment, guilt or anxiety? link:../people/milgram-stanley.html[Milgram]'s famous and most controversial experiment also raised such questions, but was considered worthwhile as the subjects felt they have benefited from it afterwards, although of extreme levels of anxiety (sweating, trembling, stuttering) during the experiment.
+
+==== Ethical Safeguards in Social Psychological Research
+
+The benefits must always outweigh the costs. Knowledge about love, prejudice, or homicidal violence must be higher than discomfort created due to the study.
+
+The APA is offering a set of ethical guidelines to check against research:
+
+1. *Informed consent*: Subjects agree after being warned about potential discomfort. If deception is part of the study, this would make a natural response impossible though. Sometimes they can be told that there will be discomfort, but not specifically told what kind of, and also that they can withdraw at any given moment without any penalty.
+2. *Debriefing*: Discuss procedures and hypotheses of the study. Addressing any negative reactions of them and help with any problems before they leave.
+3. *Cost-benefit evaluation*: Check if there are alternative methods for the study. Is the knowledge that useful, that it justifies temporary discomfort?
+
+In order to get federal research funding, there has to be an Institutional Review Board which checks for those ethical guidelines.
+
+=== Summary
+
+Social psychologists use descriptive methods (naturalistic observation, case studies, archives, surveys and psychological tests) to measure and record thought and behavior in its natural state, which can reveal correlations but not cause-effect inferences.
+
+Experiments use manipulation of variables and reveal cause-effect relations but have the disadvantage of being artificial.
+
+Ethical issues include invasion of privacy and harm to subjects. Benefits and costs need to be considered. Ethical review boards check studies for conforming to ethical guidelines.
+
+== How Does Social Psychology Fit into the Network of Knowledge?
+
+The theories and methods used by social psychologists are not unique to this field, but shared with researches in other disciplines.
+
+=== Social Psychology and other Areas of Psychology
+
+* *Developmental psychology* research how lifetime experiences along with predispositions produce one's feelings, thoughts and behaviors. Social relationships  like love relationships are shaped by the way we attached to our parents.
+* *Personality psychology* look at differences between people, and how individual components add up to a whole person. Personality differences are tied to social relationship, think of extraversion and agreeableness in social settings.
+* *Environmental psychology* studies how people interact with the physical and social environment. Why we destroy our physical environment or how we respond to heat, crowding and urban settings.
+* *Clinical psychology* is interested in the study of behavioral dysfunction and treatment. Social relationships suffer when the individual suffers from depression, loneliness, coping with distress, etc. Also many behavioral disorders are defined by the effect on the person's social life (social anxiety; or more specifically: obsessive love relationships or paranoid distrust of out-group members).
+* More experimental areas like *cognitive psychology* (study of mental processes) and *physiological psychology* (relation of biochemistry and neural structures to behavior) also have direct links to social psychology. Think of _prosopagnosia_, where brain damage to a certain brain area makes a person unable to recognize human faces. Maybe even some brain structures and cognitive processed controlled by them have evolved primarily to solve problems of living in a social groups.
+
+=== Social Psychology and other Disciplines
+
+Think of the obvious connection to *sociology* (one of the first textbooks in social psychology was written by a sociologist).
+
+Or the one with *anthropology*, the study of links between human culture and human nature. Studying human universals, and the variations in social arrangements through culture.
+
+Not only is it linked to physiological psychology and evolutionary theory, but also with areas of biology, including genetics and zoology.
+
+It is also closely connected to applied sciences like law, medicine, business (*industrial/organizational psychology*), education and political science (environmental destruction/overpopulation/international conflict are directly linked to social interactions).
+
+Big questions areas, which are up to you to answer:
+
+* What logical and methodological tools can we use to generate useful knowledge and to distinguish fact from fiction?
+* What are the important ideas that previous thinkers have had about human nature and our place in the universe?
+* How are those important ideas connected to one another?
+
+Social psychology work on related problems with: personality, developmental, clinical, physiological and cognitive psychology. It is furthermore connected to disciplines such as: sociology, anthropology, biology; and applies to fields as: law, medicine, organizational behavior, education and political science.
+
+== The Mysteries of Social Life
+
+Why do people things in groups, they would never do alone? What are the factors that lead to prejudice versus tolerance? Why are there sex differences in risky behavior? What is there to be uncovered when it comes to group processes, attitudes, prejudice, prosocial behavior or achievement motivation?
+
+We can use scientific methods (use cases and later on other methods to verify causality via controlled experiments) to act as a kind of detective to come to informed conclusions. People's everyday intuitions about social behavior are often biased, and sometimes completely wrong. Being aware of one's deeper motivation and cognitive biases keep us from being blinded by the seemingly "obvious", making us appreciate the complexity that lies beneath the surface.
+
+Why all this?
+
+1. Because it helps to get a deeper understanding of the root motivation of social behavior in everyday life. How to get along with coworkers, lovers, neighbors, and seemingly strange people from different groups.
+2. To come up with better decisions about education, society, criminal behavior, urban development and race relations if well-informed.
+3. For pure intellectual satisfaction, to have an educated mind.
+
+== Summary
+
+. *What is* social psychology?
+.. Scientific study, how thoughts/feelings/behaviors, influenced by others.
+.. Describe and explain causes of behavior.
+.. Theories to connect/organize observations.
+. Major theoretical *perspectives* of social psychology
+.. *Sociocultural*: Influences by factors of larger social groups (social class, nationality, cultural norms).
+.. *Evolutionary*: Evolved adaptions for survival/reproduction.
+.. *Social learning*: Past experiences.
+.. *Phenomenological*: Subjective interpretations of events.
+.. *Social cognitive*: Mental processes, paying attention/interpreting/judging/remembering experiences.
+. Basic *principles* of social behavior
+.. It is *goal oriented*: short-term immediate goals linked to broader long-term ones, ultimately to fundamental ones.
+.. Continual interaction between person and situation:
+... Different situations activate different parts of the self.
+... Situations have different facets, activating different motives.
+... People respond differently to the same situation.
+... People change/choose situations.
+... Situations change/choose people.
+. *How* psychologists study social behavior
+.. *Descriptive methods*, such as: naturalistic observation, case study, archival study, survey. Recording thoughts/feelings/behaviors in natural state, uncovering correlations, but not cause-effect.
+.. *Experimental methods*: Systematically manipulate independent variable, revealing cause-effect, but are artificial.
+.. Ethical issues like invasion of privacy and harming subjects, weighted against usefulness. Guidelines and review boards serve to balance those.
+. How does social psychology fit into the *network of knowledge*?
+.. Connection to sub-disciplines of psychology: personality, developmental, clinical, physiological, cognitive.
+.. Other disciplines: basic research sciences (sociology, biology) and applied fields (organizational behavior, education).
+
+=== Key Terms
+
+* Adaptions
+* Archival method
+* Case study
+* Confound
+* Correlation
+* Correlation coefficient
+* Culture
+* Debriefing
+* Demand characteristics
+* Dependent variable
+* Descriptive method
+* Evolutionary perspective
+* Experiment
+* Experimental method
+* External validity
+* Field experimentation
+* Generalizability
+* Hypothesis
+* Independent variable
+* Informed consent
+* Internal validity
+* Naturalistic observation
+* Natural selection
+* Observer bias
+* Person
+* Phenomenological perspective
+* Psychological test
+* Random assignment
+* Reliability
+* Representative sample
+* Situation
+* Social cognitive perspective

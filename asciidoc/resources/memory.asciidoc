@@ -1,0 +1,14 @@
+= Memory
+
+Memory is divided roughly into long-term and short-term (sensory memory and working memory, where are consciousness is happening). The long-term one can be subdivided into:
+
+. *Declarative* (explicit) memory:
+.. *Episodic* memory (Events): Specific personal experiences from a particular time and place
+... Autobiographical memory (Flashbulb memory)
+... Experimental episodic memory
+.. *Semantic* memory (Facts): World/object/language knowledge, conceptual priming
+. *Non-declarative* (implicit) memory
+.. Procedural memory: Skills (motor and cognitive)
+.. Perceptual representation system: Perceptual priming
+.. Classical conditioning: Conditioned responses between two stimuli
+.. Non-associative learning: Habituation sensitization

@@ -8,6 +8,7 @@ Subpages::
 * A quick overview of the different link:drugs.html[drug classifications].
 * A list of link:neuroimaging.html[neuroimaging] techniques explained.
 * The link:big5.html[five-factor model of personality] in detail.
+* link:memory.html[Memory] and it subparts
 
 Other pages::
 

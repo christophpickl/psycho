@@ -3,26 +3,33 @@
 == Book
 
 [#id-introduction-book]
-We use the book "Social Psychology" (10th edition) by Elliot Aronson, Timothy Wilson, Robin Akert and Samuel Sommers.
+We use the book "Social Psychology" (10th edition) by Elliot Aronson, Timothy Wilson, Robin Akert and Samuel Sommers, the global (non-US/Canada) edition.
 
 .Course book "Social Psychology"
-[link=https://www.amazon.com/Social-Psychology-10th-Edition/dp/0134641280]
-image::book_socialpsychology.png[Social Psychology Book,200,100]
+[link=https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/psychology/Social-Psychology-Aaronson-10e.html]
+image::book_social_psychology.jpg[Social Psychology Book,200,100]
 
 [arabic]
-. link:ch1-introduction/index.html[Introduction]
-. link:ch2-xxx/index.html[Methodology]
-. link:ch3-xxx/index.html[Social Cognition]
-. link:ch4-xxx/index.html[Social Perception]
-. link:ch5-xxx/index.html[Self-Knowledge]
-. link:ch6-xxx/index.html[Self-Justification/Esteem]
-. link:ch7-xxx/index.html[Attitudes]
-. link:ch8-xxx/index.html[Conformity]
-. link:ch8-xxx/index.html[Group Process]
-. link:ch10-xxx/index.html[Interpersonal Attraction]
-. link:ch11-xxx/index.html[Prosocial Behavior]
-. link:ch12-xxx/index.html[Aggression]
-. link:ch13-xxx/index.html[Prejudice]
-. link:chA1-xxx/index.html[Action: Happyness]
-. link:chA2-xxx/index.html[Action: Healthy]
-. link:chA3-xxx/index.html[Action: Law]
+. link:ch1-introduction/index.html[Introduction] (link:ch1-introduction/index_old.html[old version])
+. link:ch2-xxx/index.html[Methodology] -- How Social Psychologists Do Research
+. link:ch3-xxx/index.html[Social Cognition] -- How We Think About the Social World
+. link:ch4-xxx/index.html[Social Perception] -- How We Come to Understand Other People
+. link:ch5-xxx/index.html[Self-Knowledge] -- Understanding Ourselves in a Social Context
+. link:ch6-xxx/index.html[Self-Justification] -- Cognitive Dissonance and the Need to Protect Our Self-Esteem
+. link:ch7-xxx/index.html[Attitudes] -- Influencing Thoughts and Feelings
+. link:ch8-xxx/index.html[Conformity and Obedience] -- Influencing Behavior
+. link:ch8-xxx/index.html[Group Process] -- Influence in Social Groups
+. link:ch10-xxx/index.html[Interpersonal Attraction] -- From Initial Impressions to Long-Term Intimacy
+. link:ch11-xxx/index.html[Prosocial Behavior] -- Why Do People Help?
+. link:ch12-xxx/index.html[Aggression] -- Why Do We Hurt Other People? Can We Prevent It?
+. link:ch13-xxx/index.html[Prejudice] -- Causes, Consequences, and Cures
+. link:chA1-xxx/index.html[Action: Happiness] -- Using Social Psychology to Achieve a Sustainable and Happy Future
+. link:chA2-xxx/index.html[Action: Healthy] -- Social Psychology and Health
+. link:chA3-xxx/index.html[Action: Law] -- Social Psychology and the Law
+
+== Other Resources
+
+* link:https://en.wikipedia.org/wiki/Social_psychology[Wikipedia] page on social psychology
+* Check out the free link:https://www.coursera.org/learn/social-psychology[Coursera] course with link:http://www.scottplous.com/[Scott Plous]
+* The link:https://www.socialpsychology.org/[Social Psychology Network]
+* Online summary by a student: https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/social-and-cross-cultural-psychology/social-psychology/52551541

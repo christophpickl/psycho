@@ -1,29 +1,39 @@
 = People
 
-== VIP
-
 A list of some people good to know in the area of psychology:
 
+* link:adler-alfred.html[Adler, Alfred]: Psychoanalysis
+* link:allport-gorden.html[Allport, Gorden]: Personality
 * link:ainsworth-mary.html[Ainsworth, Mary]: Attachment Theory
 * link:asch-solomon.html[Asch, Solomon]: Social/Gestalt psychologist; conformity, group pressure
-* link:bandura-albert.html[Bandura, Albert]
+* link:bandura-albert.html[Bandura, Albert]: Social learning
+* link:bloom-paul.html[Bloom, Paul]: Yale University
 * Breuer, Josef: Freud's mentor
 * link:broca-paul.html[Broca, Paul]
 * link:beck-aaron.html[Beck, Aaron]: Cognitive Therapy
 * link:bowlby-john.html[Bowlby, John]: Attachment Theory
+* link:cattell-raymond.html[Catell, Raymond]: Personality
+* link:chomsky-noam.html[Chomsky, Noam]: Linguist
 * link:darwin-charles.html[Darwin, Charles]: Evolution Theory
+* link:damasio-antonio.html[Damasio, Antonio]: Neuroscience, depression
 * link:descartes-rene.html[Descartes, Rene]
 * link:ellis-albert.html[Ellis, Albert]: Cognitive Therapy
+* link:ekman-paul.html[Ekman, Paul]: facial emotional expressions
+* link:erikson-erik.html[Erikson, Erik]: Psychoanalyst
+* link:eyseneck-hans.html[Eyseneck, Hans]: Personality
+* link:fromm-erich.html[Fromm, Erich]
 * link:frankl-viktor[Frankl, Viktor]
 * Freud, Anna: Psychoanalysis (defense mechanisms)
 * link:freud-sigmund.html[Freud, Sigmund]: Psychoanalysis
 * link:galton-francis.html[Galton, Francis]
+* Goodall, Jane: Primatologist, THE expert on chimpanzees
 * link:heider-fritz[Heider, Fritz]
 * link:hobbes-thomas.html[Hobbes, Thomas]
 * link:hume-david.html[Hume, David]: Philosopher
 * link:james-william.html[James, William]
 * link:jung-cg.html[Jung, Carl Gustav]: Analytical Psychology, Freud the mentor
 * link:kant-immanuel.html[Kant, Immanual]
+* link:kahnemann_daniel.html[Kahnemann, Daniel]
 * link:kernberg-otto.html[Kernberg, Otto]: Psychoanalysis
 * link:klein-melanie.html[Klein, Melanie]: Psychoanalysis
 * link:kuhn-thomas.html[Kuhn, Thomas]
@@ -33,35 +43,21 @@ A list of some people good to know in the area of psychology:
 * link:milgram-stanley.html[Milgram, Stanley]
 * link:miller-george.html[Miller, George]: 7 +/- 2
 * link:pavlov-ivan.html[Pavlov, Ivan]: Classical Conditioning
+* link:peterson-jordan.html[Peterson, Jordan]: Show-off guy ;)
 * link:perls-fritz.html[Perls, Fritz]: Gestalt Psychology
 * link:piaget-jean.html[Piaget, Jean]: Developmental Psychology
 * link:popper-karl.html[Popper, Karl]
 * link:rogers-carl.html[Rogers, Carl]
 * link:rousseau-jean.html[Rousseau, Jean-Jacques]
+* link:sacks-oliver.html[Sacks, Oliver]: Author which has prosopagnosia
+* link:sapolsky-robert.html[Sapolsky, Robert]: Evolutionary Behaviorism
+* link:seligman-martin.html[Seligman, Martin]: Positive Psychology
 * link:skinner-burrhus_frederic.html[Skinner, Burrhus Frederic]
+* link:spitzer-manfred.html[Spitzer, Manfred]: https://www.youtube.com/watch?v=pHOIdOG9oJM
 * link:thorndike_edward.html[Thorndike, Edward]
 * link:vygotsky-lev.html[Vygotsky, Lev]
 * link:wallace-alfred.html[Wallace, Alfred Russel]
 * link:watson-john.html[Watson, John]
 * link:winnicott-donald.html[Winnicott, Donald]: Good enough (parents)
 * link:wundt-wilhelm.html[Wundt, Wilhelm]
-
-== Contemporary and Personal Favorites
-
-* link:adler-alfred.html[Adler, Alfred]: Psychoanalysis
-* link:allport-gorden.html[Allport, Gorden]: Personality
-* link:bandura-albert.html[Bandura, Albert]: Social learning
-* link:bloom-paul.html[Bloom, Paul]: Yale University
-* link:cattell-raymond.html[Catell, Raymond]: Personality
-* link:chomsky-noam.html[Chomsky, Noam]: Linguist
-* link:damasio-antonio.html[Damasio, Antonio]: Neuroscience, depression
-* link:ekman-paul.html[Ekman, Paul]: facial emotional expressions
-* link:erikson-erik.html[Erikson, Erik]: Psychoanalyst
-* link:eyseneck-hans.html[Eyseneck, Hans]: Personality
-* link:fromm-erich.html[Fromm, Erich]
-* link:kahnemann_daniel.html[Kahnemann, Daniel]
-* link:peterson-jordan.html[Peterson, Jordan]: Show-off guy ;)
-* link:sacks-oliver.html[Sacks, Oliver]: Author which has prosopagnosia
-* link:sapolsky-robert.html[Sapolsky, Robert]: Evolutionary Behaviorism
-* link:seligman-martin.html[Seligman, Martin]: Positive Psychology
-* link:spitzer-manfred.html[Spitzer, Manfred]: https://www.youtube.com/watch?v=pHOIdOG9oJM
+* Zimbardo, Philip (Stanford Prison Experiment, Social Psychology; http://zimbardo.socialpsychology.org/)

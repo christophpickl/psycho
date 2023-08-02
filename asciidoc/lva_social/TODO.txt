@@ -1,0 +1,3 @@
+* incorporate self-review from book
+* all biases in book have own page in phenomena/ list
+*
