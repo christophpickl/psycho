@@ -55,7 +55,7 @@ image::images/mindmap.png[Mind Map,100%,100]
 
 == Keypeople
 
-- link:/people/wundt-wilhelm.html[Wilhelm Wundt]: First who started link:#sec-data_collection[introspection] to do his data-collection.
+- link:../../people/wundt-wilhelm.html[Wilhelm Wundt]: First who started link:#sec-data_collection[introspection] to do his data-collection.
 
 == Cheatsheet
 
@@ -200,7 +200,7 @@ Each has its own pro & con, none can be said to be superior over the other.
 *** Presence alone influences, thus keeping it here as small as possible.
 ** *Naturalistic Observation*
 *** Observe subjects in their regular environment (home, work, school, shop).
-*** See: link:/phenomena/hawthorne_effect.html[Hawthorne Effect] where the observation changed the result drastically (Habituation to the rescue).
+*** See: link:../../phenomena/hawthorne_effect.html[Hawthorne Effect] where the observation changed the result drastically (Habituation to the rescue).
 ** *Tests*
 *** Problems/tasks given (gamification) for a (mental) problem to solve.
 

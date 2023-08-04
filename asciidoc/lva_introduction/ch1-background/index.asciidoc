@@ -121,7 +121,7 @@ image::images/humanoid_clock.jpg[Humanoid Clock,200,100]
 * Simple reflexes are based on neural connections.
 ** Certain brain areas (when active) can enhance/inhibit such reflexes.
 * Reflexology: All human behavior is determined by (complex) reflexes, stimulated by the environment.
-** By russian physiologist I. M. Sechenov, who later inspired link:/people/pavlov-ivan.html[Pavlov]'s work.
+** By russian physiologist I. M. Sechenov, who later inspired link:../../people/pavlov-ivan.html[Pavlov]'s work.
 
 [#sec-brain_function_localization]
 === Brain Function Localization
@@ -140,7 +140,7 @@ image::images/phrenology_localization.jpg[Phrenology,300,100]
 == Empiricism
 
 * 17th century in England, the school of thought of *British empiricism* emerged by the materialist philosophy.
-* Represented by link:../../people/locke-john.html[John Locke], link:/people/hume-david.html[David Hume], link:../../people/hobbes-thomas.html[Thomas Hobbes], Francis Bacon as well as John Stuart Mill (Utilitarianism).
+* Represented by link:../../people/locke-john.html[John Locke], link:../../people/hume-david.html[David Hume], link:../../people/hobbes-thomas.html[Thomas Hobbes], Francis Bacon as well as John Stuart Mill (Utilitarianism).
 * It states: All knowledge and thought are derived from sensory experience.
 ** The *Law of Association by Contiguity* (initially by Aristotle) states that: Two events contiguously (same, or right after) will be associated (bound together) in the mind, thus in the future, when one event occurs the other will be provoked.
 * A child's mind is blank ("*Tabula Rasa*"), and experience writes on it, fills the blank slate.

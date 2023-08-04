@@ -32,4 +32,3 @@ image::book_social_psychology.jpg[Social Psychology Book,200,100]
 * link:https://en.wikipedia.org/wiki/Social_psychology[Wikipedia] page on social psychology
 * Check out the free link:https://www.coursera.org/learn/social-psychology[Coursera] course with link:http://www.scottplous.com/[Scott Plous]
 * The link:https://www.socialpsychology.org/[Social Psychology Network]
-* Online summary by a student: https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/social-and-cross-cultural-psychology/social-psychology/52551541

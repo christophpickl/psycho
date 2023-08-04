@@ -43,15 +43,6 @@ image::images/mindmap.png[Mind Map,100%,100]
 ** E.g. homosexuality was 50 years ago still a disease in US/WHO
 ** Wide-spreadh like ADHD, because of emphasize on school performance and less play
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Causes
 
 * Possible from: Heredity, environment, learning

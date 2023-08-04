@@ -1,7 +1,7 @@
 = Jordan Peterson
 
 [#img-peterson-jordan]
-.Jordan Peterson himself
+.Jordan Bernt Peterson himself
 image::peterson-jordan.jpg[Jordan Peterson,200,100]
 
 == Facts
@@ -16,4 +16,4 @@ image::peterson-jordan.jpg[Jordan Peterson,200,100]
 
 == Links
 
-* https://en.wikipedia.org/wiki/FOO_BAR
+* https://en.wikipedia.org/wiki/Jordan_Peterson

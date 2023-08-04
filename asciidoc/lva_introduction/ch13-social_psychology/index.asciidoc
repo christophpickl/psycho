@@ -36,18 +36,6 @@ image::images/mindmap.png[Mind Map,100%,100]
 ** More attractive thus: Smarter, socialer, competenter, moraler
 ** Baby-face (DiCaprio): Honester, naiver, helpesser, warmer, incompetenter
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Self
 
 * Through other's eye
@@ -70,18 +58,6 @@ image::images/xxx[xxx,400,100]
 ** Insufficient justification effect: Only when freely done and little incentive
 *** E.g. give someone money to do a shitty job
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Groups
 
 * In-Group versus Out-Group
@@ -92,18 +68,6 @@ image::images/xxx[xxx,400,100]
 ** Negative implicit stereotypes / Prejudice
 *** Primitive emotions
 *** Classical conditioning, thus positive associations
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 === Observation and Evaluation
 
@@ -120,18 +84,6 @@ image::images/xxx[xxx,400,100]
 *** Men on art tests
 * Thoughts distract due to limited working memory capacity
 * Creating pressure
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 === Conformity
 
@@ -157,18 +109,6 @@ Effects of other's examples, opinions and requests.
 *** To unite and bond
 *** Leaders are good at expressions
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Social Dilemma
 
 * Tragedy of the Commons
@@ -185,18 +125,6 @@ image::images/xxx[xxx,400,100]
 * Shared social identity
 ** Cooperation
 ** More within, less other group
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 == Additional Resources
 

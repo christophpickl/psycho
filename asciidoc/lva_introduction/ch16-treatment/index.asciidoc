@@ -20,7 +20,8 @@ image::images/mindmap.png[Mind Map,100%,100]
 
 == Keypeople
 
-- link:/people/xxx-yyy.html[XXX YYY]: some description.
+TODO
+// - link:/people/xxx-yyy.html[XXX YYY]: some description.
 
 == Content
 
@@ -31,15 +32,6 @@ image::images/mindmap.png[Mind Map,100%,100]
 ** Hospitalization provided inadequate conditions
 ** Deinstitutionalization, as institutions first succeed (drugs) and then failed (US 1950s)
 * Community treatment: effective, well-integrated, multi-disciplinary
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 === Health System
 
@@ -52,18 +44,6 @@ image::images/xxx[xxx,400,100]
 ** Psychiatric nurse
 * Differ in: Training, setting, severity of problems
 * Survey in US resulted: 60% get no treatment, 20% briefly see doctor/nurse, 20% treatment by a professional
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 === Biological Treatments
 
@@ -96,18 +76,6 @@ image::images/xxx[xxx,400,100]
 ** Transcranial Magnetic Stimulation
 *** Electric pulses used to treat depression
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Psychodynamic
 
 * Approach
@@ -118,34 +86,10 @@ image::images/xxx[xxx,400,100]
 ** Resistance: Indicating being on the right track
 ** Transference: Strong emotions (e.g. confusing the therapist with the father)
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Humanistic
 
 * Accept desires/feelings, independent of approval by others, to reach self-actualization
 * Job is to: Listen, give positive regard and the client leads
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 === Behavioral
 
@@ -158,35 +102,11 @@ image::images/xxx[xxx,400,100]
 ** Techniques: Imaginal, in-vivo, VR
 ** Habituate or extinguish phobias
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Cognitive
 
 * Maladaptive beliefs/thoughts: Identify, convince about their irrationality and eliminate them
 * Give homework: Write diary, measure progress (objectively)
 * From teacher to consultant, becoming less directive
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 === Evaluation
 
@@ -199,18 +119,6 @@ image::images/xxx[xxx,400,100]
 ** Support: Acceptance, empathy, encouragement, building confidence
 ** Hope: From faith, believe, getting better
 ** Motivatioin: Regular reporting, self-improvement
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 == Additional Resources
 

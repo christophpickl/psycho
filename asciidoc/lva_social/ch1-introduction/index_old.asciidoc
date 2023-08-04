@@ -43,7 +43,7 @@ In the modern sociocultural perspective emphasize is put on larger *social group
 
 === The Evolutionary Perspective
 
-In the same year of 1908, another guy called William McDougall was less interested in the differences but in the similarities of human cultures and also different animal species. His evolutionary perspective, based on link:../people/darwin-charles.html[Charles Darwin's] theory of evolution, viewed human social behavior rooted in physical (walking upright) and psychological (smiling) *dispositions* that helped our ancestors *survive and reproduce*.
+In the same year of 1908, another guy called William McDougall was less interested in the differences but in the similarities of human cultures and also different animal species. His evolutionary perspective, based on link:../../people/darwin-charles.html[Charles Darwin's] theory of evolution, viewed human social behavior rooted in physical (walking upright) and psychological (smiling) *dispositions* that helped our ancestors *survive and reproduce*.
 
 The central idea is *natural selection*, the assumption that characteristics which are of advantage for survival and reproduction will be passed on. If those characteristics are well designed for an environment ("*adapted*") they will replace less designed ones. Dolphins are closely related to cows, but their legs have evolved into fins because it's just better for life under water. Just as the body is designed by natural selection, so is the brain, and thus the behavior.
 
@@ -51,7 +51,7 @@ Focus on culture -- Homicide: In the US there is no news without mentioning a ho
 
 === The Social Learning Perspective
 
-After some decades, the popularity of Ross's group centered, and McDougall's evolutionary perspective declined. Now the social learning perspective became popular: Social behavior driven by an individual's experiences with *reward and punishment*. That learning can be direct (encouragement from parents) or indirect (observing and imitating a successful person). link:../people/bandura-albert.html[Albert Bandura]'s experiments demonstrated observational learning: Children learn to punch a doll, after seeing another person punching it and getting rewarded.
+After some decades, the popularity of Ross's group centered, and McDougall's evolutionary perspective declined. Now the social learning perspective became popular: Social behavior driven by an individual's experiences with *reward and punishment*. That learning can be direct (encouragement from parents) or indirect (observing and imitating a successful person). link:../../people/bandura-albert.html[Albert Bandura]'s experiments demonstrated observational learning: Children learn to punch a doll, after seeing another person punching it and getting rewarded.
 
 It's similar to the sociocultural perspective, as it also focuses on the causes of social behavior in a person's environment, yet different in their focus over time and place. Social learning theorists emphasize a person's unique experiences in smaller groups like family, school or peer group. Sociocultural theorists look instead at social aggregates, such as Europeans, college students or members of the upper class. They also assume that norms, like clothing styles, can change quickly.
 
@@ -67,7 +67,7 @@ The interpretation also depends on one's *goals*: If a boy is itching for a figh
 
 The emphasis of subjective interpretation over objective reality is also present in the modern *social constructivist view*: People don't discover reality, they construct it based on prior experiences and predispositions. This perspective is often applied to male-female differences: A "real man" with long hair, wearing a skirt or knitting? A "real woman" with short hair, wearing a sweater or boxing? They all seem too arbitrary, and clearly the answers vary from time and place.
 
-In link:chapter6-influence.html[chapter 6 on social influence], you will see that sometimes only the social reality is what matters. When trying to answer for example what to wear at a wedding. Yet, sometimes the local popular opinion might lead to the objectively wrong answer, as with the cult members or during the holocaust. Where to draw the line between arbitrary social reality and objective physical reality is not only interesting in philosophy, but also raises issues for all of us in daily life.
+In chapter 6 on social influence, you will see that sometimes only the social reality is what matters. When trying to answer for example what to wear at a wedding. Yet, sometimes the local popular opinion might lead to the objectively wrong answer, as with the cult members or during the holocaust. Where to draw the line between arbitrary social reality and objective physical reality is not only interesting in philosophy, but also raises issues for all of us in daily life.
 
 === The Social Cognitive Perspective
 
@@ -75,7 +75,7 @@ The social constructivist view claim that people don't discover but rather *cons
 
 This was a consequence of the emphasis of the phenomenological perspective on inner experience: The merge of social and cognitive psychology. Especially after the computers led to a "cognitive revolution" in the 1950s.
 
-More about the specific issue of cognition and persuasive communication (think about King's "I have a dream" speech) in link:chapter5-xxx[chapter 5].
+More about the specific issue of cognition and persuasive communication (think about King's "I have a dream" speech) in chapter 5.
 
 === Combining Perspectives
 
@@ -332,7 +332,7 @@ A *confound* variable changes along the independent variable, potentially mislea
 
 *External validity* indicates how much results can be generalized to other circumstances. True, no two situations are identical; yet, by choosing the right variables we can tap in the same mental and emotional processes as those operating in the real world.
 
-*Demand characteristics* are cues to the subjects, making them aware how the researches expect them to behave. Best known from the so-called link:../phenomena/hawthorne_effect.html[Hawthorne effect]: When people know they are being observed, the act differently, making a generalization from an experimental lab setting to the real world impossible. This can be worked around by distracting people by an interesting task, or deceiving people from the true experiment's purpose.
+*Demand characteristics* are cues to the subjects, making them aware how the researches expect them to behave. Best known from the so-called link:../../phenomena/hawthorne_effect.html[Hawthorne effect]: When people know they are being observed, the act differently, making a generalization from an experimental lab setting to the real world impossible. This can be worked around by distracting people by an interesting task, or deceiving people from the true experiment's purpose.
 
 ==== Field Experiments
 
@@ -403,7 +403,7 @@ For botany or geology, focusing on those logical issues might be enough, but as 
 
 When asking about commitment to partners or homicidal fantasies, this constitutes potential *invasion of privacy*, especially if people are not aware that they are observed, as it is the case with naturalistic observations and field experiments. Generally speaking, we say it's ok if participants stay anonymous and are not convinced to do things they would otherwise not do.
 
-How about inflicting physical or psychological injuries, such as strenuous exercises, injections of hormones, or exposure to uncomfortable environments; or inducing emotional states of embarrassment, guilt or anxiety? link:../people/milgram-stanley.html[Milgram]'s famous and most controversial experiment also raised such questions, but was considered worthwhile as the subjects felt they have benefited from it afterwards, although of extreme levels of anxiety (sweating, trembling, stuttering) during the experiment.
+How about inflicting physical or psychological injuries, such as strenuous exercises, injections of hormones, or exposure to uncomfortable environments; or inducing emotional states of embarrassment, guilt or anxiety? link:../../people/milgram-stanley.html[Milgram]'s famous and most controversial experiment also raised such questions, but was considered worthwhile as the subjects felt they have benefited from it afterwards, although of extreme levels of anxiety (sweating, trembling, stuttering) during the experiment.
 
 ==== Ethical Safeguards in Social Psychological Research
 

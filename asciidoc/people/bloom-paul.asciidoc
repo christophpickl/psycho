@@ -1,19 +1,23 @@
-= FOO BAR
+= Paul Bloom
 
-[#img-BAR]
-.FOO BAR himself
-image::BAR-FOO.jpg[FOO BAR,200,100]
+[#img-bloom-paul]
+.Paul Bloom himself
+image::bloom-paul.jpg[Paul Bloom,200,100]
 
 == Facts
 
-* 1800-1900
-* COUNTRY
-* JOB
+* 1963
+* Canada-America
+* Psychologist
 
 == Achievements
 
-* XXXX
+* Being an amazing teacher, check out his videos on YouTube.
+
+.YouTube Playlist: 20 recordings of his "Introduction to Psychology" at Yale University
+[link=https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F]
+image::https://img.youtube.com/vi/P3FKHH2RzjI/0.jpg[Introduction to Psychology,300]
 
 == Links
 
-* https://en.wikipedia.org/wiki/FOO_BAR
+* https://en.wikipedia.org/wiki/Paul_Bloom_(psychologist)

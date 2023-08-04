@@ -16,4 +16,4 @@ image::kohut-heinz.jpg[Heinz Kohut,200,100]
 
 == Links
 
-* https://en.wikipedia.org/wiki/FOO_BAR
+* https://en.wikipedia.org/wiki/Heinz_Kohut

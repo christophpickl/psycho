@@ -56,18 +56,6 @@ image::images/mindmap.png[Mind Map,100%,100]
 ** Environment makes no big difference
 ** Gene alleles: Moderate success so far
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Adaption
 
 * Advantages
@@ -84,18 +72,6 @@ image::images/xxx[xxx,400,100]
 *** Cultural pressure
 *** When against them creates unhappiness; e.g. a shy man
 ** Women: more conscientous, more neurotic, more agreeable
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 === Psychodynamic
 
@@ -119,36 +95,12 @@ image::images/xxx[xxx,400,100]
 *** Projection: A wish/drive is experienced as someone else's.
 *** Rationalization: Use reasoning to explain away anxiety-provoking thoughts/feelings.
 
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
 === Humanistic
 
 * Phenomenological reality
 ** How the self/world is perceived
 * Maslow's hierarchy of needs
 ** Bottom-up with self-actualization at the top
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 === Social-Cognitive
 
@@ -164,15 +116,6 @@ image::images/xxx[xxx,400,100]
 ** When social environment differs, then beliefs/thinking differs
 ** Values: West = Individualist/Independence, East = Collectivist/Inter-dependence
 ** Non-Wester not match the big five, need their own tests
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
-
-.xxx
-image::images/xxx[xxx,400,100]
 
 == Additional Resources
 

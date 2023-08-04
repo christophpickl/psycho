@@ -17,4 +17,4 @@ image::kuhn-thomas.jpg[Thomas Kuhn,200,100]
 
 == Links
 
-* https://en.wikipedia.org/wiki/FOO_BAR
+* https://en.wikipedia.org/wiki/Thomas_Kuhn
