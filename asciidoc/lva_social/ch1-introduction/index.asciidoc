@@ -91,10 +91,6 @@ Explain behavior in terms of genetic factor evolved through natural selection.
 How we perceive/comprehend/interpret (=construct) the social world.
 ****
 
-* Other *social sciences* focus more on society, economy, politics and history.
-** Sociology:
-
-
 [NOTE.tryit,caption=TRY IT]
 ====
 *Social situations and shyness*
@@ -105,11 +101,89 @@ How we perceive/comprehend/interpret (=construct) the social world.
 . Set up a social environment that will make him comfortable. What is the effect on his behavior?
 ====
 
-\... PAGE 30 top ...
+* Other *social sciences* focus more on society, economy, politics and history.
+** *Sociology*: Focus on social class, structure and institutions.
+** Some overlap, yet main difference is _level of analysis_:
+*** Sociology: The group, institution and society at large.
+*** Social psychology: The *individual within a group*, institution and society (its influence on the individual).
+* Also _what is being explained_ differs: Social psychology identifies *properties* that make us *susceptible* to social influence.
+* BUT: Its a young science, developed in the US, thus not yet tested in other cultures.
+** *Cross-cultural* research needed; Is it universal? Are their additional variables?
+* Personality psychology < Social psychology < Sociology
+
+To sum up, these disciplines are focused on:
+
+* *Biology, Neuroscience*: Genes, hormones, physiological processes.
+* *Personality Psychology*: Characteristics that make an individual unique.
+* *Social Psychology*: Common psychological processes that make us susceptible to social influence.
+* *Sociology*: Groups, organizations, societies.
 
 == The power of the situation
 
+* How do we explain our own and other's behavior?
+** Once we get all the information, we don't think of the person as being "nasty", but as an ordinary human under enormous stress.
+** Westerners explain behavior in terms of personality.
+** Focus is on the fish, not the water around the fish (ignoring the context/situation).
+
+=== Underestimating it
+
+.Fundamental Attribution Error
+****
+Overestimating internal, underestimate external/situational factors, when explaining people's behavior.
+****
+
+* Explaining behavior in terms of *personality traits*, and underestimate the *social influence* and the immediate situation.
+* *Why*? It gives us a feeling of false security.
+** Sometimes it's just more *comforting* to write off people as flawed.
+** It makes us feel like it could *never happen to us*.
+** Ironically, it actually increases our vulnerability, as we are less aware of our own susceptibility to destructive social influences.
+** We *oversimplify* the problem, and too easily blame the power of social forces which are too *difficult to resist*.
+* *Experiment*: The "Wall Street Game" vs "Community Game" by Liberman, Samules and Ross, Stanford University (link:https://journals.sagepub.com/doi/abs/10.1177/0146167204264004[Paper])
+** Check whether we are either cooperative or competitive.
+** Tell half the participants the one, the other half the other name of the game.
+** We might think it has to do with a person's character, but the name of the game actually had a bigger impact.
+** Personality trait made no measurable difference.
+** Summed up: The game's title conveyed social normas that trumped personality and shaped player's behavior.
+
+=== Construal importance
+
+* Social situation defined: Specify the *objective properties* of it, and document the resulting behavior. This is exactly what behaviorists would do.
+
+.Behaviorism
+****
+Behavior can be explained *only* by reinforcing properties of the *environment*.
+****
+
+* The pioneer of this school is obviously link:../../people/skinner-burrhus_frederic.html[B.F Skinner].
+* A *reinforcing property* of the environment is:
+** When behavior is followed by a *reward* (money, attention, praise), then it will more likely *continue*.
+** Or by a *punishment* (pain, loss), then it is likely to *stop*.
+** Remember link:../../people/pavlov-ivan.html[Pavlov]'s research with dogs (food and the bell), leading to what he called *classical conditioning*.
+** Compliance is followed by positive reinforcement.
+* No focus was given to cognition/thinking/feeling; they were too vague for them, not observable.
+** Thus, they ignored the importance of how people _interpret their environments_.
+
+.Gestalt Psychology
+****
+Focus on studying how people subjectively perceive their environment (instead the objective, physical attributes of it).
+****
+
+* For social psychologists, behavior is not influenced directly by the situation, but by their *construal* of it. (construe = interpret)
+* This approach is rooted in *Gestalt psychology*:
+** How people perceive the physical world, in a subjective way, how it appears in our minds (the "gestalt", the whole/form).
+** Focusing on the *phenomenology* of the perceivers; how an object appears to them.
+* It was found by link:../../people/lewin-kurt.html[Kurt Lewin]
+
+.Optical illusion as an illustration of Gestalt approach to perception: Is it a rabbit or a duck? Objectively it is neither; what matters is how we construe it.
+image::images/gestalt-psychology-illusion.jpg[Gestalt illusion,400,100]
+
+
+\... PAGE 35 top ...
+gestalt-psychology-illusion.jpg
 == Basic human motives
 
 == Why study it?
 
+== Self-test
+
+Checkout the link:test.html[self-test] to verify your knowledge.

@@ -1,0 +1,21 @@
+= Kurt Lewin
+
+[#img-kurt-lewin]
+.Kurt Lewin himself
+image::lewin-kurt.jpg[Kurt Lewin,200,100]
+
+== Facts
+
+* 1890-1947
+* German-American
+* Psychologist
+* As a young German Jewish, fled in the 1930s from the Nazi regime to the US.
+
+== Achievements
+
+* Founding father of modern experimental social psychology.
+* Founder of Gestalt Psychology.
+
+== Links
+
+* https://en.wikipedia.org/wiki/Kurt_Lewin

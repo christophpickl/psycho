@@ -1,0 +1,47 @@
+= Self-test Introduction
+
+== 1. Definition
+
+. Social psychologists *explain* violent behavior primarily in terms of:
+.. personality traits
+.. genetic contributions
+.. peer group behavior
+.. upbringing
+** [hiddenAnswer]#c.#
+. Social psychologists are NOT *interested* in:
+.. Conscientious individuals are more responsive to punishment.
+.. Affect of peer group to our behavior.
+.. Others' presence shape how we think about ourselves.
+.. Influence of group task performance by its members.
+// TODO which one is the right answer?
+** [hiddenAnswer]#d.? a.?#
+. What is true about *evolutionary* psychology?
+.. Behaviors are rooted in biology, unaffected by social situations.
+.. It can hardly be tested by experiments.
+.. Behaviors have no evolutionary origin.
+.. Many unexplained social phenomena can be explained by it.
+** [hiddenAnswer]#b.#
+. What is *true* about social psychology _and_ personality psychology?
+.. Personality psychology is about how situations influence individuals, social psychology how individuals affect the situation.
+.. Social psychology focuses on individual differences, personality psychology how they behave in different situations.
+.. Social psychology is about the influence of situations, which is usually not the main focus of personality psychology.
+.. Social psychology is closer to clinical psychology, personality psychology more to evolutionary psychology
+** [hiddenAnswer]#c.#
+. Which is NOT a *goal* of social psychology?
+.. How people affect each other's behavior.
+.. Understand the construal process.
+.. Understand biological roots for individual differences.
+.. How people from different cultures/social background think/behave.
+** [hiddenAnswer]#c.#
+. Social psychology has largest *overlap* with which discipline?
+.. biology and neuroscience
+.. personality psychology
+.. clinical psychology
+.. sociology
+** [hiddenAnswer]#d.#
+
+== 2. Situation
+
+== 3. Motives
+
+== Test Yourself

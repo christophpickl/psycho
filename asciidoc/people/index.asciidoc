@@ -26,6 +26,7 @@ A list of some people good to know in the area of psychology:
 * Freud, Anna: Psychoanalysis (defense mechanisms)
 * link:freud-sigmund.html[Freud, Sigmund]: Psychoanalysis
 * link:galton-francis.html[Galton, Francis]
+* link:goldberg-lewis.html[Goldberg Lewis]
 * Goodall, Jane: Primatologist, THE expert on chimpanzees
 * link:heider-fritz[Heider, Fritz]
 * link:hobbes-thomas.html[Hobbes, Thomas]
@@ -39,6 +40,7 @@ A list of some people good to know in the area of psychology:
 * link:kuhn-thomas.html[Kuhn, Thomas]
 * link:kohut-heinz.html[Kohut, Heinz]: Psychoanalysis
 * link:leibniz-gottfried_wilhelm.html[Leibniz, Gottfried Wilhelm]
+* link:lewin-kurt.html[Lewin, Kurt]
 * link:locke-john.html[Locke, John]
 * link:milgram-stanley.html[Milgram, Stanley]
 * link:miller-george.html[Miller, George]: 7 +/- 2
