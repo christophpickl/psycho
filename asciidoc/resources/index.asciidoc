@@ -16,13 +16,15 @@ Other pages::
 
 == External Websites
 
-* The official link:https://psychology.wikia.org/wiki/Psychology_Wiki[Psychology Wiki] containing huge amount of information.
-* Online class at link:https://www.coursera.org/learn/introduction-psychology/[coursera] "Introduction to Psychology" with famous Yale professor Paul Bloom.
+* The link:https://psychology.wikia.org/wiki/Psychology_Wiki[official Psychology Wiki] containing huge amount of information.
+* Yet another link:https://psychology.fandom.com[Psychology Wiki] called " Fandom".
+* Online class at link:https://www.coursera.org/learn/introduction-psychology/[coursera] "Introduction to Psychology" with famous Yale professor link:../people/bloom-paul.html[Paul Bloom].
 * Readings like a newspaper at link:https://www.psychologytoday.com[Psychology today].
+* Psychology and philosophy applied at link:https://effectiviology.com/[Effectiviology]
 
 == Books
 
-* link:https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555[Thinking, Fast and Slow] -- Daniel Kahnemann
+* link:https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555[Thinking, Fast and Slow] -- link:../people/kahnemann_daniel.html[Daniel Kahnemann]
 
 == YouTube
 
@@ -34,7 +36,7 @@ Other pages::
 * link:https://www.youtube.com/c/SproutsVideos/videos[Sprouts] provides animated *short-clips* (<10min) for some basic psychological concepts
 * link:https://www.youtube.com/channel/UCAxD-HZ7VQT3NhsU5Ky99CQ/videos[Biophily2] contains lots of *interviews* with very famous people and audio recordings
 * link:https://www.youtube.com/watch?v=cw3e_XFIeQI&list=PLg999NlgHHrQpYnOpb7-61elKuP7HXPPa&index=1[Social Psychology] by Practical Psychology are about 25 short 5min clips with nicely drawn animations about different basic concepts
-* Three different psychotherapie approaches, one woman (Gloria):
+* Three different psychotherapy approaches, one woman (Gloria):
 ** link:https://www.youtube.com/watch?v=nc5v3HNZhjw[Client-Centered Therapy] with link:../people/rogers-carl.html[Carl Rogers]
 ** link:https://www.youtube.com/watch?v=cpUVR43jZHk[Gestalt Therapy] with link:../people/perls-fritz.html[Fritz Perls]
 ** link:https://www.youtube.com/watch?v=Jg5o0479uUQ[Rational Emotive Therapy] with link:../people/ellis-albert.html[Albert Ellis]
@@ -43,7 +45,7 @@ Other pages::
 
 * link:https://www.youtube.com/watch?v=GOwJKbJxVUM&list=PLGxWe5jW0BizVjYs0kliNrLCDWR0_74CI[Psychoanalysis lecture] 6 parts each about 2 hours
 
-=== Otherly Related
+=== Related
 
 * link:https://www.youtube.com/watch?v=hhQRH49Y54k[The psychology of digital marketing] by Rory Sutherland
 

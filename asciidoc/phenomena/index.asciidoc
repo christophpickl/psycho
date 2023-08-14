@@ -24,7 +24,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * link:change_blindness.html[Change Blindness] -- A perceptual illusion where visual changes pass unnoticed to the observer.
 * link:choice_supportive_bias.html[Choice-supportive Bias]
 * Cocktail Party effect
-* Cognitive Dissonance
+* link:cognitive_dissonance.html[Cognitive Dissonance] (Theory)
 * link:confirmation_bias.html[Confirmation Bias]
 * link:dunning_kruger_effect.html[Dunning Kruger Effect] -- The tendency of beginners to overestimate their level of skill.
 * link:hindsight_bias.html[Hindsight Bias]: "I knew it all along"
@@ -49,16 +49,16 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * link:predictable_world_bias.html[Predictable World Bias]
 * link:priming.html[Priming]
 * Proportional Bias -- Base for conspiracy theories
-* Pygmalion Effect; see "Self-fulfilling prophecies"
+* link:pygmalion_effect.html[Pygmalion Effect]
 * Scientific Bias
 // https://conservapedia.com/Scientific_bias
 * Selective Perception Bias
 * Selective Interpretation (heuristics; availability h., representative h., ...)
-* Self-Fulfilling prophecies (a.k.a. Pygmalion Effect)
+* Self-Fulfilling prophecies (related to Pygmalion Effect)
 * Self-Serving Attributional Bias; like person bias but for oneself
 * Spotlight Effect
 * Sunk Cost Fallacy
-* link:transparency_illusion.html[Transparency Illusion]
+* link:transparency_illusion.html[Transparency Illusion] (or: Illusion of transparency)
 
 // TODO: https://www.youtube.com/watch?v=wEwGBIr_RIw overconfidence, palcebo effect, survivorshop, selective, blindspot
 
@@ -73,7 +73,7 @@ Some people's medical cases (accidents and other abnormalities in medical histor
 * link:HM.html[H.M.] -- The man who was unable to form new memory. Memento anyone?
 * link:phineas_gage.html[Phineas Gage] -- Blast an iron stick through the brain, survive, and become a legend.
 // the lady, new york, got stabbed open street, no one intervened. By stander effect.
-* Murder of Kitty Genovese
+* Murder of link:kitty_genovese.html[Kitty Genovese]
 
 == Experiments
 

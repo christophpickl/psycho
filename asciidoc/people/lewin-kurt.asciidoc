@@ -10,10 +10,11 @@ image::lewin-kurt.jpg[Kurt Lewin,200,100]
 * German-American
 * Psychologist
 * As a young German Jewish, fled in the 1930s from the Nazi regime to the US.
+* Taught link:festinger-leon.html[Leon Festinger] as a student.
 
 == Achievements
 
-* Founding father of modern experimental social psychology.
+* Founding father of (modern experimental) social psychology (together with link:heider-fritz[Fritz Heider]).
 * Founder of Gestalt Psychology.
 
 == Links

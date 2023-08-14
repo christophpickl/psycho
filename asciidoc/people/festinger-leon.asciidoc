@@ -1,0 +1,20 @@
+= Leon Festinger
+
+[#img-festinger-leon]
+.Leon Festinger himself
+image::festinger-leon.jpg[Leon Festinger,200,100]
+
+== Facts
+
+* 1919-1989
+* US
+* Social Psychologist; Innovative Theorist
+* Festinger studied psychology under link:lewin-kurt.html[Kurt Lewin].
+
+== Achievements
+
+* Theory of link:../phenomena/cognitive_dissonance.html[Cognitive Dissonance] and social comparison theory.
+
+== Links
+
+* https://en.wikipedia.org/wiki/Leon_Festinger

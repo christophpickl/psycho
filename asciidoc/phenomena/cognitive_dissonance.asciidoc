@@ -1,0 +1,5 @@
+= Cognitive Dissonance
+
+* We experience discomfort when our old believes clash with new facts. We tend to bend reality a bit, so we feel comfortable again.
+* Originated from link:../people/festinger-leon.html[Leon Festinger].
+* https://en.wikipedia.org/wiki/Cognitive_dissonance

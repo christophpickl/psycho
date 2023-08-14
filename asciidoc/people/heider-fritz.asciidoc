@@ -7,12 +7,14 @@ image::heider-fritz.jpg[Fritz Heider,200,100]
 == Facts
 
 * 1896-1988
-* Austria
+* Austria (Vienna, Graz); Jewish
 * Psychologist (Gestalt)
 
 == Achievements
 
-* Creator of: attribution theory, balance theory
+* Founding father of social psychology (together with link:lewin-kurt[Kurt Lewin])
+* Creator of: link:https://en.wikipedia.org/wiki/Attribution_(psychology)[attribution theory], balance theory
+* Wrote book "_The Psychology of Interpersonal Relations_" 1958
 
 .YouTube Video: "Heider & Simmel animation", 1min
 [link=https://www.youtube.com/watch?v=sx7lBzHH7c8]

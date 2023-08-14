@@ -12,9 +12,8 @@
 .. Conscientious individuals are more responsive to punishment.
 .. Affect of peer group to our behavior.
 .. Others' presence shape how we think about ourselves.
-.. Influence of group task performance by its members.
-// TODO which one is the right answer?
-** [hiddenAnswer]#d.? a.?#
+.. Influence to group task performance by its members.
+** [hiddenAnswer]#d. (or a.?! it's a bit more about personality psychology, but also obedience (milgram) is about social psychology)#
 . What is true about *evolutionary* psychology?
 .. Behaviors are rooted in biology, unaffected by social situations.
 .. It can hardly be tested by experiments.
@@ -28,10 +27,10 @@
 .. Social psychology is closer to clinical psychology, personality psychology more to evolutionary psychology
 ** [hiddenAnswer]#c.#
 . Which is NOT a *goal* of social psychology?
-.. How people affect each other's behavior.
-.. Understand the construal process.
-.. Understand biological roots for individual differences.
-.. How people from different cultures/social background think/behave.
+.. How people *affect* each other's *behavior*.
+.. Understand the *construal* process.
+.. Understand *biological* roots for individual differences.
+.. How people from different *cultures*/social background think/behave.
 ** [hiddenAnswer]#c.#
 . Social psychology has largest *overlap* with which discipline?
 .. biology and neuroscience
@@ -42,6 +41,117 @@
 
 == 2. Situation
 
+. A *car almost hits you*. You assume he is a *reckless driver*, but in reality he rushed to the *hospital*. This is an example of:
+.. personality construction
+.. fundamental attribution error
+.. random guess
+.. none of the above
+** [hiddenAnswer]#b.#
+. What's true about the _Wall Street Game* experiment?
+.. Calling it "_Community Game_" makes people more cooperative, and calling it "_Wall Street Game_" more competitive.
+.. Calling it either "_Community Game_" or "_Wall Street Game_" makes almost no difference.
+.. Calling it "_Community Game_" doesn't make people more cooperative, but calling it "_Wall Street Game_" makes them more competitive.
+.. Calling it "_Community Game_" make people more cooperative, but calling it "_Wall Street Game_" doesn't make them more competitive.
+** [hiddenAnswer]#a.#
+. A person asks you to *give him some money* for the bus as he lost his wallet. What *influences* your *decision* most likely?
+.. his *physical appearance*
+.. his *gender*
+.. his *age*
+.. your *construal* about the situation
+** [hiddenAnswer]#d.#
+. *Gestalt psychology* states:
+.. Our views are *biased*.
+.. We construe situations *objectively*.
+.. We perceive the world through *subjective phenomenology*.
+.. *All* of the above.
+** [hiddenAnswer]#c. (a. biased, b. not really but a bit, c. for sure; thus d. a bit, but not really)#
+. *Naïve realism* refers to:
+.. A bias primarily in *younger* people.
+.. Our misbelieve that we are *objective*.
+.. People are *unrealistic*.
+.. Believe things are *accurate*, when they are not.
+** [hiddenAnswer]#d.#
+
 == 3. Motives
 
+. What is true about *social cognition*?
+.. We *ignore* reality to feel better.
+.. We try to be accurate, but lack *enough information*.
+.. We view the world *100%* accurate.
+.. We are *not concerned* being accurate.
+** [hiddenAnswer]#b.#
+. What is true about people with *high self-esteem*?
+.. We change interpretation of events to preserve it.
+.. Few care about self-esteem.
+.. We go against morals/law to preserve it.
+.. We prefer to be accurate, even if it gets damaged.
+** [hiddenAnswer]#a.#
+. Social cognition states:
+.. We *always* have accurate impressions.
+.. We *rarely* have accurate impressions.
+.. Our main goal is *feeling* good about ourselves.
+.. We *try* to be accurate, but much can *go wrong*.
+** [hiddenAnswer]#d.#
+
 == Test Yourself
+
+. Social psychology is the *study of*
+.. *feelings/thoughts/behaviors* of people in social situation.
+.. *individual* differences (such as personality).
+.. how people's social behaviors are shaped by their *survival* needs.
+.. our *cognitive* processes (such as memory/sensation).
+** [hiddenAnswer]#a.#
+. Why people *behave differently* in different *cultures*?
+.. *genetic* makeup
+.. *social* factors
+.. *evolutionary* origins
+.. *personality* traits
+** [hiddenAnswer]#b.#
+. Which statement is _false_?
+.. *Personality* psychology investigates *individual* differences.
+.. *Evolutionary* psychology explains why we *behave* differently.
+.. *Biology*/neuroscience focus on individuals in a *social context*.
+.. *All* of the above.
+** [hiddenAnswer]#c.#
+. Which is an example of the *fundamental attribution error*?
+.. "He is a *lazy* person, therefore he is *late*."
+.. "He is *late* because of the heavy *traffic*."
+.. "He *didn't talk* because he *didn't know* anyone."
+.. *None* of the above.
+** [hiddenAnswer]#a.#
+. Differences social and *personality psychology*?
+.. Social: what makes a person unique; Personality: cultural similarities/differences
+.. Social: individual differences; Personality: behave in situations
+.. Social: social influences affect us; Personality: Differences individuals
+.. Social: personality traits; Personality: how traits came to be
+** [hiddenAnswer]#c.#
+. Social psychology and *sociology* in common?
+.. demographic trends in society
+.. national institutions
+.. personality differences
+.. group processes
+** [hiddenAnswer]#d.#
+. *Construals* are:
+.. objectively deconstruct social reality
+.. communicate/exchange information
+.. perceive/comprehend/interpret the social world
+.. test subjective theories
+** [hiddenAnswer]#c.#
+. *Gestalt psychology* is the first theory about:
+.. how we perceive the social world
+.. how we learn information
+.. how we develop mental models
+.. none of the above
+** [hiddenAnswer]#a. (IMHO also a bit c.)#
+. *Self-esteem*:
+.. we interpret situations in a way to preserve it
+.. concept from personality psychology
+.. is the main factor driving the fundamental attribution error
+.. none of the above
+** [hiddenAnswer]#a.#
+. Someone is late for a meeting. How to *predict* whether the boss will be *angry*? By asking him:
+.. Are you an extravert?
+.. Was he late last week?
+.. What's the reason for him to be late?
+.. Is he a likeable person?
+** [hiddenAnswer]#c. (d. would be the more personality psychology answer)#

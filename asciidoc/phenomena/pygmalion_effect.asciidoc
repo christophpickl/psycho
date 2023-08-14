@@ -1,0 +1,25 @@
+= Pygmalion Effect
+
+* High expectations lead to improved performance (and low to worse).
+** The environment (authorities; teachers, managers) create a different context for those with these expectations.
+** The targets internalize the positive (negative) labels.
+* Naming:
+** Greek myth of link:https://en.wikipedia.org/wiki/Pygmalion_(mythology)[Pygmalion]: A sculptor fell in love with his statue and so it came alive.
+** A.k.a. "Rosenthal effect" after link:https://en.wikipedia.org/wiki/Robert_Rosenthal_(psychologist)[Robert Rosenthal]
+* Related to link:self_fulfilling_prophecy.html[self-fulfilling prophecies].
+* See: https://en.wikipedia.org/wiki/Pygmalion_effect
+
+== Rosenthal–Jacobson study
+
+Teachers were told that randomly selected students were about to experience an intellectual growth spurt. These student actually experienced a significant boost in performance because of the teacher's expectations.
+
+.YouTube Video: "The Pygmalion Effect and the Power of Positive Expectations", 6mins
+[link=https://www.youtube.com/watch?v=hTghEXKNj7g&t=119s]
+image::https://img.youtube.com/vi/hTghEXKNj7g/0.jpg[Pygmalion Effect,300]
+
+*Four factors* influencing the phenomena (teacher's behavior changed):
+
+. *Climate*: Warmer atmosphere (being nicer) for favorable students.
+. *Input*: Teacher give more material to those students.
+. *Response opportunity*: Students get more, and longer chances to respond.
+. *Feedback*: Students are more praised (positively reinforced) for right answer.

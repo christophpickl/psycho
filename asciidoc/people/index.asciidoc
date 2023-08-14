@@ -21,6 +21,7 @@ A list of some people good to know in the area of psychology:
 * link:ekman-paul.html[Ekman, Paul]: facial emotional expressions
 * link:erikson-erik.html[Erikson, Erik]: Psychoanalyst
 * link:eyseneck-hans.html[Eyseneck, Hans]: Personality
+* link:festinger-leon.html[Festinger, Leon]: Social psychology
 * link:fromm-erich.html[Fromm, Erich]
 * link:frankl-viktor[Frankl, Viktor]
 * Freud, Anna: Psychoanalysis (defense mechanisms)

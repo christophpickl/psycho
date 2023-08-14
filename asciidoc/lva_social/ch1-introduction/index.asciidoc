@@ -6,21 +6,15 @@ Why do we help complete strangers? Do we really feel attracted to opposites or a
 
 Social psychology is the scientific study of:
 
-. *Social thinking*
-.. How we perceive ourselves/others
-.. What we believe
-.. Judgements we make
-.. Our attitudes
-. *Social influence*
-.. Culture
-.. Pressures to conform
-.. Persuasion
-.. Groups of people
-. *Social relations*
-.. Prejudice
-.. Aggression
-.. Attraction and intimacy
-.. Helping
+[width="70%"]
+[cols="1,1,1"]
+|=======
+| *Social thinking*                 | *Social influence*   | *Social relations*
+| How we perceive ourselves/others  | Culture              | Prejudice
+| What we believe                   | Pressures to conform | Aggression
+| Judgements we make                | Persuasion           | Attraction and intimacy
+| Our attitudes                     | Groups of people     | Helping
+|=======
 
 .Social Psychology
 ****
@@ -35,6 +29,9 @@ Study how other people (real or imagined) influence ones thoughts, feelings, beh
 ****
 The effect of words/actions/presence of others on our thoughts/feelings/attitudes/behavior.
 ****
+
+.Social influence even by strangers in a night club
+image::images/nightclub.jpg[Nightclub,600,100]
 
 * Social influence is a major part of social psychology.
 ** It discusses topics like: *conformity, attitudes, and group processes*.
@@ -62,6 +59,9 @@ Imagine a situation with feelings of conflicting interpersonal pressure: A frien
 *** There are certain *conditions* where one or the other statement might be true.
 ** Social psychologists use scientific methods to test assumptions/guesses/ideas in a empirically/systematically way.
 * Take for example when a suicide bomber attacks, the popular story says that he must be mentally ill, alienated loner, or a psychopath. As a social psychologist, we would try to understand the circumstances of this otherwise healthy, well-educated, bright person who did that for sake of a religious/political goal.
+
+.Is a suicide attack done because the person is crazy, or because of the believe of some "higher" goal?
+image::images/suicide_bomb.jpg[Suicide Bob,600,100]
 
 === How it differs from its cousins
 
@@ -100,6 +100,9 @@ How we perceive/comprehend/interpret (=construct) the social world.
 . List situations where he will be outgoing; e.g.: a small group of friends, or sharing interests with a stranger.
 . Set up a social environment that will make him comfortable. What is the effect on his behavior?
 ====
+
+.If someone stands out of conformity, we think of the person being different, rebellious.
+image::images/conformity.jpg[Conformity,600,100]
 
 * Other *social sciences* focus more on society, economy, politics and history.
 ** *Sociology*: Focus on social class, structure and institutions.
@@ -172,17 +175,117 @@ Focus on studying how people subjectively perceive their environment (instead th
 * This approach is rooted in *Gestalt psychology*:
 ** How people perceive the physical world, in a subjective way, how it appears in our minds (the "gestalt", the whole/form).
 ** Focusing on the *phenomenology* of the perceivers; how an object appears to them.
-* It was found by link:../../people/lewin-kurt.html[Kurt Lewin]
+* It was found by German Jewish link:../../people/lewin-kurt.html[Kurt Lewin], who had a deep interest in the causes/cures of prejudice/ethnic stereotyping during the Nazi regime.
 
 .Optical illusion as an illustration of Gestalt approach to perception: Is it a rabbit or a duck? Objectively it is neither; what matters is how we construe it.
 image::images/gestalt-psychology-illusion.jpg[Gestalt illusion,400,100]
 
+* Another early founder of social psychology, link:../../people/heider-fritz[Fritz Heider], observed that "people react to what they think the other person is perceiving/feeling/thinking in addition to what they are doing".
+** We are constantly busy guessing the other person's state/motives/thoughts are; and often we are wrong about it.
+** Construals are based on things which have no objective relevance.
 
-\... PAGE 35 top ...
-gestalt-psychology-illusion.jpg
+.Naïve Realism
+****
+We think we see the world "as it is", underestimating our interpretation.
+****
+
+* Lee Ross called a special kind of construal naïve realism, our conviction to see things "as they really are".
+** People with opposite political views both think they are right, seeing how things just are.
+** Their beliefs color their interpretation.
+** We belief other people see the same thing differently, thus _they_ must be biased.
+* By being fully aware of this phenomena, the chance for compromise is more likely.
+** Asking questions like "How do you see it?" can lead to better negotiations.
+* By changing a bit in the way we communicate/advertise, we can modify the construal and thus the chance for support. Making it a personal matter, instead of a dull formal statement.
+
+.Negotiations can be difficult, as we think we see clearly and the other is biased.
+image::images/politicians.jpg[Politicians,600,100]
+
 == Basic human motives
 
+* When the need to feel good about ourselves conflicts with the need to be accurate.
+** How do we arrive at our subjective impression of the world?
+** What are we actually trying to accomplish when interpreting the social world?
+** Do we want to see things in a positive light, or be as accurate in our interpretation as possible?
+* Two needs are central when we construe the world: feeling good about ourselves, and being accurate.
+** Just other basic needs, like: hunger, thirst, fear, control, love, ...
+** Often those two conflict with each other; being accurate means to admit I was foolish/immoral.
+** And at exactly that point we can get the most valuable insight.
+** Leon Festinger emphasize the underlying dynamics of why we respond to the same stimulus in so many different ways.
+* *Edward Snowden* (2013), a spy/traitor/criminal or a whistle-blower/patriot/hero?
+** Where do those differing construals come from, and what are their consequences?
+
+=== Self-Esteem
+
+* The strong need to feel good (competent/decent) about ourselves.
+* If we justify our actions instead of learning from them, it can impede change/self-improvement.
+** Our interpretations often serve to make us feel good about ourselves.
+** This distortion makes learning from experiences unlikely.
+** We redo the same mistakes, as acknowledging our deficiencies is difficult.
+** When being bullied (new graduates in US universities), we sometimes love for what we suffered for; and that bullying can even lead to better group cohesiveness.
+* An outside observer is able to see more clearly.
+* Summed up:
+** We want to maintain a positive picture of ourselves; justifying our behavior, sometimes leading to surprising/paradox actions.
+** We might even prefer people who made us suffer, instead those who loved us.
+
+.Self-Esteem
+****
+The evaluation of our self-worth; seeing ourselves as good/competent/decent.
+****
+
+=== Social Cognition
+
+* The need to be accurate.
+* We sometimes bend reality, but usually don't completely break it, as we are skilled in social cognition.
+* We still use mental short-cuts to make judgements.
+** We are not perfect in understanding/predicting, as we never know all the facts to judge accurately.
+** All those small decisions of life, like what products to buy based on packaging.
+*** If you choose the "healthier looking" package, then you stepped in a cognitive trap: You generalized from the cover to the product, instead checking the ingredients table.
+** Or bigger decisions like which car to buy, or choosing a partner.
+
+.You might prefer the right cereals, judging it by its packaging; although it would be better to read the ingredients.
+image::images/packaging.jpg[Packaging,600,100]
+
+.Social Cognition
+****
+How we think (select/interpret/remember/use social information) about ourselves/social world -> to make judgements/decisions.
+****
+
 == Why study it?
+
+* Social psychology is the study of *social influence*, but why do we want to do that anyway? Because out of *curiosity*.
+* Social media is a social psychologist's dream laboratory.
+* To contribute to the solution of social problems:
+** Kurt Lewin escaped Nazi Germany, and wanted to understand the transformation of his country.
+** To reduce violence and prejudice; to increase altruism and tolerance.
+** To induce people to conserve resources, practice safe sex, and eat healthier.
+** Study effects of violence in media; find effective strategies to resolve conflicts; find ways to raise children's intelligence.
+* But also to study happier topics, like: passion, liking, love, and what sustains them.
+** Change your self-defeating/misguided behavior, improve relationships, and make better decisions.
+* Ask the right questions; study the social world in detail; find truths which are (close to being) universal.
+
+.Does watching violent movies make children more aggressive later on? And if so, what kind of intervention might be beneficial?
+image::images/violence_media.jpg[Violence in media,600,100]
+
+== Summary
+
+. *Define* social psychology and how it *differs* from other disciplines.
+** Scientific study of how our feeling/thoughts/behaviors are influenced by others.
+** Using empirical methods, to discover universal laws.
+** Similar to evolutionary psychology, taking genetic factors into account (hard to test experimentally).
+** Personality psychologists focus on individual character traits.
+** Indeed personalities are different, but social psychologists focus on the power of the situation. The level of analysis is on the individual within the context of a social situation.
+** Sociology focuses on society at large (groups, institutions).
+. What's the importance of how we *explain/interpret* events/ourselves?
+** Never underestimate the power of the situation. Our behavior is influenced by our social environment.
+** Fundamental attribution error: overestimate behavior based on personality traits, underestimate social influence. Situations are more powerful than we usually would think.
+** A two-way street: People perceive/interpret the social world; we use construals: the world as it is interpreted by us.
+. What happens when the need to *feel good* about yourself and being *accurate* conflict?
+** Human motives: we want to feel good about ourselves (self-esteem) and be accurate (social cognition) at the same time; which sometimes conflicts.
+** Self-esteem: We want to see ourselves as good, competent, decent. For that to preserve we need to distort our perception.
+** Social cognition: We need accurate understandings to make effective judgements. We usually act on incomplete/inaccurate interpreted information.
+. Why is the study of social psychology *important*?
+** Simply to follow our curiosity and fascination.
+** To solve social problems.
 
 == Self-test
 

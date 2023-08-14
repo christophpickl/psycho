@@ -1,0 +1,25 @@
+= Self-Fulfilling Prophecy
+
+* Definition: A prediction coming true because of one's believe/expectations.
+* Three factors influence the chance such a prophecy comes true: appearance, perception, and belief.
+** Many names for the same thing of "belief creates reality": SFP, expectancy confirmation, behavioral confirmation.
+** Related to the link:pygmalion_effect.html[pygmalion effect].
+** link:https://en.wikipedia.org/wiki/Behavioral_confirmation[Behavioral confirmation] is a type of SFP: Our expectations lead us to behave in ways, that cause others to confirm their expectations.
+* The *Thomas theorem* (or Thomas dictum) states: "_If men define situations as real, they are real in their consequences._"
+* See: https://en.wikipedia.org/wiki/Self-fulfilling_prophecy
+
+== The lucky ball
+
+.YouTube Video: "The Self-Fulfilling Prophecy of Luck", 5mins
+[link=https://www.youtube.com/watch?v=B93ueYrgLks]
+image::https://img.youtube.com/vi/B93ueYrgLks/0.jpg[Self-Fulfilling Prophecy,300]
+
+* 2 group of participants had to hit a goal:
+** One got a "lucky" ball, the other an "ordinary" one.
+** The lucky ones performed 35% better.
+* People get more confident having a lucky charm with them.
+** Also their *self-efficacy*: The believe we have the right skill to succeed.
+** People get more ambitious and are willing to put in more effort.
+* *Achievement motivation*: A sense of persistence/drive. Thinking of oneself as being lucky.
+* We make our own luck, by being more open to *unexpected opportunities*/new ideas.
+* Lucky people are also more *optimistic* (and more extroverted/open, less neurotic/tense/anxious).

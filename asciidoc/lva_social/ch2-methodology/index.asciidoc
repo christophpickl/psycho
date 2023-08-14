@@ -1,0 +1,273 @@
+= Methodology
+
+* When there is a finding that when children eat more fast food, their scores on math/reading/science will drop. Will that make you eat less fast food (although being an adult and not a child)?
+* Porn is more available than ever (45% of men and 15% of women watched porn the last week). Does it have harmful effects, like becoming more sexually violent?
+* Multiple different answers may co-exist; but how to figure out whom to believe? Is there a scientific way to answer those questions?
+
+== Empirical Science
+
+* It's common to think about findings of social psychology: "Come on, I could have predicated that! That's the same thing that happened to me last Friday."
+* When things appear to have been predictable, this tendency is called link:../../phenomena/hindsight_bias.html[hindsight bias].
+
+.Hindsight Bias
+****
+After knowing, exaggerating we could have predicted it before it occurred.
+****
+
+* After we know, we look for reasons why, which seems then more easily to be predicted.
+* The challenge is to *predict it before you know it*.
+
+[NOTE.tryit,caption=TRY IT]
+====
+*What's your prediction?* (results are based on scientific research)
+
+. An authority asks to administer *electric shocks*. How many (in percentage) would *agree*?
+** [hiddenAnswer]#Stanley Milgram showed that up to 65% agree.#
+. Giving a *reward* for which there is already enjoyment, lead to a) more b) same c) less of this activity?
+** [hiddenAnswer]#c) less of that activity#
+. "*Two heads* are better than one" is a) true b) false.
+** [hiddenAnswer]#b) false#
+. *Repeated exposure* to a stimulus will make you like it a) more b) same c) less?
+** [hiddenAnswer]#a) increases liking#
+. Asking for a *favor*, and he agrees, will make him like you a) more b) same c) less?
+** [hiddenAnswer]#a) more#
+. Who will least likely *help* a stranger: Someone who is in an a) good b) neutral c) bad mood?
+** [hiddenAnswer]#a) and c) good or bad mood, for different reasons#
+. *Women* do less good on math than men. Under which circumstances will they do as good? a) told there is no gender difference b) they will do better than man c) men outperform in all circumstances?
+** [hiddenAnswer]#a) when told there is no gender difference (otherwise added threat of confirming gender stereotype)#
+. What is true about *advertising*: a) *Subliminal* messages are better than normal b) *normal* ads are better c) both are equally good d) neither is effective?
+** [hiddenAnswer]#b) normal ads are better; there is no evidence that subliminal messages are effective#
+. What's the effect of playing *violent video games* in regards to acting aggressively: a) it increases b) it gets less c) no effect?
+** [hiddenAnswer]#a) increases#
+. When do people feel most listened to when being asked a *questionnaire*: a) with a *light* clipboard b) with a *heavy* clipboard c) the weight makes no difference?
+** [hiddenAnswer]#b) heavy clipboards mean opinion is more weight given#
+====
+
+=== Hindsight Games
+
+Demonstrate the phenomena yourself, by telling half of your friends the one and the other the other "truth":
+
+ Social psychologists have found that when choosing friends or lovers, we are most attracted to people which are different from us. The old saying seems to be true that "opposites attract".
+
+Versus:
+
+ Social psychologists have found that when choosing friends or lovers, we are most attracted to people who are similar to us. The old saying seems to be true that "birds of a feather flock together".
+
+Ask the people then to explain the result. Afterwards ask whether it was surprising or not for them. Almost everyone will find good explanations why it wasn't surprising.
+
+*Other contradictory sayings*:
+
+* Fear is stronger than love -- Love is stronger than fear
+* Out of sight, out of mind -- Absence makes the heart grow fonder
+* He that is fallen cannot help him who is down -- He that is fallen can help him who is down
+* Wise men make proverbs and fools repeat them -- Fools make proverbs and wise men repeat them
+* We should keep our eye on the prize -- We should keep our nose ot the grindstone
+* Too many cooks spoil the broth -- Two heads are better than one
+* The pen is mightier than the sword -- Actions speak louder than words
+* You can't teach an old dog new tricks -- You're never too old to learn
+* Blood is thicker than water -- Many kinfolk, few friends
+* He who hesitates is lost -- Look before you leap
+* Forewarned is forearmed -- Don't cross the bridge until you come to it
+
+=== Formulating Hypotheses and Theories
+
+* Research begins with a hunch, or a hypothesis.
+* Sometimes we have this sudden, brilliant insight.
+** Like when Greek scholar Archimedes shouted: "_Eureka! I've found it!_"
+* Science is a *cumulative process*: We generate hypotheses from previous theories and research.
+
+==== Inspiration from previous theories and research
+
+* Because of the dissatisfaction with existing theories.
+* Tried to find better ways to explain people's behavior.
+* A continuous process of theory refinement:
+[arabic]
+.. Theory is developed
+.. Hypotheses derived and tested
+.. Theory revised based on results
+.. New hypotheses formulated
+
+==== Hypotheses based on personal observations
+
+* Take the example of the link:../../phenomena/kitty_genovese.html[murder of Kitty Genovese].
+* The question of "why" do people not help the more other people are present emerged.
+* How can we display so much apathy, being indifferent to human suffering, and lack caring?
+* _Diffusion of responsibility_
+** Instead of making it a personal thing, researches looked at the social situation.
+** The more people witnessing, the less likely they will intervene.
+** We all might assume that someone else has already called the police.
+
+== Research Designs
+
+ What are the strengths/weaknesses of the various research designs?
+
+* As a scientific discipline, social psychology uses a well-developed set of methods to answer its questions.
+* Three main types of methods:
+[arabic]
+.. *Observational*: descriptive (What is the nature of a phenomena?)
+.. *Correlational*: predictive (From knowing X, can we predict Y?)
+.. *Experimental*: causal (Is variable X cause of variable Y?)
+* The challenge (where creativity is necessary) is to pick the right (maximizing its pros, minimizing its cons).
+* Philosophers have debated for centuries about certain topics; now we have the tools to provide definitive answers.
+
+=== Observational Method
+
+.Observational Method
+****
+Observing people's behavior and systematically record measurements/impressions.
+****
+
+* It is very helpful when it is about describing people's behavior.
+* It can take many different forms, depending on how involved/detached from the people, and how much to quantify the observations.
+
+==== Ethnography
+
+.Ethnography
+****
+Observing a group/culture from the inside.
+****
+
+* An example of observational method which tries to understand a group.
+** It's the "chief method" of cultural anthropology (=study of human cultures/societies).
+* Doing so from the inside, without imposing any preconceived notions.
+* link:../../people/festinger-leon.html[Leon Festinger] formulated the famous concept of link:../../phenomena/cognitive_dissonance.html[Cognitive Dissonance]:
+** In the 1950s a small cult predicted that the world would come to an end.
+** Festinger joined the cult, pretended he too believed that story.
+** On the fateful morning, there was no flood, the end of the world didn't happen.
+** Instead of admitting they were wrong, they claimed that "God had spared planet earth because of their faith".
+
+.A doomsday cult leader, changing his believes whenever he experiences cognitive discomfort.
+image::images/doomsday.jpg[Doomsday,600,100]
+
+* Key to this research method is to drop one's own preconceived notions.
+** Try to understand the point of view of the people.
+* More accuracy can be obtained by two (or more) people independently observe the same.
+** Thus, it becomes less likely that the result is subjective, and are distorted impressions of one individual.
+
+==== Archival Analysis
+
+.Archival Analysis
+****
+Observing people's behavior and systematically record measurements/impressions.
+****
+
+* Examination of accumulated documents (archives of cultures), instead of real-life behavior.
+** Documents like: dairies, novels, suicide notes, music lyrics, television shows, movies, magazine, news articles, advertising, police reports, even social media like twitter messages.
+
+==== Limits
+
+* Observational methods don't say much about the "why".
+* Some events happen only rarely or only in private.
+** For example, waiting to study the link:../../phenomena/bystander_effect.html[bystander effect] with the observational method... well, we would still wait for it, as those happen rarely and unpredictable when.
+* Think also about archival data of pornography use:
+** Interesting about who is accessing it, but tells little about the effects on our attitudes/behaviors of doing so.
+* We need more to predict/explain, we need other methods which are more appropriate!
+
+
+=== Correlational Method
+
+.Correlational Method
+****
+Measuring variables and their relationship.
+****
+
+* A method to predict social behavior. It can answer questions like:
+** Is watching pornography going to increases chances to engage in sexual violence?
+** Is watching violence in TV going to make children more aggressive?
+* Definition: Two variables are systematically measured, and the relationship assessed (how much one can be predicted from the other).
+
+.Correlation Coefficient
+****
+How well one variable can be predicted by the other.
+****
+
+* E.g. predicting people's weight based on their height.
+* Its range is from -1.0 to +1.0
+** A positive correlation means, one increases, the other increases as well (direct proportional); a negative vice versa.
+** A correlation of 0 means that the variables are completely unrelated.
+
+.Visualizations of the correlation coefficient. Interpolating a line based on a cloud of data points (link:https://www.investopedia.com/ask/answers/032515/what-does-it-mean-if-correlation-coefficient-positive-negative-or-zero.asp[source])
+image::images/correlation-graphs.png[Correlation Coefficent,600,100]
+
+==== Surveys
+
+.Surveys
+****
+Asking people about their attitudes/behaviors.
+****
+
+* The correlational method is often used to analyze results of surveys.
+* They are often anonymous, and a representative sample is being used.
+* Advantages:
+** Analyze variables which are otherwise difficult to observe.
+*** E.g.: How often do you have sex?
+** It is possible to ensure a representative segment of the population.
+
+.Random Selection
+****
+Ensuring a representative sample, everyone having an equal chance of selection.
+****
+
+* Definition: A random selection is a way to ensure that a sample of people is representative of a population; everyone is given an equal chance of being selected.
+* If the sample is reasonably large enough (about 1200, independent of the total size), it will be representing the population as a whole.
+
+==== Errors
+
+* Often misleading results are published based on failing to sample randomly (sampling errors).
+* Responses delivered by surveys can be inaccurate.
+** E.g. asking people how they might behave in hypothetical situations, or why the behave in a certain way.
+** Often people simply don't know the answer, but they think they do.
+** They are "telling more than they can know". Mostly confirming their theories/beliefs of what should have influenced them.
+
+=== Limits
+
+.There is no causation between sunburn and ice cream, although there is a correlation. There is a third, underlying causal variable: the hot weather influencing both variables.
+image::images/correlation-sun.png[Correlation Sun,600,100]
+
+* Correlation is not equal causation! (the most common methodological error in the social sciences)
+** The correlational method only tells about relation, but not causation.
+** We can only say "A is correlated with B" but not "A causes B".
+** There are three possible causal relationships: 1) A causes B 2) B causes A 3) A third variable C caused both A and B
+* E.g.: A study found correlation between birth control types and likelihood of getting an STI.
+** Those who used condoms, would have a higher chance. Thus, using condoms lead to getting an STI?
+** No, as another third variable (frequency of sex, promiscuity) influenced both.
+* E.g.: Does watching violent TV shows make children more violent themselves, or is the reverse true: Violent children begin to watch violent TV. Or is there no causal relationship whatsoever? Maybe there is a third variable, like neglectful parents at play.
+
+.Take statistic classes to understand correlation and causation (link:https://xkcd.com/552/[source])
+image::images/correlation-xkcd.png[Correlation,600,100]
+
+\... PAGE 55 ...
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Difference between correlation and causation*
+
+. question?
+** [hiddenAnswer]#answer.#
+
+For more of those, see link:https://jonfmueller.com/corrcause/correlation_or_causation.htm[Jon Mueller's website].
+====
+
+=== Experimental Method
+
+==== In/dependent Variables
+
+==== Internal Validity
+
+==== External Validity
+
+==== Field Experiments
+
+==== Replications, Meta-Analysis
+
+==== Basic vs. Applied Research
+
+== New Frontiers
+
+== Ethical Issues
+
+== Summary
+
+== Self-test
+
+Checkout the link:test.html[self-test] to verify your knowledge.

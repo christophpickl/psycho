@@ -1,0 +1,34 @@
+= Self-test Methodology
+
+== 1. Empirical Science
+
+. Why does it feel like we could have *predicted* scientific results ourselves easily?
+.. Those studies are famous, we *heard about* them.
+.. We have such an *advanced understanding* of humans.
+.. Because of the *hindsight bias*, exaggerate how easily we could have predicted it.
+.. We use the *collective unconscious memory*.
+** [hiddenAnswer]#c.#
+. What's true about psychological *findings*?
+.. Seem obvious, after we learn about them, because of the *hindsight bias*.
+.. *Most people* can easily predict results in advance.
+.. *Wise people* can easily predict them in advance.
+.. People living in the *same culture* can predict them.
+** [hiddenAnswer]#a.#
+. Why do new ideas *base on previous* theories/research?
+.. Previous experts *know it best*.
+.. Previous theories *explain it better*.
+.. Older theories/research can *always be refined*/improved.
+.. Newer psychologists are *unoriginal*.
+** [hiddenAnswer]#c.#
+
+== 2. Research Design
+
+. x
+.. x
+** [hiddenAnswer]#x.#
+
+== 3. x
+
+. x
+.. x
+** [hiddenAnswer]#x.#

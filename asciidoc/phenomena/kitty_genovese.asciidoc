@@ -1,0 +1,17 @@
+= The murder of Kitty Genovese
+
+== The Case
+
+* March 1964, Queens, New York City.
+* Kitty was raped and stabbed right outside the apartment she lived.
+* The attack lasted for 45 minutes.
+* About 40 witnesses saw / heard the attack, none of them called the police.
+* Reports (New York Times) seem to have been exaggerated; yet there is some truth in it.
+
+== Insights
+
+* Because of it, the so-called link:bystander_effect.html[bystander effect] (or "Genovese syndrome") was introduced.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Murder_of_Kitty_Genovese

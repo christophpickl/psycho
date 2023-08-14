@@ -3,6 +3,29 @@
 .How much you think people know, versus what they actually know about you
 image::transparency_illusion.jpg[Transparency Illusion,500,100]
 
-Further Reading::
+* A cognitive bias, also known as "The Illusion of Transparency".
+* Definition: *We overestimate how much others know about our mental states* (internal thoughts/emotions).
+** E.g. when you give a talk and are nervous, that others immediately will see that you are nervous (self- vs other-perception).
+** Or when you are lying, how well others will be able to detect your lie.
+** When you eat something that tastes bad, that your disgust will be apparent to others.
+* It's basically due to a natural egocentric bias; we see the world from our very own perspective and it's hard to adjust that.
 
+== Counteract
+
+* Just be being aware of it, helps.
+* Use some "self-distancing" techniques (vividly imagine how others observe you from a different perspective than your own).
+* Get feedback from others to confirm/disprove your transparency assumptions.
+* Slow down your reasoning process and create optimal conditions for rational thinking.
+* See: https://effectiviology.com/cognitive-debiasing-how-to-debias/
+
+== Similar Biases
+
+* Another manifestation of it is the _observer's illusion of transparency_, which works the other way round: We overestimate how well we understand other's mental states.
+* Similar to the _illusion of asymmetric insight_, where we think we know better then the person himself what's going on inside of him.
+* It is partially the reason for the link:bystander_effect.html[bystander effect].
+* When we think wrongly we know ourselves, but others' introspections are unreliable, we call it an _introspection illusion_, an illusion of superiority.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Illusion_of_transparency
 * https://effectiviology.com/illusion-of-transparency/

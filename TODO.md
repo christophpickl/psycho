@@ -3,6 +3,7 @@
 
 ## Content
 
+* bias https://effectiviology.com/cognitive-debiasing-how-to-debias/ (see transparency illusion already started)
 * mental/psychological/behavior/brain disorder/illness - differences?
 * stories a la jorge, witz mit 3 therapys
 * most popular experiments (prison, hans, lil albert, by-stander cathy...)
