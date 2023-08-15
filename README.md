@@ -4,6 +4,8 @@ Sourcecode (asciidoc) for my most famous psychology wiki, available here:
 
 https://christophpickl.github.io/psywiki
 
+How to release? Simply execute a `./gradlew build copyLocalDocs`, commit&push the changes, wait a few minutes - done.
+
 # Gradle Tasks
 
 * `build`: trigger asciidoc HTML generation
