@@ -97,6 +97,11 @@ Ask the people then to explain the result. Afterwards ask whether it was surpris
 ** The more people witnessing, the less likely they will intervene.
 ** We all might assume that someone else has already called the police.
 
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test1[Test yourself]
+====
+
 == Research Designs
 
  What are the strengths/weaknesses of the various research designs?
@@ -236,38 +241,377 @@ image::images/correlation-sun.png[Correlation Sun,600,100]
 .Take statistic classes to understand correlation and causation (link:https://xkcd.com/552/[source])
 image::images/correlation-xkcd.png[Correlation,600,100]
 
-\... PAGE 55 ...
-
 [NOTE.tryit,caption=TRY IT]
 ====
 *Difference between correlation and causation*
 
-. question?
-** [hiddenAnswer]#answer.#
+Remember: Correlation does not allow to make causal inferences. Think carefully about why the correlation was found. Are there any alternative explanations?
+
+. There is a positive correlation between *pet* ownership and *life expectancy*. Can pets therefor replace medical interventions?
+** [hiddenAnswer]#A third factor is possible: Exercise due to walking the dog. They also help reducing blood pressure, depression and loneliness.#
+. There is a negative correlation between social media *followers* and school *grades*. Can students improve their grades by reducing followers / delete their social media account?
+** [hiddenAnswer]#Not necessarily. It seems obvious due to the distraction, but others factors might play a role: Students studying less, are simply more interested in social media. Also, students with photographic skills might be less skilled in academic subjects.#
+. Posting *selfies* positively correlates with being an *extrovert*. Can introverts change themselves by posting more pictures?
+** [hiddenAnswer]#Probably not. People who are more extroverted are more likely to post pictures than introverts.#
+. There are more learning *disabilities* in *private schools*. Does the teaching in those schools cause these disabilities?
+** [hiddenAnswer]#Not necessarily. A third factor, the presence of school psychologists who notice and diagnose the disability, could be the actual cause. In fact, the number can be equal, just it's less likely to be identified in private schools.#
+. There is a positive correlation between a specific *web browser* and *homicide*. Could we decrease those by banning this browser?
+** [hiddenAnswer]#No: Gun owners find security/privacy more important. Murder is committed due to availability of a weapon.#
+. There is a positive correlation between being *late* and being more *creative/successful*. Can it be, that arriving late can help your career?
+** [hiddenAnswer]#Not likely, due to a third variable, as optimist tend to be more successful, as they think they have more time than they actually have.#
+. There is a negative correlation between *Eastern religions* that favor vegetarianism and *heart attacks*. Can converting to those religions reduce getting a heart attack?
+** [hiddenAnswer]#Not necessarily, but switching to vegetarianism definitely reduces heart attacks. Other factors could explain the relationship, like stress reduction due to meditation and outlooks on life.#
+. There is a negative correlation between increasing *temperatures* and number of *pirates*. Can we reverse climate change by adding more pirates to the sea?
+** [hiddenAnswer]#No, just a random convergence in math. Sociopolitical factors were at hand: Due to the industrial revolution, pirates decreased, while higher population and lifestyle changes happened at the same period.#
+. Many school *shooting* were done by students who played a specific *shooter*. Should we ban that game to prevent murders?
+** [hiddenAnswer]#Possibly. Also likely that it is the other way round though. Also it's not about a particular game, also consider other media like TV.#
+. People who are more *intelligent* *swear* more and have *messier* desks. Can you increase your intelligent by being like this as well?
+** [hiddenAnswer]#Probably not; people who are more intelligent have a larger vocabulary; people who swear more, have a bigger vocabulary. ALso, more intelligent people focus on work rather cleaning up their desks.#
 
 For more of those, see link:https://jonfmueller.com/corrcause/correlation_or_causation.htm[Jon Mueller's website].
 ====
 
 === Experimental Method
 
+* The number one method being used in social psychology, as it reveals causal relation (cause-and-effect).
+
+.Experimental Method
+****
+Random participants assigned identical conditions except one independent variable.
+****
+
 ==== In/dependent Variables
+
+.Independent Variable
+****
+Researches change it (everything else stays identical), to check its influence on the dependent variable.
+****
+
+.Dependent Variable
+****
+Researches measure it, to see if it is influenced by the independent variable.
+****
+
+* Systematically orchestrating the event and make *causal inferences*.
+* For example the "diffusion of responsibility hypothesis" was tested this way:
+** The more people witness, the less likely they intervene: the so-called link:../../phenomena/bystander_effect.html[bystander effect].
+** The number of people is the *independent variable*, which will be manipulated.
+** Measuring whether people will help or not (the *dependent variable*), influenced by the independent variable.
+** Number of bystanders influences the rate of help, but it doesn't mean it is the only cause for help.
+*** Personality, prior experience, etc. Still, it is one important determinant.
 
 ==== Internal Validity
 
+* How to ensure not other variables affected the willingness to help? Maybe something else produced this effect?
+** By keeping everything the same, except the independent variable = internal validity.
+* As mentioned earlier, maybe helping was due to personality differences, or previous experience helping in emergencies.
+** To minimize this possibility, a technique called _random assignment to condition_ was used (most important part of an experiment).
+** Everyone got an equal chance in taking part; personalities/backgrounds were evenly distributed.
+** Other variables were randomly (roughly evenly) dispersed across the different conditions.
+
+.Random Assignment to Condition
+****
+All participants have an equal chance of having any condition. Personalities/backgrounds are evenly distributed.
+****
+
+* Yet, even with random assignment, there is a (very small) possibility that people didn't distribute evenly.
+** Flip a coin 40 times, there is a chance that you get more heads than tails.
+* The analysis of how likely a results happen due to chance is called _probability level_ (or p-value).
+** If the level is lower than 5 in 100, then the result is considered to be *significant* (trustworthy).
+** The p-value indicates how confident we are that the difference is due to chance, than the independent variable.
+
+.Probability Level (p-value)
+****
+A statistical technique, indicating that the result is due to mere chance. Results are _significant_ if `p < 0.05`.
+****
+
+* A good experiment has a high internal validity: Only the independent variable influences the dependent.
+** Doing so by controlling extraneous variables, and randomly assigning participants.
+
+.Internal Validity
+****
+Only the independent variable influences the dependent, nothing else.
+****
+
 ==== External Validity
+
+* The disadvantage of an experiment is that the situation is artificial, distant from real life.
+** What does a laboratory experiment has to do with:
+*** Whether people will help in a murder in a densely populated neighborhood?
+*** Having discussion with people through an intercom system?
+** And what was the influence on the people, them knowing it's an experiment?
+
+.External Validity
+****
+Extent to which the result can be *generalized* to other situations/people.
+****
+
+* External validity is a study criteria indicating how much the study can be generalized to other situations/people.
+* Two kinds of *generalizability* are existing:
+** Generalizability across *situations*, and
+** Generalizability across *people*.
+* Criticism states, that because of the artificial setting, results cannot be generalized to real life.
+** To counteract this, psychologists try to maximize a study's *psychological realism*.
+
+.Psychological Realism
+****
+Extent to which psychological processes triggered in experiments, are similar to those in everyday life.
+****
+
+* Do the participants show types of perceptions/thoughts/behaviors and  make the same decisions, ... as in real-life situations?
+* How to increase psychological realism? If people feel involved in a real event.
+** Doing so by telling participants a *cover story* (a disguised version of the study's true purpose).
+** In real life, we don't have time to plan our response in case of an emergency, so better stage it.
+
+.Cover Story
+****
+Purpose description which is different from the real one.
+****
+
+* Generalizability across people can be helped by conducting research with diverse populations/cultures (over the internet).
+** Sometimes this is though impractical and expensive.
+** Yet, those are not valid excuses for doing poor science.
+* To overcome this, we often study basic psychological processes, assuming they are so fundamental, that they are universally shared.
+* Some processes are quite dependent on cultural factors though, so a diverse sample of people is needed.
 
 ==== Field Experiments
 
-==== Replications, Meta-Analysis
+* When doing experiments not in the laboratory, but in people's natural habitat, then we call them *field experiments*.
+
+.Field Experiments
+****
+Experiments in natural settings.
+****
+
+* The setup is (other than the place) the same with a regular laboratory experiment:
+** Control the independent variable, measure the dependent one.
+** Randomly assign people to different conditions.
+* Yet, in this case, people are unaware that they participate in an experiment.
+* It seems like a trade-off between internal and external validity.
+** Doing it in the lab is unrealistic (external) but we have full control over it (internal; no extraneous variables).
+** Doing it in real life, it is very realistic (external; generalizability) but less control (internal).
+** That problem is the so-called "*dilemma of the social psychologists*".
+
+.Basic Dilemma of the Social Psychologists
+****
+The trade-off between internal and external validity.
+****
+
+==== Replications and Meta-Analysis
+
+.Replications
+****
+Repeating the same study again (with different populations/settings).
+****
+
+* Replications are the ultimate test for a study's external validity.
+* Often the results vary though... Meta-analysis to the rescue.
+
+.Meta-Analysis
+****
+Averaging study results to check the reliability of the independent variable.
+****
+
+* This statistical technique averages the results, showing the effect of an independent variable is reliable.
+
+[NOTE.trending,caption=TRENDING]
+====
+*Correlation not equal Causation*
+
+* Foreign nationals often *adopt local names*, in order to communicate better with regular members, to demonstrate fondness for the culture, facilitate social bonding, etc.
+** E.g. local people have a hard time pronouncing/remembering their names.
+* Investigations of psychological correlational variables have shown *negative consequences* to the *self-esteem* (as well as mental/physical health and well-being in general).
+** Maybe due to loss of cultural identity.
+* Conclusion: "Who, maybe I should start using my original name."
+** Well, "Not so fast! Correlation does not equal causation!"
+* There is also the possibility of *bidirectional* association.
+** E.g. people with low self-esteem choose to adopt a local name to better assimilate with the host culture.
+* Without causal evidence, both are possible, but also a *third variable* (such as perceived social rejection) can be true.
+** Only with a proper correlational study, solid claims can be made about the variable relationship.
+====
+
+* Meta-analysis have shown that:
+** Violence in the media causes aggressive behavior.
+** Increasing the number of bystanders inhibits helping behavior.
+* Unfortunately, many studies have failed to be replicated; thus, the methods need to be further improved.
+** Goal: Make studies reliable and replicable.
 
 ==== Basic vs. Applied Research
 
+* Basic research is done to find the best answer of why people behave as they do, only to satisfy ones intellectual curiosity.
+
+.Basic Research
+****
+Studies done because of *curiosity*.
+****
+
+* In contrast, doing applied research is done to solve a particular problem.
+
+.Applied Research
+****
+Studies done because of solving practical problems.
+****
+
+* Yet, the distinction can be a bit fuzzy sometimes.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test2[Test yourself]
+====
+
+* link:../../people/lewin-kurt.html[Kurt Lewin] once said: "There is nothing so practical as a good theory".
+** To solve a social problem, we first need to understand the underlying psychological dynamics of human nature.
+
 == New Frontiers
+
+* New questions and new methods often develop hand in hand.
+
+=== Culture
+
+* Social psychology began as a Western science.
+** Nowadays, more and more cross-cultural research is being conducted.
+** Some psychological processes are universal, some are shaped by the culture.
+
+.Cross-Cultural Research
+****
+Research in different cultures, to check whether they are universal or specific.
+****
+
+* Westerners and Asians are fundamentally different in regard to perceiving/understanding the social world.
+** People interpret situations differently.
+** Personal independence versus social interdependence reflects our cultural values.
+* Not a simple thing to do, to translate materials, replicate studies, ...
+** Different viewpoints and definitions are obstacles.
+* Is it universal or culture-bound that violent video games lead to more aggressive behavior?
+** Studies showed, that in both countries, US and Japan this is the case.
+
+=== Neuroscience
+
+* Brain in is studied via brain imaging techniques (EEGs and fMRIs).
+** EEG: electro-encephalo-graphy: Electrodes on the scalp measure electrical activity.
+** fMRI: functional-magnetic-resonance-imaging: scan changes in blood flow.
+** Doing all this, while people think about/process social information.
+* The connection between biological processes and social behavior.
+** Among others: hormones, immune system and neurological processes.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test3[Test yourself]
+====
 
 == Ethical Issues
 
+* Sometimes researchers mislead people about the true purpose of a study.
+** This is done in order to create realistic, engaging situations.
+** Unfortunately leads to an ethical dilemma (both goals conflict):
+*** A) For scientific reasons, it needs to be as real as possible.
+*** B) We want to avoid any stress/discomfort/unpleasantness as much as possible.
+** We need to find middle ground, as both extremes are not realistic:
+*** A) All participants never experience any discomfort (most studies couldn't be done).
+*** B) All is fair in the name of science (goes against our innate moral values).
+
+.Informed Consent
+****
+People are upfront aware of the nature of the experiment and give permission.
+****
+
+* Things are better if researches get *informed consent*.
+** Participants are explained the nature of the experiment upfront and give permission.
+** Thus, the ethical dilemma is resolved.
+* E.g. leave people 15 minutes without phones, would they start to give themselves electrical shocks out of boredom?
+** Yes, they would (66% men, 25% women).
+
+.Deception
+****
+Misleading about the true study's purpose.
+****
+
+* Staging an experiment's events as if they were real is called a *deception experiment*.
+** Misleading participants about the true purpose of a study.
+* In these cases, the *debriefing* (post-experimental interview) is crucial.
+** Explain the true goal/purpose of the research.
+** Undo/alleviate any discomfort being done.
+
+.Debriefing
+****
+End of an experiment, explain true study's purpose.
+****
+
+* Usually people understand/appreciate the need for deception.
+** As long as explained in the debriefing session.
+** Even better: Participants reported to have learned/enjoyed more in decisive experiments.
+
+.Institutional Review Board (IRB)
+****
+Decides whether a study meets the ethical guidelines; approve before conducted.
+****
+
+* The APA (American Psychological Association) published a list of *ethical principles*.
+** To ensure dignity/safety of participants.
+* If you want to get funding, you need to have an IRB.
+** It approves/disapproves research regarding meeting the ethical guidelines.
+** Consists of: scientist, non-scientist, non-institution affiliated.
+
+[source]
+----
+Selected Ethical Principles of Psychologists in the Conduct of Research
+(Adapted from American Psychological Association Ethical Principles of Psychologists and Code of Conduct, 2017)
+
+1. [...] accuracy, honesty, and truthfulness, [...]
+2. [...] dignity and worth [...] privacy, confidentiality, and self-determination.
+3. [...] informed consent of the individual.
+4. [...] purpose of research, expected duration, and procedures [...] decline to participate [...] consequences of declining [...] risks, discomfort, or adverse effects [...] research benefits [...] confidentiality [...] incentives [...] contact for questios [...]
+5. [...] protect confidential information [...]
+6. [...] deceptive technqiues is justified [...]
+7. [...] explain any deception [...] early as is feasible.
+8. [...] opportunity for participants to obtain appropriate information [...]
+----
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test4[Test yourself]
+====
+
 == Summary
 
-== Self-test
+* Hypotheses and theories
+** Social Psychology: An empirical science, studying social influence.
+** Begin with a hypothesis (based on daily life's observations) about the effects of social influence.
+** Based on previous research findings.
+* Research designs
+** Observational
+*** Recording/describing social behavior.
+*** Useful to generate hypothesis.
+*** A) Ethnography: Observing (a group) from the inside.
+*** B) Archival analysis: Examine documents (photographs in magazines).
+** Correlational
+*** Predicting social behavior
+*** Correlation not-equals causation!
+*** A) Surveys: Ask questions. Randomly select so results are generalizable (external validity).
+** Experimental
+*** To answer causal questions (the only way to do it!).
+*** Randomly assign participants to different conditions.
+*** All identically, except independent variable (this varies).
+*** Dependent variable is being measured.
+*** Internal validity: All treated same, except independent variable.
+*** External validity: Generalizability
+**** By increasing (psychological) realism (=psychological processed triggered also happen in real life).
+*** Replicating: Same study done to different populations.
+*** Basic (answering basic question) versus applied studies (solve specific problems).
+* New Frontiers
+** Cross-cultural research
+*** Guard against own viewpoints/definitions.
+** Neuroscience
+*** Biological processes and social behavior.
+*** Study of hormones, immune system, and neurological processe in the brain.
+* Ethics
+** Safety and welfare of participants.
+** APA provides ethical guidelines.
+** Have an IRB (=institutional review board).
+** Before: informed consent.
+** After: debriefing.
 
-Checkout the link:test.html[self-test] to verify your knowledge.
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test5[Test yourself]
+====

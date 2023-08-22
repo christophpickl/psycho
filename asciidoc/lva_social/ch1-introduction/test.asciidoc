@@ -1,5 +1,6 @@
 = Self-test Introduction
 
+[#test1]
 == 1. Definition
 
 . Social psychologists *explain* violent behavior primarily in terms of:
@@ -39,6 +40,7 @@
 .. sociology
 ** [hiddenAnswer]#d.#
 
+[#test2]
 == 2. Situation
 
 . A *car almost hits you*. You assume he is a *reckless driver*, but in reality he rushed to the *hospital*. This is an example of:
@@ -72,6 +74,7 @@
 .. Believe things are *accurate*, when they are not.
 ** [hiddenAnswer]#d.#
 
+[#test3]
 == 3. Motives
 
 . What is true about *social cognition*?
@@ -93,6 +96,7 @@
 .. We *try* to be accurate, but much can *go wrong*.
 ** [hiddenAnswer]#d.#
 
+[#test4]
 == Test Yourself
 
 . Social psychology is the *study of*

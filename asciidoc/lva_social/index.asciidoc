@@ -3,6 +3,10 @@
 .Tired of looking at the stars, the professor decided to take up social psychology.
 image::study_social.png[Study Social Psychology,400,100]
 
+"_No topic is more interesting to people than people. For most people, moreover, the most interesting is the self._" (Roy Baumeister)
+
+"_It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own._" (Marcus Aurelius)
+
 == Book
 
 [#id-introduction-book]
@@ -15,7 +19,7 @@ image::book_social_psychology.jpg[Social Psychology Book,200,100]
 [arabic]
 . link:ch1-introduction/index.html[Introduction] (link:ch1-introduction/index_old.html[old version])
 . link:ch2-methodology/index.html[Methodology] -- How Social Psychologists do research
-// . link:ch3-xxx/index.html[Social Cognition] -- How We Think About the Social World
+. link:ch3-cognition/index.html[Social Cognition] -- How We Think About the Social World
 // . link:ch4-xxx/index.html[Social Perception] -- How We Come to Understand Other People
 // . link:ch5-xxx/index.html[Self-Knowledge] -- Understanding Ourselves in a Social Context
 // . link:ch6-xxx/index.html[Self-Justification] -- Cognitive Dissonance and the Need to Protect Our Self-Esteem

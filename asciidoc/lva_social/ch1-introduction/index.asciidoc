@@ -121,6 +121,11 @@ To sum up, these disciplines are focused on:
 * *Social Psychology*: Common psychological processes that make us susceptible to social influence.
 * *Sociology*: Groups, organizations, societies.
 
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test1[Test yourself]
+====
+
 == The power of the situation
 
 * How do we explain our own and other's behavior?
@@ -200,6 +205,11 @@ We think we see the world "as it is", underestimating our interpretation.
 .Negotiations can be difficult, as we think we see clearly and the other is biased.
 image::images/politicians.jpg[Politicians,600,100]
 
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test2[Test yourself]
+====
+
 == Basic human motives
 
 * When the need to feel good about ourselves conflicts with the need to be accurate.
@@ -250,6 +260,11 @@ image::images/packaging.jpg[Packaging,600,100]
 How we think (select/interpret/remember/use social information) about ourselves/social world -> to make judgements/decisions.
 ****
 
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test2[Test yourself]
+====
+
 == Why study it?
 
 * Social psychology is the study of *social influence*, but why do we want to do that anyway? Because out of *curiosity*.
@@ -287,6 +302,7 @@ image::images/violence_media.jpg[Violence in media,600,100]
 ** Simply to follow our curiosity and fascination.
 ** To solve social problems.
 
-== Self-test
-
-Checkout the link:test.html[self-test] to verify your knowledge.
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test4[Test yourself]
+====

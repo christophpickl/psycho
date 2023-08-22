@@ -37,6 +37,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * Interpretation Bias
 * link:mcgurk_effect.html[McGurk Effect] -- A perceptual illusion where seeing and hearing influence each other.
 * Insufficient Justification Effect
+* link:looking_glass_self.html[Looking Glass Self]
 * Memory Bias
 * Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
 * Moralistic Fallacy
@@ -56,7 +57,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * Selective Interpretation (heuristics; availability h., representative h., ...)
 * Self-Fulfilling prophecies (related to Pygmalion Effect)
 * Self-Serving Attributional Bias; like person bias but for oneself
-* Spotlight Effect
+* link:spotlight_effect.html[Spotlight Effect]
 * Sunk Cost Fallacy
 * link:transparency_illusion.html[Transparency Illusion] (or: Illusion of transparency)
 

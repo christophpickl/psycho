@@ -1,0 +1,6 @@
+= Spotlight Effect
+
+* Definition: Overestimating other's noticing our behavior and appearance.
+
+.Too busy with yourself
+image::spotlight_effect.png[Spotlight effect cartoon,800,100]

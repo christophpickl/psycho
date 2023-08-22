@@ -1,0 +1,71 @@
+= Social Cognition
+
+... PAGE 74 ...
+
+
+.Social Cognition
+****
+Bar
+****
+
+== Low-Effort Thinking, Autopilot
+
+=== Everyday Theorists with Schemas
+
+=== Accessibility and Priming; Which Schemas to use?
+
+=== Self-Fulfilling Prophecy; Making Schemas come true!
+
+[NOTE.trending,caption=TRENDING]
+====
+*Do you believe in astrology?*
+
+TODO
+====
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test1[Test yourself]
+====
+
+== Automatic Thinking Types
+
+=== Goal Pursuit
+
+=== Metaphors about Body and Mind
+
+=== Jugmental Heuristics; Mental Shortcuts
+
+==== Availability Heuristic
+
+==== Representativeness Heuristic
+
+==== Personality Tests
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Reasoning Quiz*
+
+. x
+** [hiddenAnswer]#x) xxxx#
+====
+
+xxx
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test2[Test yourself]
+====
+
+== Cultural Differences
+
+=== Holistic vs Analytic
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test3[Test yourself]
+====
+
+== High-Effort Thinking, Controlled Cognition
+
+...

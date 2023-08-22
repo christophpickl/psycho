@@ -4,7 +4,14 @@ Sourcecode (asciidoc) for my most famous psychology wiki, available here:
 
 https://christophpickl.github.io/psywiki
 
-How to release? Simply execute a `./gradlew build copyLocalDocs`, commit&push the changes, wait a few minutes - done.
+How to release?
+
+```shell
+./gradlew build copyLocalDocs && \
+git add . && \
+git commit -m "publish new docs" && \
+git push
+```
 
 # Gradle Tasks
 

@@ -1,0 +1,42 @@
+= Self-test Social Cognition
+
+[#test1]
+== 1. Low-Effort Thinking
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#
+
+[#test2]
+== 2. Automatic Thinking Types
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#
+
+[#test3]
+== 3. Cultural Differences
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#
+
+
+[#testX]
+== X. xxx
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#

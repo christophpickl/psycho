@@ -1,5 +1,6 @@
 = Self-test Methodology
 
+[#test1]
 == 1. Empirical Science
 
 . Why does it feel like we could have *predicted* scientific results ourselves easily?
@@ -21,14 +22,156 @@
 .. Newer psychologists are *unoriginal*.
 ** [hiddenAnswer]#c.#
 
+[#test2]
 == 2. Research Design
 
-. x
-.. x
-** [hiddenAnswer]#x.#
+. What study is best for *ethnography* (=study a culture/group from the inside)?
+.. What makes Greenpeace people commit to their ideals?
+.. Do violent games make more violent?
+.. Do people litter more, when there is already litter?
+.. Check Twitter to see people's mood fluctuation.
+** [hiddenAnswer]#a. (in case the study is done from within)#
+. Why is inter-judge reliability important observational studies?
+.. To make them more empirical.
+.. To make them more subjective.
+.. To make them less subjective (not distorted by one person).
+.. To resolve disputes between researchers.
+** [hiddenAnswer]#c.#
+. Which are the three main methods being used?
+.. observational, ethnographical, experimental
+.. correlational, observational, archival analysis
+.. correlational, observational, surveys
+.. correlational, observational, experimental
+** [hiddenAnswer]#d.#
+. Limits of observational method?
+.. Some behavior happens only rarely/privately.
+.. Participants refuse to be observed.
+.. Can only being done in lab.
+.. Only describe, but not predict behavior.
+** [hiddenAnswer]#a.#
+. Negative correlation between education and denial of climate change. What's the conclusion?
+.. Those people know more scientists.
+.. Education predicts believe in climate change.
+.. Less educated people don't know how to interpret information.
+.. Less money, less education ones are less informed.
+** [hiddenAnswer]#b. (everything else would be too far fetched; assumptions)#
+. A study checks likelihood to donate after random sample receiving (or not) a small gift. What is true about this study?
+.. It uses a correlational method.
+.. Independent variable is got the gift, dependent is donation.
+.. Independent variables is donation, dependent got the gift.
+.. Low internal validity: people receiving the gift may vary in different ways.
+** [hiddenAnswer]#a. and b.#
+. How to increase external validity (=generalizability)?
+.. Low psychological realism.
+.. Do it in lab instead field.
+.. Replicate with different population/setting.
+.. Have minimum two dependent variables.
+** [hiddenAnswer]#c.#
+. Experiments are done in the lab because:
+.. Increase internal validity.
+.. Increase external validity.
+.. Conduct a meta-analysis.
+.. Decrease psychological realism.
+** [hiddenAnswer]#a.#
 
-== 3. x
+[#test3]
+== 3. New Frontiers
 
-. x
-.. x
-** [hiddenAnswer]#x.#
+. Goal of cross-cultural research?
+.. Which things are cultural or universal.
+.. Answer things like: Are video games destroying cultures?
+.. Rank/compare cultures.
+.. Are all things dictated by culture?
+** [hiddenAnswer]#a.#
+. Goal of social neuroscience?
+.. Legitimize social psychology as a science (through EEGs and fMRIs).
+.. Settle debate whether things happen by brain or culture.
+.. Explore brain activity correlates social information processing; evaluating parts involved while think about social things.
+.. Check processes happen even without others being present; evaluating parts involved while think about social things.
+** [hiddenAnswer]#c.#
+
+[#test4]
+== 4. Ethical Issues
+
+. About informed consent.
+.. Can be done before or after.
+.. Doesn't need to explain the experiment's nature.
+.. Tell what experiences they agree on.
+.. Not necessary unless there is a deception.
+** [hiddenAnswer]#c.#
+. What is most important in experiments?
+.. As real as possible.
+.. As controlled as possible (to increase validity).
+.. Maintain health/welfare of participants.
+.. Find answers useful for society (aggression, prejudice).
+** [hiddenAnswer]#c.#
+. About debriefing (post-experimental interview).
+.. If discomfort, counteract it.
+.. Not necessary if informed consent given.
+.. Tell goals/purpose and deceptions.
+.. All of the above.
+** [hiddenAnswer]#a. and c.#
+
+[#test5]
+== 5. Test Yourself
+
+. How to devise new study ideas?
+.. Use earlier theories.
+.. Use earlier research and refine it.
+.. Based on own life experience or what's in the news.
+.. ALl of the above.
+** [hiddenAnswer]#b.#
+. Positive correlation (0.8) between income and education. What's the conclusion?
+.. After college, you'll earn 40k per year.
+.. Education has a positive effect on income.
+.. Income is the only predictor of education.
+.. The more education, the higher the income tends to be.
+** [hiddenAnswer]#d.#
+. How to improve external validity?
+.. Use observational method.
+.. Use correlational method.
+.. Use real-life setting.
+.. Use a good cover story.
+** [hiddenAnswer]#c.#
+. About cross-cultural research.
+.. To increase internal validity.
+.. At least three times replicated to be valid.
+.. Social psychology started by Westerners, which were not concerned about generalizability.
+.. Goal to see whether universal or culture-bound results.
+** [hiddenAnswer]#d.#
+. What's _not true_ about field experiments?
+.. Use real-life setting.
+.. Same design as lab experiments.
+.. Use an independent, but not a dependent variable.
+.. High in external validity.
+** [hiddenAnswer]#c.#
+. Experiment split participants randomly in half. Play violent or neutral game. Afterwards "accidental" bump into them. React aggressive or not.
+.. High external validity.
+.. Independent variable is reaction, dependent is which game.
+.. Meets the "random assignment to condition" condition.
+.. Dependent variable is reaction, independent is which game.
+** [hiddenAnswer]#d.#
+. Process/purpose of repeating same experiment to wider range of participants?
+.. Random assignment to condition; to increase generalizability.
+.. Meta-analysis; increase internal validity.
+.. Replication; increase external validity.
+.. Replication; increase internal validity.
+** [hiddenAnswer]#a.#
+. Basic dilemma of social psychology?
+.. Hard to teach, most believe in personality.
+.. Trade-off between internal and external validity.
+.. Impossible to use random selection.
+.. All behavior is influenced by culture.
+** [hiddenAnswer]#b.#
+. About new frontiers.
+.. Interested in culture, but not evolution.
+.. Interested in evolution, but not role of culture.
+.. Use brain imaging to correlate brain activity with social information processing.
+.. Cross-cultural research to show everything is universal.
+** [hiddenAnswer]#c.#
+. All except one is an ethical guideline. Which one?
+.. An IRB consists of at least a scientist, a non-scientist and an unaffiliated person.
+.. Informed consent, unless deception necessary and meets ethical guidelines.
+.. When deception, then must be debriefed.
+.. Must be a cover story for every study, because all studies involve some deception.
+** [hiddenAnswer]#d.#
