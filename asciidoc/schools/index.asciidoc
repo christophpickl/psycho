@@ -1,9 +1,0 @@
-.Schools
-. Structuralism, Functionalism
-
-. link:../schools/psychodynamic.html[Psychodynamic]
-. Cognitive
-. Behavioral
-. link:../schools/humanism.html[Humanism]
-. Positive
-// https://www.psychologytoday.com/intl/basics/positive-psychology

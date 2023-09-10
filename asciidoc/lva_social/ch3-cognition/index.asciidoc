@@ -1,27 +1,130 @@
 = Social Cognition
 
-... PAGE 74 ...
+[#img-jeopardy_watson]
+.IBM's supercomputer Watson wins _Jeopardy!_, and Big Blue won Gary Kasparov in Chess, which said that he felt: "_a twinge of IQ loss and an increase in hairiness_".
+image::images/jeopardy_watson.png[Watson wins Jeopardy,400,100]
 
+* Although computers start to beat humans more and more in intellectual tasks, there is still one critical task a human brain outperforms the fastest computer: To understand other people.
+* The human brain has evolved powerful, finely tuned instruments to think about others.
+* We are extremely good at *social cognition*: How we think about ourselves and the social world.
+** It's far from perfect and often it is error prone. It has great powers, and also some limits.
+* There are two kinds of social cognition: automatic (fast) and controlled (slow) thinking.
 
 .Social Cognition
 ****
-Bar
+How we select/interpret/remember/use social information -> to judge/decide.
 ****
+
+[#img-thinking_fast_slow]
+.Recommendation for Daniel Kahneman's book "Thinking, fast and slow".
+image::images/kahneman_thinking_bookcover.png[Thinking fast and slow,200,100]
 
 == Low-Effort Thinking, Autopilot
 
+[#img-rodin_thinker]
+.Rodin's famous sculpture, _The Thinker_, mimics controlled (slow, deliberate) thinking. Yet, most of the time we think automatically (non-conscious, unintentional, involuntary and effortless).
+image::images/rodins_thinker.png[Rodin's Thinker,300,100]
+
+* We are good at evaluating a new situation quickly and accurately.
+** Who is there. What is happening. What might happen next. Forming all sorts of impressions.
+** Without us even being aware of it.
+* It doesn't exhaust us, it is effortless.
+** All of it is done without conscious analysis of what we are doing.
+
+.Automatic Thinking
+****
+Thinking that is: non-conscious/unintentional/involuntary/effortless.
+****
+
 === Everyday Theorists with Schemas
+
+* Automatic thinking helps us to understand new situations, by relating them to prior experiences.
+** E.g.: "an engineering student" or "like my cousin Emma".
+** Not only for people, but also for places/objects/situations.
+** The "fast-food restaurant schema" gets activated, entering a restaurant we never were before, knowing not to wait at the table being served.
+
+.Schemas
+****
+Mental structures, to organize our knowledge; influencing info we notice/remember/think about.
+****
+
+* If we would have no schemas at all, everything would e inexplicable/confusing/unlike never seen anything before.
+** Remember the so-called "_Korsakov's syndrome_" neurological disorder?
+*** As Oliver Sacks described it in his famous book.
+*** The inability to form new memories; every situation as if it would be the first.
+* Schemas help in confusing/ambiguous situations.
+** The more ambiguous info is, the more we use schemas to fill in the blanks.
+* Expectations influence our impressions.
+** Different schemas lead to different perceptions.
+** E.g. "Just as I expected".
+* Still it's totally reasonable to use them to resolve ambiguity.
 
 === Accessibility and Priming; Which Schemas to use?
 
+* The world is full of ambiguous info that is open to interpretation.
+
+.Accessibility
+****
+Infos (schemas/concepts) are more likely to be used when it's at the forefront of our mind.
+****
+
+* Schemas influence the way we make judgements, due to accessibility.
+* Something becomes accessible because of 3 reasons:
+** 1. Chronically accessible, due to past experience. Those are constantly active.
+** 2. Something is related to a current goal. E.g. study for a test, it's temporarily accessible, until the test is over.
+** 3. Because of recent experiences. It was primed before encountering an event. (see also dedicated link:../../phenomena/priming.html[priming page])
+
+.Priming
+****
+Recent experiences increase accessibility of a schema/trait/concept.
+****
+
+* Can happen even though the new event is completely unrelated to the thoughts that were primed.
+* E.g. see a homeless person in the street with a bottle of water.
+** A. You just talked to your friend's father who is an alcoholic, thus -> you are primed to blame that homeless person as an alcoholic loser.
+** B. You just got out of a communication-empathy class, thus -> you see the unfortunate events of that person and have compassion.
+* Priming is a good example of automatic thinking, because it happens quickly/unintentionally/unconsciously.
+* Thoughts have to be accessible AND applicable before they will prime us (=exerting influence on our impressions of the world).
+
 === Self-Fulfilling Prophecy; Making Schemas come true!
+
+* We can inadvertently make our schemas come true, which is then called Self-Fulfilling Prophecy.
+
+.Self-Fulfilling Prophecy
+****
+Expectations influence how we act; causing others to behave consistently; thus our expectations become true.
+****
+
+* One of the most famous studies in social psychology showing the link:../../phenomena/pygmalion_effect.html[Pygmalion Effect]:
+** Told teachers that some random students will "bloom" academically.
+** Thus creating certain expectations in the teachers.
+** Those labeled as "bloomers" got indeed higher IQ scores.
+** Replicated in experimental and correlational studies.
+** Self-fulfilling prophecy is an example of automatic thinking.
+** Treating "bloomers" differently:
+*** Warmer emotional climate, more personal attention, encouragement, support.
+*** More opportunities to respond, and more response time.
+*** More material to learn, more difficult one.
+*** More and better feedback.
 
 [NOTE.trending,caption=TRENDING]
 ====
 *Do you believe in astrology?*
 
-TODO
+45% of Americans believe astrology has some scientific base. Whereas actually there is no good scientific evidence in support of astrology. But there is no _real_ power of astrology, giving people fake horoscopes randomly, and observing that the content of the horoscopes themselves caused people to act in a certain way. It's people's belief, not the horoscope itself which holds the power.
 ====
+
+* We are only human, and as such we have faulty expectations.
+** Based on: gender, race, social class, or family history.
+* Still the power is not extreme, as having low expectations put on, there is still a chance.
+** It will be just a bit harder to perform up to one's true abilities.
+
+To sum up:
+
+* We tend to reduce every day's overwhelming amount of information into manageable chunks.
+** Sometimes this information is ambiguous or difficult to decipher.
+** We use schemas to reduce the amount of and interpret information.
+** Schemas are applied quickly, effortlessly, and unintentionally -automatic thinking.
 
 [NOTE.test,caption=REVIEW QUESTIONS]
 ====
@@ -30,15 +133,92 @@ link:test.html#test1[Test yourself]
 
 == Automatic Thinking Types
 
-=== Goal Pursuit
+=== Automatic Goal Pursuit
+
+* When there are competing goals, we choose one automatically.
+** Our non-conscious minds choose the goal for us, based which goal has been recently activated/primed.
+* Priming with religious thoughts, we act more kindly. But only if people are religious to start with.
+** E.g. when just leaving the church, more likely to donate money to a homeless (activated kindness).
+* How to prime non-religious people? By being a "good citizen".
+* Goals can be activated and influence people's behaviour without them knowing it.
 
 === Metaphors about Body and Mind
 
-=== Jugmental Heuristics; Mental Shortcuts
+* How do we know how we think about someone? We check how our body is reacting.
+** Research shows that a scent of cleanliness increases the degree to trust strangers.
+*** Cleanliness is associated with morality. As in "washing away your sins" and "dirty thoughts".
+** When we are tired, we interpret the world more negatively.
+** Hot coffee activated the metaphor that friendly people are "warm".
+* An interesting study showed that the weight of the clipboard influences how much a participants opinion would be considered.
+** The survey paper was attached to the clipboard, which would be either light or heavy.
+** Schema got activated (based on the weight) whether their opinion should be given more consideration.
+** Associations of weight with importance due to "carries weight" or "adding weight to the argument".
+* The mind is connected to the body, that's just a thing. And it can be primed.
+
+=== Judgmental Heuristics; Mental Shortcuts
+
+* We can't always conduct a thorough search of every option.
+** To make things easier, we use mental strategies/shortcuts.
+** Not every decision will end up in a major research project.
+* Shortcuts are efficient, and usually lead to good decisions in a reasonable amount of time.
+* Downsides:
+** We not always have ready-made schemas available to apply.
+** Sometimes there are too many schemas available, and it's not clear which one to apply.
+
+.Judgmental Heuristics
+****
+Mental shortcuts to make judgments quickly/efficiently.
+****
+
+* The Greek word "heuristic" means "discover".
+* Most of the time, they are highly functional and serve us well.
 
 ==== Availability Heuristic
 
+* Our answers often rely on how easily different examples come to mind.
+* So we base our judgement on the ease with which it can be brought to mind.
+
+.Availability Heuristic
+****
+Basing a judgment on how easy something comes to mind.
+****
+
+* The downside: What is easiest to remember, is usually not the overall picture, leading to faulty conclusions.
+** E.g. when physicians are diagnosing diseases: A symptom can be sign of several different disorders.
+*** Once there was a tricky case, and one doctor finally got it right. Why? Because he just finished writing a book about this disease.
+*** The doctor stated: "I happened to run into each other in exactly the right place, at exactly the right time".
+* Do we use this heuristic also judge ourselves?
+** Seems so, but we often lack firm schemas about our own traits.
+** We base our judgments how easily we can recall examples of our own behavior.
+* A study checked about availability and assertiveness:
+** Ask a group to think of 6 times they behaved assertively. They then though they were pretty assertive.
+** Ask another group to think of 12 times they behaved assertively. They did not think of themselves to be assertive.
+** They based their judgments on availability, or how easily they can bring information to mind.
+** "If I can't come up with that many points, it must not be the case".
+** Or ask your students to give criticism about your class to make them like it more, iff you demand a long list.
+*** "If I can't come up with that many criticisms, it must be a great course!"
+
 ==== Representativeness Heuristic
+
+* Or: "How similar is A to B".
+
+.Representativeness Heuristic
+****
+A mental shortcut, classifying something according to how similar it is to a typical case.
+****
+
+* This seems a perfectly reasonable thing to do.
+* And we do so by using a base rate information.
+
+.Base Rate Information
+****
+Information about frequency of members of different categories in the population.
+****
+
+* What if we have a base rate information and a contradictory piece of information about something?
+** link:../../people/kahnemann_daniel.html[Kahneman] figured that people don't use base rate information sufficiently.
+** If the base rate is low, you would need to have very good evidence, to guess that this is one of the few exceptions.
+* People often focus too much on individual characteristics, and too little on the base rates.
 
 ==== Personality Tests
 
@@ -46,11 +226,31 @@ link:test.html#test1[Test yourself]
 ====
 *Reasoning Quiz*
 
-. x
-** [hiddenAnswer]#x) xxxx#
+. Does the letter k occur more often as first or third letter?
+.. First
+.. Third
+.. Equally often
+** [hiddenAnswer]#b) In fact, three times more often. link:../../people/kahnemann_daniel.html[Kahneman] figured most people think it as a) first letter, as it comes easier to mind (link:../../phenomena/availability_bias.html[availability heuristic]).#
+. Consider someone who is 1) incompetent 2) middle-aged 3) likes reading 4) asocial. Based on *representativeness heuristic*, what would most people think of him being?
+.. Sales person
+.. History professor
+.. Taxi driver
+** [hiddenAnswer]#b) Also Kahneman figured out that we assess a job based on our stereotypes.#
+. Flip a coin six times, which is more likely?
+.. HTTHTH
+.. HHHTTT
+.. Equally often
+** [hiddenAnswer]#c) Kahnemann figured that although these are random outcomes, we expect the result to "look random" (representativeness heuristic). It conforms to our conception of randomness. Same as with a lottery ticket 6957 or 1111, both are equally likely to be picked.#
+. Flip a coin five times HHHHH, what will be next?
+.. T
+.. H
+.. Equally often
+** [hiddenAnswer]#c) Kahneman figured each toss is independent, but people want to "even things out", the so-called link:../../phenomena/gamblers_fallacy.html[gambler's fallacy].#
+
 ====
 
-xxx
+* The link:../../phenomena/barnum_effect.html[Barnum Effect] explains why you might feel like "oh wow, that's me!"
+** When statements are too vague (personality checks; horoscopes?), virtually everyone can find a past behavior that is similar to (representative of) the feedback.
 
 [NOTE.test,caption=REVIEW QUESTIONS]
 ====
@@ -59,7 +259,51 @@ link:test.html#test2[Test yourself]
 
 == Cultural Differences
 
+* What is the influence of culture on social cognition?
+* Is automatic thinking done by everyone around the world? Or more common in some cultures?
+
+=== Cultural Determinants of Schemas
+
+* Everyone uses schemas, and their content are influenced by our culture.
+* Cultures inject mental structures, which influence how we interpret the world.
+* Different cultures have fundamentally different schemas
+* They strongly influence what we notice/remember about the world.
+
 === Holistic vs Analytic
+
+[#img-holistic_aquarium]
+.Looking at this picture, do you focus more on specific on the fish in the foreground and their properties (analytic/Western) or on the fish in relation to the surrounding and the context in general (holistic/Eastern).
+image::images/holistic_aquarium.png[Analytic or Holistic,300,100]
+
+* Human minds are like toolboxes filled with tools to think and act.
+** All humans have the same tools, culture determines which we use most.
+* Not all kinds of thinking are shared among all humans.
+** Some are shaped by culture.
+* In Western cultures, we tend to use an *analytic thinking style*.
+** We focus on properties of objects (foreground) without considering the surrounding context.
+
+.Analytic Thinking Style
+****
+Focus on object properties without considering context (Western style).
+****
+
+* Asian/Eastern cultures tend to have a *holistic thinking style*.
+** Focus is on the overall context (background), particularly how objects relate to each other.
+
+.Holistic Thinking Style
+****
+Focus on overall context, how objects interrelate (Eastern/Asian style).
+****
+
+* Thinking styles also influence how we perceive emotions in others.
+* They come from philosophical traditions originally; East versus West.
+** Eastern: Confucianism, Daoism, Buddhism. Emphasizing connectedness, relativity of all things.
+** Western: Greek (Aristotle, Plato). Emphasizing laws governing objects, independent of their context.
+*** _Note from Christoph_: Reductionism. Analysis (dissecting). Newtons view of a mechanical world.
+* Thinking styles might also differ due to differences in the environment.
+** More crowded cities in Japan led them to be significantly more aware of information/objects.
+* All cultures are capable of thinking in either way.
+** Whether we use one or the other depends on our environment, and even whether we were recently primed to it.
 
 [NOTE.test,caption=REVIEW QUESTIONS]
 ====
@@ -68,4 +312,180 @@ link:test.html#test3[Test yourself]
 
 == High-Effort Thinking, Controlled Cognition
 
-...
+.Controlled Thinking
+****
+Conscious, intentional, voluntary, effortful thinking.
+****
+
+* It's the hallmark of humans.
+** We are (as far as we know) the only species capable of conscious reflection.
+** We can turn it on/off and are fully aware of it.
+** It requires mental energy; we can do only one thing at a time (so much about multi-tasking).
+* So why even automatic thinking?
+** It's more powerful and prevalent than believed in the past.
+** Others think we underestimated the value and power of controlled thinking.
+
+=== Controlled Thinking and Free Will
+
+* We freely choose much less than we think we are, because of the unconscious automatic thoughts that control our behavior.
+* There is an _illusion_ of free will, which is very much like the "correlation does not equal causation" problem.
+** There might be third variable at play, an unconscious intention that caused the conscious thought/behavior.
+* The conscious thought of "I want ice cream" is the consequence of an unconscious process, and not the cause of your decision to go to the freezer.
+** The unconscious desire triggered the action.
+** We tend to believe that we exert more conscious control over events than we really are.
+* It also works the other way round:
+** See the problem with trained facilitators using keyboards (facilitated communication) to let people diagnosed with ASD communicate.
+** They unconsciously manipulated the hand of those patients, and were discredited as the trainers did the typing.
+** They didn't do it deliberately; they genuinely believed what they thought has happened.
+* Interesting fact though: The more we believe in free will, the more we are willing to hel pothers, and the less we act immorally.
+* Regardless how much free will we _really_ have, it's best to believe as we have it fully.
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Predicting the future*
+
+[upperalpha,start=1]
+. Choose one item per row that will happen most likely *to you* in a year.
+
+[cols="0,1,1,1"]
+|===
+|1. | have a well-paid job             | have a low-paid job            | both are possible
+|2. | purchase a car                   | continue public transportation | both are possible
+|3. | start a healthy lifestyle        | stay unhealthy                 | both are possible
+|4. | travel to another country        | not travel                     | both are possible
+|5. | self-improved                    | stagnant                       | both are possible
+|6. | be in close contact with friends | disconnect with friends        | both are possible
+|===
+
+[upperalpha,start=2]
+. Choose one item per row that will happen most likely to a friend of yours in a year.
+
+[cols="0,1,1,1"]
+|===
+|1. | have a well-paid job             | have a low-paid job            | both are possible
+|2. | purchase a car                   | continue public transportation | both are possible
+|3. | start a healthy lifestyle        | stay unhealthy                 | both are possible
+|4. | travel to another country        | not travel                     | both are possible
+|5. | self-improved                    | stagnant                       | both are possible
+|6. | be in close contact with friends | disconnect with friends        | both are possible
+|===
+
+Once you are done, read the following paragraphs:
+
+* We tend to believe that we have more free will than others.
+* In studies it showed we circle "both are possible" for us 52% of the cases, and for others 36%.
+* We think others' actions were more predetermined than our own.
+====
+
+=== Counterfactual Reasoning
+
+* Or: "Mentally undoing the past"
+* When do we use controlled thinking and when go on automatic pilot?
+** In negative events that were a "close call" (almost passed a test), we use counterfactual reasoning.
+
+.Counterfactual Reasoning
+****
+Imagining what might have been, by mentally changing aspects of the past.
+****
+
+* This reasoning can have a big influence on our emotional reactions to events.
+** The easier to mentally undo an outcome, the stronger the emotional reaction.
+** E.g. It makes us much angrier when failing a test by 1, than by 10 points.
+** E.g. It makes us happier to finish a competition 3rd over 2nd, as we can more easily imagine how we could have been 1st.
+* Well, if you lose next time, just try not to lose by a slim margin ;)
+* It was also shown that counterfactual reasoning about positive events increases belief in God.
+* It is conscious and effortful, as we are aware that we are obsessing about the past.
+** It is yet not always intentional/voluntary: Sometimes it's difficult to turn it off.
+** "If only" kind of thinking and rumination (thinking in circles) is a contributor to depression.
+* Counterfactual thinking can be useful to cope better in the future.
+** It gives us a heightened sense of control over our fate and motivates us to do better next time.
+
+=== Improving Thinking
+
+* Controlled thinking kicks in when an unusual event occurs.
+** E.g. when an aircraft pilot turns off the auto pilot to take control in case of trouble.
+* Improvement is difficult when we are too optimistic about the accuracy of our judgements.
+* As Kahneman et al showed, we often estimate to finish our projects in time too optimistically.
+** We tend to think that this time will be different.
+
+.Planning Fallacy
+****
+Too optimistic when we finish something, even in the past we failed to do so.
+****
+
+* We can improve our thinking by using statistical/methodological principles about how to reason correctly.
+** Lectures in research design and statistics thus can help.
+** E.g. generalize from a sample of information, only when based on a large, unbiased sample
+** Learn how to apply those principles to daily life.
+
+[NOTE.tryit,caption=TRY IT]
+====
+*How well do you reason?* (asses methodological and statistical reasoning)
+
+. "The more churches in a city, the higher the crime rate there", thus: Shut down the churches. Or not?
+.. Only 90% of cities were analyzed, but we need to reach 100%.
+.. Research team was not religious, they don't understand.
+.. Not taken the city size into account, which might be a third variable which correlates.
+.. Same was not observed in other countries. It could be inverted correlated there.
+** [hiddenAnswer]#c. Whereas others might be true as well, this answers reflects sound methodological reasoning: A better test would be the compare the crime rate in similar countries.#
+. In baseball, at the beginning batter averages first 2 weeks high, but towards the end much lower. Why?
+.. Average at beginning is just a lucky fluke.
+.. Good start creates lots of stress with a negative impact.
+.. Players get in better shape over the course of the season.
+.. The play more the corners.
+** [hiddenAnswer]#a. Whereas others might be true as well, this answer reflects sound statistical reasoning: Large sample of information would better show the true numbers. Like a coin flipped 4 times, it is easily possible to get 4 times head, but throwing it a thousand time not.#
+====
+
+* If you want to get better in accurately and logically reason on everyday problems:
+** No need to be intelligent, it's not about that.
+** Get some formal training in statistics!
+* People are like "flawed scientists", there are often blind to truths that don't fit their schemas.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test4[Test yourself]
+====
+
+=== Summary
+
+* Dis-/advantages of schemas
+** Low-effort (automatic) thinking (Auto-pilot)
+*** We are good at social cognition (=thinking about ourselves and the social world).
+*** Automatic thinking: non-conscious, unintentional, involuntary, effortless.
+** Automatic thinking with schemas
+*** Schemas (mental structures):
+*** Using past knowledge.
+*** To organize/interpret our knowledge.
+*** It influences what we notice/remember/think about.
+*** Useful to reduce ambiguity.
+** Accessibility
+*** If situation not clear, use highest in accessibility.
+*** Whatever comes easiest to mind, due to: lot used in the past, or current goal.
+** Priming
+*** Recent experiences increase accessibility of schema.
+** Self-fulfilling prophecy
+*** Expectation about another person, influences our own behavior, which causes them to behave consistently with our expectation.
+* Automatic thinking types
+** Automatic goal pursuit: If many competing goals, choose one unconsciously (been primed maybe).
+** Body-mind metaphors: physical sensations (weight of clipboard) prime a metaphor, influencing the judgment.
+** Judgmental heuristics: Mental shortcuts to make judgments quick/efficient.
+*** E.g. availability heuristic: How easy something comes to mind.
+*** E.g. representativeness heuristic: Classify something by how similar it is to a typical case.
+* Cultural influences
+** Differences: "Mind as a toolbox": We all have same, specific tools, but culture dictates which ones we use most.
+** Schema determinants: We all use schemas, but their content is influenced by culture.
+** Holistic vs analytic thinking: Western/analytic/object-properties VS Eastern/holistic/context&relations
+* Controlled thinking drawbacks/improvements
+** Controlled is high-effort, conscious, intentional, voluntary
+** Free will
+*** Discrepancy believe of causing own actions VS reality
+*** Yet believe in it: more likely to help, less likely to be immoral (cheat)
+** Counterfactual reasoning (undoing the past)
+*** Imagining "what might have been"
+** Improved thinking: Get training in statistical reasoning!
+** Flawed Scientists: Try to discover social world in logical manner, but doing so imperfectly.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test5[Test yourself]
+====

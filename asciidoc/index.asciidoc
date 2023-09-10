@@ -1,22 +1,32 @@
 = Welcome to the PsyWiki ❤️🤓
 
-"_In the seek of truth, not of comfort._"
+"_In the seek of *truth*, not of comfort._"
+
+And may this search lead us to less ignorance, as:
+
+"_We often fear what we don't *understand*. Our best defence is *knowledge*._"
+
+
+image::gestalt_cube.jpg[Negative space,300,100]
+
 
 == About
 
-The *purpose* of this wiki is primarily to collect, organize, and summarize all the knowledge acquired during my study at the link:https://www.ou.nl[Open University Netherlands]. Yet, the content started to go way beyond that, and contains now material which simply caught my interest. May you experience the same pleasure as I did while studying the vast knowledge about the human mind. Never stop to think deeply, my fellow philosopher.
+The *purpose* of this wiki is primarily to collect, organize, and summarize all the knowledge acquired during my personal psychology study. It initially started with being a formal student at the link:https://www.ou.nl[Open University Netherlands], but I decided not to proceed with such a rigid, academic approach, and instead to my own way, yet being inspired (overall structure of lectures, book choices, etc).
+
+Yet, the content started to go way beyond that, and contains now material which simply caught my interest, and I sometimes feel the urge to hold on, not being able to let go of lists of certain topics, such as cognitive biases and VIP in this domain.
+
+May you experience the same pleasure as I did while studying the vast knowledge about the human mind. Never stop to think deeply, my fellow homo sapiens philosopher.
 
 == Content
 
-Currently, *most of the content* exists for the following subjects:
+Currently most of the content exists for the following subjects:
 
 * link:lva_introduction/index.html[Introduction to Psychology]
 * link:lva_clinical/index.html[Clinical Psychology]
 * link:lva_social/index.html[Social Psychology]
 
-Everything else is mostly link:universiteit/index.html[university related] content, besides a list of link:people/index.html[very important people], as well as a collection of link:phenomena/index.html[phenomena] containing fascinating studies, experiments, real life cases, biases and other fascinating stuff.
+Everything else is mostly link:universiteit/index.html[university related] content, besides a list of very important link:people/index.html[people], as well as a collection of link:phenomena/index.html[phenomena] containing fascinating studies, experiments, real life cases, biases and other fascinating stuff.
 
 The link:meta/index.html[meta discussions] cover topics not directly related to psychology but still touch it on another level.
 For any further reading have a look at the collection of link:resources/index.html[resources].
-
-*Work in progress* is currently the page about the different link:schools/index.html[schools in psychology].

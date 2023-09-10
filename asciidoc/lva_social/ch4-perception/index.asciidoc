@@ -1,0 +1,68 @@
+= Social Perception
+
+* We might ask ourselves a long list of social questions, like:
+** Can I trust him?
+** Should I get to know him better?
+** Why is she the way she is?
+** Why is she doing what she is doing?
+* We constantly evaluate others, and try to figure out the reasons for their behavior.
+
+.Social Perception
+****
+How we form impressions of others, and draw inferences about them.
+****
+
+* Remember that episode with Lacie Pound in "Black Mirror" where people would reach other?
+** Well, a single-minded pursuit of popularity doesn't always lead to happiness
+** This satire exaggerates our current obsession with social media likes and other forms of superficiality.
+* We might not use overlays with ratings in an augmented reality, still...
+** We use external characteristics to quickly evaluate people and make snap judgements.
+** We use indicator like: Clothes, car brand, food (organic, processed, gluten-free).
+
+[#img-blackmirror]
+.Lacie Pound being socially rated; from the episode "_Nosedive_" of link:https://en.wikipedia.org/wiki/Nosedive_(Black_Mirror)[Black Mirror]
+image::images/black_mirror_lacie.jpg[Black Mirror,400,100]
+
+* We have this fundamental desire to understand people, to explain why others behave as they do.
+** Found in our recreational lives: Movies, novels, we eavesdrop on conversations, watch people flirting, and reality TV shows.
+** Simply because it fascinates us and enjoy, to think about behavior of others, to figure them out.
+
+\... PAGE 107 ...
+
+== Nonverbal Communication
+
+=== Facial Expressions of Emotions
+
+=== Culture and channels
+
+== First Impressions
+
+Quick but long-lasting
+
+=== Lingering Influence
+
+== Causal Attribution
+
+Answering the "Why" question
+
+=== Attribution Process
+
+=== Covariation Model
+
+Internal vs external attributions
+
+=== Fundamental Attribution Error
+
+People as personality psychologists
+
+=== Self-Serving Attributions
+
+=== Bias Blind Spot
+
+== Culture
+
+=== Holistic vs Analytic Thinking
+
+=== Fundamental Attribution Error
+
+=== Other Attributional Biases

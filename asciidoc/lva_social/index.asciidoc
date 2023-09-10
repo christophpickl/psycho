@@ -20,7 +20,7 @@ image::book_social_psychology.jpg[Social Psychology Book,200,100]
 . link:ch1-introduction/index.html[Introduction] (link:ch1-introduction/index_old.html[old version])
 . link:ch2-methodology/index.html[Methodology] -- How Social Psychologists do research
 . link:ch3-cognition/index.html[Social Cognition] -- How We Think About the Social World
-// . link:ch4-xxx/index.html[Social Perception] -- How We Come to Understand Other People
+. link:ch4-perception/index.html[Social Perception] -- How We Come to Understand Other People
 // . link:ch5-xxx/index.html[Self-Knowledge] -- Understanding Ourselves in a Social Context
 // . link:ch6-xxx/index.html[Self-Justification] -- Cognitive Dissonance and the Need to Protect Our Self-Esteem
 // . link:ch7-xxx/index.html[Attitudes] -- Influencing Thoughts and Feelings

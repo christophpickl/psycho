@@ -1,42 +1,196 @@
 = Self-test Social Cognition
 
 [#test1]
-== 1. Low-Effort Thinking
+== 1. Low-Effort (Automatic) Thinking
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. Function of schemas.
+.. They usually give erroneous judgements because of the self-fulfilling prophecy.
+.. Always beneficial, organize world, fill in knowledge gaps.
+.. Useful to organize information, problematic when resulting in self-fulfilling prophecy.
+.. Organize information about others, but not events (such as eating in a restaurant).
+** [hiddenAnswer]#c.#
+. How does a schema _not_ become available?
+.. The more negative the content, the more likely accessible.
+.. Due to past experiences.
+.. Temporarily due to priming.
+.. Related to current goals.
+** [hiddenAnswer]#a.#
+. Example of self-fulfilling prophecy?
+.. Husband not as helpful as friends', but does help with household chores.
+.. Teacher believes some students are unmotivated; the fall behind, worse in tests.
+.. Female narrators are not as dependable; yet, novel proves otherwise.
+.. Thinking people are unfriendly, but when meet them they are friendly.
+** [hiddenAnswer]#b.#
+. Two groups in research have to identify colors and memorize (different) list of words. Both then read the same about a fictional character. One forms positive, the other negative impression; why?
+.. Priming with different words activated relevant schemas.
+.. Both groups were exposed to different information about the character.
+.. Availability heuristic used by one group.
+.. More controlled thinking used by one group.
+** [hiddenAnswer]#a.#
+. Someone is not the smartest guy in the office, but very confident. Superiors trust him, give more responsibilities. Later is doing super well. Why?
+.. Self-affirmation theory
+.. Self-fulfilling prophecy
+.. Representativeness heuristic
+.. Availability heuristic
+** [hiddenAnswer]#b.#
 
 [#test2]
 == 2. Automatic Thinking Types
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. What's "automatic goal pursuit"?
+.. We select goals only by controlled thinking.
+.. We often select goals recently primed, without realizing it.
+.. We often select goals which were primed, but only if we are consciously aware of it.
+.. We never select our goals consciously; they are only automatically primed.
+** [hiddenAnswer]#b.#
+. Imagine someone who is in high school, loves babysitting, is soft-spoken, calm, and nurturing. Which heuristic is being used if we would judge her becoming either a teacher or an accountant?
+.. Availability h.
+.. Representativeness h.
+.. Anchoring and adjustment h.
+.. Encoding h.
+** [hiddenAnswer]#b.#
+. Ask people for 7 / 14 instances where they were brave. What happens?
+.. The 7-group thinks more brave than 14-group.
+.. No differences.
+.. Both rate less brave than control group.
+.. The 14-group thinks less brave than 7-group.
+** [hiddenAnswer]#a. and d. (semantically identical answers)#
+. Why do people believe horoscopes are accurate descriptions?
+.. They are written vaguely, so people view them as representative.
+.. They trigger automatic decision making.
+.. People find it difficult to bring examples to mind which are similar to the horoscope.
+.. They automatically prime people's life goals.
+** [hiddenAnswer]#a.#
 
 [#test3]
 == 3. Cultural Differences
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. Holistic thinking style.
+.. Focus object properties, without context.
+.. West can holistically, if primed so (Japanese pictures).
+.. It has genetic basis.
+.. Roots in Greek philosophy.
+** [hiddenAnswer]#b.#
+. Cultural differences in social cognition.
+.. West focus foreground, East on background.
+.. West focus background, East on foreground.
+.. West focus both, East only foreground.
+.. West focus foreground, East both.
+** [hiddenAnswer]#a.#
+. Analytic thinking style.
+.. Focus context, and object relation.
+.. Focus properties without context.
+.. Conscious/intentional/voluntary/effortful thinking.
+.. Non-conscious/unintentional/involuntary/effortless thinking.
+** [hiddenAnswer]#b.#
+. What accounts for cultural differences (holistic vs analytical)?
+.. Gender ratio
+.. Philosophical traditions
+.. Weather patterns
+.. Education systems
+** [hiddenAnswer]#b.#
+. Pictures of cities in Japan contain more (compared to US)...?
+.. Businesses, advertisements
+.. People, residences
+.. Objects competing for attention
+.. Buildings, concrete
+** [hiddenAnswer]#c.#
+
+[#test4]
+== 4. High-Effort (Controlled) Thinking
+
+. Today you don't take the train to work because it might be late and you have an important meeting, so you take the taxi instead. There is heavy traffic and you are 20 minutes later than expected. You will most likely engage in what now?
+.. Engage in counterfactual thinking
+.. Blame the taxi
+.. Experience cognitive dissonance
+.. Avoid taxis in the future
+** [hiddenAnswer]#a. #
+. Free will
+.. We rarely overestimate control.
+.. We sometimes underestimate control.
+.. We have free will in almost everything.
+.. The more we believe in free will, the more we are immoral.
+** [hiddenAnswer]#? (none?!)#
+. What is facilitated communication?
+.. Promising new way to let impaired people communicate.
+.. Facilitators were deliberately faking answers.
+.. Facilitators unknowingly determined the answers.
+.. It helped with mild, but not severe cases.
+** [hiddenAnswer]#c.#
+. How needs attitude-inconsistent behavior be, to experience more cognitive dissonance?
+.. Unconsciously performed
+.. Freely chosen
+.. Coerced to perform
+.. Receive lots of money
+** [hiddenAnswer]#?#
+. Best analogy for thinking abilities?
+.. Cognitive misers
+.. Motivated tacticians
+.. Skilled detectives
+.. Flawed scientists
+** [hiddenAnswer]#d.#
 
 
-[#testX]
-== X. xxx
+[#test5]
+== 5. Test Yourself
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. Research on automatic thinking
+.. Vital for survival, but imperfect, mistaken judgements with consequences
+.. Super accurate, rarely errors
+.. Usually errors
+.. Best when done consciously
+** [hiddenAnswer]#a.#
+. Car drivers runs a red light. Person A judges as reckless, B as "in an emergency". Why interpreted differently?
+.. A uses controlled thinking, B not
+.. They have different personalities
+.. A is liberal, B is conservative
+.. Different schemas accessible, via recent experiences that primed different schemas
+** [hiddenAnswer]#d.#
+. Use of schemas
+.. An example of controlled thinking
+.. When incorrect schema, rarely act to make it come true
+.. Can be erroneous, still useful to organize info, and filling gaps
+.. Schema choice influenced only what is chronically accessible; not goals or primed
+** [hiddenAnswer]#c.#
+. You believe Brits are unfriendly. You meet one at a party and act unpleasant toward him. He in turn acts cold and hostile to you.
+.. Analytic thinking
+.. Representativeness heuristic
+.. Cognitive dissonance
+.. Self-fulfilling prophecy
+** [hiddenAnswer]#d.#
+. Deciding whether friendly or not, base judgment on remember number of smiles received.
+.. Representativeness heuristic
+.. Availability heuristic
+.. Framing effect
+.. Counterfactual reasoning
+** [hiddenAnswer]#b.#
+. What's least automatic thinking?
+.. Acting according primed goals
+.. Use body metaphors to judge
+.. Counterfactual reasoning
+.. Self-fulfilling prophecy
+** [hiddenAnswer]#c.#
+. You usually go to store A, but today decide to go to store B. You get robbed and think "If only I had not gone there". Why thoughts like this?
+.. Expected positive events that day
+.. Store B is unusual
+.. Initially wanted to go to store A
+.. Both b. and c.
+** [hiddenAnswer]#c.#
+. Research on controlled thinking and free will shows:
+.. Disconnect between conscious about motivations and what's really going on
+.. Doesn't matter whether believe in it or not
+.. Primate have same free will as humans
+.. We definitely have no free will
+** [hiddenAnswer]#a.#
+. You are being told a guy is a mechanic. Then watch a video where he says stereotypical things about professors and then also about mechanics. Schema theory would say you will remember more of:
+.. later things (than initial)
+.. initial things (than later)
+.. mechanic-related things (than professor)
+.. professor-related things (than mechanic)
+** [hiddenAnswer]#c.#
+. Conclusion about social cognition
+.. Better only use controlled thinking
+.. We are amazing at it, but room for improvement
+.. Same in all cultures
+.. Setting goals can only be done by controlled thinking
+** [hiddenAnswer]#b.#

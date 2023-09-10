@@ -19,6 +19,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * link:availability_bias.html[Availability Bias]
 * link:bandwagon.html[Bandwagon Effect]
 * Baby-face Bias
+* link:barnum_effect.html[Barnum Effect]
 * Baseline -- very difficult for humans; Kahnemann
 * Bystander Effect
 * link:change_blindness.html[Change Blindness] -- A perceptual illusion where visual changes pass unnoticed to the observer.

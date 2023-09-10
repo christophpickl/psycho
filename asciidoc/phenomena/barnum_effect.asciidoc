@@ -1,0 +1,7 @@
+= Barnum Effect
+
+* When statements are too vague (personality checks; horoscopes?), virtually everyone can find a past behavior that is similar to (representative of) the feedback.
+* You should remind yourself more often of "how many times did I NOT feel or act this way".
+* Named after the circus owner and showman P.T. Barnum.
+* It uses the representativeness heuristic.
+* https://en.wikipedia.org/wiki/Barnum_effect
