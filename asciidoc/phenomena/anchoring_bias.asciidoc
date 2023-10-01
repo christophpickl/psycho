@@ -32,7 +32,7 @@ Now imagine the first time I would have said 10k instead of 30k...
 
 == Example 3
 
-* link:../people/kahnemann_daniel.html[Daniel Kahneman] and Amos Tversky researched this phenomena with several studies.
+* link:../people/kahnemann-daniel[Daniel Kahneman] and Amos Tversky researched this phenomena with several studies.
 * Participants were asked to calculate the result of one of two within 5 seconds: 1 x 2 x 3 x 4 x 5 x 6 x 7 x 8 or 8 x 7 x 6 x 5 x 4 x 3 x 2 x 1
 * Because of the limited time, they had to guess.
 * For the first instruction the median of the guesses was 512, and for the second 2,250 (the correct answer is 40,320).

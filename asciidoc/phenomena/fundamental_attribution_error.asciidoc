@@ -1,0 +1,5 @@
+= Fundamental Attribution Error
+
+* Social psychology
+* Also known as: "_correspondence bias_", or "_person bias_".
+* We overestimate internal, and underestimate situational factors, when explaining people's behavior.

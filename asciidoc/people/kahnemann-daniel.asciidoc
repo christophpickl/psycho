@@ -1,0 +1,20 @@
+= Daniel Kahnemann
+
+[#img-kahnemann-daniel]
+.Daniel Kahnemann himself
+image::kahnemann-daniel.jpg[Daniel Kahnemann,200,100]
+
+== Facts
+
+* 1934- (age 89)
+* Israeli-American
+* Psychologist, economist, author.
+
+== Achievements
+
+* Nobel prize 2002 in economic sciences (because there is no Nobel prize for psychology).
+* With Amos Tversky, research about cognitive biases and published a famous book about it: link:https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow[Thinking, Fast and Slow]
+
+== Links
+
+* https://en.wikipedia.org/wiki/Daniel_Kahneman

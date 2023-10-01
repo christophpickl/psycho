@@ -1,3 +1,22 @@
 = Edward Lee Thorndike
 
-// TODO fill content
+[#img-thorndike-edward]
+.Edward Thorndike himself
+image::thorndike-edward.png[Edward Thorndike,200,100]
+
+== Facts
+
+* 1874-1949 (age 74)
+* America
+* Psychologist
+
+== Achievements
+
+* Pioneer in behaviorism.
+* Comparative and educational psychology, learning processes.
+* Theory of _Connectionism_.
+* Skinner's reinforcement theory; Law of Effect.
+
+== Links
+
+* https://en.wikipedia.org/wiki/Edward_Thorndike

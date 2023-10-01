@@ -35,6 +35,18 @@ image::images/big5-factors.jpg[Factors,500,100]
 
 CAVE: Being high on a trait doesn't imply a value judgement. One is not better by scoring higher on a trait, it just indicates a personality trait. For example, being an introvert is not "worse" than being an extrovert. People are simply different.
 
+What it makes also different from other tests (Meyers Briggs which is considered pseudo-scientific) that everyone will be placed on a scale, rather in big groups with an arbitrarily drawn line, respecting more the vast diversity of people's personality.
+
+*In short they are*:
+
+Remember them by remembering the word OCEAN:
+
+. **O**penness to experience: Intellect, imagination (instead traditional, conventional).
+. **C**onscientiousness: Careful, diligent (instead impulsive, disorganized).
+. **E**xtroversion: Outgoing and social (instead being a "shut in" introvert).
+. **A**greeableness: Friendly, optimistic (instead critical, aggressive).
+. **N**euroticism: Emotional stability.
+
 === Openness
 
 image::images/big5-openness.jpg[openness,200,100]
@@ -105,7 +117,19 @@ It's not a factor of meanness or incompetence, but one of confidence and being c
 
 **Low**: Confident, sure of oneself, and adventurous. Brave and unencumbered by worry or self-doubt.
 
+== Meyers-Briggs-Test
+
+Developed by a mother and her daughter, both without an academic background, based on C.G. Jung's archetypes, this pseudo scientific approach is still used a lot these days. People are categorized by 4 traits, and the combination of those result in 16 different groups.
+
+. Extravert (E) / Introvert (I) - Where do you get your energy from?
+. Facts, Perception (S) / Intuition (N) - Which information do you use?
+. Rational (T) / Value, Morals (F) - How do you decide?
+. Planned (J) / Spontaneous (P) - How do you behave/act?
+
 == Resources
 
 * link:https://positivepsychology.com/big-five-personality-theory/[Article from positive psychology] which was used to write this page.
 * A 40 minutes link:https://open.spotify.com/episode/1Vx8F4KQoNCfbzIKbg4IEk?si=qO8zjbP_TSKXEdok8s_6Zg[podcast] on Spotify.
+* Online tests:
+** link:https://www.123test.nl/persoonlijkheidstest/[https://www.123test.nl/persoonlijkheidstest/] (Dutch)
+** link:https://openpsychometrics.org/tests/IPIP-BFFM/[https://openpsychometrics.org/tests/IPIP-BFFM/] (English)

@@ -1,0 +1,32 @@
+= Strange Situation Test
+
+* A procedure developed by link:../people/ainsworth-mary.html[Mary Ainsworth] to test their attachment style.
+
+== The procedure
+
+1. A child with her mother in a room, with toys.
+2. A stranger enters.
+3. The mother leaves the child, which then would start to cry.
+4. The mother returns.
+
+What's being observed are the following factors:
+
+* How much the child played.
+* How the child behaved when the mother left.
+* How anxious the child is while being alone.
+* How the child behaved when the mother returned.
+
+Based on the answers, four patterns of attachment can be concluded:
+
+1. Secure
+2. Anxious-avoidant, insecure
+3. Anxious-ambivalent/resistant, insecure
+4. Disorganized/disoriented
+
+== Resources
+
+.YouTube Video: "The Strange Situation - Mary Ainsworth", 3mins
+[link=https://www.youtube.com/watch?v=QTsewNrHUHU]
+image::https://img.youtube.com/vi/QTsewNrHUHU/0.jpg[Strange Situation,300]
+
+* https://en.wikipedia.org/wiki/Strange_situation

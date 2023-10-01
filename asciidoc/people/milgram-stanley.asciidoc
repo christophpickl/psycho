@@ -1,5 +1,19 @@
-Famous experiment on obedience: Making participants believe they have to give real electric shocks to a person with a heart condition. Although the older man stopped responding, the participant was asked to deliver higher and higher levels of shock.
+= Stanley Milgram
 
-Movies:
+[#img-milgram-stanley]
+.Stanley Milgram himself
+image::milgram-stanley.jpg[Stanley Milgram,200,100]
 
-* link:https://www.imdb.com/title/tt3726704/[Experimenter: The Stanley Milgram Story], showing his famous experiment and life story together with his wife, US 2015 (link:https://www5.putlockerhd.io/film/experimenter-qpp/watching.html[watch online])
+== Facts
+
+* 1933-1984 (age 51)
+* America
+* Social psychologist
+
+== Achievements
+
+* Best known for his controversial experiments on obedience: link:../phenomena/milgrams_experiment.html[Milgram's Obedience Experiment]
+
+== Links
+
+* https://en.wikipedia.org/wiki/Stanley_Milgram

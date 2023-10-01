@@ -1,1 +1,20 @@
-Leibniz
+= Gottfried Wilhelm Leibniz
+
+[#img-leibnitz_gottfried_wilhelm]
+.Gottfried Wilhelm Leibniz himself
+image::leibnitz_gottfried_wilhelm.jpg[Gottfried Wilhelm Leibniz,200,100]
+
+== Facts
+
+* 1646-1716 (age 70)
+* Germany
+* Polymath (mathematician, philosopher, scientist, diplomat)
+
+== Achievements
+
+* Also "The Last Universal Genius"
+* Also the "founder of computer science", refining the binary number system, base for the Von Neumann architecture
+
+== Links
+
+* https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz

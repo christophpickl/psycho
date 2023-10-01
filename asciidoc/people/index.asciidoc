@@ -35,7 +35,7 @@ A list of some people good to know in the area of psychology:
 * link:james-william.html[James, William]
 * link:jung-cg.html[Jung, Carl Gustav]: Analytical Psychology, Freud the mentor
 * link:kant-immanuel.html[Kant, Immanual]
-* link:kahnemann_daniel.html[Kahnemann, Daniel]
+* link:kahnemann-daniel[Kahnemann, Daniel]
 * link:kernberg-otto.html[Kernberg, Otto]: Psychoanalysis
 * link:klein-melanie.html[Klein, Melanie]: Psychoanalysis
 * link:kuhn-thomas.html[Kuhn, Thomas]

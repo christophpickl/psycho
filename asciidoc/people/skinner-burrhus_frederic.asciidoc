@@ -1,4 +1,21 @@
 = B.F. Skinner
 
+[#img-skinner]
 .Burrhus Frederic Skinner himself while living his dream: Torturing little creatures.
 image::skinner-burrhus_frederic.jpg[B.F. Skinner,200,100]
+
+== Facts
+
+* 1904-1990 (age 86)
+* America
+* Psychologist, behaviorist, author, inventor, social philosopher
+
+== Achievements
+
+* Father of (radical) Behaviorism
+** Together with link:watson-john.html[John Watson] and link:pavlov-ivan.html[Ivan Pavlov].
+** Free will is an illusion. Principle of reinforcement.
+
+== Links
+
+* https://en.wikipedia.org/wiki/B._F._Skinner

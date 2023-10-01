@@ -6,14 +6,50 @@ image::adler-alfred.jpg[Alfred Adler,200,100]
 
 == Facts
 
-* 1870-1937
-* Austria (-Hungary)
+* 1870-1937 (died in the US after emigration 1930)
+* Austria, Vienna (-Hungary); born to a Jewish family
 * Medical doctor, psychotherapist
+* Greatly influenced by socialism and Freud.
 
 == Achievements
 
-* Founder of: *Individual Psychology*
+* Founder of: *Individual Psychology* (after his break from the psychoanalytic movement)
+** Emphasizing importance of: belonging, family constellation, birth order; social interest ("Gemeinschaftsgefühl)
+** Independent (from Freud) school of psychotherapy ("Adlerian") and unique personality theory.
+** "The ultimate objective of classical Adlerian psychotherapy is to replace exaggerated self-protection (safeguarding), self-enhancement and self-indulgence, with greater self-knowledge and genuine, courageous social feelings".
+* Coined the term _inferiority complex_
 
-== Links
+== Background
 
-* https://en.wikipedia.org/wiki/Alfred_Adler
+* His relationship to Freud:
+** Defended Freud's work, got invited to his home ("Mittwochsgesellschaft"), starting the psychoanalytic movement.
+** He especially admired Freud's work on dream interpretation.
+** They were colleagues (not pupil of one another), yet Adler had different ideas diverging from Freud's.
+* Influenced by Dostoyevsky, Kant, and Nietzsche.
+* Early supporter of feminism in psychology and the social world.
+
+=== Books
+
+* link:https://www.amazon.nl/Courage-Be-Disliked-yourself-happiness-ebook/dp/B074TWG8V7/[The Courage To Be Disliked - How to free yourself, change your life and achieve real happiness]
+* link:https://www.amazon.nl/Understanding-Life-Introduction-Psychology-Alfred/dp/1851686975/[Understanding Life - An Introduction to the Psychology]
+* link:https://www.amazon.nl/Practice-Theory-Individual-Psychology/dp/1614271437/[The Practice and Theory of Individual Psychology]
+* link:https://www.amazon.nl/Menschenkenntnis-Alfred-Adler/dp/3866471955/[Menschenkenntnis]
+* link:https://www.amazon.nl/Sinn-Lebens-Alfred-Adler/dp/3866471963/[Der Sinn des Lebens]
+
+== Links and Resources
+
+https://en.wikipedia.org/wiki/Alfred_Adler
+
+.YouTube Video: "Alfred Adler on film (1929)", 4mins
+[link=https://www.youtube.com/watch?v=3K1E-JFoMII]
+image::https://img.youtube.com/vi/3K1E-JFoMII/0.jpg[Adler Himself,300]
+
+.YouTube Video: "The Psychology of Alfred Adler: Superiority, Inferiority, and Courage", 9mins
+[link=https://www.youtube.com/watch?v=t3TbSjZ_fxc]
+image::https://img.youtube.com/vi/t3TbSjZ_fxc/0.jpg[Psychology of Adler,300]
+
+.YouTube Video: "The Courage To Be Disliked: Three Key Lessons (Book Summary)", 6mins
+[link=https://www.youtube.com/watch?v=2E9YnRcHMes]
+image::https://img.youtube.com/vi/2E9YnRcHMes/0.jpg[Courage to be disliked,300]
+
+*Presentation*: link:https://www.youtube.com/watch?v=npXF1JKh7sQ[History], link:https://www.youtube.com/watch?v=9-Q9Gnxupyo[inferiority complex], link:https://www.youtube.com/watch?v=0ag56H7mmak[key concepts]

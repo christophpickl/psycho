@@ -184,11 +184,12 @@ Most used tests:
 . *Big Five*:
 ** Most used and best validated personality test (statistical method of factor analysis).
 ** The areas are (OCEAN):
-... Openness to experience: Intellect, imagination (instead traditioanl, conventional).
+... Openness to experience: Intellect, imagination (instead traditional, conventional).
 ... Conscientiousness: Careful, diligent (instead impulsive, disorganized).
 ... Extroversion: Outgoing and social (instead being a "shut in" introvert).
-... Agreeableness: Friendly, optimistic (isntead critical, aggressive).
+... Agreeableness: Friendly, optimistic (instead critical, aggressive).
 ... Neuroticism: Emotional stability.
+** See the link:../../resources/big5.html[dedicated wiki page] on the Big 5.
 ** Online tests:
 *** link:https://www.123test.nl/persoonlijkheidstest/[https://www.123test.nl/persoonlijkheidstest/] (Dutch)
 *** link:https://openpsychometrics.org/tests/IPIP-BFFM/[https://openpsychometrics.org/tests/IPIP-BFFM/] (English)

@@ -7,7 +7,7 @@ image::jung-cg.jpg[C.G. Jung,200,100]
 == Facts
 
 * 1875-1961
-* Swizterland
+* Switzerland
 * Psychiatrist, psychoanalyst
 
 == Achievements

@@ -1,11 +1,201 @@
 = Self-Test Social Perception
 
-[#testX]
-== X. xxx
+[#test1]
+== 1. Nonverbal Communication
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x. #
+. Facial expressions of disgust and fear.
+.. Movements are the same.
+.. Fear decreases, disgust enhances perception.
+.. Fear less air and slower eye movements than disgust.
+.. Movements are oppositional.
+** [hiddenAnswer]#d.#
+. Ekman about ability to interpret 6 major emotions.
+.. Based on cultural experiences.
+.. Result of individual's predispositions.
+.. Is cross-cultural.
+.. Is individualistic.
+** [hiddenAnswer]#c.#
+. On pride.
+.. Not able to decode.
+.. Expressed by slumped shoulders, sunken chest.
+.. Accurately decoded.
+.. Not associated with winning.
+** [hiddenAnswer]#c.#
+. Decoding is complicated because...
+.. One part registers one emotion, other another ("affect blend").
+.. Same expression, similar implications irrespective of context/cues.
+.. Display rules are not culture-specific.
+.. Eye gazing is unrelated to decoding (approach/avoidance-oriented emotions).
+** [hiddenAnswer]#a.#
+. On emblems.
+.. Culture-specific.
+.. Understandable cross-culturally.
+.. Don't say anything about intentions.
+.. Cross-culturally interpreted similarly.
+** [hiddenAnswer]#a.#
+
+[#test2]
+== 2. First Impressions
+
+. Which kind of face (indicating about personality) would win a political election?
+.. Amiable (kind)
+.. Competent
+.. Warm/friendly
+.. Calculating/powerful
+** [hiddenAnswer]#d. (but also c., as: powerfulness, warmth)#
+. True about social perception
+.. Based one face, know sexual orientation
+.. Looks infer character/personality
+.. Behavior infer personality
+.. All of the above
+** [hiddenAnswer]#d.#
+. Asch's research on person perception
+.. Primacy effect
+.. First impressions as a filter
+.. Order is powerful
+.. All of the above
+** [hiddenAnswer]#d.#
+. Display rules are:
+.. How experimental research on emotion is done
+.. Universal facial expressions of different emotions
+.. Genetically, different contexts lead to different emotions/facial expressions
+.. Culture-specific, non-verbal behaviors are considered suitable
+** [hiddenAnswer]#d.#
+. About impression management
+.. Conscious or unconscious
+.. Only in real life, not online
+.. Effortful to be as accurate as possible
+.. It's counterproductive ("rub people the wrong way")
+** [hiddenAnswer]#a.#
+
+[#test3]
+== 3. Attribution
+
+. When we form an attribution, we \...
+.. *don't bother* getting information regarding source's of person's behavior.
+.. try to *get information* about person's behavior changes across time/place.
+.. conclude people's behavior's causes based on our *feelings*.
+.. *don't care* to person's behavior's changes across time.
+** [hiddenAnswer]#b.#
+. Frequency of behavior observed same person&stimulus across time/situations is:
+.. discriminative info
+.. observed info
+.. consensus info
+.. consistency info
+** [hiddenAnswer]#d.#
+. Fundamental attribution error
+.. overestimate situation impact
+.. underestimate internal/dispositional impact
+.. overestimate behavior dispositional and situational
+.. overestimate dispositions/beliefs, underestimate situational
+** [hiddenAnswer]#d.#
+. Conclusion study "Jones and Harris" about pro/con-Castro essay?
+.. forced behavior, no internal attribution
+.. less generous attributions to ourselves for negative events, than with others
+.. make rather internal attribution for chosen, than forced action
+.. make rather internal attribution when person is perceptually salient
+** [hiddenAnswer]#c.#
+. According to self-serving attributions, attribute a rejection of selling a product to:
+.. my lack of effort
+.. my poor skills
+.. my terrible product
+.. the unfair decision makers
+** [hiddenAnswer]#d.#
+
+[#test4]
+== 4. Culture
+
+. Individualistic Western, analytic thinking, paying more attention to...?
+.. context
+.. properties of person/object
+.. equal to both
+.. all the others and judging the person
+** [hiddenAnswer]#b.#
+. ERP (event-related potentials) measures showed that:
+.. European Americans attention to context instead target, Asians Americans less context, more the target.
+.. No difference regarding target.
+.. Asian more context, European more target.
+.. No difference regarding context.
+** [hiddenAnswer]#c.#
+. How to explain failure?
+.. Individualistic: self-serving bias. Failure outside/situation.
+.. Collectivistic: external causes, defend themselves.
+.. Collectivistic: failure to internal and external causes.
+.. Asian failure external. Self-critical attributions weaken group's interdependence.
+** [hiddenAnswer]#a.#
+. Just-world attributions in culture with extreme wealth/poverty and equal. Where's it more common?
+.. Where wealth is poorly distributed.
+.. Extremes of wealth/poverty.
+.. Very wealth, no poverty.
+.. Extremely poor.
+** [hiddenAnswer]#b.#
+. Belief in a just world is \_\__ that helps people maintain their vision of life as \___.
+.. an internal attribution; unpredictable
+.. a self-serving bias; unsafe
+.. an internal attribution; safe
+.. a defensive attribution; predictable
+** [hiddenAnswer]#d.#
+
+[#test5]
+== 5. Test Yourself
+
+. Body language experts interpret non-verbal information through:
+.. body posture
+.. eye gaze
+.. voice
+.. orchestration of all
+** [hiddenAnswer]#d.#
+. Which has the least cultural variation?
+.. Self-serving attributions
+.. Preferences eye contact/personal space
+.. Anger facial expression
+.. Fundamental attribution error
+** [hiddenAnswer]#c.#
+. Women with \__ background tried to hide smiles, whereas __ showed it broadly.
+.. African American; Indian
+.. Japanese; British
+.. Japanese; American
+.. African American; Australia
+** [hiddenAnswer]#c.#
+. According to the covariation model of attribution; leading to external attribution?
+.. consensus+, distinctiveness+, consistency-
+.. consensus+, distinctiveness+, consistency+
+.. consensus-, distinctiveness-, consistency+
+.. consensus+, distinctiveness-, consistency-
+** [hiddenAnswer]#b.#
+. Your brother had a serious car accident. You step into someone's car like it. That person assumes you are cold and reserved.
+.. belief in a just world
+.. fundamental attribution error
+.. perceptual salience
+.. insufficient justification
+** [hiddenAnswer]#c.#
+. One student falls asleep every chemistry class, and also other classes. How explain behavior (covariation theory of attribution)?
+.. It's about this one particular class (consensus-, distinctiveness+, consistency+)
+.. Chemistry is boring (consensus+, distinctiveness+, consistency+)
+.. Unusual about this student (consensus-, distinctiveness-, consistency+)
+.. Particular day (consensus+)
+** [hiddenAnswer]#c.#
+. According two-step attribution process: Mental exhaustion impairs what?
+.. automatic categorization of behavior
+.. dispositional attributions of behavior
+.. attributional adjustment for situational factors
+.. motivation to form impressions of the target
+** [hiddenAnswer]#c.#
+. Lee from Japan, Chris from Australia. Asked to make attributions for their performance. Based on self-serving bias, what to expect?
+.. Chris (not Lee) succeeded because of his ability.
+.. Neither succeeded because of his ability.
+.. Both succeeded because of his ability.
+.. Lee (not Chris) succeeded because of his ability.
+** [hiddenAnswer]#a.#
+. Cultural differences in fundamental attribution error.
+.. collectivists rarely make dispositional attributions
+.. individualists rarely make dispositional attributions
+.. collectivists more likely situational attributions
+.. individualists more likely situational attributions
+** [hiddenAnswer]#a. (also c.?)#
+. Shy behavior has to do with introverted personality if:
+.. consensus-, distinctiveness-, consistency+
+.. consensus+, distinctiveness-, consistency+
+.. consensus-, distinctiveness-, consistency-
+.. consensus+, distinctiveness+, consistency+
+** [hiddenAnswer]#a.#

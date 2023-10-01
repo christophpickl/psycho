@@ -1,0 +1,22 @@
+= XXX
+
+// .Term
+// ****
+// Definition.
+// ****
+
+// [NOTE.tryit,caption=TRY IT]
+// ====
+// *Some Title*
+//
+// xxx
+// ====
+
+// [NOTE.test,caption=REVIEW QUESTIONS]
+// ====
+// link:test.html#testX[Test yourself]
+// ====
+
+// [#img-xxx]
+// xxx
+// image::images/xxx.jpg[xx,400,100]

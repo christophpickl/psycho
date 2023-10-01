@@ -1,7 +1,27 @@
 = Barnum Effect
 
-* When statements are too vague (personality checks; horoscopes?), virtually everyone can find a past behavior that is similar to (representative of) the feedback.
-* You should remind yourself more often of "how many times did I NOT feel or act this way".
-* Named after the circus owner and showman P.T. Barnum.
+.Definition Perception
+****
+When statements are too vague, virtually everyone can find a past behavior that is similar to (representative of) the feedback.
+****
+
+* Think for example about personality tests like Meyer Briggs, and horoscopes.
+** Descriptions are so vaguely written, so that they apply to everyone.
+** They also often include both qualities (e.g.: "you are this, but also that").
+** These tests arbitrarily draw a line somewhere (e.g. introvert vs extravert, but we are rather scattered among a scale).
 * It uses the representativeness heuristic.
+* Named after the circus owner and showman P.T. Barnum.
+
+== Motivation
+
+* People have the need to easily understand the world.
+* It helps our simplified, stereotypical thinking in categorizations ("women are just like this or that").
+** Yet, it doesn't account to people massive diversity.
+
+== Counteract
+
+* You should remind yourself more often of "how many times did I NOT feel or act this way".
+
+== Resources
+
 * https://en.wikipedia.org/wiki/Barnum_effect

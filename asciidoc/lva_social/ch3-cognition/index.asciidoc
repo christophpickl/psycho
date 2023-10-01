@@ -216,7 +216,7 @@ Information about frequency of members of different categories in the population
 ****
 
 * What if we have a base rate information and a contradictory piece of information about something?
-** link:../../people/kahnemann_daniel.html[Kahneman] figured that people don't use base rate information sufficiently.
+** link:../../people/kahnemann-daniel[Kahneman] figured that people don't use base rate information sufficiently.
 ** If the base rate is low, you would need to have very good evidence, to guess that this is one of the few exceptions.
 * People often focus too much on individual characteristics, and too little on the base rates.
 
@@ -230,7 +230,7 @@ Information about frequency of members of different categories in the population
 .. First
 .. Third
 .. Equally often
-** [hiddenAnswer]#b) In fact, three times more often. link:../../people/kahnemann_daniel.html[Kahneman] figured most people think it as a) first letter, as it comes easier to mind (link:../../phenomena/availability_bias.html[availability heuristic]).#
+** [hiddenAnswer]#b) In fact, three times more often. link:../../people/kahnemann-daniel[Kahneman] figured most people think it as a) first letter, as it comes easier to mind (link:../../phenomena/availability_bias.html[availability heuristic]).#
 . Consider someone who is 1) incompetent 2) middle-aged 3) likes reading 4) asocial. Based on *representativeness heuristic*, what would most people think of him being?
 .. Sales person
 .. History professor

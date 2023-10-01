@@ -24,7 +24,7 @@ Other pages::
 
 == Books
 
-* link:https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555[Thinking, Fast and Slow] -- link:../people/kahnemann_daniel.html[Daniel Kahnemann]
+* link:https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555[Thinking, Fast and Slow] -- link:../people/kahnemann-daniel[Daniel Kahnemann]
 
 == YouTube
 
@@ -51,4 +51,5 @@ Other pages::
 
 == Other
 
+* Free online psychology presentations on link:https://en.ppt-online.org/search?text=psychology&cat=&lang=en[ppt-online.org]
 * link:https://www.surfspot.nl[surfspot.nl] to buy student discounted hard-/software

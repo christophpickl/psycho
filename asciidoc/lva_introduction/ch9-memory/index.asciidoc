@@ -42,7 +42,7 @@ image::images/mindmap.png[Mind Map,100%,100]
 ** Encoding
 ** Retrieval
 * Dual-Processing Theory
-** By link:../../people/kahnemann_daniel.html[Daniel Kahnemann]
+** By link:../../people/kahnemann-daniel[Daniel Kahnemann]
 ** Fast Thinking: Unconscious, intuitive, effortless
 ** Slow Thinking: Conscious, deliberate, effortfull
 

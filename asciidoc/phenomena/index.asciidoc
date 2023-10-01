@@ -9,14 +9,16 @@
 
 -- Laozi
 
-== Biases, Fallacies, Effects, Heuristics
+== Biases, Fallacies, Effects, Heuristics, Phenomena
 
 Some human flaws and unique traits, thanks to social psychology, well known due to pop-psychology, a list of (more or less) funny effects, illusions & co. Useful to know for everyone to try to see a bit more clearly:
 
+* Anchoring: initial price sets the baseline to compare (judge as high/low)
 * link:attentional_bias.html[Attentional Bias]
 * Attractiveness Bias
 * link:anchoring_bias.html[Anchoring Bias]
 * link:availability_bias.html[Availability Bias]
+* baader-meinhof phenomeon: cognitive bias towards things we learnt recently; e.g. learned new word, suddenly seem to appear everywhere (brain being more aware of it)
 * link:bandwagon.html[Bandwagon Effect]
 * Baby-face Bias
 * link:barnum_effect.html[Barnum Effect]
@@ -30,7 +32,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * link:dunning_kruger_effect.html[Dunning Kruger Effect] -- The tendency of beginners to overestimate their level of skill.
 * link:hindsight_bias.html[Hindsight Bias]: "I knew it all along"
 * Framing; loss aversion
-* Fundamental Attribution Error (a.k.a. "Person Bias")
+* link:fundamental_attribution_error[Fundamental Attribution Error], a.k.a. "Correspondence Bias", or "Person Bias"
 * link:hawthorne_effect.html[Hawthorne Effect]
 * Illusory Superiority
 * Illusion of explanatory depth (eg explain/draw bike, biro, toilet flush, zipper, lock, ...)
@@ -40,6 +42,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * Insufficient Justification Effect
 * link:looking_glass_self.html[Looking Glass Self]
 * Memory Bias
+* link:mirrort_test.html[Mirror Test]
 * Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
 * Moralistic Fallacy
 * Naturalistic Fallacy
@@ -58,8 +61,10 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * Selective Interpretation (heuristics; availability h., representative h., ...)
 * Self-Fulfilling prophecies (related to Pygmalion Effect)
 * Self-Serving Attributional Bias; like person bias but for oneself
+* similarity-attraction principle: sympathy is based on similarity; same stays with same; we like which reminds us of ourselves (same looks, thinking; even from same town)
 * link:spotlight_effect.html[Spotlight Effect]
 * Sunk Cost Fallacy
+* link:strange_situation.html[Strange Situation] Experiment
 * link:transparency_illusion.html[Transparency Illusion] (or: Illusion of transparency)
 
 // TODO: https://www.youtube.com/watch?v=wEwGBIr_RIw overconfidence, palcebo effect, survivorshop, selective, blindspot
@@ -68,7 +73,23 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 
 PS: Francis Bacon used to call "cognitive biases" also "idols of the mind".
 
-== Cases
+== Experiments, Studies, Cases and Tests
+
+=== The Classics
+
+* link:clever_hans.html[Clever Hans]
+* link:little_albert.html[Little Albert]
+* link:milgrams_experiment.html[Milgram's Obedience Experiment]
+* Harlow's Rhesus Monkey: Wire VS cloth mother and primate
+* Robbers Cave
+* The Stanford Prison: in-/outgroup bias in social psychology
+* Asch's Conformity
+* link:bobo_doll.html[Bobo doll experiment]
+* Pavlov's dog
+* Skinner's cat box
+* Thorndike's puzzle box
+
+=== Cases
 
 Some people's medical cases (accidents and other abnormalities in medical history) have lead to a leap in the understanding of the mind. These "unintentional experiments" would have been otherwise impossible to do, due to ethical restrictions. On the one hand fascinating from the standpoint of science, on the other hand tragic stories from an empathetical standpoint.
 
@@ -76,32 +97,13 @@ Some people's medical cases (accidents and other abnormalities in medical histor
 * link:phineas_gage.html[Phineas Gage] -- Blast an iron stick through the brain, survive, and become a legend.
 // the lady, new york, got stabbed open street, no one intervened. By stander effect.
 * Murder of link:kitty_genovese.html[Kitty Genovese]
+* fire in metro station. did not feel responsible. (welches buch steht das?)
 
-== Experiments
+=== Miscellaneous
 
 * blue/brown eye experiment
 * Nodding/shaking head, influencing judgement.
 * Judging something while stick in mouth (forcing a smile).
-
-=== Classic Experiments
-
-* Clever Hans
-* link:little_albert.html[Little Albert]
-* Milgram's Obedience
-* Harlow's Rhesus Monkey: Wire VS cloth mother and primate
-* Robbers Cave
-* The Stanford Prison: in-/outgroup bias in social psychology
-* Asch's Conformity
-* link:bobo_doll.html[Bobo doll experiment]
-
-== Studies
-
-Famous studies and experiments everyone should know of.
-
-* Pavlov's dog
-* Skinner's cat box
-* Thorndike's puzzle box
-* link:clever_hans.html[Clever Hans]
 * ... decision watch spinning, action potential measured before conscious
 * ... split brain, see/touch different objects, rationalizing (freud?!)
 * ... observe car accident, touch vs crash, ask later, different memories (cognitive psychology)
@@ -112,22 +114,19 @@ Famous studies and experiments everyone should know of.
 * ... dot on forehand, look in mirror, to be able to identify oneself
 * ... object permanence with babies, baby looking longer when object should not have been able to turn that far because of obstacle (understanding of physical laws, object standing on the edge and should fall)
 * ... mind of others: doll play with children; does he know what i know or not? (ability to lie)
-
-== Tests
-
-* Strange Situation Test
-* Implicit Association Test
-
-== Others
-
 * London train lights; red/orange-/orange-orange/green; serial VS parallel processing
 * cocktail party phenomena
 * marketing: we go for the middle
 * marketing: too much choice
-* case: fire in metro station. did not feel responsible. (welches buch steht das?)
 * Bouba/kiki Effect
 * Stroop Effect
 * prisoner dilemma: to be good or to be evil? same with money, divorce, military "aufruesten", etc. https://www.youtube.com/watch?v=t9Lo2fgxWHw
+
+=== Tests
+
+* Strange Situation Test
+* Implicit Association Test
+
 
 == Resources
 

@@ -1,4 +1,4 @@
-= John Watson
+= John B. Watson
 
 [#img-watson-john]
 .John Broadus Watson himself

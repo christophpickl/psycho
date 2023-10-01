@@ -11,7 +11,7 @@ image::ainsworth-mary.jpg[Mary Ainsworth,200,100]
 
 == Achievements
 
-* Attachment theory (strange situation experiment)
+* *Attachment theory* (also see the "link:../phenomena/strange_situation.html[strange situation]" experiment)
 
 == Links
 

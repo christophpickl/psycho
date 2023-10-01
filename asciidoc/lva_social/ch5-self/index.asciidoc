@@ -1,0 +1,97 @@
+= The Self
+
+"_Understanding ourselves in a social context._"
+
+* Remember Mowgli, from "The Jungle Book"?
+** Some aspects of this fiction are true, considering abandoned children adopted by animals.
+** How does being raised by animals shape a human being?
+** What about their sense of self? How do they define themselves?
+** Something basic like our self-concept is profoundly influenced by interactions with other people.
+
+== Origins and Nature of Self-Concept
+
+* Who are you, the thing you call "myself"?
+* We are the only species that has a "self".
+** Doubtful that other animals can do it the way we can do it.
+** Still, there is at least a rudimentary sense of self
+* The link:../../phenomena/mirror_test.html[mirror test]:
+** Anesthetize an animal, paint a red dot on it's face, put it in front of a mirror.
+** A great ape will immediately touch itself there, a lesser ape not.
+** The identify (or not) that the image in the mirror is themselves.
+** Other animals were not able to do that.
+* Humans develop that skill at about 2 years old.
+** After some time, it will develop into a full blown self-concept.
+
+.Self-Concept
+****
+Set of beliefs about our personal attributes.
+****
+
+* When being asked "Who are you?" the answer depends on age:
+** A child refers to clear-cut, easily observable characteristics (age, sex, neighborhood, hobbies).
+** A mature person uses less physical, but more psychological states (thoughts/feelings) and how others judge us.
+
+  I am a human being... I am a moody, serious person. I am an insecure person. I am an ambitious person. I am a very curious and conscientious.  I am a loner. I am an introvert. I am a thinker. I am neither left or right. I am an opportunitist and eclecticist. I am spiritual. I am not a classifiable person (i.e., I don't want to be).
+
+* When we grow older, and we change, how much will that impact our selves?
+** According to surveys, morality (racist, cruel) impacts our true self than changes in perceptual abilities (e.g. changes in vision).
+** When a person used to be kind and is now cruel (or egalitarian and now racist), we hardly recognize them.
+** Thus: *Morality* is central to the self-concept, more than cognitive processes/desires.
+
+=== Cultural Influences
+
+\... PAGE 144...
+
+=== Functions of the Self
+
+== Self-Knowledge
+
+=== Introspection
+
+Knowing ourselves.
+
+=== Self-Observation
+
+Knowing ourselves by observing our own behavior.
+
+=== Using Other
+
+Using other people to know ourselves.
+
+== Self-Control
+
+"_The executive function of the self._"
+
+== Impression Management
+
+"_All the world's a stage._"
+
+=== Ingratiation and Self-Handicapping
+
+=== Culture, Impression Management, and Self-Enhancement
+
+
+
+
+.Term
+****
+Definition.
+****
+
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Some Title*
+
+====
+
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#testX[Test yourself]
+====
+
+
+// [#img-xxx]
+// .xxx
+// image::images/xxx[xxx,200,100]
