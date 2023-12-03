@@ -1,16 +1,21 @@
 = Barnum Effect
 
-.Definition Perception
+.Definition
 ****
-When statements are too vague, virtually everyone can find a past behavior that is similar to (representative of) the feedback.
+I see myself described accurately in vague and generic descriptions of personality.
 ****
 
-* Think for example about personality tests like Meyer Briggs, and horoscopes.
+[#img-barnum]
+.Barnum Effect being used by lots of pseudo-scientific superstitions.
+image::barnum_effect.png[Barnum effect,400,100]
+
+* When statements are too vague, virtually everyone can find a past behavior that is similar to (representative of) the feedback.
+* Think for example about *personality tests* like Meyer Briggs, and horoscopes.
 ** Descriptions are so vaguely written, so that they apply to everyone.
 ** They also often include both qualities (e.g.: "you are this, but also that").
 ** These tests arbitrarily draw a line somewhere (e.g. introvert vs extravert, but we are rather scattered among a scale).
-* It uses the representativeness heuristic.
-* Named after the circus owner and showman P.T. Barnum.
+* It uses the link:representativeness_heuristic.html[representativeness heuristic].
+* Named after the circus owner and showman link:https://en.wikipedia.org/wiki/P._T._Barnum[P.T. Barnum].
 
 == Motivation
 
@@ -25,3 +30,4 @@ When statements are too vague, virtually everyone can find a past behavior that 
 == Resources
 
 * https://en.wikipedia.org/wiki/Barnum_effect
+* http://www.profit.co/blog/behavioral-economics/the-psychological-reasoning-behind-barnum-effect/

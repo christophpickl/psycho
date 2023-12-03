@@ -1,0 +1,19 @@
+= Foot-in-the-Door Technique
+
+* A compliance tactic, to get a person to agree.
+** First request something small, then something big.
+** If agreed to the first, more likely to agree to the second.
+
+Also see: link:door_in_the_face.html[Door-in-the-Face] technique.
+
+== Famous experiments
+
+* First little sign in the window, then large billboard in the yard.
+
+== Resources
+
+* link:https://en.wikipedia.org/wiki/Foot-in-the-door_technique[Wikipedia]
+
+.YouTube Video: "Foot in the Door Phenomenon", 5mins
+[link=https://www.youtube.com/watch?v=oBNoa4c7J6I]
+image::https://img.youtube.com/vi/oBNoa4c7J6I/0.jpg[Foot in the door,200]

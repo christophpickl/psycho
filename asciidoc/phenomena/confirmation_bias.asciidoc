@@ -1,5 +1,9 @@
 = Confirmation Bias
 
+[#img-confirmation_bias_comic]
+.When everything you see validates your opinion (and everything else is filtered out).
+image::confirmation_bias.jpg[Confirmation Bias,500,100]
+
 Distort facts to confirm what we already believe in: "I have 1 mio results they don't, and 1 single it does", she takes the single document and says "I knew it" (from "link:https://youtu.be/yJD1Iwy5lUY?t=46[If Google was a guy]")
 
 It's just a part of our human nature: Our unconsciousness leads us to always try to confirm our own point of view. Very useful shortcuts in our brains, creating patterns (like stereotypes, generalized thoughts) which are stored in our unconsciousness.

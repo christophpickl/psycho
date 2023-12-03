@@ -1,12 +1,44 @@
 = Availability Bias
 
-* Also "availability heuristic" is a mental shortcut, an over-emphasizing of available information
-* Something that comes more easily to mind (more recently acquired) most be more right.
-** E.g. terrorism is the biggest threats (and so are sharks) as that's what we are mostly exposed to in news; an inflated danger. Yet, TVs cause 55 times more deaths (they fall on people hey!). More likely to killed by a cow or a coconut than by terrorism. 130 times more likely to be killed by the police.
-* Decisions not based on facts/statistics but by news ("when it bleeds, it leeds") and stories.
+.Definition
+****
+If you can think of it, it must be important.
+****
+
+[#img-availability_bias]
+.What we think what's going on, versus what's really going on.
+image::availability_bias.jpg[Availability Bias,500,100]
+
+* Also called "_Availability Heuristic_", first coined 1973 by link:../people/kahnemann-daniel.html[Daniel Kahneman] (and Amos Tversky).
+* It is a *mental shortcut* where we over-emphasize an information's availability.
+** Something that comes *more easily to mind* (more recently acquired) most be more right.
+** Decisions which are not based on facts/statistics but by news ("_When it bleeds, it leeds!_") and stories.
+** We easily overestimate the likelihood of relatively uncommon events.
+* We are not rational beings, and do the hard work to properly weigh the options/possible explanations, but rather go with our most recent experience.
+* Why is some information more available?
+** Something you recently learned
+** An event that had a significant impact on you
+** Something that you think about frequently
+** More salient or easier to remember
+* How to avoid it:
+** Give yourself time to examine the evidence, instead of making snap decisions.
+** Seek out other sources of information, avoid link:confirmation_bias.html[confirmation bias].
+** Look at statistics which give a bigger picture, than rely solely on a single anecdote.
+** Keep records in written form, than trusting your memory too much.
+* Compared to the link:representativeness_heuristic.html[representativeness heuristic] relies on comparing an event to our existing expectations, availability relies on basing these estimates on how readily we can call similar events to mind.
 
 
-Further Reading::
+== Examples
+
+[#img-availability_bias_shark]
+.When I see it dramatically on the TV, then it must be more true and happen more often, right?!
+image::availability_bias_shark.png[Availability Bias Shar,500,100]
+
+* Terrorism is the biggest threats (and so are sharks) as that's what we are mostly exposed to in news; an inflated danger. Yet, TVs cause 55 times more deaths (they fall on people hey!). It is more likely to be killed by a cow or a coconut, than by terrorism. And it is 130 times more likely to be killed by the police.
+* Are there more words in the English language which start with a "k" or have a "k" as their third letter? Most likely you will now go through your mental dictionary, scan for words which match either the one or the other criteria, and... there it is: the availability bias at work. You won't find many words qualifying for the second criteria (just the way our mind library uses an insufficient indexing algorithm), thus assume there most be more for the first criteria.
+
+== Further Reading
 
 * link:../lva_introduction/ch10-intelligence/index.html[Introduction Psychology, Chapter 10, Intelligence]
-* link:https://en.wikipedia.org/wiki/Availability_heuristic[Wikipedia]
+* https://en.wikipedia.org/wiki/Availability_heuristic
+* link:https://www.verywellmind.com/availability-heuristic-2794824[verywellmind.com] about Availability Heuristic

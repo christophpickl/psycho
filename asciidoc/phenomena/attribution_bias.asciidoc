@@ -1,12 +1,50 @@
-= Attribution(al) bias
+= Attribution Bias
 
-A cognitive bias which states when we succeed it is because of us/internally, when we fail we search for blame externally. Otherway when others succeed it must be external, and when they fail it must have to do with them/internally.
+[#img-attribution_bias_comic]
+.When even the peanuts are conscious about their fundamental attribution bias at work
+image::attribution_bias.jpg[Fundamental Attribution Bias,500,100]
+
+* A cognitive bias, also called "attributional errors", we use to evaluate ours/others behavior.
+* It says:
+** When *we succeed*, it must be because of us/*internally*, and when we *fail* we search for blame *externally*.
+** When *others succeed*, it must be because of *external* reasons, and when they *fail* it must have to do with them/*internally*.
+* Thus it leads to systematic patterns of deviation from norm/rationality in judgement; perceptual distortions, inaccurate assessments, illogical interpretations of events/behaviors.
+* *Example*: When someone cuts us off, we have no possibility to figure out the real reason, instead we usually are inclined to guess it's because of his personality ("That driver is rude and incompetent ... and I'm so so much better of course"), instead of assuming situational circumstances ("That driver needs to bring urgently his pregnant wife to the hospital").
 
 == Types
 
-Not sure about this???
+* *Fundamental Attribution Error* (a.k.a. "Person Bias")
+** When making attributions (explaining, interpreting, judging) of other people's behavior, we over-emphasize dispositional and under-estimate the situational factors.
+** Study with people reading (Pro/-Anti-Castro) essays; one group voluntary chosen which, other group flip a coin; listeners still expressed liking towards Anti-Castro even when knowing assignment was random.
+* *Actor-Observer Bias* (alias "Actor-Observer Asymmetry")
+** An extension of the fundamental attribution error.
+** The way we observe other's vs our own behavior.
+* *Self-Serving (Attributional) Bias*
+** Like the person bias but then just targeted at oneself.
+** Our success attributed to internal (taking credit), and failures to external factors (denying responsibility).
+** E.g. "I won because I'm good at it" vs "I lost because the circumstances were unfair".
+** It helps us to maintain our self-esteem, to feel better about ourselves; an ego-protection mechanism to better cope with personal failures.
+* *Hostile Attribution Bias*
+** An interpretive bias: Other's ambiguous behaviors are interpreted as hostile/bad, instead of good.
+** E.g. other people whisper, and you assume they are talking bad about you (hostile intent)
+** This might be a projection, as people with higher aggression tend to do this.
+* *Motive Attribution Asymmetry*
+** In short: The enemies are always wrong and are the opposite of us.
+* Defensive Attribution Hypothesis
+* Egocentric Bias
+* False-Consensus Effect
+* Group Attribution Error
+* In-Group Favoritism
+* Positivity/Negativity Effect
+* Psychological Projection
+* Trait Ascription Bias
+* Ultimate Attribution Error
+* Unrealistic Optimism
 
-* Fundamental Attribution Error (a.k.a. "Person Bias")
-* Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
-* Person Bias; See Fundamental Attribution Error
-* Self-Serving Attributional Bias; like person bias but for oneself
+== Resources
+
+* https://en.wikipedia.org/wiki/Attribution_bias
+
+.YouTube Video: "Attribution theory - Attribution error and culture " (Khan Academy), 5mins
+[link=https://www.youtube.com/watch?v=XYWFGJ2aYRU]
+image::https://img.youtube.com/vi/XYWFGJ2aYRU/0.jpg[Attribution Theory,300]

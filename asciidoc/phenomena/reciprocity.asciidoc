@@ -1,0 +1,22 @@
+= Reciprocity
+
+* The science of giving ("the theory of reciprocity" / "social reciprocity")
+** Receiving a gift leads to an internal conflict, resolved by giving something back.
+** Basically it makes us feel guilty to receive more than we gave, and we want to elevate ourselves from that guilt.
+* The Coca Cola *experiment* (most famous experiment on reciprocity)
+** A confederate gave a participant Cola (or not) and later asked for raffle ticket (with dramatic impact).
+* *Application*:
+** Donation projects first give some small thing for free (flowers, colored envelopes) before asking for money.
+** In shopping malls, we get small, free samples, and then buy a full package to compensate for our previous consumption.
+** Fair trades, and receive a bag with free goodies.
+* The usage of this can be *ethically* questionable.
+**  Is it "intentionally manipulation"? Or genuine want to give a sample for persuasion of the quality of the product?
+
+== Resources
+
+* link:https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)[Wikipedia]
+
+.YouTube Video: "Social Reciprocity: The Science of Giving", 4mins
+[link=https://www.youtube.com/watch?v=GHG3ySO40Gk]
+image::https://img.youtube.com/vi/GHG3ySO40Gk/0.jpg[Social Reciprocity,200]
+

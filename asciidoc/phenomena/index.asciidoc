@@ -17,22 +17,25 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * link:attentional_bias.html[Attentional Bias]
 * Attractiveness Bias
 * link:anchoring_bias.html[Anchoring Bias]
-* link:availability_bias.html[Availability Bias]
-* baader-meinhof phenomeon: cognitive bias towards things we learnt recently; e.g. learned new word, suddenly seem to appear everywhere (brain being more aware of it)
-* link:bandwagon.html[Bandwagon Effect]
+* link:availability_bias.html[Availability Bias] -- If you can think of it, it must be important
+* Baader-Meinhof Phenomeon -- Cognitive bias towards things we learnt recently; e.g. learned new word, suddenly seem to appear everywhere (brain being more aware of it)
+* link:bandwagon.html[Bandwagon Effect] -- Doing it, simply because others are doing it
 * Baby-face Bias
 * link:barnum_effect.html[Barnum Effect]
-* Baseline -- very difficult for humans; Kahnemann
+* Baseline -- Very difficult for humans do by Kahnemann
 * Bystander Effect
 * link:change_blindness.html[Change Blindness] -- A perceptual illusion where visual changes pass unnoticed to the observer.
 * link:choice_supportive_bias.html[Choice-supportive Bias]
 * Cocktail Party effect
 * link:cognitive_dissonance.html[Cognitive Dissonance] (Theory)
 * link:confirmation_bias.html[Confirmation Bias]
+* link:door_in_the_face.html[Door-in-the-Face Technique]
 * link:dunning_kruger_effect.html[Dunning Kruger Effect] -- The tendency of beginners to overestimate their level of skill.
-* link:hindsight_bias.html[Hindsight Bias]: "I knew it all along"
-* Framing; loss aversion
-* link:fundamental_attribution_error[Fundamental Attribution Error], a.k.a. "Correspondence Bias", or "Person Bias"
+* link:hindsight_bias.html[Hindsight Bias] -- Or: "I knew it all along"
+* Framing -- Loss aversion
+* link:foot_in_the_door.html[Foot-in-the-Door Technique]
+* link:fundamental_attribution_error.html[Fundamental Attribution Error] -- It must be because he is just like that, or maybe the situation?
+* link:groupthink.html[Groupthink]
 * link:hawthorne_effect.html[Hawthorne Effect]
 * Illusory Superiority
 * Illusion of explanatory depth (eg explain/draw bike, biro, toilet flush, zipper, lock, ...)
@@ -55,6 +58,8 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * link:priming.html[Priming]
 * Proportional Bias -- Base for conspiracy theories
 * link:pygmalion_effect.html[Pygmalion Effect]
+* link:representativeness_heuristic.html[Representativeness Heuristic]
+* link:reciprocity.html[Reciprocity]
 * Scientific Bias
 // https://conservapedia.com/Scientific_bias
 * Selective Perception Bias
@@ -64,7 +69,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * similarity-attraction principle: sympathy is based on similarity; same stays with same; we like which reminds us of ourselves (same looks, thinking; even from same town)
 * link:spotlight_effect.html[Spotlight Effect]
 * Sunk Cost Fallacy
-* link:strange_situation.html[Strange Situation] Experiment
+* link:strange_situation.html[Strange Situation] Experiment -- What's your attachment style when you were a child?
 * link:transparency_illusion.html[Transparency Illusion] (or: Illusion of transparency)
 
 // TODO: https://www.youtube.com/watch?v=wEwGBIr_RIw overconfidence, palcebo effect, survivorshop, selective, blindspot
@@ -77,16 +82,16 @@ PS: Francis Bacon used to call "cognitive biases" also "idols of the mind".
 
 === The Classics
 
-* link:clever_hans.html[Clever Hans]
-* link:little_albert.html[Little Albert]
-* link:milgrams_experiment.html[Milgram's Obedience Experiment]
-* Harlow's Rhesus Monkey: Wire VS cloth mother and primate
-* Robbers Cave
-* The Stanford Prison: in-/outgroup bias in social psychology
 * Asch's Conformity
 * link:bobo_doll.html[Bobo doll experiment]
+* link:clever_hans.html[Clever Hans] - The horse which could answer math problems
+* Harlow's Rhesus Monkey: Wire VS cloth mother and primate
+* link:little_albert.html[Little Albert] - Torturing a baby so it dislikes teddies
+* link:milgrams_experiment.html[Milgram's Obedience Experiment] - When authorities force us to deliver electrical shocks
 * Pavlov's dog
+* Robber's Cave
 * Skinner's cat box
+* Stanford Prison Experiment: in-/outgroup bias in social psychology
 * Thorndike's puzzle box
 
 === Cases
@@ -95,9 +100,9 @@ Some people's medical cases (accidents and other abnormalities in medical histor
 
 * link:HM.html[H.M.] -- The man who was unable to form new memory. Memento anyone?
 * link:phineas_gage.html[Phineas Gage] -- Blast an iron stick through the brain, survive, and become a legend.
-// the lady, new york, got stabbed open street, no one intervened. By stander effect.
-* Murder of link:kitty_genovese.html[Kitty Genovese]
-* fire in metro station. did not feel responsible. (welches buch steht das?)
+* link:kitty_genovese.html[Kitty Genovese] -- Getting murdered and no one cares
+* Metro station on fire -- No one fet responsible
+// (welches buch steht das?)
 
 === Miscellaneous
 
@@ -119,22 +124,14 @@ Some people's medical cases (accidents and other abnormalities in medical histor
 * marketing: we go for the middle
 * marketing: too much choice
 * Bouba/kiki Effect
-* Stroop Effect
 * prisoner dilemma: to be good or to be evil? same with money, divorce, military "aufruesten", etc. https://www.youtube.com/watch?v=t9Lo2fgxWHw
-
-=== Tests
-
-* Strange Situation Test
-* Implicit Association Test
-
 
 == Resources
 
 * https://yourbias.is/
 * https://effectiviology.com/
 * https://en.wikipedia.org/wiki/List_of_cognitive_biases
-
-// https://www.scribbr.com/research-bias/
+* https://www.scribbr.com/research-bias/
 
 German books:
 

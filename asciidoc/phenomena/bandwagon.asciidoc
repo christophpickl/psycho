@@ -1,10 +1,48 @@
 = Bandwagon Effect
 
-* Doing/believing what others do/believe. Following the rest without thinking -you sheep!
-* As in: If he jumps out of the window, would you too?
+[#img-bandwagon_comic]
+.Following the majority and you might step in the bandwagon instead of the bus you actually intended.
+image::bandwagon_bus.png[Bandwagon,250,100]
+
+* A cognitive bias, where people "hop on the bandwagon" regardless of the underlying evidence.
+** Do/believe what others do/believe. Following the rest without thinking -you sheep!
+** As in: "_If he jumps out of the window, would you too?_"
 * Wanting to be part of the majority (meetings, voting, stock market).
-** As in "group think": 9 of 10 agree, last person won't speak up.
+** In social psychology called link:groupthink.html[groupthink]: 9 of 10 agree, and the last person won't speak up.
+** Has to do with social conformity, as we want so much to "fit in" with peers.
+** E.g. fashion trends (gaining access to a particular social group)
+* It can spread quickly through its self-reinforcing mechanism and result in a positive feedback loop.
+* Areas where it happens: Politics, economics (financial markets, microeconomics), medicine, sports, social networking, fashion.
+* The reverse is also possible: *reverse bandwagon effect* (a.k.a. "snob effect")
+** Avoid doing something, because others are doing it.
+
+[#img-bandwagon_path]
+.Let yourself be guided by evidence, or simply do what the majority has done before?
+image::bandwagon_path.png[Bandwagon Path,300,100]
+
+== Reasons
+
+Possible reasons why people do it:
+
+. Efficiency -- A mental shortcut/heuristic, to make decisions quicker.
+. Normative social influence (belonging) -- Wanting to conform to fit in/get approval from others;  social inclusion/acceptance.
+. Informational social influence -- Assuming others may know something better, supporting popular beliefs as "the majority must be right".
+. Wanting to be a winner -- E.g. voting for a candidate who is in the lead.
+. Fear of missing out
+
+== Origin
+
+[#img-bandwagon_wagon]
+.How a bandwagon looks like.
+image::bandwagon_wagon.png[A Bandwagon,300,100]
+
+* A literal bandwagon is a wagon that carries musicians/band during a parade/circus.
+* The phrase "jump on the bandwagon" first appeared in US politics in 1848.
+** A circus clown invited a politician to join his circus bandwagon.
+** That politician became more successful, and others should join him if they want to be associated with such success.
+* Although the phrase is known rather long, understanding of the theoretical background is rather recent.
+** In the 1950s, link:../people/asch-solomon.html[Asch]'s conformity experiments led to better understanding.
 
 == Resources
 
-* link:https://en.wikipedia.org/wiki/Bandwagon_effect[Wikipedia]
+* https://en.wikipedia.org/wiki/Bandwagon_effect

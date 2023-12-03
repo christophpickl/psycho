@@ -1,7 +1,7 @@
 = Clever Hans
 
 .Clever Hans with his owner Mr. von Osten during a mathematics lesson.
-image::clever_hans.jpg[Clever Hans,200,100]
+image::clever_hans.jpg[Clever Hans,400,100]
 
 * It all happened beginning of the 20th century in Germany.
 * The owner of the "smart" horse Hans, Mr. von Osten, claimed it can solve unbelievable tasks.

@@ -1,0 +1,8 @@
+= Door-in-the-Face Technique
+
+Also see: link:foot_in_the_door.html[Foot-in-the-Door] technique.
+
+
+== Resources
+
+* link:https://en.wikipedia.org/wiki/Door-in-the-face_technique[Wikipedia]

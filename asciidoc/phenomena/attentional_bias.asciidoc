@@ -1,10 +1,9 @@
 = Attention(al) Bias
 
-A cognitive bias.
-
-[#img-attentional-bias]
-.Not seeing what is due to attention blindness
-image::attentional_bias.jpg[Attentional bias,200,100]
+.Definition
+****
+A cognitive bias where we pay attention to some, but totally ignore other perceptions. Not seeing what is due to attention blindness.
+****
 
 * An altered perception, based on selective attention.
 ** Too much focused on one thing, thus not seeing/ignoring alternatives.
@@ -13,10 +12,23 @@ image::attentional_bias.jpg[Attentional bias,200,100]
 ** Internal states (hunger, sadness)
 ** E.g. Cigarette smoker wired to pay only attention to smoking-related cues.
 * Background:
-** Our attention is a finite resource, we need to select what arrives in our working memory
+** Adaptive in many situations: Our attention is a finite resource, we need to select what arrives in our working memory.
+** E.g. When there is a big threat, we hyper focus on that one ("tunnel vision").
+* Paying too much attention which are not a threat can lead to poor decisions and anxiety.
 
-// TODO incorporate and link: https://www.verywellmind.com/what-is-an-attentional-bias-2795027 and https://thedecisionlab.com/biases/attentional-bias and wikipedia
+// TODO incorporate https://www.verywellmind.com/what-is-an-attentional-bias-2795027 and https://thedecisionlab.com/biases/attentional-bias and wikipedia
+
+== Stroop test
+
+* As participants to read the words and the color of the words.
+* If domain mixed up, we have difficulties.
+* PS: Used to identify russian spies (they couldn't stop seeing the russian words once they understood russian).
+
+[#img-stroop-test]
+.Name the color of the written word. First 2 rows easy, last ones less (link:https://en.wikipedia.org/wiki/Stroop_effect[source]).
+image::stroop_test.png[Stroop test,240,100]
 
 == Links
 
 * https://en.wikipedia.org/wiki/Attentional_bias
+* https://www.verywellmind.com/what-is-an-attentional-bias-2795027
