@@ -1,0 +1,20 @@
+= Stanley Schachter
+
+[#img-schachter-stanley]
+.Stanley Schachter himself
+image::schachter_stanley.jpg[Stanley Schachter,200,100]
+
+== Facts
+
+* 1922-1997 (age 75)
+* America
+* Social psychologist
+
+== Achievements
+
+* Developed the two-factor theory of emotions.
+** Emotions = physiological arousal + cognitive label
+
+== Links
+
+* https://en.wikipedia.org/wiki/Stanley_Schachter

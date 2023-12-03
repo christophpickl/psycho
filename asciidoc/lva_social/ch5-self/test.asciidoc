@@ -1,11 +1,183 @@
-= Self-Test XXX
+= Self-Test about The Self
 
-[#testX]
-== X. xxx
+[#test1]
+== 1. Nature and Origin
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. Which would least likely pass the mirror test?
+.. orangutan
+.. chimpanzee
+.. 12-month child
+.. 3-year child
+** [hiddenAnswer]#c. (by 2 years); or a.?#
+. Thinking about others, what's most central to their self-concept?
+.. morals
+.. preferences/attitudes
+.. physical attributes
+.. memories
+** [hiddenAnswer]#a.#
+. Sentences beginning with "I am \...", people with independent focus on \__ and people with interdependent focus on __.
+.. social relationships; personal values
+.. concrete values; abstract values
+.. social relationships; personal values
+.. personal values; social relationships
+** [hiddenAnswer]#d.#
+. Describing yourself with "I am a daughter", "I am quiet", "When I am in this job, I will try my best", you are most likely from a \__ culture.
+.. independent
+.. interdependent
+.. international
+.. interrelated
+** [hiddenAnswer]#a.#
+
+[#test2]
+== 2. Self-Knowledge
+
+. When we focus attention on ourselves, we \...
+.. evaluate/compare our behavior to internal standards/values.
+.. are less likely to drink alcohol or binge eat.
+.. are less likely to follow our moral standards.
+.. almost always like what we see about ourselves.
+** [hiddenAnswer]#a.#
+. What's true about emotions?
+.. We must always know what leads to our emotional arousal.
+.. We should first decide what emotion we want to feel, before our physiological reaction happens.
+.. Others can change our emotions by changing our perception.
+.. None of the above.
+** [hiddenAnswer]#d.#
+. If someone is told to always smile, even when not happy, according to self-perception theory, what will be the impact of his internal state?
+.. It backfires, he will be more unhappy.
+.. It works. ("Fake it until you make it")
+.. No difference.
+.. He becomes more sensitive to his own happiness.
+** [hiddenAnswer]#a.? d.?#
+. When will overjustification happen?
+.. A boy wants to learn French, he joins many classes, enjoying it for six months.
+.. A boy wants to learn French, he gets rewarded and starts to spend more time with learning it than before.
+.. The reward system is withdrawn, the boy is less interested and spends less time learning than before rewards were introduced.
+.. Rewards had no impact (on interest or time spent).
+** [hiddenAnswer]#c.#
+. A, B, and C (order based on experience) go sports. The coach is an attractive person and gives them his number. Who will contact him most likely?
+.. A > B > C
+.. C > B > A
+.. All equally
+.. Only C
+** [hiddenAnswer]#a.#
+. Parents want you to be a top student. To always compare yourself with those who are better, but you always felt inferior while doing so. Instead, you want to feel good about yourself. To boos your ego, what do you do?
+.. Use upward social comparison
+.. Use same-level social comparison
+.. Use downward social comparison
+.. Use a "best of the best" social comparison
+** [hiddenAnswer]#c.#
+. What is a "looking-glass self" example?
+.. See us/others based on our own views, and resist other's view (look within, see our abilities)
+.. See us/others in accordance with the situation (may/may not adopt other's views)
+.. See us/others through other's eyes, often adopt their views (more true when wanting to get along)
+.. Adopt, even if we don't want to get along with that person
+** [hiddenAnswer]#c.#
+
+[#test3]
+== 3. Self-Control
+
+. Can't stop thinking about your (cheating?) partner. Have to finish work. When most likely to succeed?
+.. Suppress jealous thoughts.
+.. Think jealously morning, focus on work evening.
+.. Go out during hte day, work when in good mood.
+.. Pray for working to get energy.
+** [hiddenAnswer]#b.#
+. Try lose weight, ignoring candy at the office; exhausted in the evening, eat ice cream. This is:
+.. Depletion effect
+.. Implementation intention failure
+.. Loss-aversion theory
+.. Prevention-focus theory
+** [hiddenAnswer]#a.#
+. Focus on work, but started to like/watch a new TV show. How to stay focused?
+.. Say to yourself "I will work"
+.. Vow to your mother "I will work"
+.. Vow to stop thinking about TV show."
+.. Say to yourself "If come back home early, I will work instead watching TV"
+** [hiddenAnswer]#d. (an implementation intention; prevent plan)#
+
+[#test4]
+== 4. Impression Management
+
+. You give a sub-par presentation. Someone wants to ingratiate you and says:
+.. At least it wasn't as bad as that stupid guy's.
+.. Brilliant, I absolutely loved it.
+.. It wasn't great, but you'll do better next time.
+.. Terrible.
+** [hiddenAnswer]#b.#
+. You worry you will do poorly on a test. What's an example of behavioral self-handicapping.
+.. Study extra hours, tell friends studied really hard.
+.. Instead study, stay up late and watch movies. Tell friends watched great movies instead studying.
+.. Study extra hours, tell friends don't feel well.
+.. Tell the professor the class is the best ever.
+** [hiddenAnswer]#b.#
+. A goes for drinks instead of studying. B studies extra hours, but complain feeling not well before the test. A is engaging in _\_ and B in __.
+.. reported SH; imaginary SH
+.. imaginary SH; behavioral SH
+.. behavioral SH; reported SH
+.. reported SH; behavioral SH
+** [hiddenAnswer]#c.#
+
+[#test5]
+== 5. Test Yourself
+
+. On self-knowledge, what's least true?
+.. Introspecting is best.
+.. Sometimes best is to see what we do.
+.. Often try by comparing with others.
+.. By using cultural theories.
+** [hiddenAnswer]#d. (or a., as it is too absolute?)#
+. Not a function of the self?
+.. Self-knowledge
+.. Self-control
+.. Impression management
+.. Self-criticism
+** [hiddenAnswer]#d. (self-esteem is the 4th)#
+. Who most likely interdependent sense of self?
+.. 40y Filipino, doesn't mind still living with parents.
+.. 30y Chinese, parents important for defining himself.
+.. 18y Indian, uncomfortable interacting with non-family embers.
+.. All of the above
+** [hiddenAnswer]#d.#
+. Student goes to high school; at home never anyone smoked/drank, there everyone does; under pressure, him too. Best way to deal with this?
+.. Become self-conscious, not yielding to peer pressure.
+.. Stop seeing those friends.
+.. Changing internal standards, enjoy friends' company.
+.. Avoid being self-aware, not feel terrible violating his values.
+** [hiddenAnswer]#a.#
+. Example of causal theories.
+.. Working hard to feel good. Others are happy with me.
+.. Be with my parents, make them feel I care for them, making them happy.
+.. Study something I enjoy, helping me to choose a profession later.
+.. Unnecessarily got angry at a friend, might be because of lack of sleep last night.
+** [hiddenAnswer]#d.#
+. Neighbour plays loud music. You give money each time he plays, then stop to pay him.
+.. He plays music as usual.
+.. He will play even louder.
+.. He will stop playing.
+.. No effect.
+** [hiddenAnswer]#c.#
+. At a competition, first three receive a prize. A is first, B second, C third. B is more disappointed than C, why?
+.. B engaged in upward social comparison (USC), C in downward social comparison (DSC).
+.. B in DSC, C in USC.
+.. B engaged in impression comparison, C self-knowledge comparison
+.. B engaged in self-knowledge comparison, C in impression comparison
+** [hiddenAnswer]#a.#
+. Rewarding someone to perform each time better is an example of?
+.. Task-contingent reward.
+.. Intrinsic reward.
+.. Performance-contingent reward.
+.. Fixed-reward.
+** [hiddenAnswer]#c.#
+. Learning other's attitudes/motives/emotions.
+.. By observing their behavior.
+.. By observing the conditions, under which behavior takes place.
+.. By observing the role models they follow, and environment they live in.
+.. a and b are true.
+** [hiddenAnswer]#d.#
+. Increasing self-control.
+.. I have willpower, I know I will complete it.
+.. I am going to work hard.
+.. I am going to work late. If getting distracted, I decline.
+.. Before working, I will pray for more energy.
+** [hiddenAnswer]#c.#

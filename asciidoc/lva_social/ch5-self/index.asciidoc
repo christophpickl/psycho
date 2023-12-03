@@ -40,58 +40,528 @@ Set of beliefs about our personal attributes.
 
 === Cultural Influences
 
-\... PAGE 144...
+* Considering the case of the crown princess of Japan.
+** She gave up her career and her independent life, to serve the prince.
+** What you think about this, depends on the culture you grew up in.
+** In Western cultures, we have an independent view of the self.
+
+.Independent View of the Self
+****
+Defining oneself through own, internal thoughts/feelings/actions (and not of those of others).
+****
+
+* Thus, we in the West might think she was forced by a backward, sexist society.
+** Yet, in the East, they have cultural interdependence (instead of our independence of the self).
+
+.Interdependent View of the Self
+****
+Defining oneself through relationships; our behavior is determined by other's thoughts/feelings/actions.
+****
+
+* They value connectedness, interdependence, over independence and uniqueness.
+* What is viewed as positive/normal behavior differs based on the culture.
+** Because of that, it has consequences for communication between cultures.
+** It is difficult to appreciate each other.
+* We see, the conception of the self is a social construct (and differs by culture).
 
 === Functions of the Self
 
-== Self-Knowledge
-
-=== Introspection
-
-Knowing ourselves.
-
-=== Self-Observation
-
-Knowing ourselves by observing our own behavior.
-
-=== Using Other
-
-Using other people to know ourselves.
-
-== Self-Control
-
-"_The executive function of the self._"
-
-== Impression Management
-
-"_All the world's a stage._"
-
-=== Ingratiation and Self-Handicapping
-
-=== Culture, Impression Management, and Self-Enhancement
-
-
-
-
-.Term
-****
-Definition.
-****
-
-
-[NOTE.tryit,caption=TRY IT]
-====
-*Some Title*
-
-====
-
+* It has four main functions:
+[arabic]
+.. *Self-Knowledge*: Understanding who we are (and how we formulate/organize this)
+.. *Self-Control*: Planing/executing decisions
+.. *Impression Management*: Presenting ourselves to others
+.. *Self-Esteem*: Positive views of ourselves
 
 [NOTE.test,caption=REVIEW QUESTIONS]
 ====
-link:test.html#testX[Test yourself]
+link:test.html#test1[Test yourself]
 ====
 
+== Self-Knowledge
 
-// [#img-xxx]
-// .xxx
-// image::images/xxx[xxx,200,100]
+* How we use introspection, observation of own behavior, and how we know ourselves.
+* Who are we, and why do we do what we do?
+
+=== Introspection
+
+.Introspection
+****
+Process to look inward, examine own thoughts/feelings/motives.
+****
+
+*  Introspection means to look inward, examine the "inside information".
+** Information only we alone have, about our thoughts/feelings/motives.
+** It's not perfect, as not always pleasant, and also hidden from conscious awareness.
+
+The following two sub-sections contain consequences and limits of self-introspection.
+
+==== Self-Awareness Theory
+
+.Self-Awareness Theory
+****
+Evaluate/compare our behavior to our internal standards/values.
+****
+
+[#img-self-awareness]
+.Self-Awareness Theory: The consequences of Self-Focused Attention
+image::images/self-awareness.jpg[Self-Awareness Theory,800,100]
+
+* Sometimes we naturally put our focus on and think about ourselves.
+* The self-awareness theory says, that when we focus on ourselves, we evaluate/compare our current behavior to our internal standards/values.
+** We become self-conscious, meaning:
+*** We become objective/judgmental observers of ourselves.
+*** We see ourselves as an outside observer would.
+* We might see then a disparity (discrepancy) between behavior and internal standards.
+** Being confronted with disagreeable feedback about ourselves leads to discomfort (happens often).
+** There is a correlation between being self-aware and bad mood even!
+* When we are in a negative state of self-awareness, we tend to escape it, by avoidance.
+** Substance abuse, binge eating, and sexual masochism; effective/dangerous means to turn off one's internal spotlight.
+** Less dangerous: religion/spirituality to avoid self-focus.
+* If we just succeeded in something, focusing on oneself can be pleasant.
+* It's also useful to keep us from trouble, by reminding us what's right/wrong.
+** There's a correlation between self-awareness and following moral standards (e.g. cheating).
+** It helps us to resist that little devil on our shoulder, pushing us into temptations, and make us aware of our morals/ideals.
+* Self-awareness is aversive if it reminds us of our shortcomings.
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Measuring Self-Consciousness*
+
+How much do you focus on yourself when you are alone? Answer the following questions with 1 (not at all like me) to 5 (very much like me), to figure out how consistent your tendency to be self-aware is.
+
+1. I'm always trying to figure myself out.
+2. Generally, I'm not very aware of myself.
+3. I reflect about myself a lot.
+4. I'm often the subject of my own fantasies.
+5. I never scrutinize (=examine) myself.
+6. I'm generally attentive to my inner feelings.
+7. I'm constantly examining my motives.
+8. I sometimes have the feeling that I'm off somewhere watching myself.
+9. I'm alert to changes in my mood.
+10. I'm aware of the way my mind works when I work through a problem.
+
+Scoring instructions:
+
+[hiddenAnswer]#Reverse answers to question 2 and question 5 (1 becomes 5, 2 becomes 4, ...). Sum all 10 scores; the higher, the more likely you are to focus your attention on yourself. An average score of 26 was achieved by some college students.#
+====
+
+==== Self-Made Explanations
+
+* Judging why we feel the way we do; and by this, telling more than we can know.
+* Another function of introspection is to figure out _why_ we feel the way we do; not an easy task.
+* The ancient Greeks thought that love was a sickness.
+** But still: What causes you to feel this way?
+* We are usually aware of the final result of our thought process (e.g. that we are in love).
+** We are often unaware of the cognitive processing that led to the result.
+** We are always able to come up with an explanation.
+** We often "tell more than we can know"; our explanations go beyond what we can reasonably know.
+* For example, predicting one's own mood. An experiment \...
+** Amount of sleep is unrelated to our mood.
+** Friends are a good predictor of our mood instead.
+* There are many theories what influences our feelings/behavior. Explaining the why.
+** Most of these theories come from our culture. Using schemas.
+
+.Causal Theories
+****
+Theories learned from culture about what causes our feelings/behaviors.
+****
+
+* Those are not always correct, and lead to incorrect judgements about the causes of our actions.
+* They often yield the wrong answer about why we feel the way we do.
+
+=== Self-Observation
+
+* Knowing ourselves by observing our own behavior.
+
+==== Self-Perception Theory
+
+* We use observations (of own behavior) to determine how we feel.
+
+.Self-Perception Theory
+****
+When attitudes/feelings are uncertain/ambiguous, we infer those by self-observation (including the situation).
+****
+
+* We do so only if we are not sure how we feel.
+* We then judge whether our behavior reflects how we feel, or the situation made us act that way.
+* We use the same attributional principles to infer our own attitudes/feelings.
+
+==== Two-Factor Theory of Emotion
+
+* It's about understanding our emotions.
+* How do we know which emotion we are experiencing? Labelling it.
+* May sound silly, but sometimes we don't know exactly how we feel without thinking about it.
+* Experiencing emotions is similar to the whole self-perception process.
+* link:../../people/schachter_stanley.html[Stanley Schachter] developed theory of emotion.
+** The way we infer our emotional state, same process we infer what kind of people we are/what we are like.
+** First we observe our behavior, then we explain the why to ourselves.
+** We might feel aroused, and try to find out the cause of it.
+** E.g. your heart is pounding, a bit sweaty; in love, or just went for a run?
+** His theory is called the two-factory theory of emotion.
+
+.Two-Factor Theory of Emotion
+****
+Two-step self-perception process: First experience physiological arousal, then seek an explanation.
+****
+
+* We use information in the situation, to help make an attribution why we feel aroused.
+* E.g. we feel our body in an aroused state (feeling warm, hands shaky, heart-rate increased) but don't know why at first.
+** We look for cues in our environment:
+*** Bear -> fear
+*** Attractive person -> love/lust
+*** Exam book -> anxiety
+*** At the gym -> it's not an emotion
+* Emotions are arbitrary, depending on the most plausible explanation.
+** Schachter and Singer experiment (one of the most famous experiment in social psychology):
+*** Prevent people from getting angry by providing a non-emotional explanation.
+*** We can make them have different emotions by providing different explanations.
+*** Emotions can be result of self-perception process.
+*** Finding explanation for arousal can be wrong, thus emotion can be mistaken.
+*** We rely on situational cues to explain our behavior.
+
+.YouTube Video: "The Schachter and Singer Experiment on Emotion", 5mins
+[link=https://www.youtube.com/watch?v=aiEu6kXG0ls]
+image::https://img.youtube.com/vi/aiEu6kXG0ls/0.jpg[Emotion Experiment,300]
+
+===== Addition: Other Theories of Emotion
+
+* Common sense: event -> emotion -> arousal
+** "I tremble because I feel afraid."
+* James-Lange: event -> arousal -> interpretation -> emotion
+** "I feel afraid because I tremble."
+* Cannon-Bard: event -> arousal/emotion
+** "That thing makes me tremble and feel afraid."
+* Schachter-Singer: event -> arousal -> reasoning -> emotion
+* Schachter-Singer's Two-Factory: event -> arousal -> cognitive labels -> emotion
+** "I label my trembling as fear, because I appraise the situation as dangerous."
+
+Categories for theories of emotion:
+
+* Physiological: responses within the body cause emotions
+* Neurological: brain activity causes emotional responses
+* Cognitive: thoughts form emotions
+
+==== Misattribution of Arousal
+
+* In daily life, there are many possible explanations of what caused a certain emotion.
+** Difficult to say which cause is how likely.
+
+.Misattribution of Arousal
+****
+Wrong inferences about what causes us to feel in a certain way.
+****
+
+* Famous field experiment by Donald Dutton and Arthur Aron:
+** An attractive young woman asks men to fill out a questionnaire.
+** She writes down her name and phone number.
+** How attracted where these men to her? Would they call her?
+*** We might guess whether they are already in a relationship, or how busy they were...
+*** Or what's actually going on: Depending on how they interpreted any bodily symptoms.
+** One group had to cross a suspension bridge, a scary experienced; after that the woman approached them.
+** Another condition, the men could rest for a while after the bridge crossing, to calm down.
+** Men mistakenly thought that the physical arousal they experienced came from attraction to the woman, instead of crossing the bridge.
+** Next time you encounter an attractive person, and your heart goes crazy, think carefully: you might fall in love for the wrong reasons!
+* We learn about ourselves by observing our behavior and conditions where that behavior occurs.
+** Observations outward (e.g. free choice in doing some activity) and as well inwards (bodily responses).
+
+[#img-misattribution-arousal]
+.When we are aroused (by crossing a bridge), we often attribute that arousal to the wrong source, such as attraction to the person we are with.
+image::images/misattribution_arousal.jpg[Misattribution of Arousal,340,100]
+
+==== Intrinsic vs. Extrinsic Motivation
+
+* When we perform a certain activity, do we do it because we are intrinsically interested or because we want to gain something (e.g. money)?
+* Motivations are an interested and important field of research for many domain, including education.
+** You might think that rewarding students for achievements is a good idea.
+** There is no doubt rewards are powerful; _positive reinforcements_ to increase frequency.
+** BUT: People are not rats! We have more inside going on: thoughts, self-concept, motivation to read in the future.
+** If getting rewarded doing something, does it change the reason _why_ we are doing it?
+** Once the reward ends, we are less likely to do it than before the reward started.
+*** Especially true if we liked doing it already before.
+
+.Intrinsic Motivation
+****
+Engage in activity because we enjoy it/find it interesting.
+****
+
+* The reason to engage in an activity has to do with ourselves.
+** We do it because of enjoyment and pleasure.
+** We consider it as play, not as work.
+
+.Extrinsic Motivation
+****
+Engage in activity because of external rewards/pressure.
+****
+
+* Once we get rewards, things change in a bad way \...
+* According to self-perception theory, we assume that we are motivated by the rewards.
+** We lose interest in activities we initially enjoyed.
+** Examples are: school, professional athletes, \...
+
+.Overjustification Effect
+****
+Think that our behavior is caused by extrinsic, and underestimate the intrinsic reasons.
+****
+
+* How to protect intrinsic motivation from a reward system?
+** There are conditions to avoid this effect: Rewards will undermine interest ONLY if interest was initially high.
+** When interest is low (or not existing) at the beginning, then there is nothing to undermine; go ahead and reward.
+* Types of rewards make a difference: task-contingent and performance-contingent.
+
+.Task-Contingent Rewards
+****
+Rewards given, regardless of performance.
+****
+
+.Performance-Contingent Rewards
+****
+Rewards based on performance on task.
+****
+
+* It's better to reward for performance, instead of sole participation.
+** But: They can backfire if overused: Put pressure, feeling evaluated (lower performance and intrinsic interest).
+** Solution: Convey positive feedback without pressuring, making feel nervous.
+* Also: Seems to be better to praise hard work, rather personality (e.g. intelligence).
+
+==== Mindsets and Motivation
+
+* Our self-perception influences our motivations by the way we perceive our abilities.
+** Are those abilities set in stone (fixed) or can they change (growth)?
+** This will determine success in life in general for any ability.
+** Setback in sports, education, personal relationships... find a new strategy, rather think that you "don't have what it takes".
+* Yet, for already high performing people, which mindset being used makes little difference.
+
+.Fixed Mindset
+****
+Abilities are unchangeable.
+****
+
+* Set amount of an ability; cannot change.
+* E.g. intelligence, athletic ability, musical talent, ...
+* Those people more likely give up after a setback.
+
+.Growth mindset.
+****
+Achievement because of hard work.
+****
+
+* Result because of:
+.. Hard work; years of training/practice; repetition; effort, discipline, power of will.
+.. Trying/developing new strategies; find new paths/solutions.
+.. Seek input from others; help and advice from others which are already there (experts).
+* Those people view setbacks as opportunities to improve through hard work.
+* Anything is possible, if right strategy is found and hard work invested.
+* They accomplish far more in life.
+
+=== Knowing Myself through Others
+
+* Using other people to know ourselves.
+** Self-concept is shaped by people around us (not in solitary context).
+* If raised as a feral/wild child by animals, own image would be blurred.
+** We wouldn't be able to see ourselves as having selves distinct from others.
+* Remember the "red-dye test"?
+** Chimpanzees raised with social contact passed it.
+** Chimps raised in total isolation didn't react to their reflections at all; no development of a sense of self.
+
+==== Knowing ourselves by Comparison
+
+* How do we use others to define ourselves?
+** Measure our own abilities/attitudes and comparing them to others.
+
+.Social Comparison Theory
+****
+Learn about our abilities/attitudes by comparing ourselves to others.
+****
+
+* It was originally formulated by link:../../people/festinger-leon.html[Leon Festinger].
+* Two important questions:
+.. When do we engage in social comparison? => When there is no objective standard; uncertain about ourselves.
+.. With whom do we choose to compare ourselves with? => Depends whether goal is to be accurate or to feel better.
+
+.Upward Social Comparison
+****
+Comparing us with someone better (trait/ability).
+****
+
+* Good if you want to know what excellence is, aspire to the top level.
+* But: This can be dispiriting, making us feel inferior.
+
+.Downward Social Comparison
+****
+Comparing us with someone worse (trait/ability).
+****
+
+* Good if you want to feel good about yourself, ego boost.
+* Or simply compare ourselves with our past selves (performance); most likely feel better about ourselves (downward comparison).
+* The nature of our goals, determine with whom we compare ourselves to.
+** Accuracy: similar people.
+** Striving: upward comparison.
+** Feel better: less fortunate ones (past selves).
+
+==== Knowing Ourselves by Adopting to Other's View
+
+* We use others as a measuring stick, to asses our own abilities.
+* Those "others" are mostly our friends.
+** Those who hang out together, tend to see the world in the same way.
+** Because "birds of a feather flock together"; that's why people holding common views.
+** Meaning: People with similar views are attracted to each other. More likely to become friends.
+* We also _adopt_ our views of people we hang out with.
+** The "_looking-glass self_": We see ourselves and the social world, through eyes of others, and often adopt those views.
+** Especially true if we want to get along with each other.
+** E.g.: Your best friend mentions he thinks that TV show XY is the best, you will probably like it as well.
+
+.Social Tuning
+****
+We adopt another person's attitude.
+****
+
+* This can happen even when we meet someone for the first time (not a long-lasting, best friend), _if_ we want to get along with them.
+* This can very much also happen unconsciously.
+* Most of the times, we adopt the views of people we like, and reject the views of people we don't like.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test2[Test yourself]
+====
+
+== Self-Control
+
+* "_The executive function of the self._"
+* When do we succeed/fail at self-control?!
+
+.Self-Control
+****
+To subdue immediate desires for long-term goals.
+****
+
+* The self's function is to set goals and make choices.
+* We are the only species that can imagine events which have not yet happened; use long-term planning.
+* Easy when goal is clear, and easy to achieve.
+** Hard, because need to avoid short-term pleasures.
+** Difficult to achieve (change habits; stick to a diet).
+* Strategies that _don't_ work:
+** The more try not to think about something, the more those very thoughts keep coming to mind.
+** Simply focus on the long-term goal, and how important it is to us.
+
+.Implementation Intentions
+****
+Plan where/when/how fulfill goal and avoid temptations.
+****
+
+* Strategies that _do_ work:
+** Make a plan: form specific implementation intentions; how we use self-control in tempting situation to overcome obstacles.
+*** "If-then"-format; how/when to do something to get it; how avoid temptations
+** Arrange environment to avoid temptations in the first place
+*** E.g.: change friends, places to be, shopping list for groceries, turn off phone/computer, use hand-written notes, ...
+** Stay well-rested, as self-control requires energy (this is still a bit controversial though).
+*** Some replications failed for this "depletion effect"; stay tuned.
+** Believe in yourself: If you think it's an unlimited resource, you will be better off (instead easily depleted, limited resource).
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test3[Test yourself]
+====
+
+== Impression Management
+
+* "_All the world's a stage._"
+* Or: How we portray ourselves so that others will see us as we want to be seen.
+
+.Impression Management
+****
+The attempt to get others see us the way we want to be seen.
+****
+
+* We put our best foot forward, to be liked by other; posting pretty pictures of us; draw attention with clever posts.
+* We are all like stage actors, trying to convince the "audience" (the people around us), that we are a certain way (even if we are not).
+
+=== Ingratiation and Self-Handicapping
+
+* Two strategies of impression management are: Ingratiation and self-handicapping.
+
+.Ingratiation
+****
+Make ourselves likeable (by flatter/praise) to others (often of higher status).
+****
+
+* We can ingratiate through compliments, by agreeing with someone's ideas, or by commiserating (=mitleidig) and offering sympathy.
+* From the other end: We all of course enjoy having someone be nice to us.
+* It can backfire though, if the other senses that we are being insincere.
+
+.Self-Handicapping
+****
+Creating obstacles/excuses for ourselves, so if doing poorly we can avoid blame.
+****
+
+* Doing poorly/failing at a task is damaging to our self-esteem.
+* Even simply doing less than expected/did in the past, can be upsetting, even if the performance was good itself.
+* To prevent disappointment, we set up excuses before the task, just in case.
+* If we fail, we have an excuse ready to offer others to explain our poor performance; deflecting potential negative internal attribution.
+* Two ways of self-handicapping:
+** 1. Behavioral self-handicapping
+*** More extreme form; reduce chance to actually succeed; obstacles to blame, instead one's ability.
+*** E.g. by using drugs, reduced effort, or failure to prepare for an important event.
+*** Men are more likely to engage in it.
+** 2. Reported self-handicapping
+*** Less extreme form; create ready-made excuses in case we fail.
+*** E.g. by complaining we don't feel well, test anxiety, bad moods, physical symptoms.
+*** We might believe our own excuses and put less effort on the task.
+*** Why work hard when going to do poorly anyway?!
+*** It may prevent unflattering attributions for failure, but it has the perverse effect of causing what we are so much afraid of.
+*** It has the potential for being disliked by peers as a side effect.
+*** Women are particularly critical of others who self-handicap, as they value trying hard to achieve something.
+
+=== Culture, Impression Management, and Self-Enhancement
+
+* All cultures are concerned with impression; they differ in nature of this concern, and strategies being used.
+* E.g. In interdependent asian cultures like in Japan, people are concerned having the "right" guests at their wedding and sometimes even rent mourners for funerals.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test4[Test yourself]
+====
+
+== Summary
+
+* The self-concept and how it develops
+** Origins and nature of self-concept
+*** Great (not lesser) apes (e.g. chimps) rudimentary sense of self (pass mirror self-recognition test)
+*** Humans develop self-recognition with 2 years; later full-blown self-concept (set of beliefs about personal attributes).
+*** We think morality is more central to self-concept than cognitive processes/desires.
+** Cultural influences
+*** West independent view of self, East interdependent one.
+** Functions
+*** Self-knowledge; who are we
+*** Self-control; make plans, execute decisions
+*** Self-esteem; feel about ourselves
+*** Impression Management; present ourselves to others
+* How we use introspection, observations of our own behavior, or other people to know ourselves
+** Self-knowledge: how to know who we are, and why we do what we do
+** Self-knowledge through introspection
+*** Learn about own feelings/motives/emotions
+*** Self-awareness theory: focus on self, evaluate/compare behavior with internal standards/values
+*** Explaining why feel the way we do, using (culturally based) causal theories
+** Self-knowledge by observation own behavior
+*** Self-perception theory: attitudes/feelings are uncertain/ambiguous, infer by self-observation and context
+*** Two-factor theory of emotion: first experience arousal, then seek explanation (sometimes wrong: misattribution of arousal)
+*** Overjustification effect: focus extrinsic, underestimate intrinsic reasons
+*** Fixed (abilities can't change) vs growth mindset (abilities are malleable; can cultivate/grow)
+** Self-knowledge using others
+*** Social comparison theory: Own abilities/attitudes by comparing with others
+*** Social tuning: Adopt attitudes those we like/want to interact with.
+* Compare when we succeed/fail at self-control
+** Self-control: the executive function of the self
+** Exerting energy on one tasks, limits to exert self-control on other task
+** Simply believing willpower is infinite already helps (also prayers help!)
+* How we portray ourselves so others will see us, the way we want them to see us
+** Impression management: All the world's a stage.
+*** We want others to see us the way we want them.
+** Strategy: Ingratiation; flattery/praise to make likable to others
+** Strategy: Self-handicapping; create obstacles/excuses, when fail, avoid blame oneself
+** Culture: all have it, yet kinds of images we want to present, are culture-dependant
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test5[Test yourself]
+====

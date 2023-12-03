@@ -1,4 +1,50 @@
-= XXX
+= Self-Justification
+
+"_Cognitive Dissonance and the Need to Protect Our Self-Esteem_"
+
+== Theory of Cognitive Dissonance
+
+* Question: Have you ever done something stupid to be member of a group?
+** Some committed mass suicide, to get a ticket to a new life in paradise in a gigantic spaceship.
+** One of them bought a telescope, but wanted to return it because he couldn't see that spaceship.
+** Conclusion: The telescope must be broken, because he "knows" the alien spaceship must be there.
+** Member's of the link:https://en.wikipedia.org/wiki/Heaven%27s_Gate_(religious_group)[Heaven's Gate cult], among this particular member, were also pleasant, smart, and reasonable.
+* What is the process such fantastic thinking and self-destructive behavior happens?
+** An extreme example of a normal human tendency: The need to justify our actions and commitments.
+
+[#img-self-awareness]
+.Jonestown massacre in 1978 where 900 members of the link:https://en.wikipedia.org/wiki/Peoples_Temple[Peoples Temple] cult killed themselves.
+image::images/mass_suicide.jpg[Mass Suicide,800,100]
+
+
+\... PAGE 172 ...
+
+
+=== Decisions, Decisions
+=== Justification of Effort
+=== Counter-attitudinal Behavior
+=== Avoiding Temptations
+=== Hypocrisy Paradigm
+=== In Cultures
+
+* Dissonance across cultures
+
+== Advances and Extensions of the Theory
+
+=== Self-Affirmation Theory
+=== Self-Evaluation Maintenance Theory
+
+* "_Dissonance in close relationships_"
+
+== Concluding Thoughts
+
+=== Overcoming Dissonance
+=== Narcissism
+
+* "_\... and the dangers of too much self-esteem."
+
+
+
 
 .Term
 ****

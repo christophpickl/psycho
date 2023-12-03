@@ -8,8 +8,7 @@ See link:h7.pdf[`h7.pdf`], link:h8.pdf[`h8.pdf`] and link:h9.pdf[`h9.pdf`] docum
 
 == Resources
 
-.YouTube Video: "Trait Theory - History of Personality Psychology" (
-Practical Psychology), 8mins
+.YouTube Video: "Trait Theory - History of Personality Psychology" (Practical Psychology), 8mins
 [link=https://www.youtube.com/watch?v=oUgCIvKxbAE]
 image::https://img.youtube.com/vi/oUgCIvKxbAE/0.jpg[Trait theory,300]
 
