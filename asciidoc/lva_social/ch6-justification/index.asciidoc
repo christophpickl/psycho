@@ -16,11 +16,52 @@
 .Jonestown massacre in 1978 where 900 members of the link:https://en.wikipedia.org/wiki/Peoples_Temple[Peoples Temple] cult killed themselves.
 image::images/mass_suicide.jpg[Mass Suicide,800,100]
 
+* So what is *cognitive dissonance*, and how do we avoid it to maintain a positive self-image?
+* As we saw in link:../ch1-introduction/index.html[chapter 1], self-esteem is our evaluation of our self-worth (we view ourselves as good/competent/decent).
+* As we saw in the previous link:../ch5-self/index.html[chapter 5], the function of the self is to maintain our self-esteem.
+* It seems that the biggest determinant of our behavior is the motivation to preserve a stable, positive self-image.
+* link:../../people/festinger-leon.html[Leon Festinger] developed the most provocative theory in psychology: The theory of cognitive dissonance.
 
-\... PAGE 172 ...
+.Cognitive Dissonance
+****
+The discomfort, felt when our behavior threatens our self-esteem.
+****
 
+* Or how Festinger defined it: The discomfort that is caused when two cognitions conflict, or when our behavior conflicts with our attitudes.
+** This definition was revised by his student Elliot Aronson: Dissonance is most painful (and most motivated to be reduced) when dissonant cognitions challenge our self-esteem (sense of self-worth).
+* How can it be reduced then?
+** Changing behavior (align it with the dissonant cognition)
+** Changing a dissonant cognition (to justify our behavior)
+** Adding new cognitions (also to justify our behavior)
+* Take *smoking* for example:
+** Imagine you tried, and failed in the past. You might feel bad about yourself.
+** To reduce dissonance, change one of your dissonant cognitions: belief that smoking is harmful.
+** So now you are free to continue smoking without feeling terrible about it.
+** Applying the three strategies above to reduce dissonance and be happy again:
+... Stop smoking (change behavior)
+... Change cognitions (smoking isn't bad)
+... Add consonant cognition (smoking is relaxing)
+** Young people tend to justify this by saying things like "smoking is cool", "I want to be like my friends", "in movies, everyone smokes", "I'm healthy; nothing is going to happen to e", "adults are always on my back about stuff I do", or "who wants to be 90 anyway".
+** Sometimes people say that it's worth the risk, it's enjoyable, it relaxes them and reduces nervous tension and therefor actually improves their health.
+
+[#img-cognitive_strategies]
+.How to reduce cognitive dissonance
+image::images/cognitive_strategies.jpg[Dealing with cognitive dissonance,800,100]
+
+* Once you understood dissonance, you will see it all around you. For example:
+** End of the world predictions claim to be accurate, they just used the numbers from the wrong chapter of the bible.
+** When central aspects of our identity conflict, as in being gay and Christian. One way is to leave the church or even religion, or to stay and claim "it's not my religion, it's the bigotry of this particular preacher".
+* Human thinking is not rational, but rationalizing.
+** No matter how smart you are: You will behave irrationally and maladaptively.
+** Once we are committed to our views and beliefs, we will distort new information so it will confirm us (see also link:../../phenomena/confirmation_bias.html[confirmation bias]).
+** People believing in discredited ideas (vaccines cause autism) or receiving bad news about our health.
+** We are very "creative" in denying evidence and reducing discomfort.
+** We rationalize our actions, and interpret facts to fit what we already believe.
 
 === Decisions, Decisions
+
+\... PAGE 175 ...
+
 === Justification of Effort
 === Counter-attitudinal Behavior
 === Avoiding Temptations

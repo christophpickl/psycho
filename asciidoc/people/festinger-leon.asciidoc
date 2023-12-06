@@ -18,3 +18,4 @@ image::festinger-leon.jpg[Leon Festinger,200,100]
 == Links
 
 * https://en.wikipedia.org/wiki/Leon_Festinger
+* link:../lva_social/ch6-justification/index.html[Chapter 6], Justification and Cognitive Dissonance
