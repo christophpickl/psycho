@@ -1,0 +1,11 @@
+= Decoy Effect
+
+* Consumers have a specific change in preference between two options, when also presented with a third option that is *asymmetrically dominated*
+** asymmetrically dominated = inferior in all respects to one option, but only partially inferior to the other option
+* Widely used in marketing.
+* Example:
+** Flash drive A: 400,- 300 MB (target: what the salesman wants to sell)
+** Flash drive B: 300,- 200 MB (competitor: what the salesman doesn't prefer)
+** Now, presented with C: 450,- 250MB
+*** Totally worse than A (more expensive, less storage)
+*** But partially worse than B (much more expensive, bit more storage)

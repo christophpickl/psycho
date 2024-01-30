@@ -1,5 +1,12 @@
-= Framing
+= Framing Effect
 
-// wortwahl ist wichtig! experiment mit worte mit alter assoziiert, menschen gehen langsamer. oder "bank" interpretieren wenn koffer im raum ist.
+* Drawing different conclusions from the same information, depending on its representation.
+** E.g. something is 80% healthy VS 20% unhealthy.
+* The phrasing is of relevance!
+** E.g. first let people read a list, group A words associated with age, group B not. Afterwards, group A is observed to walk slower on the corridor.
+** E.g. similar to this, let people interpret the word "bank" (financial or sitting), and changed only by presence of a suitcase in the room.
 
-// kahnemann
+== Contrast Effect
+
+* The enhancement/reduction of a perceived stimulus, when compared with a recently observed contrasting object.
+** E.g.: Seeing a picture of a wombat, thinking it's all cute and small; and then seeing a picture of it compared to a human.

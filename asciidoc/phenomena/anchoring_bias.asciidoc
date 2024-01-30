@@ -1,8 +1,10 @@
 = Anchoring Bias
 
+Also called "_anchoring effect_" or "_focalism_".
+
 .Definition
 ****
-Also called "anchoring effect" or "focalism", is a cognitive bias where a judgement/decision is based on the initial available information you got, used as a reference point (=anchor) for further data.
+A judgement/decision is based on the initial available information you got, used as a reference point (=anchor) for further data.
 ****
 
 [#img-anchoring_advert]
@@ -15,12 +17,10 @@ image::anchoring_bias.png[Anchoring Advert,400,100]
 ** E.g. Did Gandhi die before/after age 9 VS 140? Clearly wrong, still average guess then will be 50 VS 67.
 * *Durability*: It just won't leave our head. Anchoring effect may precede link:priming[Priming]
 * *In groups*: Groups are worse than individuals, as pre-existing biases are amplified in decision-making process. Yet, some groups perform better than individual members.
-
-Multiple theories exist about the *causes* of anchoring, no consensus yet as to which is best, like: Anchoring-and-adjusting, selective accessibility, attitude change and extremeness aversion.
-
-Influencing factors are: mood, personal experience, personality, cognitive ability and overconfidence.
-
-It involves other biases like: Common source bias, conservatism bias, functional fixedness and law of the instrument.
+* This is why first impressions matter so much! The anchored image will be hard to change.
+* Multiple theories exist about the *causes* of anchoring, no consensus yet as to which is best, like: Anchoring-and-adjusting, selective accessibility, attitude change and extremeness aversion.
+* Influencing factors are: mood, personal experience, personality, cognitive ability and overconfidence.
+* It involves other biases like: Common source bias, conservatism bias, functional fixedness and law of the instrument.
 
 == Example 1
 

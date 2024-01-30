@@ -1,18 +1,16 @@
 = Hindsight Bias
 
-Also called the "I knew-it-all-along effect" or "creeping determinism". The tendency to exaggerate, after learning an outcome, one's ability to have foreseen the outcome (a general overconfidence in the certainty of one's judgments). Differently put: When people believe that an event is more predictable after it becomes known than it was before it became known.
-
-It contains three aspects:
-
-1. memory distortion
-2. beliefs about events' objective likelihoods, or
-3. subjective beliefs about one's own prediction abilities.
-
-Is is based on:
-
-1. *Cognitive inputs*: People selectively recall information consistent with what they now know to be true and engage in sense-making to impose meaning on their own knowledge
-2. *Metacognitive inputs*: The ease with which a past outcome is understood may be misattributed to its assumed prior likelihood
-3. *Motivational inputs*: People have a need to see the world as orderly and predictable and to avoid being blamed for problems.
+* Also called the "I knew-it-all-along effect" or "creeping determinism".
+* The tendency to exaggerate, after learning an outcome, one's ability to have foreseen the outcome (a general overconfidence in the certainty of one's judgments).
+** Differently put: When people believe that an event is more predictable after it becomes known than it was before it became known.
+* It contains three aspects:
+.. memory distortion
+.. beliefs about events' objective likelihoods, or
+.. subjective beliefs about one's own prediction abilities.
+* It is based on:
+.. *Cognitive inputs*: People selectively recall information consistent with what they now know to be true and engage in sense-making to impose meaning on their own knowledge
+.. *Metacognitive inputs*: The ease with which a past outcome is understood may be misattributed to its assumed prior likelihood
+.. *Motivational inputs*: People have a need to see the world as orderly and predictable and to avoid being blamed for problems.
 
 == Resources
 

@@ -1,0 +1,6 @@
+= Illusory Truth Effect
+
+.Definition
+****
+We are more likely to identify as true statement those we have previously heard, even if we cannot consciously remember having heard them.
+****

@@ -1,5 +1,10 @@
 = Dunning Kruger Effect
 
+.Definition
+****
+Unskilled individuals overestimate their ability, and experts underestimate theirs.
+****
+
 "_The ones who know that they don't know, know more, than those who don't know that they don't know._"
 
 These two guys (David Dunning and Justin Kruger) basically figured that cognitive bias out, that most people who assume that they know, simply don't know how little they know, or more precisely: "Believing you know something that you don't".

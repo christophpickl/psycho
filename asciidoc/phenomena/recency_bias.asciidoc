@@ -1,0 +1,9 @@
+= Recency Bias
+
+.Definition
+****
+Give greater importance to the most recent event.
+****
+
+* E.g. an interviewer who can vividly remember just the last person being interviewed (most recent conversation).
+* Related to the link:serial_position_effect.html[Serial-position Effect].

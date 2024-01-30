@@ -1,0 +1,4 @@
+= Omission Bias
+
+* Judging harmful actions as worse/less moral than equally harmful inactions.
+* Example: Hitting someone (commission) is worse than not stopping a bully from hitting another (omission).

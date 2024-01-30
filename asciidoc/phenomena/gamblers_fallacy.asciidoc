@@ -2,3 +2,4 @@
 
 * When flipping a coin, subsequent throws have no impact to previous events, although we might think otherwise "to even things out".
 * E.g. after throwing (H=heads, T=tail), HHHHH, the next flip can be either H or T both with equal chances (and not T, as most people would assume).
+* But: Future probabilities are NOT altered by past events

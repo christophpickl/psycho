@@ -1,0 +1,5 @@
+= Availability Cascade
+
+* A self-reinforcing process, where a collective belief gains more and more plausibility through its increasing repetition in public discourse.
+* "Repeat something long enough, and it will become true."
+* Related to the link:availability_bias.html[Availability Bias].

@@ -1,0 +1,3 @@
+= Next-in-line Effect
+
+* When taking turn in a group, using a predetermined order (e.g. clockwise in a sharing circle), we have diminished recall from the person immediately before us.

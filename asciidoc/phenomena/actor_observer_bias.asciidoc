@@ -1,0 +1,3 @@
+= Actor Observer Bias
+
+* When explaining other people's behavior, we overemphasize the personality, and underestimate the situation. Also to do the opposite for one's own behavior.

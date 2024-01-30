@@ -1,0 +1,4 @@
+= Survivorship Bias
+
+* Focus on those (people/companies) that survived, and overlooking those who didn't due to their lack of visibility.
+** Think of facebook, or all the artists; only few make it, and it seems easy, because we don't see the thousands who failed.

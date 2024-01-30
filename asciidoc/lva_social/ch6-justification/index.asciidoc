@@ -60,11 +60,136 @@ image::images/cognitive_strategies.jpg[Dealing with cognitive dissonance,800,100
 
 === Decisions, Decisions
 
-\... PAGE 175 ...
+* With every single decision, we experience a bit of dissonance.
+* In the following section you will we see why \...
+
+==== Distorting dis/likes
+
+* When we choose one option, the chosen one is never entirely positive, and the rejected alternative never entirely negative.
+* After deciding, we think of ourselves being a smart person, which is dissonant with the negative aspects of your choice; and also with the positive ones of the rejected option.
+
+.Postdecision Dissonance
+****
+After making a decision, making choice more attractive, and devaluating rejected option.
+****
+
+* We make some unconscious mental work to try reducing dissonance, to make us feel better about our decision.
+
+==== Decision Permanence
+
+* The more important the decision is, the greater the dissonance.
+* Decisions differ in how permanent they are (how difficult to revoke them).
+** If a decision is final, it produces a lot of dissonance.
+** E.g. deciding for an education, we inflate positive aspects of it, and minimize those of alternatives.
+* Keeping options open makes us less happy, as the finality of decisions actually does.
+
+=== Illusion of Irrevocability
+
+.Lowballing
+****
+An somewhat unethical strategy (by salespeople) to promise to sell a product for a low price, then claiming there was an error, and gradually increase the price; hoping the customer will still agree.
+****
+
+* It works because:
+.. Some sort of commitment, by saying yes to the initial (wrong) price. Although sometimes knowing it wasn't a binding contract.
+.. Anticipation of an exciting event, due to the commitment; to say no would have meant a big letdown.
+.. The new price might be only slightly higher than at other sellers, and justifies his commitment by explaining the already invested effort (e.g. signing the forms).
 
 === Justification of Effort
+
+* Imagine you put in a lot of effort to get into a particular club.
+** Turns out, it's totally worthless. You would feel pretty dumb, right?!
+** This will lead to a significant amount of dissonance.
+** You might want to convince yourself how nicer, more interesting/worthwhile the club/people are.
+** Doing so is possible because activities/behaviors are open to a wide range of possible interpretations.
+** If being motivated (reduction of dissonance), we tend to interpret these ambiguities in a positive way.
+** And the more effort we put it, the more we will like it; even (especially!) if it's something we don't actually like.
+
+.Justification of Effort
+****
+Increase liking for something worked hard.
+****
+
+* E.g. the harsh training experienced in the army increases group cohesiveness and pride to be a part of this organization.
+* If we didn't put any effort in it to get it, and we didn't enjoy it, we see things clearly.
+** If there was some sort of severe (effortful/painful) initiation, we convince ourselves it was worthwhile.
+** E.g. religious rituals (like the Hindu festival of Thaipusam) convinces people that the greater a men's pain, the greater their commitment to the temple.
+* If we _choose_ though to go through a demanding/unpleasant experience, the goal/object becomes more attractive.
+** E.g. If you want to join a group, and while walking their you got splashed, your liking towards the group wouldn't change. But if you volunteered to jump into a mud puddle to be admitted to the group, you _would_ like the group better.
+
 === Counter-attitudinal Behavior
+
+* Imagine your friend bought a product you consider bad but he can't return it anymore.
+** You might think something like: "_He seems happy about it, and spent a lot of money for it and can't take it back. If I say what I think, I'll upset him._"
+** So you go ahead, and lie (harmony/peace/comfort over truth/honesty/authenticity) and say you like it. You won't feel much dissonance though.
+** Your thoughts/values are consistent with this lie.
+** It is important not to embarrass or cause pain to people you like, which is an external justification for this harmless lie.
+
+.External Justification
+****
+Reason/explanation for dissonant personal behavior that's on the outside (reward/punishment).
+****
+
+* What if your friend can afford to absorb the costs? Would you still lie?
+** If so, then there is no external justification for lying, and you will experience more dissonance.
+** If we can't find external, we try to find internal justification.
+
+.Internal Justification
+****
+Reduction of dissonance by changing yourself (attitude/behavior).
+****
+
+* You might try to look harder for something positive about the object.
+** As a result, your attitude towards it will be more aligned with your statement/lie.
+** Thus: "_Saying becomes believing_."
+
+.Counterattitudinal Behavior
+****
+Acting against one's own beliefs/attitudes.
+****
+
+* Counterattitudinal behavior happens when our behavior conflicts with our private beliefs/attitudes.
+** E.g. simply claiming to have an opinion/attitude that differs from our true beliefs.
+* Most common experiment is where people getting paid 0/1/20 dollars for doing a boring task and then convincing others that it's great.
+** Receiving lots of external justification for lying and not believing it requires no internal justification. Otherwise necessary to convince oneself "why did I do that"?
+** Another similar one is: Being bullied by kids, then giving them money for doing so, then gradually decrease the amount, until they stop because they don't get paid doing it anymore.
+
+==== Consequential Issues
+
+* Counterattitudinal behavior toward consequential issues
+* It is possible to change people's attitude towards important issues, like prejudice and eating disorders.
+** You do so by providing small incentives.
+* The media's "thin ideal" leads to unhappiness, constant dieting and eating disorders.
+** Creating a dissonance condition, by writing an essay why "thin is beautiful" is unhealthy; the emotional and physical costs pursuing this unrealistic ideal body is irrational.
+** People doing this exercise showed significant increase in body satisfaction, decrease in chronic dieting (bulimia risk reduced), and were happier and less anxious.
+
+==== Ben Franklin Effect
+
+* Justifying acts of kindness; see link:../../phenomena/ben_franklin.html[Ben Franklin Effect page]
+* Doing a small favor towards a person you don't like, is an example of counterattitudinal behavior.
+** Thus, it creates dissonance, and we reduce it by convincing ourselves that we like that person.
+
+==== Justifying cruelty
+
+* Dehumanizing the enemy is a rather universal phenomena.
+** We do so by calling them cruel names like: animals, brutes, or other nonhuman creatures.
+* Use of such language is to reduce dissonance: "I am a good person, but we are fighting and killing these other people; therefore, they must deserve whatever they get, because they aren't fully human like us."
+* Difficult to know whether self-justification can follow acts of cruelty, rather causing them.
+
+\... PAGE 183 ...
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Internal consequences of doing good*
+
+xxx
+====
+
+==== Immoral acts
+
 === Avoiding Temptations
+
+
 === Hypocrisy Paradigm
 === In Cultures
 

@@ -1,9 +1,44 @@
 = Bobo Doll Experiment
 
-See: https://www.youtube.com/watch?v=
+* Trying to study aggressive behavior through modeling, conducted by link:../people/bandura-albert.html[Albert Bandura] in 1961.
+* The goal was to show that aggression can be explained in terms of _social learning theory_ (at least in part).
+** It claims that people learn largely through observation, imitation and modelling.
+* Question being also: What's the impact on children watching violence (in TV and computer games)?
 
-Conducted by link:../people/bandura-albert.html[Albert Bandura].
+== Setup
+
+* Three groups of 72 children (age 3-5):
+.. Watching people being aggressive (punching, kicking, tossing, pushing down, yelling) towards a doll for 10 minutes.
+.. Watching people being neutral to it (playing with other toys).
+.. A control group.
+* The adult model later was either rewarded/punished/no consequences for physically abusing the Bobo doll.
+* Later measured how much children expressed aggressiveness (physical and verbal) towards it.
+
+[#img-bobo_doll_hit]
+.A young boy hitting the bobo doll during the experiment, imitating the previously observed behavior.
+image::bobo_doll_hit.png[Bobo Doll hit,400,100]
+
+== Conclusions
+
+* Exposing children to aggressive models increased likelihood of physically aggressive behavior (compared to those not being exposed). Which was what Bandura wanted to prove.
+** Boys are slightly more aggressive.
+** Same-sex models have more influence on children.
+* Exposure to aggressive modeling is NOT cathartic (draining the viewer's aggressive drive), as believed for a long time.
+* It increased attraction to guns, although it was never modelled.
+
+== Criticism
+
+* Some experts criticize its ecological and external validity.
+* In a 1990 repeated study, novelty alone (not yet seen the Bobo doll) increased aggressive behavior five times, thus being a third variable.
+* Social learning theory ignores biological/evolutionary drives (a person's biological state, DNA, brain development, learning differences).
+* Children under eight have underdeveloped frontal lobes, thus not being able to separate reality from fantasy.
+* Exposure and imitation happened immediately after each other, thus not looking on long-term effects.
+* Not aligned with today's ethical standards.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Bobo_doll_experiment
 
 .YouTube Video: "Bobo Doll experiment (Bandura)", 5mins
 [link=https://www.youtube.com/watch?v=eqNaLerMNOE]
-image::https://img.youtube.com/vi/eqNaLerMNOE/0.jpg[Bobo Doll experiment,300]
+image::https://img.youtube.com/vi/eqNaLerMNOE/1.jpg[Bobo Doll experiment,300]

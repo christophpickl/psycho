@@ -1,0 +1,14 @@
+= Apophenia
+
+.Definition
+****
+Seeing meaningful connections between unrelated things.
+****
+
+* Thus a stereotype can lead us to expect certain groups and traits to fit together, and then to overestimate the frequency with which these correlations actually occur.
+** E.g. "If he's bad ... then ... all of them must be bad!"
+
+== Pareidolia
+
+* Another type of apophenia, where we see images of animals in the clouds for example.
+* Related to anthropomorphism: Assigning human things (traits, emotions, intentions) to non-human things.

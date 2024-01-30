@@ -1,0 +1,4 @@
+= Selection Bias
+
+* Selection of individuals/groups/data for analysis, so that proper randomization is not achieved.
+** Thus, sample is not representative for the population intended to be analyzed.

@@ -1,5 +1,8 @@
 = Phenomena
 
+// https://science.howstuffworks.com/life/inside-the-mind/human-brain/10-types-study-bias.htm
+// https://conservapedia.com/Scientific_bias
+
  To know that you do not know is highest.
  To not know but think you know is flawed.
  Only when one recognizes the fault as a fault can one be without fault.
@@ -11,72 +14,89 @@
 
 == Biases, Fallacies, Effects, Heuristics, Phenomena
 
-Some human flaws and unique traits, thanks to social psychology, well known due to pop-psychology, a list of (more or less) funny effects, illusions & co. Useful to know for everyone to try to see a bit more clearly:
+Some human flaws and unique traits, thanks to social psychology, well known due to pop-psychology, a list of (more or less) funny effects, illusions & co. Useful to know for everyone to try to see a bit more clearly. Francis Bacon used to call cognitive biases also: "idols of the mind".
 
-* Anchoring: initial price sets the baseline to compare (judge as high/low)
-* link:attentional_bias.html[Attentional Bias]
-* Attractiveness Bias
-* link:anchoring_bias.html[Anchoring Bias]
-* link:availability_bias.html[Availability Bias] -- If you can think of it, it must be important
-* Baader-Meinhof Phenomeon -- Cognitive bias towards things we learnt recently; e.g. learned new word, suddenly seem to appear everywhere (brain being more aware of it)
-* link:bandwagon.html[Bandwagon Effect] -- Doing it, simply because others are doing it
-* Baby-face Bias
-* link:barnum_effect.html[Barnum Effect]
-* Baseline -- Very difficult for humans do by Kahnemann
-* Bystander Effect
-* link:change_blindness.html[Change Blindness] -- A perceptual illusion where visual changes pass unnoticed to the observer.
-* link:choice_supportive_bias.html[Choice-supportive Bias]
-* Cocktail Party effect
-* link:cognitive_dissonance.html[Cognitive Dissonance] (Theory)
-* link:confirmation_bias.html[Confirmation Bias]
-* link:door_in_the_face.html[Door-in-the-Face Technique]
-* link:dunning_kruger_effect.html[Dunning Kruger Effect] -- The tendency of beginners to overestimate their level of skill.
-* link:hindsight_bias.html[Hindsight Bias] -- Or: "I knew it all along"
-* Framing -- Loss aversion
-* link:foot_in_the_door.html[Foot-in-the-Door Technique]
-* link:fundamental_attribution_error.html[Fundamental Attribution Error] -- It must be because he is just like that, or maybe the situation?
-* link:groupthink.html[Groupthink]
-* link:hawthorne_effect.html[Hawthorne Effect]
-* Illusory Superiority
-* Illusion of explanatory depth (eg explain/draw bike, biro, toilet flush, zipper, lock, ...)
-* Ingroup Bias (Ingroup Favoritism)
-* Interpretation Bias
-* link:mcgurk_effect.html[McGurk Effect] -- A perceptual illusion where seeing and hearing influence each other.
-* Insufficient Justification Effect
-* link:looking_glass_self.html[Looking Glass Self]
-* Memory Bias
-* link:mirrort_test.html[Mirror Test]
-* Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
-* Moralistic Fallacy
-* Naturalistic Fallacy
-* link:ostrich_bias.html[Ostrich Bias]
-* link:outcome_bias.html[Outcome Bias
-* link:own_race_bias.html[Own-race bias]
-* Person Bias; See Fundamental Attribution Error
-* Planning fallacy (by Roger Buehler)
-* link:predictable_world_bias.html[Predictable World Bias]
-* link:priming.html[Priming]
-* Proportional Bias -- Base for conspiracy theories
-* link:pygmalion_effect.html[Pygmalion Effect]
-* link:representativeness_heuristic.html[Representativeness Heuristic]
-* link:reciprocity.html[Reciprocity]
-* Scientific Bias
-// https://conservapedia.com/Scientific_bias
-* Selective Perception Bias
-* Selective Interpretation (heuristics; availability h., representative h., ...)
-* Self-Fulfilling prophecies (related to Pygmalion Effect)
-* Self-Serving Attributional Bias; like person bias but for oneself
-* similarity-attraction principle: sympathy is based on similarity; same stays with same; we like which reminds us of ourselves (same looks, thinking; even from same town)
-* link:spotlight_effect.html[Spotlight Effect]
-* Sunk Cost Fallacy
-* link:strange_situation.html[Strange Situation] Experiment -- What's your attachment style when you were a child?
-* link:transparency_illusion.html[Transparency Illusion] (or: Illusion of transparency)
-
-// TODO: https://www.youtube.com/watch?v=wEwGBIr_RIw overconfidence, palcebo effect, survivorshop, selective, blindspot
-
-// https://science.howstuffworks.com/life/inside-the-mind/human-brain/10-types-study-bias.htm
-
-PS: Francis Bacon used to call "cognitive biases" also "idols of the mind".
+. link:actor_observer_bias.html[Actor Observer Bias] -- It's because of his personality, not due to the situation.
+. link:apophenia.html[Apophenia]
+. link:attentional_bias.html[Attentional Bias]
+. Attractiveness Bias
+. link:anchoring_bias.html[Anchoring Bias] -- initial price sets the baseline to compare (judge as high/low)
+. link:authority_bias.html[Authority Bias]
+. link:availability_bias.html[Availability Bias] -- If you can think of it, it must be important
+. link:availability_cascade.html[Availability Cascade]
+. Baader-Meinhof Phenomenon -- Cognitive bias towards things we learnt recently; e.g. learned new word, suddenly seem to appear everywhere (brain being more aware of it)
+. link:bandwagon.html[Bandwagon Effect] -- Doing it, simply because others are doing it
+. Baby-face Bias
+. link:barnum_effect.html[Barnum Effect]
+. Baseline -- Very difficult for humans do by Kahnemann
+. link:ben_franklin.html[Ben Franklin Effect] -- Start to like someone to reduce dissonance
+. Bystander Effect
+. link:blind_spot.html[Blind-spot] -- Thinking one is self affected by biases than others
+. link:change_blindness.html[Change Blindness] -- A perceptual illusion where visual changes pass unnoticed to the observer.
+. link:choice_supportive_bias.html[Choice-supportive Bias]
+. Cocktail Party effect
+. link:cognitive_dissonance.html[Cognitive Dissonance] (Theory)
+. link:confirmation_bias.html[Confirmation Bias]
+. link:decoy_effect.html[Decoy Effect]
+. link:door_in_the_face.html[Door-in-the-Face Technique]
+. link:dunning_kruger_effect.html[Dunning Kruger Effect] -- The tendency of beginners to overestimate their level of skill.
+. link:hindsight_bias.html[Hindsight Bias] -- Or: "I knew it all along"
+. link:egocentric_bias.html[Egocentric Bias]
+. link:frequency_illusion.html[Frequency Illusion] -- a.k.a. Baader-Meinhof Phenomenon
+. link:framing.html[Framing Effect] -- Loss aversion
+. link:foot_in_the_door.html[Foot-in-the-Door Technique]
+. link:fundamental_attribution_error.html[Fundamental Attribution Error] -- It must be because he is just like that, or maybe the situation?
+. link:gamblers_fallacy.html[Gambler's Fallacy] -- Past events have no impact on future probabilities.
+. link:groupthink.html[Groupthink]
+. link:halo_effect.html[Halo Effect]
+. link:hawthorne_effect.html[Hawthorne Effect]
+. Illusory Superiority
+. link:illusory_truth_effect.html[Illusory Truth Effect]
+. Illusion of explanatory depth (eg explain/draw bike, biro, toilet flush, zipper, lock, ...)
+. link:information_bias.html[Information Bias]
+. link:ingroup_bias.html[Ingroup Bias] (Ingroup Favoritism)
+. Interpretation Bias
+. link:mcgurk_effect.html[McGurk Effect] -- A perceptual illusion where seeing and hearing influence each other.
+. Insufficient Justification Effect
+. link:looking_glass_self.html[Looking Glass Self]
+. link:mere_exposure_effect.html[Mere-Exposure Effect]
+. Memory Bias
+. link:mirrort_test.html[Mirror Test]
+. Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
+. link:moral_credential_effect.html[Moral Credential Effect] - Justifying future bads for past goods
+. Moralistic Fallacy
+. Naturalistic Fallacy
+. link:next_in_line_effect.html[Next-in-line Effect]
+. link:omission_bias.html[Omission Bias]
+. link:ostrich_bias.html[Ostrich Bias]
+. link:outcome_bias.html[Outcome Bias]
+. link:overconfidence_effect.html[Overconfidence Effect]
+. link:own_race_bias.html[Own-race bias]
+. Person Bias; See Fundamental Attribution Error
+. link:picture_superiority_effect.html[Picture Superiority Effect] -- Concepts easier learned by graphics then text only.
+. Planning fallacy (by Roger Buehler)
+. link:predictable_world_bias.html[Predictable World Bias]
+. link:priming.html[Priming]
+. link:projection_bias.html[Projection Bias]
+. link:proportional_bias.html[Proportional Bias] -- Assuming big events have big causes (conspiracy theories)
+. link:pygmalion_effect.html[Pygmalion Effect]
+. link:recency_bias.html[Recency Bias]
+. link:reciprocity.html[Reciprocity]
+. link:representativeness_heuristic.html[Representativeness Heuristic]
+. Scientific Bias
+. Selective Perception Bias
+. Selective Interpretation (heuristics; availability h., representative h., ...)
+. link:selection_bias.html[Selection Bias]
+. Self-Fulfilling prophecies (related to Pygmalion Effect)
+. link:self_serving_bias.html[Self-Serving Bias] -- Claiming more responsibility for successes than for failures
+. link:serial_position_effect.html[Serial-Position Effect]
+. similarity-attraction principle: sympathy is based on similarity; same stays with same; we like which reminds us of ourselves (same looks, thinking; even from same town)
+. link:spotlight_effect.html[Spotlight Effect]
+. Sunk Cost Fallacy
+. link:survivorship_bias.html[Survivorship Bias]
+. link:strange_situation.html[Strange Situation] Experiment -- What's your attachment style when you were a child?
+. link:transparency_illusion.html[Transparency Illusion] (or: Illusion of transparency)
+. link:unit_bias.html[Unit Bias]
 
 == Experiments, Studies, Cases and Tests
 
@@ -101,8 +121,7 @@ Some people's medical cases (accidents and other abnormalities in medical histor
 * link:HM.html[H.M.] -- The man who was unable to form new memory. Memento anyone?
 * link:phineas_gage.html[Phineas Gage] -- Blast an iron stick through the brain, survive, and become a legend.
 * link:kitty_genovese.html[Kitty Genovese] -- Getting murdered and no one cares
-* Metro station on fire -- No one fet responsible
-// (welches buch steht das?)
+* Metro station on fire -- No one felt responsible
 
 === Miscellaneous
 
@@ -144,3 +163,5 @@ Second order resources:
 * https://builtin.com/diversity-inclusion/unconscious-bias-examples
 * https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763
 * https://www.youtube.com/watch?v=wEwGBIr_RIw
+* https://www.youtube.com/watch?v=8SbV1jN12RY - Every Bias Explained in 8 Minutes
+* https://www.youtube.com/watch?v=wEwGBIr_RIw - 12 Cognitive Biases Explained - How to Think Better and More Logically Removing Bias

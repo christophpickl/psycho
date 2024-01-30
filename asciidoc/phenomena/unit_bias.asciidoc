@@ -1,0 +1,3 @@
+= Unit Bias
+
+* If there is a suggested amount of consumption (e.g. food serving size) that's perceived to be appropriate, a person would consume it all, even if it would be too much.

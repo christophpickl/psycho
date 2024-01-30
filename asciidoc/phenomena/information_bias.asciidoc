@@ -1,0 +1,4 @@
+= Information Bias
+
+* Seek information when it doesn't affect action.
+** "If I learn the horoscope, I'll always get it right!"

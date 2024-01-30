@@ -1,0 +1,13 @@
+= Ingroup Bias
+
+.Definition
+****
+Treat people better which we perceive to be members of our own group.
+****
+
+* Alias "Ingroup Favoritism"
+
+== Reason
+
+* Happens because we encounter/interact with ingroup people more often than with strangers; make them seem more unique, and outsiders more boring/conforming.
+* Also related to the link:mere_exposure_effect.html[Mere-Exposure Effect].

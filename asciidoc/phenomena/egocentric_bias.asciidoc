@@ -1,0 +1,12 @@
+= Egocentric Bias
+
+* Rely too much on own perspective; have higher opinion of oneself than reality.
+** "I'm the smartest in the room."
+
+== Related other biases
+
+* *False Consensus Effect*
+** Overestimate how much others agree with us.
+* *False Uniqueness Bias*
+** Thinking of oneself (one's projects) to be more singular than they are
+** "I must be the only one who thought about that"

@@ -1,0 +1,6 @@
+= Authority Bias
+
+.Definition
+****
+Attribute greater accuracy to an authority's opinion, no matther the opinion's content.
+****

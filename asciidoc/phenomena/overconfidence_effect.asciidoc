@@ -1,0 +1,4 @@
+= Overconfidence Effect
+
+* Excessive confidence in our answers.
+** "I'm 99% sure I've got everything right" tends to be 40% of the times wrong.

@@ -1,5 +1,10 @@
 = Bandwagon Effect
 
+.Definition
+****
+Do things, just because many others do the same.
+****
+
 [#img-bandwagon_comic]
 .Following the majority and you might step in the bandwagon instead of the bus you actually intended.
 image::bandwagon_bus.png[Bandwagon,250,100]
@@ -25,8 +30,8 @@ image::bandwagon_path.png[Bandwagon Path,300,100]
 Possible reasons why people do it:
 
 . Efficiency -- A mental shortcut/heuristic, to make decisions quicker.
-. Normative social influence (belonging) -- Wanting to conform to fit in/get approval from others;  social inclusion/acceptance.
-. Informational social influence -- Assuming others may know something better, supporting popular beliefs as "the majority must be right".
+. Normative social influence (belonging) -- Wanting to *conform* to fit in/get approval from others; social inclusion/acceptance.
+. Informational social influence -- Assuming others may know something better, supporting popular beliefs as "the majority must be right" (in addition to lack of information)
 . Wanting to be a winner -- E.g. voting for a candidate who is in the lead.
 . Fear of missing out
 

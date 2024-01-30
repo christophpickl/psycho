@@ -1,10 +1,15 @@
 = Confirmation Bias
 
+.Definition
+****
+Distort facts to confirm what we already believe in.
+****
+
 [#img-confirmation_bias_comic]
 .When everything you see validates your opinion (and everything else is filtered out).
 image::confirmation_bias.jpg[Confirmation Bias,500,100]
 
-Distort facts to confirm what we already believe in: "I have 1 mio results they don't, and 1 single it does", she takes the single document and says "I knew it" (from "link:https://youtu.be/yJD1Iwy5lUY?t=46[If Google was a guy]")
+We search for, interpret, focus, remember information so that it confirms our preconceptions.
 
 It's just a part of our human nature: Our unconsciousness leads us to always try to confirm our own point of view. Very useful shortcuts in our brains, creating patterns (like stereotypes, generalized thoughts) which are stored in our unconsciousness.
 
@@ -14,7 +19,11 @@ image::https://img.youtube.com/vi/0xKklLplngs/0.jpg[Confirmation Bias,300]
 
 We are basically all self-righteous hypocrites. Yet, good news there (as with all other biases as well): By being aware of these mechanisms, some level of self-reflection skills and a bunch of courage, we can counteract this bias. Just sometimes say "I am wrong" or "I don't know". And try to employ a scientific (always try to disprove yourself), philosophical, scholastic approach to evaluate the pros and cons of all viewpoints.
 
-Further Reading::
+== Examples
+
+* "I have 1 mio results they don't, and 1 single it does", she takes the single document and says "I knew it" (from "link:https://youtu.be/yJD1Iwy5lUY?t=46[If Google was a guy]")
+
+== Further Reading
 
 * link:../lva_introduction/ch10-intelligence/index.html[Introduction Psychology, Chapter 10, Intelligence]
 * https://en.wikipedia.org/wiki/Confirmation_bias

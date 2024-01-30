@@ -1,0 +1,6 @@
+= Serial-Position Effect
+
+.Definition
+****
+The tendency to recall the first and last item in a list better than the middle ones.
+****
