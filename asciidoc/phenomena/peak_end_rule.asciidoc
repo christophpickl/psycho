@@ -1,0 +1,9 @@
+= Peak-end rule
+
+.Definition
+****
+We don't perceive the sum of an experience, but it's peak and end.
+****
+
+* E.g. go to a dentist, and either A) end normally or B) have another totally useless treatment but with slightly less pain experienced then at the very end?
+** B) is better the better choice, as it will be remembered better, although in total it would (objectively) lead in sum to more pain.

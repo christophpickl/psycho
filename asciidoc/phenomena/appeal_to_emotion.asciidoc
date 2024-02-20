@@ -1,0 +1,24 @@
+= Appeal to emotion
+
+.Definition
+****
+Attempting to manipulate an emotional response in place of giving a proper argument/facts/logic.
+****
+
+.Just because it touches our emotions, doesn't make any argument better.
+image::appeal_to_emotion.png[Appeal to emotion,400,100]
+
+* Informal fallacy, which tries to irrelevant emotions or distracting from the facts of the argument (a so-called "red harring").
+* Sometimes a good (logically coherent) argument may inspire or have an emotional aspect, which is ok.
+** The difference is, with this fallacy the emotion is used _instead_ of a logical argument.
+** Or to hide that there is no compelling rational reason for one's position.
+* It's a very common and effective argument tactic, as everyone (except sociopaths) are affected by emotion.
+* It includes: Appeal to consequences/fear/flattery/pity/ridicule/spite/envy/hatred/pride/...
+
+== Examples
+
+* A child doesn't want to eat his vegetables, but his father told him to think about the poor, starving children in Africa who weren't fortunate enough to have any food at all.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Appeal_to_emotion

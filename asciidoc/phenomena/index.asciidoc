@@ -18,6 +18,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 
 . link:actor_observer_bias.html[Actor Observer Bias] -- It's because of his personality, not due to the situation.
 . link:apophenia.html[Apophenia]
+. link:appeal_to_emotion.html[Appeal to emotion]
 . link:attentional_bias.html[Attentional Bias]
 . Attractiveness Bias
 . link:anchoring_bias.html[Anchoring Bias] -- initial price sets the baseline to compare (judge as high/low)
@@ -31,6 +32,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 . Baseline -- Very difficult for humans do by Kahnemann
 . link:ben_franklin.html[Ben Franklin Effect] -- Start to like someone to reduce dissonance
 . Bystander Effect
+. link:begging_the_question.html[Begging the Question]
 . link:blind_spot.html[Blind-spot] -- Thinking one is self affected by biases than others
 . link:change_blindness.html[Change Blindness] -- A perceptual illusion where visual changes pass unnoticed to the observer.
 . link:choice_supportive_bias.html[Choice-supportive Bias]
@@ -67,11 +69,13 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 . Moralistic Fallacy
 . Naturalistic Fallacy
 . link:next_in_line_effect.html[Next-in-line Effect]
+. link:no_true_scotsman.html[No true Scotsman]
 . link:omission_bias.html[Omission Bias]
 . link:ostrich_bias.html[Ostrich Bias]
 . link:outcome_bias.html[Outcome Bias]
 . link:overconfidence_effect.html[Overconfidence Effect]
 . link:own_race_bias.html[Own-race bias]
+. link:peak_end_rule.html[Peak-end rule]
 . Person Bias; See Fundamental Attribution Error
 . link:picture_superiority_effect.html[Picture Superiority Effect] -- Concepts easier learned by graphics then text only.
 . Planning fallacy (by Roger Buehler)
@@ -84,7 +88,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 . link:reciprocity.html[Reciprocity]
 . link:representativeness_heuristic.html[Representativeness Heuristic]
 . Scientific Bias
-. Selective Perception Bias
+. link:selective_perception_bias.html[Selective Perception Bias]
 . Selective Interpretation (heuristics; availability h., representative h., ...)
 . link:selection_bias.html[Selection Bias]
 . Self-Fulfilling prophecies (related to Pygmalion Effect)

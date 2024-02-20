@@ -1,11 +1,179 @@
-= Self-Test XXX
+= Self-Test Self-Justification
 
-[#testX]
-== X. xxx
+[#test1]
+== 1. Cognitive Dissonance and Self-Esteem
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. Which postdecision dissonance technique increases customer satisfaction in a clothing store?
+.. Prices halved.
+.. Ask them to make a radio ad, saying how great the store is.
+.. Charge a fee to shop in the store.
+.. Make all sales final
+** [hiddenAnswer]#d.#
+. Mills' finding on attitudes toward cheating?
+.. Cheaters felt guilt, never do it again.
+.. Cheaters more easy cheating, resisters harsher attitude.
+.. Cheaters claimed cheating only way to win.
+.. Unchanged.
+** [hiddenAnswer]#b.#
+. A will get grounded if eating ice-cream, B gets reprimanded/disciplined. If both don't eat ice-cream, dissonance theory predicts:
+.. A wanting it more
+.. B wanting it more
+.. Both like same
+.. Both dislike same
+** [hiddenAnswer]#b.#
+. Invested lots of effort into project over the years, now even more convinced it was the right decision.
+.. Counterattitudinal behavior
+.. Insufficient punishment
+.. Ben Franklin effect
+.. Justifying their effort
+** [hiddenAnswer]#d.#
+. Treatment for drug addiction, after leaving clinic, will stay sober if the treatment was:
+.. involuntary and difficult
+.. involuntary and easy
+.. voluntary and easy
+.. voluntary and difficult
+** [hiddenAnswer]#c.#
+. Friend asks to write a fake review; don't feel good about it. Get only 1 euro to do it, and you do it. According to dissonance theory, how do you feel about the product afterwards?
+.. low quality
+.. good quality
+.. confused
+.. avoid talking about it
+** [hiddenAnswer]#b.#
+. Doing someone a personal favor makes us feel toward him:
+.. negative
+.. indifferent
+.. positive
+.. biased
+** [hiddenAnswer]#c. (Benjamin Franklin effect)#
+. A threatened punished 1 year, while B only 1 weekend. Both don't do it; why (dissonance theory)?
+.. B more likely when punishment gone.
+.. A more likely when punishment gone.
+.. Both think it's ok; avoided, so don't get punished.
+.. Both think it's bad.
+** [hiddenAnswer]#b.#
+. Which brain area active during dissonance?
+.. Striatum, PFC
+.. Amygdala (emotional circuits)
+.. Midbrain, parietal cortex
+.. Cerebellum, temporal cortex
+** [hiddenAnswer]#a. (insula for emotions and DLPFC: dorsolateral prefrontal cortex; pMFC: posterior part of the medial frontal cortex)#
+
+[#test2]
+== 2. Self-Affirmation/Evaluation Maintenance Theory
+
+. Someone is a good student and in a relationship and flirts with another girl. He thinks of himself as loving and trustworthy, thus experiences dissonances. He can reduce dissonance by doing what according to A) dissonance theory and B) self-affirmation theory
+.. A) convince himself flirting is harmless B) be proud of himself for being a good student
+.. A) be proud B) flirting harmless
+.. A) flirting harmless B) break up
+.. A) break up B) flirting harmless
+** [hiddenAnswer]#a.#
+. Someone is good-looking but slightly obese. Being shown a paper that obesity kills, he decides to eat healthy and sport more. At a party, he eats pizza, and he tells himself "I'm a good-looking guy, it's ok".
+.. cognition-change
+.. behavior-change
+.. self-deception
+.. self-affirmation
+** [hiddenAnswer]#d.#
+. Self-evaluation maintenance theory states, people protect their self-esteem except by:
+.. improve at the task
+.. distance others
+.. get less interested
+.. sabotage others
+** [hiddenAnswer]#d. (but only after a. doesn't work, then we also sabotage others)#
+. You and your sibling study both the same field, yet she is better than you. According to self-evaluation maintenance theory, what's _least_ likely to happen?
+.. not interested
+.. less close to sibling
+.. congratulate her
+.. study hard, to do better than her
+** [hiddenAnswer]#c.#
+
+[#test3]
+== 3. Conclusions, overcoming, narcissism
+
+. Who, in a large organization, is most likely to admit a major mistake?
+.. Assistant General Manager
+.. Chief Financial Officer
+.. Intern
+.. IT Director
+** [hiddenAnswer]#c.#
+. About self-esteem:
+.. Low is good, it motivates to improve.
+.. Women have lower.
+.. Optimism makes us try harder, persevere when failing, set higher goals.
+.. The higher, the better.
+** [hiddenAnswer]#c.#
+. About terror management theory:
+.. People are more narcissistic.
+.. Governments need to protect us from terrorism.
+.. We are less terrified of dying with religion.
+.. Self-esteem protects us from thoughts about our mortality.
+** [hiddenAnswer]#d.#
+. About narcissism:
+.. College students are becoming less narcissistic.
+.. Characterized by high self-love and low empathy.
+.. Doing better academically.
+.. Have better social life, more friends.
+** [hiddenAnswer]#b.#
+
+[#test4]
+== 4. Test Yourself
+
+. When buying a new phone (Apple vs Google), how can you avoid post-decision dissonance?
+.. Add another brand into consideration.
+.. Buy both brands.
+.. Remove one option, leaving no choice.
+.. None of the above.
+** [hiddenAnswer]#c.#
+. You read a blog which makes you very angry. Which arguments are you most likely to focus and remember?
+.. Her silliest claims, because she is a silly person.
+.. Her silliest claims, as they are consonant with your opinion that she is a silly person.
+.. Her smartest claims, so you can contradict them in a post.
+.. Her smartest claims, because they are so unlikely to come from a silly person.
+** [hiddenAnswer]#b.#
+. Boring tasks need to be done in a study group. Which strategy to use to recruit members, increase interest and liking?
+.. Financially reward joining.
+.. Require a huge entrance exam.
+.. Make professors convince them.
+.. Invite everyone, so only those who truly like stay.
+** [hiddenAnswer]#b.#
+. When does "saying become believing"?
+.. When claiming your opinion differs from your beliefs, for no real reason.
+.. When what you say is what you believe.
+.. When someone forces you to say something you don't believe.
+.. When you're paid a lot of money to lie.
+** [hiddenAnswer]#b.#
+. What is the "hypocrisy paradigm" in experimental research?
+.. Study the rationalizations of hypocrites.
+.. Make participants write critically about hypocrisy.
+.. Explain them everyone's a hypocrite.
+.. Make them aware of their own hypocrisy, in not practicing what they preach.
+** [hiddenAnswer]#d.#
+. Why do we dehumanize enemies?
+.. They are violent, cruel, and deserve it.
+.. They started it.
+.. We need to justify our brutal actions.
+.. We are more moral and humane.
+** [hiddenAnswer]#c.#
+. People who don't eat healthy were promoted as ambassadors for promoting healthy food. Their friends reminded them that they themselves eat junk food. This is:
+.. inconsistency advocacy
+.. cognitive dissonance
+.. self-persuasion
+.. hypocrisy induction
+** [hiddenAnswer]#d.#
+. You are a good student, yet cheat, and feel dissonance (cheating incongruent with self-perception). According self-affirmation theory, how to reduce it?
+.. Get mood food and forget about it.
+.. Focus on the outcome/good grade only.
+.. Tell yourself that you are at least a caring person, volunteering for the homeless.
+.. Convince others to also cheat.
+** [hiddenAnswer]#c.#
+. You and your best friend are talented painters, and it's important to you. Both participate in a contest, your friend wins. You distance yourself, even hide information about an upcoming contest.
+.. Terror management theory
+.. Justification of effort
+.. Self-evaluation maintenance theory
+.. Cognitive dissonance
+** [hiddenAnswer]#c.#
+. Self-esteem and narcissism
+.. Best way to be happy, by focusing on yourself and your needs.
+.. Narcissists are disliked, but do better in academia/business.
+.. Optimistic people persevere failure, and set higher goals.
+.. Narcissism has decreased the last 30 years.
+** [hiddenAnswer]#c.#

@@ -1,0 +1,6 @@
+= Selective Perception Bias
+
+.Definition
+****
+We prefer not to notice (more quickly forget) things, which cause emotional discomfort (contradict our prior beliefs).
+****

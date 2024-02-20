@@ -1,9 +1,14 @@
 = Ostrich Bias
 
-* Or "ostrich effect", is where one buries their head in the sand like an ostrich
-* Avoid psychological discomfort but avoiding negative (but useful) information, such as feedback on progress
+.Definition
+****
+Avoiding negative (but useful) information to avoid psychological discomfort.
+****
 
-Think of procrastinating before an exam, or ignoring that smoking is unhealthy.
+* Or "ostrich effect", is where one buries their head in the sand like an ostrich
+* Such as feedback on progress.
+* E.g. eating out at a super expensive restaurant, but then neglect to look at your bank account.
+* Think of procrastinating before an exam, or ignoring that smoking is unhealthy.
 
 == Resources
 

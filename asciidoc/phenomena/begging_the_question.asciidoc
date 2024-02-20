@@ -1,0 +1,16 @@
+= Begging the Question
+
+.Definition
+****
+Presenting a premise of an argument which contains (a in/direct) assumption that the conclusion is true.
+****
+
+* An informal, logical fallacy; in classical rhetoric and logic; literal translation from Aristotle would be something like "asking for the initial thing".
+* Presenting a circular argument (circular reasoning); thus being a logically incoherent argument.
+* Happens when people have their assumptions very deep ingrained in their minds, so that they take it for given.
+
+== Examples
+
+* Circular reasoning is bad mostly because it's not very good.
+* People have known for thousands of years that the earth is round. Therefore, the earth is round.
+* Coca Cola is the most popular soft drink in the world. Therefore, no other soft drink is as popular as Coca Cola.

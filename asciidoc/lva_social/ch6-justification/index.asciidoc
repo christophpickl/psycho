@@ -176,56 +176,391 @@ Acting against one's own beliefs/attitudes.
 * Use of such language is to reduce dissonance: "I am a good person, but we are fighting and killing these other people; therefore, they must deserve whatever they get, because they aren't fully human like us."
 * Difficult to know whether self-justification can follow acts of cruelty, rather causing them.
 
-\... PAGE 183 ...
 
 [NOTE.tryit,caption=TRY IT]
 ====
 *Internal consequences of doing good*
 
-xxx
+You take the bus regularly and often see elderly people struggling to find a seat. You don't feel compassionate for them, and never gave up your seat, as you both pay the same bus fare (equality, right?).
+
+Suppose that one day you decide to give up your seat for an elderly person. Based on cognitive dissonance theory, how would your attitude toward helping the elderly be affected by your prosocial action?
 ====
+
+* PTSD in war veterans is often due to the inability to reduce dissonance over killing children, bystanders and other innocent civilians, instead of formal army members.
+* Dehumanizing the victim leads to a continuation (or even escalation) of cruelty.
+** An endless chain of violence followed by self-justification; e.g. Nazi's "Final Solution".
+** This is how tyrants and oppressors make it possible for themselves to sleep at night (reducing dissonance).
+* Dictators were interviewed doing all kind of violent acts (starving citizens, looting wealth, torture and murder, genocidal wars).
+** All of them claimed they were doing it for the good of their country. The alternative was chaos, anarchy, and bloodshed.
+** They saw themselves as self-sacrificing patriots.
 
 ==== Immoral acts
 
+* Counterattitudinal behavior: Act contrary our moral beliefs.
+** E.g.: Once you cheat on a test, you will try to convince yourself that "everybody would cheat if they had the chance"; it hurts nobody (Mills experiments).
+** Your self-esteem is threatened as dissonance arouses.
+** If you cheat, your belief "I'm a moral person" is dissonant with your cognition "I did something immoral".
+*** Solution: To make yourself feel good (reduce dissonance) about your immoral act, you change your attitude about cheating.
+** If you resist to cheat, your cognition "I want to become a doctor" is dissonant with another cognition "I could have passed the exam by cheating, but I chose not to. Wow, was I stupid!".
+*** Solution: Change your attitude in the opposite direction: Cheating is a terrible sin, cheaters should be punished.
+** These are not only simple rationalizations, but a change in your value-system.
+
 === Avoiding Temptations
 
+* To avoid temptations, virtually all societies run (in part) on punishment or a threat of it.
+** Yet it doesn't work, as once the punishment is removed, we still will do it (e.g. not being observed). It teaches us to try to avoid getting caught.
+** E.g. If you tell your children not to hit each other, they will continue doing it once you are out of sight; you taught them to not do it while you are around.
+
+.Insufficient Punishment
+****
+Dissonance when we lack sufficient external justification for having resisted; devaluing the forbidden.
+****
+
+* A severe threat would create an external justification for not doing it.
+* A mild threat would create an insufficient punishment.
+* E.g. your child asks himself "Why didn't I beat up my little brother?"
+** There is no convincing answer, as the punishment is so mild, it doesn't provide a superabundance of justification.
+** The justification for refraining from beating his brother up is not strong enough to explain his compliance.
+** The child must find another way to justify his compliance: By substituting the external with an *internal* justification:
+*** Reducing dissonance by convincing himself he doesn't want to beat him up; maybe even decide beating up other kids is not fun.
+* The less external justification there is, the more internal justification is created.
+* E.g. children given a forbidden toy and a mild punishment:
+** They were less likely to play with it (than a group with a more severe punishment) as their own, internal justification led to devaluing the attractiveness of the toy (effectively reducing dissonance).
+*** "I didn't want to play with it anyhow."
+** For the group with severe punishment, the toy stayed highly desirable, as they had no reason to change their attitude.
+*** Behavior was explained due to avoiding being punished (some even liked it more).
+* Big rewards / severe punishments provide strong external justification, leading to compliance, but preventing real attitude change.
+** This strategy is thus good if the behavior is needed only *once*.
+** But if you want a person to stay committed, a smaller reward/punishment will be better for a permanent change in attitude.
+
+[cols="1,1,1"]
+|===
+| *Magnitude of reward/threat* | *Counterattitudinal Behavior*                    | *Avoiding Temptations*
+| (*Explanation*)              | Being rewarded for something not wanting to do   | Being punished for something wanting to do
+| *Small* (Internal just.)     | Long-term internal change +
+("_Now I really like it_") | Long-term internal change +
+("_I really don't like it after all_")
+| *Large* (External just.) | No dissonance +
+("_I did it for the reward, I still don't like it_") | No dissonance +
+("_I didn't do it for the threat, I still like it._")
+|===
 
 === Hypocrisy Paradigm
+
+* Hypocrites judge others more harshly, and present themselves as more virtuous and ethical.
+** Polarizing judgements: More evil out there (others), more good (righteousness) in here.
+* Although we know that STIs can be prevented by using condoms, there is a tendency to not use them.
+** Condoms are unromantic, inconvenient, less pleasurable and remind us of diseases.
+** Common denial: "Sure, STIs are a problem, but not for _me_."
+
+[#img-condom]
+.Understanding dissonance helps us to make healthier, safer choices.
+image::images/condom.jpg[Condom,500,100]
+
+* When being made aware (mindfulness) of our own failure (to use condoms), we change our behavior to the better.
+** When told to preach (give a presentation over safety,) but we don't act upon it, we feel dissonance.
+** To remove the hypocrisy and maintain our self-esteem: change behavior.
+
+.Hypocrisy Induction
+****
+Making people feel dissonance due to statements that are oppositional to their behaviors, and then reminding them of the inconsistency (walk your talk), with the goal to create more responsible behavior.
+****
+
+* As well applicable to quit smoking, use sunscreen, or stop disordered eating.
+* When being reminded of our own fallibility, we are quicker to go from anger to forgiveness.
+** It reduces our need to retaliate.
+
 === In Cultures
 
-* Dissonance across cultures
-
-== Advances and Extensions of the Theory
-
-=== Self-Affirmation Theory
-=== Self-Evaluation Maintenance Theory
-
-* "_Dissonance in close relationships_"
-
-== Concluding Thoughts
-
-=== Overcoming Dissonance
-=== Narcissism
-
-* "_\... and the dangers of too much self-esteem."
-
-
-
-
-.Term
-****
-Definition.
-****
-
-
-[NOTE.tryit,caption=TRY IT]
-====
-*Some Title*
-
-====
-
+* Dissonance is across cultures; found in almost every part of the world.
+** BUT: It doesn't have always the same form, and content of cognition may differ.
+* In *collectivist* societies: less prevalent (on the surface)
+** More about maintaining group harmony, less about justifying own personal misbehavior.
+** Experience dissonance when they shamed/disappointed others.
+** Japan: Attitudes changes to conform to those of their dissonance reducing friends. Justified when felt observed.
+** America: Reversed pattern is true.
+** Privacy or public visibility; culture determines dissonance or not.
+* Most causes are: international and intergenerational.
+** America: Immigrant parents (be like us; love us) and young-adult children (fit the peers) often clash (not embracing all parents' values).
 
 [NOTE.test,caption=REVIEW QUESTIONS]
 ====
-link:test.html#testX[Test yourself]
+link:test.html#test1[Test yourself]
+====
+
+== Advances and Extensions of the Theory
+
+We need to see ourselves as: intelligent, sensible, decent, behaving with integrity (protecting our self-esteem).
+
+=== Self-Affirmation Theory
+
+* Three ways of reducing dissonance:
+.. Change behavior (align with dissonant cognition)
+.. Change dissonant cognition (align with behavior)
+.. justify behavior (add new cognition)
+* E.g. smoking:
+.. Stop smoking (change behavior)
+.. convince oneself smoking isn't bad (change cognition)
+.. decide it's worth it, enjoyable and not want to life long (add new cognition)
+* Sometimes this is not easily done though... a fourth possibility: self-affirming
+
+.Self-Affirmation Theory
+****
+Reducing threats to self-esteem, by affirming ourselves in areas unrelated to that threat's source.
+****
+
+* Reduce dissonance by focusing on, and affirming our competence on some dimension _unrelated_ to the threat
+** E.g.: "Yes, it's true that I smoke, but I am a great cook!"
+** That may sound silly, but not for the person trying to reduce one's dissonance.
+** We can't reduce the threat to our self-esteem directly (with the first three options), but we can focus on how great we are in completely different areas.
+* Experiment (Brehm): let people rate objects; then choose one; then let them rate again
+** Chosen ones being now rated higher (convinced themselves that they made a smart decision); rejected ones lower.
+* Experiment: science students wearing a lab coat, making a dumb decision and admitting it, but "at least I'm a promising scientist".
+* How apply in daily live, mitigate threats to self-esteem? _Values affirmation writing exercise_!
+** Pick the most important value of a list of many, and write why this one is so important.
+** Long lasting effect; reminding ourselves when failing in one (e.g. work) we are good in other parts (e.g. family) which are important to us.
+** Doing this made students having less academic anxiety and did better in school; more likely to go to college
+*** Why? Reducing threats to their self-esteem with a simple writing exercise.
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Values Affirmation Writing Exercise*
+
+Rank this list of characteristics/values from least to most important:
+
+* Being good at art
+* Creativity
+* Relationships with family/friends
+* Government, politics
+* Independence
+* Learning/gaining knowledge
+* Athletic ability
+* Belonging to a social group (community, racial group, sports club)
+* Music
+* Spiritual/religious values
+* Sense of humor
+
+Now choose one and write about why this is important to you. Take a few minutes to write a full page. Write about times when it was especially important to you.
+====
+
+=== Self-Evaluation Maintenance Theory
+
+* "_Dissonance in close relationships_"
+* Dissonance arises in interpersonal relationships as well, when we compare our own accomplishments with others'.
+* E.g. you think you are a good soccer player.
+** You move to another town, and your new best friend is a professional soccer player. How does that make you feel?
+** *Maybe a bit uneasy that he outdoes you in "your area" of expertise?
+** Now instead that he is a pro soccer player, he is a very talented painter. Do you feel anyhow uncomfortable?
+*** Probably not. Most likely you even take pleasure in your friend's success.
+* We will feel dissonance in relationship under three conditions:
+.. We feel close to that person.
+.. He is outperforming us in a particular area.
+.. That area is central to our self-esteem.
+* Thus, dissonance only occurs when a friend is better at a task which is important to us as we define ourselves with it.
+* To reduce that dissonance (which threatens our self-esteem), we can do three things:
+.. Distance ourselves from that person (not a close friend anymore; not wanting to work with him anymore).
+.. Reconsidering how important that activity is to our self-esteem (losing interest in soccer; not important to us anymore).
+.. Become even better at that activity; but if your friend is still better, you might go down a diabolic route: undermine (sabotage) his performance, so you are superior.
+
+.Self-Evaluation Maintenance Theory
+****
+People close to us, outperforming us in an area central to our self-esteem. Reducing dissonance by 1) getting distant to that person 2) get better than him 3) or area not important anymore.
+****
+
+* Does that mean that we are evil beings, trying to sabotage our friends to feel better?
+** Definitely not always, but when our self-esteem is at stake, we may not be as helpful as we would like to think.
+* If the task is not important to us, we are easy going supporting our friends, wishing them the best.
+** When the task is high in self-relevance though, e.g. the game/test is highly correlated with intelligence or leadership skills, people gave _harder_ clues to their friends than to strangers.
+** It feels threatening to our self-esteem, if friends outperform us, so we make sure they do not.
+* Summed up, self-evaluation maintenance theory shows us that threats to our self-concept have fascinating implications for our interpersonal relationships.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test2[Test yourself]
+====
+
+== Concluding Thoughts
+
+* Ways to overcome dissonance, and the pros/cons of having high self-esteem.
+* When we make important decisions with high investments (time, effort, sacrifice, commitment), we have a huge need to justify those actions.
+** The more we give up, the more we need to convince ourselves that our views are correct (we did the right thing).
+
+[NOTE.trending,caption=TRENDING]
+====
+*Law and Cognitive Dissonance*
+
+In 2013 during the Hong Kong pro-democracy protests, someone was beaten by the police, causing great unrest among the people. The protesters were unarmed and subdued, still the police officers attacked them. How would the judicial system have had reduced the dissonance arising from conflicting assertions of "We are morally responsible people," and "We beat up an already subdued protester who was pinned to the ground"?
+
+They did so by adding a new cognition. We did it for the stability of Hong Kong, to teach them a lesson to conform to rules and authorities. The officers got only suspended from duty and denied doing any grievous bodily harm.
+
+This kind of power abuse happens often all over the world. These people don't believe they are doing intentionally malevolent things, as they are deceiving themselves. Convincing themselves they are doing harm for the greater good, in the interest of the common people; a very typical self-justifying behavior for human beings which happens everywhere and all the time.
+====
+
+* Most of the time dissonance-reducing behavior is useful, as it maintains our self-esteem.
+** We also need to learn from our mistakes / bad decisions / incorrect behavior (to grow/change).
+** Not always defend ourselves, by ignoring, justifying, or turning those into virtues.
+** We would get stuck within the confines of our narrow minds.
+* Most extreme cases, we even could harm ourselves and others (Heaven's Gates case).
+
+=== Overcoming Dissonance
+
+* Although we self-justify unconsciously, once we are aware of it we can monitor our thinking, "catching ourselves in the act".
+** To examine our behavior critically/dispassionately.
+** Acknowledge our mistakes and take responsibility.
+* Hard facts will trump opinion and belief.
+* When being confronted with evidence that we were wrong about something important to us (belief/behavior)...
+** Try justifying the mistake, or strive to correct it?
+
+=== Narcissism
+
+* "_\... and the dangers of too much self-esteem."
+* Narcissists have difficulties recognizing their dissonance (mistakes) and admitting they were wrong.
+
+.In Greek mythology, Narcissus feel in love with his own reflection so much that he couldn't leave and eventually died.
+image::images/narcissus.png[Narcisuss,600,100]
+
+.Narcissism
+****
+Combination of excessive self-love and lack of empathy.
+****
+
+* Narcissists are self-centered, concerned more with themselves than others.
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Measuring Your Narcissism*
+
+Choose one of the two option provided in this list which describes your feelings/beliefs closest about yourself.
+
+. [ ] I like being center of attention. +
+  [ ] It makes me uncomfortable.
+. [ ] I am no better/worse than others. +
+  [ ] I think I am special.
+. [ ] Everybody likes to hear my stories. +
+  [ ] Sometimes I tell good stories.
+. [ ] I usually get the respect I deserve. +
+  [ ] I deserve more respect.
+. [ ] I don't mind following orders. +
+  [ ] I like having authority over people.
+. [ ] I am going to be great. +
+  [ ] I hope I am going to be successful.
+. [ ] People believe me sometimes. +
+  [ ] I can make anybody believe me anything.
+. [ ] I expect much from others. +
+  [ ] I like doing things for others.
+. [ ] I like being center of attention. +
+  [ ] I prefer to blend in.
+. [ ] I am like everyone. +
+  [ ] I am extraordinary.
+. [ ] I always know what I'm doing. +
+  [ ] Sometimes I'm not sure.
+. [ ] I don't like that I manipulate others. +
+  [ ] I find it easy to manipulate them.
+. [ ] Being an authority means little to me. +
+  [ ] Others always recognize my authority.
+. [ ] I am good because everyone tells me so. +
+  [ ] When others compliment me, I get embarrassed.
+. [ ] I try not to be a show off. +
+  [ ] I am apt to show off.
+. [ ] I am more capable than others. +
+  [ ] There is much I can learn from others.
+
+Count the TOP checked questions 1, 3, 6, 8, 9, 11, 14, 16, and count the BOTTOM ones 2, 4, 5, 7, 10, 12, 13, 15. The average score for men is 6.4 and for women 5.3.
+====
+
+* Having too low self-esteem is obviously bad.
+** It will lead to depression and feelings of being ineffective, having no control over our lives.
+** It also protects us against thoughts about our own mortality.
+** Protection from anxiety, caused by thoughts about our own death.
+** We embrace cultural worldviews that make us feel meaningful/purposeful.
+
+.Terror Management Theory
+****
+Self-esteem helps to protect from terrifying thoughts about our mortality.
+****
+
+* Love ourselves too much (becoming a narcissist) and problems will arise.
+** Doing worse in academia and business.
+** Doing worse socially, as being more violent/aggressive and thus disliked by others (once people get to know them better).
+** Being poor at looking in the mirror and seeing themselves for who they really are.
+** In order to grow, and learn from our mistakes, we need to examine our behavior critically, and admit we were wrong.
+*** Narcissist are especially bad at this.
+*** Reduce dissonance in ways to preserve wonderful view on themselves.
+* Narcissism has increased the last 40 years, as tracked by the NPI (Narcissistic Personality Inventory).
+** Especially prevalent among America's college students.
+** Reason is unknown, but speculation goes because of self-focused American culture.
+** Increasing amount of self-reference (through first-person singular pronouns, such as: "I", "me") in song lyrics and books.
+* Not everyone is extremely self-focused of course, we still like to help others.
+** As a matter of fact, helping others (through volunteer work) makes ourselves happier (more effective than the narcissistic route).
+** Imagine receiving an envelope with 20 euros in it; those who spent it on others are happier than those who spent it on themselves.
+
+To sum up:
+
+* Having high self-esteem is a good thing, as it makes us optimistic about the future and work harder.
+** If it gets too much (along lack of empathy), narcissism arises.
+* Best is to feel good about ourselves, and still be able to learn from our mistakes, and to care about others.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test3[Test yourself]
+====
+
+== Summary
+
+=== Cognitive dissonance and how to avoid it to maintain a positive self-image
+
+* The self's function is to protect/maintain our *self-esteem*.
+** Self-esteem being: how we evaluate our self-worth, seeing ourselves as good, competent, and decent.
+** Dissonance arises when our self-esteem is threatened.
+** Reduce it by changing behavior, justifying our behavior by changing dissonant cognition or adding a new one.
+* Decisions
+** After deciding, there will be dissonance, as we choose for one and implicitly not for the other.
+** *Post-decision dissonance*: The discomfort experienced that we may have made the wrong choice.
+** After the decision is final, we "solidify" it; the more permanent/irrevocable, the stronger the need to reduce dissonance.
+** *Lowballing*: A salesperson strategy offering a low price at first, the claiming it being an error, and subsequently raising the price.
+* *Justification of Effort*
+** We like things more when they were hard to get. Think of loyalty for fraternities and military ("initiation rituals").
+* *Counter-attitudinal Behavior*
+** When we act counter our private belief/attitude.
+** Big external justification (large reward), no dissonance, no attitude change.
+** Reward small, we resort to internal justification; reduction of dissonance by changing attitude/behavior.
+*** Much more powerful effect on our long-term values/behaviors.
+*** Good against: prejudices, self-defeating beliefs, harmful practices like bulimia.
+** Benjamin Franklin effect: Ask someone for a little favour, internal justification will make them like you more, as they did something nice to you.
+*** Other way round as well: When you did something bad, make your victims less worth, deserved it, none of your people, less than human (during war).
+* *Avoiding Temptations*
+** Change people by giving them mild threats ("insufficient punishment") not to do something.
+*** Dissonance due to not enough external justification for having resisted a desired activity/object.
+** The less severe the punishment/smaller the reward, the more internal justification necessary.
+* *Hypocrisy Paradigm*
+** By hypocrisy induction, confronting people the difference between what they say and what they do.
+** The need to reduce dissonance can lead to behavioral change (condoms for AIDS-prevention).
+* Dissonance across *cultures*
+** It occurs cross-culturally, but the content differs.
+** As well as the process and the intensity of dissonance reduction do vary (due to differences in cultural norms).
+
+=== Advances and extensions of cognitive dissonance theory
+
+* *Self-Affirmation Theory*
+** Reducing dissonance by focusing on an unrelated domain.
+** The values affirmation writing exercise (write why a value is important to you) shows lasting positive effects.
+* *Self-Evaluation Maintenance Theory*
+** Conditions: When a close friend (1) outperforms us(2) in an area central to our self-esteem (3).
+** Strategies: Dissonance reduction by stop friendship (1), doing better (2), not that important to us (3); in extreme cases: sabotage.
+
+=== Overcoming dissonance and pros/cons of high self-esteem
+
+* Reducing dissonance to maintain our self-esteem is ok.
+** But if we do it all the time, defending our egos, we would never learn from mistake/bad decisions/incorrect beliefs.
+* *Overcoming it*
+** Dissonance reduction becomes counterproductive when it solidifies negative values/behaviors.
+** By awareness; consciously pause the self-justification process to reflect on our action.
+* *Narcissism*
+** A high self-esteem protects from depression, persevere in the face of failure, and protects us from thoughts about our own mortality (terror management theory).
+** But extreme high self-esteem, combined with lack of empathy, leads to narcissism (with all its consequences).
+** Best combination: Feel good about yourself, but also care about others.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test4[Test yourself]
 ====

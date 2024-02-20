@@ -1,0 +1,511 @@
+= Attitudes - Influencing thoughts and feelings
+
+* Did you ever make a choice/acted a certain way precisely because someone said you should do the opposite?
+* Due to the Industrial Revolution which lead to mass production, broader markets were available, and advertising was the natural result.
+* In the 1880s, cigarettes were being mass-produced and aggressively advertised.
+** Men bough 99% of all cigarettes sold, as it was considered socially unacceptable for a woman to smoke (otherwise they would have questionable morals).
+** Ironically, somewhat later, smoking became a symbol of women's emancipation.
+** The tobacco industry encouraged that view and started to target women in their advertisements.
+** E.g. by claiming that cigarettes helped with weight control ("reach for a Lucky instead of a sweet").
+* In 1955, 52% of men, and 34% of women in the US smoked.
+** Fortunately, as of 2015, 21% men and 14% women smoke.
+** Tobacco companies begun aggressive marketing in other countries.
+*** Smoking may kill one-quarter of the young people currently living in Asia.
+* Question being: Is advertising responsible for shaping people's attitudes/behaviors?
+
+== Nature and Origin
+
+* What types of attitudes do exist, and what are they based on?
+* We all evaluate the world around us. We form likes and dislikes.
+** It would be odd to hear something like: "I feel completely neutral toward anchovies, chocolate, Mark Rutte, and Donald Trump".
+* Attitudes = Evaluations of people/objects/ideas.
+** They are important to determine what we do (eat, avoid, download, vote for).
+
+=== Where come from?
+
+* In part the come from our *genes*.
+** Identical twins share more than do fraternal; even when raised apart and never knew each other.
+** Temperament/personality directly related to genes; predisposing us to certain dis-/likings.
+* *Social experiences* also shape our attitudes. Three *components*, to be precise:
+.. Cognitive: thoughts and beliefs about the attitude object.
+.. Affective: emotional reactions toward it.
+.. Behavioral: how we act toward it.
+
+==== Cognitively Based Attitudes
+
+* Our evaluation is based on relevant facts to form a belief about the property of an object.
+
+.Cognitively Based Attitudes
+****
+An attitude based on beliefs (about an attitude object's properties).
+****
+
+* E.g. to buy or not to buy a vacuum cleaner?
+** We weigh the pros and cons, whether we want to have it or not.
+** Relevant criteria like how well it can clean up the dirt, and how much it costs.
+** No emotional considerations, such as how sexy it makes us feel.
+
+==== Affectively Based Attitudes
+
+* When an attitude is rooted in emotions and values, instead of objective appraisals.
+
+.Affectively Based Attitudes
+****
+An attitude based on feelings/values (instead of beliefs) about the nature of an attitude object.
+****
+
+* We sometimes feel very attracted to something (or someone,) although we might have negative beliefs about it/him/her.
+* Usually topics which are considered inappropriate to be talked about at a dinner table are likely to be affectively based:
+** Politics, sex, and religion.
+* We also vote more out of affection ("he looks caring") tna our beliefs about the specific policies.
+* Where do they come from?
+** Our values, basic religious/moral beliefs.
+*** E.g. abortion, death penalty, premarital sex, gay marriage; based on sense of value than cold examination of facts.
+*** Function is less to draw an accurate picture, but more to validate one's basic value system.
+** Or from a sensory reaction:
+*** Such as liking the taste of a certain food.
+*** An aesthetic reaction, such as admiring a painting or shape/color of a car.
+** Or simply conditioning.
+
+.Classical Conditioning
+****
+A stimulus is given, creating an emotional response, and then paired with a neutral stimulus, until it takes on the emotional properties of the first stimulus.
+****
+
+* Classical conditioning (also called Pavlovian Conditioning) works this way:
+** A stimulus (US=Unconditioned Stimulus) is presented eliciting an emotional response (UR=Unconditioned Response).
+** With this US, a neutral stimulus (CS=Conditioned Stimulus) is presented at the same time, which originally elicits no emotional response.
+** After a while (being exposed to both stimuli), the CS itself is able to evoke an emotion response (CR=Conditioned Response).
+* Example:
+** A dog is presented with food (US) and produces saliva (UR).
+** Along with presenting food, a bell is rung (CS).
+** After a while, the sound of the bell itself will be able to create saliva production (CR).
+
+.Operant Conditioning
+****
+Freely chosen behavior becomes more/less frequent based on reward/punishment.
+****
+
+* Rewards (also called positive reinforcements) can change our attitudes due to changed associations.
+* Affectively based attitudes come from many sources, still they can be grouped into one category, because they:
+.. don't result from a rational examination.
+.. aren't governed by logic.
+.. are often linked to people's value.
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Measure affective vs cognitive bases of attitudes*
+
+*Question 1*: Circle the number which best describes _your feelings_ toward snakes.
+
+[%autowidth,cols="1,0,0,0,0,0,0,0,1"]
+|===
+|hateful|-3|-2|-1|0|+1|+2|+3|love
+|sad|-3|-2|-1|0|+1|+2|+3|delighted
+|annoyed|-3|-2|-1|0|+1|+2|+3|happy
+|tense|-3|-2|-1|0|+1|+2|+3|calm
+|bored|-3|-2|-1|0|+1|+2|+3|excited
+|angry|-3|-2|-1|0|+1|+2|+3|relaxed
+|disgusted|-3|-2|-1|0|+1|+2|+3|acceptance
+|sorrowful|-3|-2|-1|0|+1|+2|+3|joy
+|===
+
+*Question 2*: Circle the number which best describes the _traits/characteristics_ of snakes.
+
+[%autowidth,cols="1,0,0,0,0,0,0,0,1"]
+|===
+|useless|-3|-2|-1|0|+1|+2|+3|useful
+|foolish|-3|-2|-1|0|+1|+2|+3|wise
+|unsafe|-3|-2|-1|0|+1|+2|+3|safe
+|harmful|-3|-2|-1|0|+1|+2|+3|beneficial
+|worthless|-3|-2|-1|0|+1|+2|+3|valuable
+|imperfect|-3|-2|-1|0|+1|+2|+3|perfect
+|unhealthy|-3|-2|-1|0|+1|+2|+3|wholesome
+|===
+
+Add up the sum of both questions separately. Question 1 measures the affective, and 2 the cognitive component of attitude towards snakes. For more affectively based attitudes, the first question departs more from zero (usually negative). If you'd replace snake with vacuum cleaner, the first one would be more zero and the second one depart more from it, as it as a pure utilitarian object.
+====
+
+==== Behavioral Based Attitudes
+
+.Behavioral Based Attitudes
+****
+Attitudes based on observations of how one behaves toward an object.
+****
+
+* How we observe our own behavior, which seems odd.
+** How do we know how to behave, if we don't already know how we feel?
+** *Self-perception theory* states: We don't know how we feel until we see how we behave.
+** Thus, justifications like: "_I guess I like it, because I always seem to be going for it._"
+* We infer our attitudes only if: 1) our initial attitude is weak/ambiguous and 2) no other plausible explanation is available.
+** If you exercise to lose weight (or your doctor said so), you will unlikely think you truly enjoy it.
+
+=== Explicit vs. Implicit Attitudes
+
+* Once an attitude develops, it can be either explicit (conscious) or implicit (involuntary, uncontrollable).
+** When we ask someone about their opinion, they can only report about their explicit attitudes.
+* When people review job applications, when the name of the applicant sounds familiar to a member of their own race (George, Greg) they are more likely to accept them than if they sound from another group (Jamal, Lakisha).
+** Although people would never admit that, not even being consciously aware of it, it still happens.
+** Those negative feelings are triggered automatically because of the negative implicit attitude.
+
+.Explicit Attitudes
+****
+We consciously endorse and can report on them.
+****
+
+.Implicit Attitudes
+****
+Existing outside conscious awareness.
+****
+
+* We can have implicit attitudes toward virtually anything, even math.
+* To measure it, there is an IAT (Implicit Association Test).
+** E.g.: https://implicit.harvard.edu/implicit/selectatest.html
+* Implicit attitudes are more rooted in our childhood experiences, whereas explicit ones are more in recent experiences.
+** When it comes to overweight people, when we had a good relationship with our mother, and she was overweight, we had a positive implicit attitude, even if our explicit attitudes were negative.
+* This field is still young and heavily being researched.
+* See chapter 13 where we will apply this to stereotyping and prejudice.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test1[Test yourself]
+====
+
+== Attitudes Predicting Behaviors
+
+* What are the conditions under which attitudes can predict behavior?
+* Why are companies willing to spend so much money on advertising?
+** Because when we change our attitudes, we also change our behavior (e.g. cigarettes are for women too).
+* Study of 1930 by LaPiere:
+** On a sightseeing tour with a Chinese couple, he expected to experience prejudice.
+** But surprisingly only 1 of 251 establishments refused service.
+** To check the attitudes again, he wrote a letter asking whether they would serve a Chinese visitor.
+*** Only 1 said yes, 90% no, the rest was undecided.
+** So it seems that there is a big lack of correspondence between our attitudes and the way we actually act.
+** Yet, the relationship between attitude and behavior is way more complex than this study shows...
+* Attitudes do indeed predict behavior, but only under certain specifiable conditions.
+** E.g. Knowing whether the behavior we are trying to predict is spontaneous or planned.
+
+=== Spontaneous
+
+* How to predict spontaneous behavior?
+* We act spontaneously when we think little about what we are about to do.
+** Making a snap decision for example when a Chinese couple enters our restaurant.
+* Attitudes will predict spontaneous behavior only when they are highly accessible to us.
+
+.Attitude Accessibility
+****
+Association strength between attitude object and one's evaluation of that object, measured by report speed how they feel about it.
+****
+
+* So it's about how quick we can evaluate our attitude towards an object.
+** If it's low, our attitude come to mind slower.
+** If it's high, that attitude will more likely predict spontaneous behavior.
+* But what makes attitudes accessible in the first place?
+** The degree of experience we have behaving with the attitude object.
+** E.g. hands-on experience; volunteering for at a homeless shelter, affecting attitude towards the homeless.
+*** Compare this with a person who only reads about homeless people in the newspaper - not very direct, not very accessible.
+
+=== Deliberative
+
+* Now what about predicting deliberate behavior?
+* When we are motivated, take our time and make deliberate choices?
+** Even inaccessible attitudes can bubble up and influence the choice we make.
+* The best-known theory of when/how attitudes predict deliberative behavior is the theory of planned behavior.
+
+.Theory of Planned Behavior
+****
+Our intentions are the best predictors of deliberate behavior; determined by attitudes toward specific behaviors/subjective norms/perceived behavioral control.
+****
+
+* Although some behaviors come from spontaneous decisions, others are based on thoughtful processes, weighing pros and cons.
+* When we have time to contemplate, the best predictor is our intention.
+* Intention is determined by:
+.. attitude toward the behavior: our specific, not general attitude toward that behavior
+.. social/subjective norms: our beliefs about how others will judge that behavior
+.. perceived behavioral control: the ease how we think we can perform that behavior
+
+==== Specific Attitudes
+
+* The more specific the attitude, the easier to predict the behavior.
+* LaPiere might have asked the wrong question.
+** If he had asked whether restaurant owner would serve "a well-dressed Chinese couple accompanied by a White American college professor", their answer would have been more predictive of their actual behavior.
+** Instead, he simply asked whether they would serve "members of the Chinese race".
+
+[%autowidth,cols="1,0"]
+|===
+|*Attitude Measure*|*Correlation*
+|Birth control|0.08
+|Birth control pills|0.32
+|Using birth control pills|0.53
+|Using birth control pills during the next 2 years|0.57
+|===
+
+* This table clearly shows that when being asked more specific questions, the answer are a better predictor for the actual (correlated) behavior.
+
+==== Subjective Norms
+
+* Our beliefs, how others (which we care about) will view that behavior.
+* Imagine you don't like classical music but your best friend is playing in a concert.
+** You assume that she will be disappointed if you don't go; fail to show up would be like a slap in the face.
+** Knowing this subjective norm (how she will view your behavior), we might predict that you will go nevertheless.
+
+==== Perceived Behavioral Control
+
+* How easy we think it will be for us to perform that behavior.
+* If we think it will be difficult, we will not form a strong intention to do so.
+** Like remembering to use a condom when having sex.
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Predicting environmentally friendly action*
+
+* Many of us hold environmental friendly beliefs...
+** most recyclable waste is not recycled.
+** few use energy efficient light bulbs.
+** many drive alone to work with their car.
+* One useful predictor for environmental friendly behavior is how we feel about a prototypical environmentalist.
+** The mental image that pops up when being asked to think of the average environmentalist.
+* Rate that person (and many others like professors, bicyclists) how attractive, cool, fun, intelligent, and judgemental they are; without time limit.
+** These ratings assess the _explicit_ attitudes about environmentalists.
+* Then again rated a category (such as environmentalist), but now under extreme time pressure (less than a second).
+** Because very little time to think / control their responses, this measures the _implicit_ attitudes.
+* Finally, participants were asked about their environmental friendly behavior (low thermostat, reusable bags, short showers).
+* Confirmation: The more positive the image, the more likely to engage in pro-environmental behaviors.
+** This is true for explicit as well as implicit attitudes.
+* Conclusion: Don't ask whether someone considers themselves as a XYZ, but rather how they feel about the _average_ XYZ.
+====
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test2[Test yourself]
+====
+
+== How to Change
+
+* How can internal/external factors lead to attitude change?
+* They do so often in response to social influence (what others do/say).
+** It can be actual or even imagined behavior of others
+** The base of advertising: your attitudes toward a product can be influenced by publicity.
+
+=== Cognitive Dissonance
+
+* Changing attitudes by changing behavior.
+* We know that we change our attitude, if we behave inconsistently to them, and we can't find external justification.
+** This cognitive dissonance appears when something threatens our self-image (as decent, kind, honest).
+** Especially if there is no way to explain away this behavior based on external circumstances.
+* If you want to change someone's attitudes, make _them_ give a speech for/against whatever it is.
+** For that, they then need to find internal justification, to reduce their experienced dissonance.
+** By that, you get them believe what they are saying.
+* Is this also possible to carry out on a mass scale? Difficult...
+
+.Persuasive Communication
+****
+A message advocating a particular side of an issue.
+****
+
+=== Persuasive Communication
+
+* If you run a campaign about cancer, should you...
+** ... provide lots of facts and figures?
+** ... provide emotionally loaded, frightening visual images of diseased lungs?
+** ... hire a movie star/Nobel Prize-winning medical researcher?
+** ... take a friendly tone, acknowledging quit smoking is hard, or take a hard line?
+* It's complicated; luckily researchers at Yale University conducted studies to figure out what makes persuasive communication effective ("Who says what to whom"):
+.. Who - Source of communication
+*** Speaker's credibility: judging his expertise
+*** Speaker's attractiveness: physical or personality attributes
+*** Sleeper effect: low-credibility sources becomes more persuasive with passage of time; as we remember the message itself longer, than information about its source
+.. What - Nature of communication
+*** more persuasive if message seem not to be designed to influence (manipulate); also of course the quality of arguments themselves
+*** both sides are being presented (for and against); two-sided communication
+*** order effects when there are multiple speeches: if there is no break in-between better give the first speech as more persuasive (primacy effect); if there is a delay where people will make up their minds better be the last (recency effect)
+.. To Whom - Nature of audience
+*** if it is more distracted, more likely to be persuaded
+*** is it hostile or friendly to the point of view
+*** individual differences: lower intelligence, moderate self-esteem, age 18-25
+*** cultural differences: Western value personal preferences ("I like it because it makes me feel good"-message); Eastern more contextually appropriate behavior ("I like it because others I am connected to like it"-message)
+
+.Yale Attitude Change Approach
+****
+Which conditions people most likely to change their attitudes, in response to persuasive messages. Focusing on the source and nature of communication, and nature of the audience.
+****
+
+==== Central/Peripheral Routes to Persuasion
+
+* When is it better to focus on aspects which are:
+.. central to the communication (argument strength)
+.. peripheral to it (credibility/attractiveness of the speaker)
+* This question is answered by the elaboration likelihood model.
+** When we are influenced by the speech (argument logic) and when by superficial things (who give the speech, how long is it).
+
+.Elaboration Likelihood Model
+****
+Persuasive communication can change attitude either centrally (listeners motivated, pay attention to arguments) or peripherally (no attention to arguments, but superficial things).
+****
+
+* Sometimes we are motivated to pay attention to the facts.
+** Think carefully about the content, the logic of the arguments, elaborate on the message.
+
+.Central Route to Persuasion
+****
+When we have the ability and the motivation to elaborate; listening carefully, thinking about the arguments.
+****
+
+* When we don't pay close attention to what is being said, we stay with surface characteristics.
+** E.g. how long or by whom (expert or not, attractive) is the speech given.
+** Meaning, things which are peripheral to the message itself.
+* This is why companies pay celebrities lots of money to represent (ads, tweets, posts, product placements) their brands.
+
+.Peripheral Route to Persuasion
+****
+When we don't elaborate on the arguments; instead focus on superficial things.
+****
+
+* What determines which route we are taking?
+** This depends on whether we
+... have the ability (nothing is distracting us) and
+... motivation (it's fascinating to us) to pay attention.
+* Effects on attitude change:
+** Central route is long-lasting and resistant to change.
+** Peripheral route is temporary and susceptible to change.
+
+==== Motivation to pay attention
+
+* If it is relevant for us personally, then we are motivated to pay attention to a communication and its arguments.
+** E.g. how important the topic is to our well-being.
+* More relevant, more willing, more likely taking the central route to persuasion.
+** When being presented a relevant topic, you will agree more when there are strong arguments than weak (regardless of who presents it).
+** Of course, when it's not relevant, not arguments but the speaker/speech is more influential (peripheral route).
+
+==== Ability to pay attention
+
+* Even when we sometimes _want_ to pay attention, we can't.
+** We are tired, sitting in a hot or crowded room... the issue is too complex/hard to evaluate.
+* In that case, we are swayed more by peripheral cues.
+* If the arguments are too complicated, conveyed in jargon, we rely on the expert's credentials
+** If we are able to understand the arguments, we engage in a central route.
+* Our expertise/personal tendencies shape our ability to pay attention to persuasive arguments.
+** Also: "Morning" people will take the central route more likely when persuasion is earlier in the day (vice versa for "evening" people).
+
+==== Achieving long-lasting attitude change
+
+* When basing our attitudes on careful analysis of arguments, we are more likely to maintain an attitude over time.
+* Also, more likely to behave consistently with it, and more resistant to counter-persuasion.
+
+=== Emotion
+
+* Before an argument can be even considered, we need a person's attention.
+** One way to do this is by playing to their emotions.
+
+==== Fear-Arousing Communications
+
+* One easy way is to scare them (showing diseased lungs), presenting alarming data (linking smoking with lung cancer).
+
+.Fear-Arousing Communications
+****
+Persuasive messages changing attitudes by arousing fears.
+****
+
+* Public service ads often use this approach.
+** Scare people into: safer sex, wearing seat belts, lower carbon emissions, and stay away from drugs.
+* Whether it works or not depends...
+** Moderate fear, and message will reduce that fear, more likely go via the central route.
+* E.g. watching videos of lung cancer, and reading flyers about how to quit smoking, people significantly stopped more compared to people who only got one of the two.
+** Why is that? Because the video evoked fear, and the flyer reduced it again by following its instructions.
+* It will fail if the fear is so strong that people feel overwhelmed.
+** People will become defensive; deny the importance of the threat; unable to think rationally.
+* So the goal is to create enough fear to motivate, but not so much so people will tune out.
+** Make sure to include some specific recommendations, making it clear that this will reduce their fear.
+
+==== Emotions as Heuristic
+
+.Heuristic-Systematic Model of Persuasion
+****
+Persuasive communication changes attitudes because of A) systematically processing arguments or B) using mental shortcuts/heuristics.
+****
+
+* When we use the peripheral route, we often use heuristics (=mental shortcuts)
+** Making judgements quickly/efficiently; no need to spend a lot of time analyzing every detail.
+** For example "_experts are always right_" and "_people who speak quickly must know what they're talking about_".
+* Emotions can also be used as heuristics, to determine our attitudes: The "how do I feel about it"-heuristic.
+** If we feel good about it, we must have a positive attitude. Most of the time this actually works.
+* Sometimes though it's difficult to tell where our feelings come from.
+** Is it really that thing at hand, or something totally unrelated?
+** Maybe you were in a good mood to begin with; maybe the store played your favorite song?
+** When we mistake what caused our mood, we misattribute feelings created by one source (favorite song) to another (the product) we bought.
+* That's why salespeople play music and put art in their stores; real estate agents bake cookies.
+** They hope that at least a bit, those pleasant feelings will be partly attributed to the product being sold.
+* Generally speaking: Emotions can influence the way we think about persuasive messages.
+** When in a good mood, we relax, assuming the world is a safe place; being more content with heuristic cues ("the expert says").
+** When in a bad mood, we are more alert, skeptical, and thus pay more attention to message quality.
+** We are easily persuaded by a weak message when we're happy, it takes a strong message when we're sad.
+
+==== Emotion and different types of attitudes
+
+* Success also depends on the type of attitude we try to change.
+** Whether they are cognitively (object itself) or affectively (emotions/values) based attitudes.
+
+=== The Body
+
+\... PAGE 220 ...
+
+* x
+
+== Power of Advertising
+
+* x
+
+=== How it works
+
+* x
+
+=== Subliminal Advertising
+
+* A form of mind control?
+
+=== Culture
+
+* x
+
+== Resisting Persuasive Messages
+
+* x
+
+=== Inoculation
+
+* x
+
+=== Product Placement
+
+* x
+
+=== Peer Pressure
+
+* x
+
+=== Reactance Theory
+
+* x
+
+
+.Term
+****
+Definition.
+****
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Some Title*
+
+xxx
+====
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#testX[Test yourself]
+====
+
+[#img-xxx]
+xxx
+image::images/xxx.jpg[xx,400,100]

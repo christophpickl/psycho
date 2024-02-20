@@ -1,0 +1,82 @@
+= Self-Test on Attitudes
+
+[#test1]
+== 1. Nature and Origin
+
+. Which conclusions are most consistent with heritability of attitudes?
+.. shaped by surroundings, no genetic component
+.. inherited and dictated by genes, little environmental factors
+.. inherit temperament/personality, likely to develop similar attitudes of genetic relatives
+.. fraternal twins same as identical twins
+** [hiddenAnswer]#c.#
+. Our emotional reaction to an object is called a __ component of attitudes.
+.. affective
+.. behavioral
+.. cognitive
+.. operant
+** [hiddenAnswer]#a.#
+. Which attitude is about examining facts and weighing objective value?
+.. affective
+.. behavioral
+.. cognitive
+.. operant
+** [hiddenAnswer]#c.#
+. Hearing childhood cartoon theme song, you feel happy and excited, is?
+.. classical conditioning
+.. operant conditioning
+.. self-perception
+.. values
+** [hiddenAnswer]#a.#
+. You like dogs over cats because 1) friendly 2) create warm feeling 3) watching lots of dog videos.
+.. 1) cognitive 2) behavioral 3) affective
+.. 1) affective 2) cognitive 3) behavioral
+.. 1) cognitive 2) affective 3) behavioral
+.. 1) behavioral 2) affective 3) cognitive
+** [hiddenAnswer]#c.#
+
+[#test2]
+== 2. Predicting Behaviors
+
+. LaPiere's findings on attitudes/behaviors about prejudice of restaurant owners shows:
+.. more prejudice than self-reported
+.. attitudes not a reliable predictor of behavior
+.. the less accessible an attitude, the more likely shape behavior
+.. attitudes about racial prejudice are strong predictors of behavior
+** [hiddenAnswer]#b.#
+. Highly accessible attitudes help predict:
+.. deliberate behavior
+.. future behavior
+.. spontaneous behavior
+.. intention
+** [hiddenAnswer]#c.#
+. Deliberate behaviors except:
+.. evaluating pros/cons which subject to choose
+.. follow recycle rules recently issued by the government
+.. avoid raw fish because were told so as a kid
+.. follow equations given on information sheet on during your chemistry exam
+** [hiddenAnswer]#c.#
+. X plays badminton and is not interested in table tennis. His close friend Y goes to a table tennis match. What will X do, based on subjective norms?
+.. X watches a movie instead.
+.. X watches the match, to not disappoint his friend.
+.. X avoids Y until the match is over.
+.. X requests a common friend to come and watch the match with him.
+** [hiddenAnswer]#b.#
+. Three considerations for predicting deliberate behavior:
+.. cognitive, behavioral and affective based attitudes
+.. attitude specificity, subjective norms, perceived behavioral control
+.. classical and operant conditioning, self-perception theory
+.. attitude accessibility, explicit and implicit attitudes
+** [hiddenAnswer]#b.#
+
+// How to Change
+// Advertising
+
+[#testX]
+== X. xxx
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#

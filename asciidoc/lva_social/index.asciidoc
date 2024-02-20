@@ -23,7 +23,7 @@ image::book_social_psychology.jpg[Social Psychology Book,200,100]
 . link:ch4-perception/index.html[Social Perception] -- How We Come to Understand Other People
 . link:ch5-self/index.html[Self-Knowledge] -- Understanding Ourselves in a Social Context
 . link:ch6-justification/index.html[Self-Justification] -- Cognitive Dissonance and the Need to Protect Our Self-Esteem
-// . link:ch7-attitudes/index.html[Attitudes] -- Influencing Thoughts and Feelings
+. link:ch7-attitudes/index.html[Attitudes] -- Influencing Thoughts and Feelings
 // . link:ch8-conformity/index.html[Conformity and Obedience] -- Influencing Behavior
 // . link:ch9-group/index.html[Group Process] -- Influence in Social Groups
 // . link:ch10-attraction/index.html[Interpersonal Attraction] -- From Initial Impressions to Long-Term Intimacy

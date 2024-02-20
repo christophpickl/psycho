@@ -1,0 +1,23 @@
+= No true Scotsman
+
+.No Scotsman would put sugar on his porridge; at least no _true_ Scotsman.
+image::no_true_scotsman.png[True scotsman,500,100]
+
+* Alias '_appeal to purity'; an informal fallacy, a post-rationalization
+* The goal is to dismiss valid/relevant criticism/flaws of your arguments.
+** Protect your generalized statement from a falsifying counterexample, by excluding it "improperly".
+** Constructing ad-hoc a slightly modified generalization, excluding the undesirable specific case.
+** Doing this, by using rhetoric; use of emotionally charged but nonsubstantive platitudes, such as "true", "pure", "genuine", "authentic", "real", ...
+
+== Criteria
+
+. not publicly retreating from the initial, falsified assertion
+. offering a modified assertion that definitionally excludes a targeted unwanted counterexample
+. using rhetoric to hide the modification
+
+
+== Example
+
+* A: "No Scotsman puts sugar on his porridge."
+* B: "But my uncle Angus is a Scotsman and he puts sugar on his porridge."
+* A: "But no _true_ Scotsman puts sugar on his porridge."
