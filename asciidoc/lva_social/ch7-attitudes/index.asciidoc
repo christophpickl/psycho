@@ -57,7 +57,7 @@ An attitude based on feelings/values (instead of beliefs) about the nature of an
 * We sometimes feel very attracted to something (or someone,) although we might have negative beliefs about it/him/her.
 * Usually topics which are considered inappropriate to be talked about at a dinner table are likely to be affectively based:
 ** Politics, sex, and religion.
-* We also vote more out of affection ("he looks caring") tna our beliefs about the specific policies.
+* We also vote more out of affection ("he looks caring") than our beliefs about the specific policies.
 * Where do they come from?
 ** Our values, basic religious/moral beliefs.
 *** E.g. abortion, death penalty, premarital sex, gay marriage; based on sense of value than cold examination of facts.
@@ -445,67 +445,252 @@ Persuasive communication changes attitudes because of A) systematically processi
 
 * Success also depends on the type of attitude we try to change.
 ** Whether they are cognitively (object itself) or affectively (emotions/values) based attitudes.
+* It's best to fight fire with fire: Cognitively based = rational arguments; affectively = emotional appeals.
+** For utilitarian products (air conditioner, vacuum cleaner), we focus on functional aspects.
+** For social identity products (perfume, greeting cards), we focus on other's perception/judgement.
 
 === The Body
 
-\... PAGE 220 ...
+* Body posture plays a surprising role in the process of attitude change.
+** Study with people testing the durability of new headphones, while hearing some arguments (behavioral change:
+** Shaking head ("no"): less confidence
+** Nodding head ("yes"): more confidence
+*** ... about our thoughts about the message:
+**** "Wow, this is really convincing" - for strong argument
+**** "Wow, this is really dumb" - for weak arguments
+* Thus: What people do while you try to convince them matters.
+** Sitting in a soft, cushy chair at the store: spend more money than planned.
+** Make customers smile to transfer positive feelings towards the product
+*** Increase customer's confidence in their thoughts about your message (more effective).
+*** But only if the argument is strong and convincing in the first place.
 
-* x
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test3[Test yourself]
+====
 
 == Power of Advertising
 
-* x
+* Advertising is a direct application of social psychology.
+** To change how customers think about/act toward a certain product.
+* Advertising _is_ powerful; people are surprisingly susceptible to its influence.
+** Yet, everyone thinks it works on everyone else but themselves.
+* Powerful tools such as: advertising, product placement, and behavior of admired figures.
 
 === How it works
 
-* x
+* How does it work (best)?
+** Same as already discussed before!
+* Change an affectively based attitude => fight emotions with emotions.
+* E.g. brands of cola are not really that different.
+** We don't evaluate them based on objective qualities; ads don't stress facts and figures.
+** "The thing about soda commercials is that they actually have nothing to say."
+** Instead, they try us to associate feelings of excitement/youth/energy/attractiveness with the brand.
+* Advertising is even harder for products which neither trigger emotions nor are directly relevant for daily life.
+** Solution/trick: _Make_ the product relevant for them.
+** E.g. Listerine: how to treat throat infections.
+** No one used mouthwash, or even knew what one was.
+** They have invented the cure, now they invented the disease.
+* Playing with people's fears being socially rejected.
+** Making a problem (bad breath) which is personally relevant for the masses.
+* See: https://www.youtube.com/watch?v=kzAbNH9-2eU
 
 === Subliminal Advertising
 
 * A form of mind control?
+* What happens if we are not even aware that someone tries to persuade us?
 
-=== Culture
-
-* x
-
-== Resisting Persuasive Messages
-
-* x
-
-=== Inoculation
-
-* x
-
-=== Product Placement
-
-* x
-
-=== Peer Pressure
-
-* x
-
-=== Reactance Theory
-
-* x
-
-
-.Term
+.Subliminal Messages
 ****
-Definition.
+Words/pictures not consciously perceived, but may influence nevertheless judgements/attitudes/behaviors.
 ****
+
+* Ads sometimes contain the word sex, or show hidden images of male and female genitalia (see books from link:https://en.wikipedia.org/wiki/Wilson_Bryan_Key[Wilson Bryan Key]).
+** Although not being consciously perceived, people in a good mood while pay longer attention to them.
+* They can be visually, but also auditory: Think of all the subliminal audio clips on YouTube.
+** There is a large market with those clips, for weight loss, stop smoking, raise self-esteem...
+* Most people believe those messages actually do work, and shape their attitudes and behaviors -but do they?
+
+==== Debunking
+
+* There is no evidence that subliminal messages have an influence on our behavior.
+* Hidden messages don't make us buy stuff, any more we normally would do.
+* Thus, unfortunately, those audio clips won't help us to quit smoking or lose weight.
+
+==== Laboratory evidence
+
+* Subliminal messages don't work in _everyday life_.
+** Yet, under very specific, laboratory controlled, circumstances they do!
+* People were shown subliminal flashes of the words "Lipton Ice".
+** If they were not thirsty, it had no effect.
+** If they were thirsty, they were significantly more likely to choose that beverage.
+* For subliminal messages to work:
+.. The illumination of the room must be right.
+.. People seated the right distance from the screen.
+.. Nothing else is occurring to distract them.
+* Warning people that someone is going to persuade them, decreases the potential influence.
 
 [NOTE.tryit,caption=TRY IT]
 ====
-*Some Title*
+*Consumer Brand Attitudes*
 
-xxx
+Two exercises on automatic thought about consumer-related attitudes.
+
+. Baseline memory assessment.
+** Read those four word-pairs loud.
+** Your partner has to remember them later.
+... blue-duck
+... ocean-moon
+... window-hammer
+... ski-climb
+** While your partner is rehearsing them, read the following questions and ask for immediate, first-instinct responses:
+... Name an automobile brand
+... Name a laundry detergent brand.
+... Name a soft drink brand.
+** The word pairs most likely primed your partner to say "Tide" and "Mountain Dew" (if you live in the US), and there was actually no memory test.
+** Priming makes certain thoughts/concepts/attitudes more accessible.
+. Consider the following 8 companies: Which are the top 3 in terms of revenue:
+** Berkshire Hathaway, McKesson, Cardinal Health, Boeing, Microsoft, Target, Coca-Cola, American Express, Starbucks.
+** Fun fact: The list is already in the right order.
+** You may never have heard about the first ones, still chose others.
+** link:../../phenomena/availability_bias.html[Availability bias]: what comes more easily to mind/more popular/successful.
+** Advertising pays off in the long run.
+*** We tend to think pleasant thoughts about which is familiar (link:../../phenomena/mere_exposure_effect.html[mere exposure effect]).
 ====
+
+=== Culture
+
+* Media messages are most powerful, when people consciously perceive them.
+* Media also shapes/reflects cultural attitudes.
+** Attitudes towards women/men, races, ages, ...
+** Related how they are portrayed in advertising (TV, movies, internet).
+* Western stress independence/individualism, Eastern stress interdependence/collectivism.
+** These differences (along with advertisement) predict attitudes.
+** Independence: "It's easy when you have the right shoes", interdependence: "the shoes for your family".
+** Ads in US: individuality/self-improvement/individual benefits; ads in Korea: family/others/social group benefits.
 
 [NOTE.test,caption=REVIEW QUESTIONS]
 ====
-link:test.html#testX[Test yourself]
+link:test.html#test4[Test yourself]
 ====
 
-[#img-xxx]
-xxx
-image::images/xxx.jpg[xx,400,100]
+== Resisting Persuasive Messages
+
+* Strategies to resist efforts at persuasion.
+** How can we be safe from persuasive communications? Counter-strategies?!
+
+=== Inoculation
+
+* Like medical inoculation (vaccination): Exposed small amount, weakened virus; become more resistant.
+* Considering the other's arguments before he attacks: Think about pro/cond beforehand.
+** Thinking ahead of time, about various directions of a counter-argument.
+* Less susceptible to efforts to change your existing attitude.
+
+.Attitude Inoculation
+****
+Immune to attempts to change attitudes, by exposing to small dose of counter-arguments.
+****
+
+=== Product Placement
+
+* Heineken paid 45 million dollars to be placed in a James Bond movie (to drink beer, instead Martini).
+** What about the Lego movie: where does product placement end and the film begin?
+* Works, because we don't realize that someone tries to influence our attitudes/behaviors; defenses are down.
+** We don't generate counter-arguments.
+* Children are especially vulnerable.
+** When they saw movies where people smoked, they smoked later as well.
+* Is warning people beforehand an effective tool? Yes!
+** People are less susceptible when forewarned; analyze and hear more carefully.
+
+=== Peer Pressure
+
+* Many efforts, trying to change our attitudes, contain appeals to our *emotions*.
+* Adolescents (very susceptible age) start with smoke/drink/drugs because of peer pressure.
+** Best predictor whether someone starts with it, whether that person has friends doing it.
+** Peer pressure is linked to our values/emotions, fear of rejection, desire for freedom/anatomy.
+** In adolescents, peers are an important source of social approval.
+* Using inoculation (doses of logical arguments one might hear) to prevent young people from smoking.
+** Making them immune from social pressure by exposing to mild versions of it.
+** Showing ways how to combat these pressures, via a role-play for example: calling him a "loser".
+** "_I'd be more of a loser if I did it just to impress you._"
+
+=== Reactance Theory
+
+* When persuasion attempts backfire.
+** There is harm for strong prohibitions, which is it that it increases the interest in the prohibited activity.
+** We simply don't like it when (we feel) our freedom is threatened.
+** It leads to an unpleasant state of reactance, which can be reduced by performing the threatened behavior.
+
+.Reactance Theory
+****
+When our freedom is threatened, resistance arises, and reducing it by doing the forbidden.
+****
+
+* Doing something just because an authority told you not to do it? That's reactance.
+** When stating "Don't write on this wall" versus "Please don't write on this wall", then the first one will have more graffiti.
+** The behavior will restore the sense of personal freedom/choice.
+* We are not automatons, that must march blindly.
+** Sometimes it's worth the cognitive effort, in order to avoid being influenced.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test5[Test yourself]
+====
+
+== Summary
+
+* Types of attitudes and what based on
+** Nature and origin of an attitude: it's our enduring evaluation of people/objects/ideas
+** Come from
+*** mostly experiences (a bit of genetics)
+*** Cognitively based: our beliefs
+*** Affectively based: emotions and values (created by classical/operant conditioning)
+*** Behaviorally based: on actions
+** Explicit vs Implicit
+*** consciously endorse, easily report VS outside conscious awareness
+* Conditions where attitudes predict behavior
+** Spontaneous behaviors
+*** Relatively accessible
+*** Attitude accessibility: association strength between object and its evaluation
+** Deliberative behaviors
+*** Theory of planned behavior: we deliberately behave because 1) attitudes towards it 2) subjective norms 3) believe have control our behavior
+* Internal/external factors lead to attitude change
+** Change attitudes by change behavior: Cognitive dissonance theory
+*** Counter-attitudinal advocacy for low external justification
+*** Attitudes in line with behavior
+** Persuasive communications
+*** Effectiveness depends on 1) source of message 2) message itself 3) audience
+*** Elaboration likelihood model: when more persuaded by arguments, when by surface characteristics (e.g. attractiveness of speaker)
+*** Central route to persuasion: when have motivation/ability to pay attention
+*** Peripheral route to persuasion: low motivation/ability
+** Emotion
+*** Fear-arousing communication: lasting attitude change (if moderate)
+*** Believe reassured by the message
+*** Using emotions as heuristics to gauge attitude: feel good near it, infer we like it (even if caused by something else)
+*** Effectiveness depends on type of attitude: Appeals to emotion/social identity work best, if attitude based on emotions/social identity.
+* Advertising
+** Effective changing attitudes (especially in public health campaigns)
+** How it works?
+*** Targeting affectively based attitudes: play with emotions
+*** Targeting cognitively based attitudes: show facts, make product seem personally relevant
+** Subliminal advertising
+*** A form of mind control? No!
+*** No evidence that subliminal messages have any influence
+*** They DO have influence under controlled laboratory conditions
+** Culture
+*** Differences that converge with other cross-cultural findings in social and self-perception
+* Strategies resisting persuasion
+** Attitude inoculation
+*** Expose small doses of arguments against their position
+*** Easier to defend later on (like vaccination)
+** Product placement
+*** When warned before, less susceptible
+** Peer pressure
+*** Teach how to resist it, makes kids less vulnerable to it
+** Reactance theory
+*** When freedom threatened, feel like choices are limited; it backfires!
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test6[Test yourself]
+====

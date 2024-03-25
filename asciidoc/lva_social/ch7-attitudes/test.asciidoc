@@ -68,15 +68,174 @@
 .. attitude accessibility, explicit and implicit attitudes
 ** [hiddenAnswer]#b.#
 
-// How to Change
-// Advertising
+[#test3]
+== 3. How to Change
 
-[#testX]
-== X. xxx
+. On elaboration likelihood model of persuasion:
+.. Stronger arguments more change, regardless personal relevance.
+.. Source expertise alone matters if personally relevant.
+.. Highly relevant, more persuaded with strong arguments.
+.. Low relevance, use central argument is sufficient.
+** [hiddenAnswer]#c.#
+. On Yale Attitude Change, which one is _not_ a factor?
+.. Nature of the audience
+.. Message source
+.. Fear
+.. Nature of communication itself
+** [hiddenAnswer]#c.#
+. On elaboration likelihood model, who would not be convinced by product advertising?
+.. Just came home from a long day, pretty exhausted.
+.. Majored in philosophy, enjoys reading about thought experiments.
+.. Watching the ad, but thinking about something else.
+.. All of the above.
+** [hiddenAnswer]#b.#
+. Physical attractiveness is used for:
+.. Systematic cue
+.. Central cue
+.. Peripheral cue
+.. Rational cue
+** [hiddenAnswer]#c.#
+. Try to discourage alcohol consumption; distribute flyers with fear-inducing images. According to protection motivation theory, why failed?
+.. Images not scary enough
+.. Too short duration
+.. Not enough information, solutions to help reduce consumption
+.. Instead using images, use concrete data on negative effects
+** [hiddenAnswer]#c.#
+. People wearing headphones while listening to persuasive editorial, shaking or nodding heads; who most agreeing?
+.. shakers, weak arguments
+.. shakers, strong arguments
+.. nodders, weak arguments
+.. nodders, strong arguments
+** [hiddenAnswer]#b.#
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+[#test4]
+== 4. Advertising
+
+. Public service ads, be more healthy:
+.. Always fail
+.. More effective for men
+.. More effective via TV (than print) when young people targeted
+.. Most effective subliminal
+** [hiddenAnswer]#c.#
+. Best ad-strategy to trigger interest in a product?
+.. Celebrity-focused
+.. Personal relevance
+.. Expose longer period of time
+.. Catchy jingle
+** [hiddenAnswer]#b.#
+. Best ad-strategy for product which has lots substitutes, no advantage over others, not particularly relevant.
+.. Logical, fact-based arguments
+.. Subliminal messages
+.. Emotional connection
+.. None
+** [hiddenAnswer]#c.#
+. Subliminal influence:
+.. less effective
+.. more effective
+.. more effective in individualistic cultures
+.. more effective in collectivistic cultures
+** [hiddenAnswer]#a.#
+. Relation media consumption and bodily concerns of men:
+.. Lead to join a gym
+.. negative self-image
+.. positive self-image
+.. no relationship if value skinny women
+** [hiddenAnswer]#b.#
+
+[#test5]
+== 5. Resisting Persuasion
+
+. Attitude inoculation indicates we can resist attitude change, if we are first exposed to arguments which:
+.. Support existing attitude
+.. Weakened versions of arguments might hear later
+.. Prevent considering alternative viewpoints
+.. Pay more attention to peripheral cues
+** [hiddenAnswer]#b.#
+. Why is product placement effective?
+.. Operates on central route to persuasion
+.. Often we are unaware
+.. Usually leads to reactance response
+.. Cognitively based efforts have longer-lasting effects
+** [hiddenAnswer]#b.#
+. Peer pressure linked to which attitudes:
+.. Cognitively based
+.. Affectively based
+.. Inoculated
+.. Negative
+** [hiddenAnswer]#b.#
+. How make youngster resist peer pressure?
+.. Attend seminars why it's bad
+.. Make emotional appeals (family values), simulate logical peer arguments
+.. Reprimand her, reminding her of the possible punishment when discovered
+.. All of the above
+** [hiddenAnswer]#b.#
+. Reactance theory; we react strongly if:
+.. cognitive freedom threatened
+.. affective freedom threatened
+.. behavioral freedom threatened
+.. None of the above
+** [hiddenAnswer]#c.#
+
+[#test6]
+== 6. Summary
+
+. All true about attitudes except...?
+.. They are related to our temperament and personality
+.. They rarely changed over time
+.. They can be changed with persuasive communications
+.. They can predict behavior (under right conditions)
+** [hiddenAnswer]#b.#
+. When most likely peripheral route?
+.. Issue is personally relevant
+.. Have lots of domain knowledge
+.. When distracted so difficult to understand
+.. Feel personally responsible for the outcome
+** [hiddenAnswer]#c.#
+. According theory of planned behavior, which is the best predictor to change behavior?
+.. Agreeing and thinking it's important
+.. Partner moves in showing this behavior already
+.. Change is not very accessible in memory
+.. Believing hard to be disciplined
+** [hiddenAnswer]#a.#
+. Most likely stop smoking by anti-smoking ad if:
+.. Using extreme graphic pictures
+.. Using subliminal messages about risks and recommendations on quiting
+.. Using graphic pictures  and recommendations on quiting
+.. Using success stories
+** [hiddenAnswer]#c.#
+. Most likely pay attention to AIDS talk _and_ remember facts for a long time if:
+.. Emphasizing statistical information
+.. Emphasizing how it spread in your community and no distraction
+.. Emphasizing how it spread in your community and being distracted
+.. Speaker is a known expert
+** [hiddenAnswer]#b.#
+. Sell toothbrushes to busy, distracted travelers. What's _least_ likely to work?
+.. Flier with convincing reasons.
+.. Large sign: "9 out of 10 dentists recommend it"
+.. Larger banner with Brad Pitt
+.. Stop people and say "This toothbrush used by VIPs"
+** [hiddenAnswer]#a.#
+. Which conditions most likely vote for political candidate?
+.. like his policy, but negative feelings towards him
+.. know little about policy, but positive feelings towards him
+.. seeing subliminal ads
+.. TV ads while being distracted
+** [hiddenAnswer]#b.#
+. Flashing a picture too fast to be consciously perceived is what kind of advertising?
+.. rebellious
+.. flash
+.. subliminal
+.. conscious
+** [hiddenAnswer]#c.#
+. Being exposed a lot of very thin women leads to thinking:
+.. be concerned about your health/well-being
+.. you must be thin to be beautiful
+.. media depicts unrealistically thin women
+.. women can look thin from certain camera angles
+** [hiddenAnswer]#b.#
+. How to resist peer pressure?
+.. Give logical arguments
+.. Role-playing situations ahead of time
+.. Positive reinforcement
+.. Negative reinforcement
+** [hiddenAnswer]#b.#

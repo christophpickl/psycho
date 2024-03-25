@@ -1,0 +1,97 @@
+= Self-Test XXX
+
+[#test1]
+== 1. When and why we conform
+
+. Most direct/powerful social influence?
+.. Complying with polite requests by a friend
+.. Conforming to a group norm
+.. Obedience to an order from an authority
+.. Emotion-based attitudes
+** [hiddenAnswer]#b.#
+. True about conformity?
+.. Behave we think right, even though the situation is confusing
+.. We act in accordance with others when we don't fear social rejection
+.. We conform because we don't bother about others' expectations
+.. We change behavior because of powerful influence of others
+** [hiddenAnswer]#d.#
+. Which one is _not_ a reason why we conform:
+.. Wanting to influence/become a role model for others
+.. Not knowing what to do in a confusing/unusual situation
+.. Avoid being ridiculed/punished for being different
+.. Wanting to gain social acceptance, meet others' expectations
+** [hiddenAnswer]#a.#
+
+[#test2]
+== 2. Informational Social Influence
+
+. You follow a senior colleague's advice on how to behave at an unfamiliar conference.
+.. private information influence
+.. public compliance influence
+.. informational social influence
+.. accuracy motivation
+** [hiddenAnswer]#c.#
+. Study of perceptions of the autokinetic effect?
+.. They conformed publicly, but not privately.
+.. Conforming was temporary, reverting to own responses.
+.. Conformed with friends to fit in.
+.. Conformed thinking other's responses were accurate.
+** [hiddenAnswer]#d.#
+. The more important an accurate decision, the ...
+.. less likely conform informational social influence.
+.. more likely conform informational social influence.
+.. more independent, uninfluenced by others.
+.. more will prefer public to private conformity.
+** [hiddenAnswer]#b.#
+. Why will young/inexperienced authorities humiliate/shoot at innocents?
+.. In an ambiguous situation, imitating others.
+.. Being uncertain and in panic, relying on others' behaviors.
+.. Believe that's supposed to be, following more experienced ones.
+.. All of the above.
+** [hiddenAnswer]#d.#
+. Informational social influence likely to occur when:
+.. Unambiguous situation, and not a crisis.
+.. Others are not experts, situation not a crisis.
+.. Others are experts, and situation is a crisis.
+.. Situation is a crisis and unambiguous.
+** [hiddenAnswer]#c.#
+
+[#test3]
+== 3. Normative Social Influence
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#
+
+[#test4]
+== 4. Conformity Tactics
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#
+
+[#test5]
+== 5. Obedience to Authority
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#
+
+[#test6]
+== 6. final...
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#

@@ -1,0 +1,325 @@
+= Conformity and Obedience
+
+* How to influence behavior?
+* Remember the "ice bucket challenge" from 2014?
+** It was for a guy with Lou Gehrig's disease (ALS: amyotrophic lateral sclerosis).
+** Challenge a friend and donate 10 USD, otherwise donate 100 USD if you don't do it.
+** The video went viral on social media.
+* We make every day lots of decisions whether to conform to the behavior of others, or to strike out on an independent path.
+** People try to manipulate us, so we do what they want us to do (to conform to their influence).
+** Sometimes with a direct request, sometimes with a more subtle process (indirectly indicating what's appropriate).
+** Topics such as: clothes, hairstyles, or slang terms.
+
+== When and Why
+
+* Western culture (esp. American) is individualistic, think for yourself, and non-conforming.
+** This cultural self-image was shaped by the historical experience with western expansion (Wild West taming).
+** Think for example of the "Marlboro Man", the most successful advertising campaign in American history.
+* We obviously like to think of ourselves not of spineless, weak conformists, but that we make up our own minds.
+** Remember Apple's advertisement slogan "Think different".
+* Conforming to an extreme leads to mass suicide; see link:../ch6-justification/index.html[chapter 6 - justification].
+* Seemingly ordinary people, when put under social pressure, conform to a surprising degree.
+** Take for example the American civil rights movement from 1961.
+** They followed Gandhi's principles of nonviolent protest to end segregation.
+** A form of passive acceptance of violent treatment; remaining calm in the face of harassment (threats, insult, violence).
+** New recruits conformed leading to a contagious commitment to nonviolent protest.
+* Social pressure can of course also result in a less heroic (and more immoral) behavior:
+** About 500 Vietnamese civilians died when other soldiers joined in the shooting of villagers.
+** The abuse of Iraqi captivates at the Abu Ghraib prison in 2003.
+** American soldiers urinating on the corpses of Taliban fighters in 2011.
+** Or teenage "suicide clusters" when multiple deaths happen in a community in a short period of time.
+
+.Conformity
+****
+Behavioral change due to real/imagined influence of others.
+****
+
+* We alter our behavior to conform to the expectations of others.
+* When we are in a confusing/unusual situation and don't know what to do, we use other's behavior as a cue.
+** We also don't want to be ridiculed/punished for being different. Being rejected or thought less of by others.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test1[Test yourself]
+====
+
+== Informational Social Influence
+
+* The need to know what's "right", and how it motivates us to conform.
+* Life is full of ambiguous/confusing situations.
+** Then we feel uncertain about what to think/how to act.
+* Luckily we have a powerful/useful source of knowledge: behavior of others.
+** We often simply watch others, instead of directly asking about the appropriate way to act.
+** We believe that others' interpretations is accurate and will help us for appropriate behavior.
+
+.Informational Social Influence
+****
+Believe that other's interpretation of an ambiguous situation is correct.
+****
+
+* An experiment made use of the _autokinetic effect_.
+** A visual illusion, when staring at a bright light in a uniformly dark environment (star in dark night).
+*** It then appears to waver a bit back/forth, as there is no stable visual reference point; but in reality it doesn't move at all.
+*** This autokinetic effect creates an ambiguous situation.
+** In the second phase, paired with two other people; now a truly social situation.
+*** All three people speak out loud their judgement whether light has moved or not.
+*** After several trials with the same group, they converged on a common estimate.
+*** Thus, we use each other as a source of information, believing the group estimate is the correct one.
+
+.Private Acceptance
+****
+Conforming other's behavior, as genuinely belief what they do/say is right.
+****
+
+* Informational social influence: We avoid to stand out, to look foolish.
+** Because of that, we sometimes conform even though we don't think others are right.
+
+.Public Compliance
+****
+Conforming other's behavior publicly, without necessarily believing in what they do/say is right.
+****
+
+* Interestingly, when the experiment participants were back on their own, they still used the previous group's estimates.
+** Thus, we rely on each other to define our reality (even in the later absence of the others).
+* Think of the "reuse your bath towels" request in hotels.
+** To make it more effective, the sign should say that "the majority of the guests in this very room had reused their towels".
+** Instead of the general "help the environment" appeal.
+
+=== Being Accurate
+
+* A study created an ambiguous task: eyewitness identification.
+** The participants had to pick a "perpetrator"; but doing it several times.
+** The picture of the perpetrator was shown only half a second (to make it difficult and ambiguous).
+** Afterward, they had to pick the right one out of a list of four men.
+** In the second phase, they were put in a group (with three confederates) which gave, before him, the wrong answer.
+** In an A) low-importance condition, people conformed 35% and B) high-importance 50% to the group's judgement.
+** Thus: Informational social influence for eyewitness is a bad thing to uncover the truth.
+*** And that's why when there are multiple eyewitnesses, the police interviews them individually.
+
+=== When Informational Conformity Backfires
+
+* Informational social influence is especially dramatic during a crisis.
+** The person might be ill-equipped to respond, and has no idea what's happening or what to do.
+** When one's personal safety is involved, the need for information is acute: And we even stronger look at other's behavior.
+* When H.G. Wells science fiction fantasy "War of the Worlds" was broadcast via radio (there was no TV back then), everyone panicked.
+** People reinforced each others' sense of panic by responding anxiously.
+* In contemporary society, misinformation spreads easily via social media.
+** Think about hoaxes, erroneous updates, urban legends, and conspiracy theories.
+** Also "fake news", which sometimes is a deliberate thing created or to discredit solid and well-sourced reporting.
+
+=== When we will conform to it
+
+. Ambiguous situation
+** When we are unsure of the correct response appropriate behavior, or the right idea.
+** The most crucial variable for determining source of information.
+** The more uncertain, the more we rely on others.
+. During a crisis
+** When we don't have time to stop and think.
+** When in panic, and uncertain what to do.
+** Unfortunately, others we imitate may also panic and behave irrationally.
+. Others are experts
+** The more expertise/knowledge someone has, the more valuable guid in ambiguous situations.
+** However, experts are not always reliable sources of information.
+** Imagine calling the police during the "War of the Worlds broadcast incident", and they too think it's real.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test2[Test yourself]
+====
+
+== Normative Social Influence
+
+* Or: The need to be accepted.
+** Why do we engage in risky behavior?
+** Why do we follow a group's lead when the resulting behavior is far from sensible, potentially fatal?
+* Because we want to be liked and accepted by others; conforming to a group's social norms.
+
+.Social Norms
+****
+Implicit/explicit group rules for acceptable behaviors/values/beliefs of its members.
+****
+
+* Groups have certain expectations how members should behave.
+** If you don't, you are perceived as different, difficult, and deviant.
+** In the social media era, these norms are transmitted faster than ever.
+* Whatever "goes viral" is what's emotionally arousing.
+** Going viral: A dramatic/sudden popularity of certain videos/memes/stories/ideas due to social influence, contagion and conformity.
+** The surprise and amusement we experience when someone dumps icy water on himself (and "doing good" by doing so).
+** The emotional response can vary from happiness, anger/outrage, to surprise; think of the people freezing in the "mannequin challenge".
+** Why do you think has "bottle flipping" became so popular?
+* Normative conformity is so powerful because being accepted by others is so incredibly important to us.
+** Rejection hurts because we are social animals; being part of the group was relevant for survival most of human history, not only for well-being.
+** Being deprived of human contact is stressful, traumatic, and psychologically painful.
+* Members going against the flow (being deviant) are being punished, ridiculed, and rejected by other group members.
+* An extreme form of this is _hikikomori_: Usually male teenagers from Japan withdrawing from all social interaction, sometimes over decades.
+** Those were often victims of severe (cyber)bullying before withdrawal.
+** Cyberbullying now affects somewhere between 10-35% of school children globally.
+* We conform to gain acceptance, to be not made fun of, getting into trouble, or be ostracized (=geächtet).
+
+.Normative Social Influence
+****
+Do so others will like/accept me, leading to public conformity with the group's beliefs/behaviors (yet, not always with private acceptance).
+****
+
+=== Social Approval
+
+* The "Solomon Asch Line-Judgement" classic studies explored the power of normative social influence.
+** People especially conform in highly ambiguous situations; thus, when wholly unambiguous, they shouldn't.
+** Instead, resist social pressure to conform and be rational, objective problem-solving.
+** Study told participants it's about perceptual judgements; which one out of three, has the closest length to a reference line.
+*** It's crystal clear what's the right answer, but there are 7 other participants (actually confederates).
+*** The dilemma: The people before the real participant give a wrong answer; will they conform an obvious wrong answer?
+*** Answer: yes! They gave 12 out of 18 times the wrong answer to conform. 76% conformed to the wrong answer at least once. On average one third.
+** We are afraid of being the lone dissenter (=Andersdenkender), and might arouse anger by standing out, making fool of oneself, although you feel totally right.
+** In a variation, people had to write down their answer, thus not having to worry about finding out their answer. Conformity dropped dramatically!
+* Normative pressures usually result in _public compliance without private acceptance_.
+** We are afraid to look foolish even in front of complete strangers.
+** We don't want to risk social disapproval, even from complete strangers.
+* Lesson learned: We blindly go along with the group, and turn our backs on reality and truth.
+* Under fMRI scans it was shown that giving the right answer (disagreeing with the group) leads to higher activity in the amygdala (negative emotional states, modulating social behavior).
+
+=== Being Accurate?
+
+* In ambiguous situations the more important the decision is, the more we conform to informational reasons.
+* In non-ambiguous situations, with an important decision, will we be strong enough, withstand group pressure, and disagree?
+** A study showed that with a task where people were 97% correct when being alone ...
+*** ... they gave the wrong answer to conform for low-importance things 33%, and for high-importance 16%.
+*** Even when the group is wrong and the right answer is obvious, and we have strong incentives to be accurate, we find it still difficult to risk social disapproval (even from strangers).
+* We usually don't like to admit it, but we all are affected by normative social influence.
+** It reflects a negative stereotype of: to conform one is spineless and weak.
+** We tend to underestimate the power of normative social influence.
+* This can be taken advantage of if it's well understood by for example:
+** Hiring professional laughers at comedy shows, and it will be perceived funnier.
+** Sports teams and music bands paying abnormally enthusiastic fans to be in the first row.
+* The desire to fit in and be accepted is part of human nature.
+
+=== Consequences of Resisting it
+
+* Violating norms has consequences, and those can be sometimes even entertaining.
+** Stand-up routines and contemporary comedians explore taboo topics and embarrassing revelations by violating social norms.
+* What happens if you violate them?
+** People might get annoyed or even angry at you.
+** First, the group will try to bring you "back into the fold", by increased communication (teasing comments, long discussions).
+** If that doesn't work, they will say negative about and to you, and ultimately withdraw from you and being rejected.
+* In one of Stanley Schachter's experiment, a confederate disagreed with the group's decision.
+** The deviant became the target of most comments and questions. Near the end, communication with him dropped sharply.
+** They tried to convince him, failed, thus ignored him altogether. In addition, they also punished him.
+* Social groups are well versed in how to bring a non-conformist into line.
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Unveiling Normative Social Influence by breaking the rules*
+
+* What are common norms in your culture?
+** Have you ever tried to stand on the left side of the escalator?!
+** Or reserve a seat in public transportation with a tissue package?!
+* Try it yourself: Standing too far/close to a friend during a typical conversation.
+** If too close, he will feel uncomfortable and end the conversation sooner, or back up.
+** If you're too far, he will come closer.
+** By acting in a non-normative/odd way, others try to figure out what's going on and change your behavior.
+** If the fail to change you, they will avoid/ignore you.
+** Don't forget to *debrief* your friend.
+*** Note the relief you feel when revealing it.
+** Experience the normative pressure, and the challenge to resist it.
+====
+
+=== When we will conform to it
+
+* In Asch's line-judging studies, 75% conformed (25% did never), and 95% disagreed at least once.
+** So when are we most likely to conform?
+* There seems to be three variables playing a role here according to the social impact theory:
+
+.Social Impact Theory
+****
+Conforming depends on group's importance/immediacy/size.
+****
+
+* The three variables whether we conform to a group are:
+.. *Strength*: How important is that group to us?
+.. *Immediacy*: How (physically) close are we in space and time to the group?
+.. *Number*: What is the group size? (the influencing effect has a logarithmic curve; peak at 3, stable until 7, then decreases even a bit)
+
+==== Group Importance
+
+* Normative pressure increases when it comes from people we are friends with, we love and respect.
+** There is a large cost losing this love and respect.
+* As a consequence, it's dangerous to have policy decisions made by highly cohesive groups; they care more about pleasing than arriving at the best/most logical decision.
+* Yet, individuals can earn the right to deviate occasionally without serious consequences.
+
+.Idiosyncrasy Credits
+****
+We earn credits (tolerance) from others by conforming; we pay those back when we deviate (and thus not getting "punished").
+****
+
+* It's like putting money in the bank to save for future use.
+* Having allies in a group also changes the situation drastically:
+** Having one ally, helping the line-experiment participant resist normative pressures from 32% (all give wrong answer) to 6% (one gives right answer).
+
+==== Collectivistic Culture
+
+* Society/culture predicts the frequency of normative social influence.
+* In Asia/Japan people value more cooperation and loyalty towards groups they belong to/with which they identify.
+** Little expectation to conform to strangers, thus during a psychological experiment, they would conform less than US people.
+** British people would conform more if they believed others were psychology majors, compared to history majors.
+** In Germany, conformity to strangers is less valued than conforming to a few well-defined groups.
+* In collectivistic cultures, agreeing is not seen as submissive/cowardice, but as tactful/sensitive, promoting harmony/supportive to relationships.
+
+[#img-collectivistic]
+.A expression of conformity in China/Beijing during the Olympic Games of 2008, where 2008 drummers performed in perfect synchronization.
+image::images/collectivistic.jpg[collectivistic china,400,100]
+
+\... PAGE 261 ...
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Social Norms and Bigotry (=Fanatismus)*
+
+xxx
+====
+
+=== Minority Influence
+
+* When the few influence the many
+
+== Conformity Tactics
+
+=== Role of Injunctive/Descriptive Norms
+
+=== Beware the "Boomerang Effect"
+
+* Using norms to change behavior
+
+=== Other Tactics of Social Influence
+
+== Obedience to Authority
+
+=== The Milgram Study
+
+=== Role of Normative Social Influence
+
+=== Role of Informational Social Influence
+
+=== Other Reasons Why We Obey
+
+=== Obedience Studies, Then and Now
+
+.Term
+****
+Definition.
+****
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#testX[Test yourself]
+====
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Some Title*
+
+xxx
+====
+
+[#img-xxx]
+.xxx
+image::images/xxx.jpg[xx,400,100]
