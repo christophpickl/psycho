@@ -265,61 +265,294 @@ We earn credits (tolerance) from others by conforming; we pay those back when we
 * In collectivistic cultures, agreeing is not seen as submissive/cowardice, but as tactful/sensitive, promoting harmony/supportive to relationships.
 
 [#img-collectivistic]
-.A expression of conformity in China/Beijing during the Olympic Games of 2008, where 2008 drummers performed in perfect synchronization.
+.An expression of conformity in China/Beijing during the Olympic Games of 2008, where 2008 drummers performed in perfect synchronization.
 image::images/collectivistic.jpg[collectivistic china,400,100]
-
-\... PAGE 261 ...
 
 [NOTE.tryit,caption=TRY IT]
 ====
 *Social Norms and Bigotry (=Fanatismus)*
 
-xxx
+Research on social influence shows: Creating a norm that tolerates/encourages bigotry, allow bigotry to spread.
+Maintaining social norms against prejudice means consciously rejecting our own implicit biases.
 ====
 
 === Minority Influence
 
-* When the few influence the many
+* How could change ever be introduced into a system, if nonconformists are silenced, deviants rejected?
+* When the few influence the many:
 
-== Conformity Tactics
-
-=== Role of Injunctive/Descriptive Norms
-
-=== Beware the "Boomerang Effect"
-
-* Using norms to change behavior
-
-=== Other Tactics of Social Influence
-
-== Obedience to Authority
-
-=== The Milgram Study
-
-=== Role of Normative Social Influence
-
-=== Role of Informational Social Influence
-
-=== Other Reasons Why We Obey
-
-=== Obedience Studies, Then and Now
-
-.Term
+.Minority Influence
 ****
-Definition.
+When a minority of group members influences the (behavior/beliefs) of the majority.
 ****
+
+* This happens when the minority expresses a consistent, solid view, the majority will notice/adapt to it.
+** E.g. in the 1970s a minority of scientists called attention to human-caused climate change, which is today a majority thing to know.
+* Minorities use _informational social influence_ to exert influence on the group.
+** Majorities use public compliance because fo _normative social influence_.
+** Minorities are persuasive, through private acceptance because of _informational social influence_.
 
 [NOTE.test,caption=REVIEW QUESTIONS]
 ====
-link:test.html#testX[Test yourself]
+link:test.html#test3[Test yourself]
 ====
 
-[NOTE.tryit,caption=TRY IT]
-====
-*Some Title*
+== Conformity Tactics
 
-xxx
+* Informational messages have little impact on us; but receiving a social message has significantly more impact.
+** E.g. during election times, just a conventional sign versus seeing a friend having a "I voted" button on his Facebook page.
+
+=== Role of Injunctive/Descriptive Norms
+
+* Social norms are useful to induce people to conform to positive/socially approved behavior.
+
+.Injunctive Norms
+****
+Our perception of what behavior is approved/disapproved by others.
+****
+
+.Descriptive Norms
+****
+Our perception how people actually behave, regardless whether approved/disapproved by others.
+****
+
+* Think about littering:
+** Injunctive Norms: We take into consideration how others might approve (promising rewards) or not (punishment) littering or not.
+*** What we _should_ (not) do. Knowing it's wrong.
+** Descriptive Norms: Observe how others actually behave, whether they threw their waste on the ground or not.
+*** Yet we leave our trash in the seat in the cinema.
+* Studies showed through field experiments that we look at other's behavior (descriptive norms) to decide about our own behavior.
+** The setup:
+*** A confederate walks by, either littering or not in front of you -descriptive norm condition. ("this is what people do in this situation")
+*** In the informative norm condition, the confederate picked up waste from the ground. ("littering is wrong")
+*** Two different environments: A clean one, and a dirty (heavily littered) one.
+*** The participant gets a flyer in their car's windshield; what is he going to do with it? To litter or not?
+** The result:
+*** Injunctive norms are more effective (than descriptive ones) at changing behavior.
+**** They tap into normative conformity: Seeing someone picking up litter, tells us littering is wrong (society disapproves it).
+**** It even works better if the "judge" (dis/approving behavior) is someone close to us (family, close friends).
+*** Seeing someone throwing garbage on the ground A) if already dirty, it tells us it's ok B) if still clean, it reminds us it's not ok, as it's outstanding behavior.
+
+=== Beware the "Boomerang Effect"
+
+* Using norms to change behavior.
+* Trying to change behavior can backfire:
+** Your audience is not homogenous, but can be split into two groups:
+** 1) Those performing the undesirable behavior at an above-average level (you want to convince them to decrease).
+** 2) Those performing it at a below-average level (you want them to continue, rather boomerang by increasing that behavior).
+* Experiment: convince people to preserve electricity by giving them information on their thermostat.
+** 1) Descriptive norm condition: informed about their energy consumption, and the average.
+*** Worked good for people consumed more than above average; boomeranged for others: "If others use electricity like crazy, why should I hold back?!"
+** 2) Descriptive norm plus injunctive norm condition: the above, plus smiley if done better (happy) or worse (sad) than the average.
+*** Didn't boomerang. Happy smiley face reminded that doing the right thing, and they kept doing it.
+** Best thus: Give injunctive norm feedback (smileys), combined with descriptive nor (energy usage information).
+
+=== Other Tactics of Social Influence
+
+* There are many different techniques being used, e.g. when you want to buy a car, join a gym, or negotiate with a salesperson.
+** Psychologists observed the master salesperson/marketer/negotiator to catalogue social influence at work.
+* Experiment: Put a big, ugly, empty sign in your yard.
+** 17% are willing. But once first asked to put a small sign in the window, and then 2 weeks later ask for the big, ugly sign, 76% are willing.
+
+.Foot-in-the-Door Technique
+****
+Agree first to small request, then more likely agree to large, second request.
+****
+
+* Travelling salesman use this, by getting first their foot inside your house, so you can't slam the door.
+** Workings: You see yourself as an agreeable person, so you feel committed after agreeing with the first request.
+*** To say "no" to a follow-up request could trigger uncomfortable feelings of inconsistency/dissonance.
+* Opposite tactic also works:
+** First ask a big favor for a much larger commitment, where they will say "no".
+** After that, ask for a small one, which seems much smaller to agree to relative to the first request.
+
+.Door-in-the-Face Technique
+****
+First ask large request, the more likely agree to smaller, second request.
+****
+
+* Experiment: Ask people to spend 2 hours cleaning the zoo; only 17% agree.
+** Alternative: Ask first to commit to volunteer weekly for 2 years (everyone refused), and THEN ask for a single 2 hours cleaning; 50% agreed.
+** Explanation: The first request make the second one seem less daunting by comparison.
+*** Seems like they negotiate, let go/sacrificed a bit, and now you try to meet them halfway.
+* Do you recognize those strategies in your own life? To manipulate others? Look out for others using them on you.
+
+.Propaganda
+****
+Systematic attempt to manipulate the mass.
+****
+
+* Propaganda is, as the Nazi regime used it, the deliberate, systematic attempt to shape perceptions, manipulate cognitions, and direct behavior to achieve a response that furthers the desired intent of the propagandist.
+** It is most successful if it taps into pre-existing beliefs.
+** It operates in the form of persuasive messages leading to attitude change.
+** Also influenced socially, through informational conformity.
+*** When experiencing a crisis, we are more likely to conform.
+** You were considered a "good" Nazis, if you would spy on your own parents and report them to the Gestapo (if being disloyal).
+** A typical example of normative conformity, where public compliance can occur even without private acceptance.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test4[Test yourself]
 ====
 
-[#img-xxx]
-.xxx
-image::images/xxx.jpg[xx,400,100]
+== Obedience to Authority
+
+.Obedience
+****
+Change your behavior because of the influence of an authority.
+****
+
+* There was once a fast-food restaurant hoax, which lead ordinary people following orders from a complete strange, to humiliate and abuse an innocent teenager.
+* We are socialized to obey authorities we perceive as legitimate.
+* We internalize this norm, even when the authority isn't present.
+** E.g. we stop at red lights, even if cops/parents are not around.
+* Small things seem not to be a bad thing, but can have tragic consequences too.
+
+=== The Milgram Study
+
+* Everywhere we still have lots of atrocities (=Gräueltaten) and genocides.
+* Where does the role played by social influence end, and personal responsibility begin?
+** Were Holocaust participants total sadists/psychopaths or simply ordinary citizens subjected to complex/powerful social pressures?
+** The point is not to excuse those people; but it's too easy to explain their behavior as an act of a madman.
+** It is more fruitful (and frightening) to view them as ordinary people exposed to extraordinary social influence.
+* link:../../people/milgram-stanley.html[Stanley Milgram] is known for his most famous studies in social psychology.
+** The study:
+*** Participants are being "tricked" in a fake teacher-learner experiment; the learner is a confederate.
+*** It is pretended that it is about a memory test, everytime the learner got it wrong, the participant has to deliver an electric shock.
+*** Pretended purpose is: examine the effects of punishment on learning.
+*** Each electric shock increases by 15 volts (after each mistake), starting by 15 until 450 (labeled "Danger: Severe Shock).
+*** The participant hears the learners screams via an intercom, first a painful "Ugh!", then a "That's all, get me out of here!".
+*** The experimenter firmly asks the participant to continue delivering shocks, despite the objections of the learner.
+** The result:
+*** People would estimate that less than 1% would deliver extreme shocks...
+*** 60% went all the end of 450-volt. The average maximum was 360.
+*** 80% continued after hearing that the learner had a heart condition, screaming: "Let me out of here! My heart's bothering me."
+** Men and women were nearly identically obedient.
+
+=== Role of Normative Social Influence
+
+* It's difficult to refuse normative pressure; when someone wants us to do something, difficult to say "no".
+** Especially difficult if the request comes from an authority.
+** Participants were afraid that if they would refuse, the experimenter would be disappointed, or even angry; putting pressure on them.
+* Unlike the Asch experiment, in this case the experimenter actively attempted the participants to conform.
+* Interestingly also to note that the context plaid a significant role.
+** E.g. the location (lab vs office), the proximity of the experimenter (local, remote) and the learner (via intercom, or put his hand on a shock plate), possible supporters (who also rebel).
+** Especially seeing others disobey made it much easier to disobey too (only 10% gave the maximum shock).
+*** Similar to Asch's finding: People conformed way less if only one other person went against the majority.
+
+=== Role of Informational Social Influence
+
+* The participants were always free to get up and leave at any time, and the experimenter was a total stranger.
+* People use others to help define the situation, if the circumstances are confusing and unsure what to do.
+** Informational social influence especially powerful in an ambiguous situation, a crisis, when others have more expertise than us.
+** We identify experts e.g. when they look for scientific by wearing a white lab coat ("they must know, they do the right thing").
+*** If the other person looks casual as us (no more knowledgeable), he is less likely used as a source of information on how to respond.
+* If there were two experimenters which would disagree whether to continue or not, people would break out of their obedient role.
+** Stop obeying when the authorities' definition became unclear.
+
+=== Other Reasons Why We Obey
+
+==== Adhering the Wrong Norm
+
+* When there is a web of conflicting norms, it's difficult to determine which one to follow.
+* It was perfectly reasonable to adhere to the norm: "Obey the expert, he is a legitimate authority."
+** Participants believed that they were doing something good in the name of science.
+* The rules of the game changed slowly and steadily (inflicting severe pain), yet it was difficult to change in the middle, once following a norm.
+* The experiment was also very fast-paced, so participants couldn't reflect on what they were doing.
+** They were busy recording the learner's response (on the fake memory test).
+** If they had been allowed to take a break in a room by themselves, they would have successfully redefined the situation and refused to continue.
+
+==== Self-Justification
+
+* The shocks were given in very small increments, reducing dissonance, and so the decision was fully justified.
+* Difficult where to draw the line and stop.
+* 215 volts is not _that_ different from 200, and 230 is not _that_ different from 215.
+* The incremental nature was essential to the level of obedience.
+* Similar to the foot-in-the-door technique; incrementally increasing series of requests.
+
+==== Loss of Personal Responsibility
+
+* When we want to become members of a group, and experience an initial, embarrassing/degrading act, how can we now say no to the next request?!
+* We become the "puppet", we are not responsible, as "it was their idea", and we were "simply following orders".
+* The loss of a sense of personal responsibility is a critical component in obedience.
+** We offload personal responsibility to someone else.
+** E.g. a prison guard executing a death sentence, reducing his cognitive dissonance (immoral act of killing vs. obeying the law) by engaging in self-justification.
+
+=== Obedience Studies, Then and Now
+
+* Milgram's work was done in the 1960s and was replicated in 11 countries, involving about 3,000 participants.
+** Yet, it ignited a lot of protest (and soul-searching) about the ethical treatment of those participants.
+* Reasons being:
+** The use of deception.
+** The fact that there was no fully informed consent.
+** The use of psychological distress.
+** No clarity about the right to withdraw (the opposite was the case, by saying "you have to continue").
+** Experience of inflicted insight after the study (people learned unpleasant things about themselves they had not agreed to beforehand).
+** Improper debriefing, as some participants were unaware about the confederates, and that the shocks had been fake.
+* Because of formalized ethical guidelines established in the meantime, it got increasingly challenging to reproduce obedience research.
+** Such studies as Milgram did them could never be run again.
+* Yet, they were reproduced ethically and found no significant different in obedience rates between then and now.
+** A Poland study showed that 90% of their participants were obedient; similar to Milgram's 82.5% finding who went up to 150-volt.
+* Science has sometimes two competing aims: to discover new knowledge and to do no harm.
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test5[Test yourself]
+====
+
+== Summary
+
+* Conformity definition and why it occurs.
+** Conform occurs when we change our behavior, due to real/imagined influence of others.
+** Why? Informational or normative social influences.
+* How _informational social influence_ motivates us to conform.
+** Or: The need to know what's "right".
+** Occurs when we don't know the correct/best action to take.
+** We look at the behavior of others as a source of information.
+** Usually results in _private acceptance_ (we genuinely believe in what others are doing/saying).
+** When we want to be *accurate*, we are more likely to conform through informational social influence.
+** We are more likely to conform in an *ambiguous* situation, in a *crisis* or if *experts* are present.
+** It can obviously *backfire* if others are wrong about what's going on.
+* How normative social influence motivates us to conform.
+** Through _normative social influence_, or: The need to be accepted.
+** We change our behavior to adapt to that of others, because we want to ...
+*** have a good standing.
+*** stay members of that group.
+*** continue to gain the advantages of membership.
+** We conform to _social norms: implicit/explicit rules for acceptable behaviors/values/attitudes.
+** Usually leads to public, but not private acceptance.
+** Sub-points:
+*** *Social approval* int the Asch Line-Judgement studies (conform even if obviously wrong; peer pressure).
+*** When being *accurate* is that important, that we resist normative social influence (go against the group).
+*** Consequences of *resisting*: Ridicule, ostracism, and rejection by the group.
+*** When to conform: According to _social impact theory_, depending on strength/immediacy/size of the group.
+**** More likely to conform when: care about the group, members are unanimous (=unison) in thoughts/behaviors, 3+ members, and in collectivist culture.
+**** Conformity gives us _idiosyncrasy credits_, allowing to deviate without consequences.
+*** Minority influence: For that to be possible to happen, the presentation of the minority's viewpoint must be consistent.
+* How we can use the knowledge of social influence. Conformity tactics:
+** Communicating _injunctive norms_ (expectation what's approved behavior) more powerful than _descriptive norms_ (expectation what's actual behavior).
+** Boomerang effect: Make undesirable behavior more likely than it was.
+** Marketing strategies:
+*** _Foot-in-the-door technique_: First small request, then bigger (more likely to say yes).
+*** _Door-in-the-face technique_: First large request, rejected, then small request (negotiating, reciprocity).
+*** Propaganda also works on that level.
+* Studies showing our willingness to obey authorities: The Stanley Milgram study.
+** Response to an authority figure, giving potentially lethal shocks.
+** _Normative pressure_ makes it difficult to stop obeying authority figures.
+*** We want to please the authority, doing a good job ("good boy").
+** _Informational social influence_ used from experts in a situation with competing/ambiguous demands.
+** Other reasons why we obey:
+*** When it's difficult to abandon the initial norms (because of the fast-paced nature of the study).
+*** Demands were done in small increments (electric shocks), coupled with a loss of personal responsibility.
+** Then and Now:
+*** Criticized because on ethical grounds.
+*** Deception, informed consent, psychological distress.
+*** Right to withdraw, inflicted insight.
+*** Replication showed: obedience not much different back then (1960s) from now (21st century).
+
+\... PAGE 281 ...
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test6[Test yourself]
+====

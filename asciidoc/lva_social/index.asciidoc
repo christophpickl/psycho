@@ -25,7 +25,7 @@ image::book_social_psychology.jpg[Social Psychology Book,200,100]
 . link:ch6-justification/index.html[Self-Justification] -- Cognitive Dissonance and the Need to Protect Our Self-Esteem
 . link:ch7-attitudes/index.html[Attitudes] -- Influencing Thoughts and Feelings
 . link:ch8-conformity/index.html[Conformity and Obedience] -- Influencing Behavior
-// . link:ch9-group/index.html[Group Process] -- Influence in Social Groups
+. link:ch9-groups/index.html[Group Process] -- Influence in Social Groups
 // . link:ch10-attraction/index.html[Interpersonal Attraction] -- From Initial Impressions to Long-Term Intimacy
 // . link:ch11-prosocial/index.html[Prosocial Behavior] -- Why Do People Help?
 // . link:ch12-aggression/index.html[Aggression] -- Why Do We Hurt Other People? Can We Prevent It?

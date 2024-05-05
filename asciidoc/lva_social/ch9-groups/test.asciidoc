@@ -1,0 +1,51 @@
+= Self-Test Group Process
+
+[#test1]
+== 1. Group Definition
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#
+
+[#test2]
+== 2. Individual Behavior
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#
+
+[#test3]
+== 3. Group Decision
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#
+
+[#test4]
+== 4. Conflict and Cooperation
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#
+
+[#test5]
+== 5. Summary
+
+. x
+.. x
+.. x
+.. x
+.. x
+** [hiddenAnswer]#x.#

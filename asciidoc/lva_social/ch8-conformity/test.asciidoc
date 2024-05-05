@@ -1,4 +1,4 @@
-= Self-Test XXX
+= Self-Test Conformity and Obedience
 
 [#test1]
 == 1. When and why we conform
@@ -59,39 +59,171 @@
 [#test3]
 == 3. Normative Social Influence
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. Societal rules regarding acceptable behavior:
+.. conformity
+.. social norms
+.. minority influence
+.. convergence
+** [hiddenAnswer]#b.#
+. Asch's line-judgment research:
+.. public conformity without private acceptance
+.. everyone conformed at least once
+.. conformity greater when wrote answer down
+.. conformity only if task has personal importance
+** [hiddenAnswer]#a.#
+. informational social influence impacts _, and normative social influence impacts _.
+.. public compliance; private acceptance
+.. private acceptance; public compliance
+.. compliance; obedience
+.. obedience; compliance
+** [hiddenAnswer]#a.#
+. How does a group respond when trying to find an agreement but there is a minority of stubborn deviants?
+.. use majority to get what they want, ignoring the deviants
+.. appreciate them, reconsidering own perspective
+.. change them by using idiosyncrasy credits
+.. punish them by being unpleasant toward them
+** [hiddenAnswer]#d.#
+. Predictions of social impact theory?
+.. Conformity is more likely among groups of strangers, than those important to us.
+.. Social influence increases linear with group size.
+.. The more immediate, the more influence.
+.. Conformity less prevalent in collectivist cultures.
+** [hiddenAnswer]#c.#
+. Minority influences majority through:
+.. normative social influence
+.. informational social influence
+.. public acceptance of information
+.. idiosyncrasy credit
+** [hiddenAnswer]#b.#
 
 [#test4]
 == 4. Conformity Tactics
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. A _ norm involves perception of which behaviors society approves; a _ norm involves perceptions of how people actually behave.
+.. public; private
+.. private; public
+.. descriptive; injunctive
+.. injunctive; descriptive
+** [hiddenAnswer]#d.#
+. Most effective in anti-littering behavior?
+.. Showing a video of the importance of cleanliness.
+.. Showing statistical data of the prevalence of littering.
+.. Showing information about the consequence/punishment of littering.
+.. Showing statistical data how cooperative most people are.
+** [hiddenAnswer]#d.#
+. What's an example of the "boomerang effect"?
+.. Everyone else is conserving water, thus you take longer showers and don't worry.
+.. A potential mate is using a reusable cup, you do the same to impress him.
+.. You use more electricity than your neighbours, thus you save some.
+.. All your neighbours are stealing cable TV, you decide to do the same.
+** [hiddenAnswer]#a.#
+. Foot-in-the-door technique:
+.. Works only when 2nd request comes from the same person as the 1st.
+.. Capitalizes people's desire for self-consistency.
+.. It's an example of propaganda.
+.. Works only if request comes from an authority.
+** [hiddenAnswer]#a.#
+. Door-in-the-face technique:
+.. Example of informational social influence.
+.. Shows people's desire to be accurate.
+.. Relies a bit on norms of reciprocity.
+.. Works better during a crisis.
+** [hiddenAnswer]#c.#
 
 [#test5]
 == 5. Obedience to Authority
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. Goal of Milgram's obedience research?
+.. Abnormal personality characteristics associated with sadistic behavior.
+.. To justify and liberate behaviors linked to genocide and other inhuman acts.
+.. Understand social factors contributing to destructive/immoral behavior.
+.. Cultural differences in aggression.
+** [hiddenAnswer]#c.#
+. Milgram's study showed:
+.. Obedience decreased when the experimenter was in the same room.
+.. No participant attempted to end the study, and help the poor learner.
+.. When other "teachers" refused, participants were significantly less obedient.
+.. It was conducted in the 60s and can no longer be replicated.
+** [hiddenAnswer]#c.#
+. Why did people follow the orders?
+.. They unintentionally adhered to a norm, that didn't exist, by blindly obeying, but weren't required.
+.. Caught in an escalation of commitment by increasing shocks in small steps.
+.. The "learner" deserved it.
+.. They didn't care, just wanted to get the monetary reward.
+** [hiddenAnswer]#b.#
+. Ethical concern raised?
+.. Compensation was low.
+.. Learned unpleasing things about themselves without agreeing.
+.. Participants could never play the role of the "learner".
+.. They received a 75-volt sample shock before the study.
+** [hiddenAnswer]#b.#
+. What was the change introduced by the replication decades later (by Mr. Burger)?
+.. Only women.
+.. Stopped at 150 volts.
+.. Told them, study about effects of punishment on learning.
+.. Paid them.
+** [hiddenAnswer]#b.#
 
 [#test6]
-== 6. final...
+== 6. Summary
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. The autokinetic effect (people's answers converge when in groups) uses:
+.. informational social influence
+.. normative social influence
+.. obedience to authority
+.. norms of reciprocity
+** [hiddenAnswer]#b.#
+. Social impact theory:
+.. conform when physically close
+.. conform when others are important
+.. conform three or more people (than 1-2)
+.. all are true
+** [hiddenAnswer]#d.#
+. Asch's line studies are an illustration of:
+.. public compliance with private acceptance
+.. public compliance without private acceptance
+.. informational influence
+.. private compliance
+** [hiddenAnswer]#b.#
+. Informational social influence:
+.. Ask yourself when conforming: Do others know more than I?
+.. Always resist it.
+.. More likely to conform, when others have same expertise as me.
+.. Often we publicly conform, but not privately accept it.
+** [hiddenAnswer]#a.#
+. Littering person reminds us of a/an _ norm against littering. Someone picking up litter, invokes the _ norm that it's wrong to litter.
+.. social; descriptive
+.. injunctive; descriptive
+.. descriptive; injunctive
+.. informational; injunctive
+** [hiddenAnswer]#a. (?)#
+. What's _not_ true?
+.. Normative and informational social influence can occur for a particular situation.
+.. Normative s.i. happens when we conform others.
+.. Asch's studies mainly used normative s.i.
+.. Normative s.i. leads to more internalized/private attitude change.
+** [hiddenAnswer]#d.#
+. Highway is built near your house, and you're not sure if that's good. You attend a city council meeting and gain a lot of information. After that, you think it's a good idea. Behavior changed due to:
+.. public compliance
+.. private acceptance
+.. normative social influence
+.. boomerang effect
+** [hiddenAnswer]#b.#
+. Milgram's studies:
+.. Participants were informed about study's true nature.
+.. Informed consent was given.
+.. Was clear to withdraw was possible anytime.
+.. Participants were _not_ informed about study's true nature.
+** [hiddenAnswer]#d.#
+. Incrementally increasing requests:
+.. contagion
+.. foot-in-the-door technique
+.. door-in-the-face technique
+.. descriptive norms
+** [hiddenAnswer]#b.#
+. Police settling a fight between a couple; they told you to stay over at a friend's place. You do so because of:
+.. informational s.i.
+.. normative s.i.
+.. obedience
+.. conformity
+** [hiddenAnswer]#c.#

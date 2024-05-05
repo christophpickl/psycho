@@ -1,0 +1,92 @@
+= Group Processes
+
+* Have you ever (anonymously) posted something online you would have never said in real to a person?
+* Make groups of experts better decisions than individuals?
+** Combined experts should inevitably lead to the best decision...
+** But that's not necessarily true: The nature of groups influence people's behavior.
+
+== Group Definition
+
+* What are groups and why do we join them?
+
+.Group
+****
+People interacting who are "interdependent": needs/goals causes them to influence each other.
+****
+
+* But six students studying independently in a library are _not_ a group.
+
+... PAGE 286 ...
+
+=== Why we join groups
+
+=== Composition and Function
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test1[Test yourself]
+====
+
+== Individual Behavior Within
+
+=== Social Facilitation
+
+=== Social Loafing
+
+=== Gender and Culture
+
+=== Deindividuation
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test2[Test yourself]
+====
+
+== Group Decisions
+
+=== Process Loss
+
+=== Polarization
+
+=== Leadership
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test3[Test yourself]
+====
+
+== Conflict and Cooperation
+
+=== Social Dilemmas
+
+=== Threats
+
+=== Negotiation and Bargaining
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test4[Test yourself]
+====
+
+== Summary
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#test5[Test yourself]
+====
+
+.Term
+****
+Definition.
+****
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Some Title*
+
+xxx
+====
+
+[#img-xxx]
+xxx
+image::images/xxx.jpg[xx,400,100]
