@@ -3,22 +3,70 @@
 [#test1]
 == 1. Group Definition
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. Example of a group?
+.. Queue at Starbucks order coffee
+.. Work team on academic project
+.. Commuters waiting for subway
+.. Individuals on table waiting for food
+** [hiddenAnswer]#b.#
+. Common reason to join a group?
+.. Receiving help
+.. Against loneliness
+.. Social identity sense
+.. All
+** [hiddenAnswer]#d.#
+. Cohesiveness is important when...
+.. goal is social reasons
+.. goal is problem-solving
+.. diverse in gender but not race
+.. goal is financial decision-making
+** [hiddenAnswer]#a.#
+. From evolutionary perspective, groups ...
+.. more productive when of size 2 or 3 (not larger)
+.. fulfill basic human needs (affiliation, belonging)
+.. lead to immoral behavior (abusive prison guards)
+.. better avoid influence of social norms
+** [hiddenAnswer]#b.#
+. Can cohesiveness interfere with optimal performance?
+.. No, goal is social reason, thus cohesiveness good.
+.. Yes, if relations more important than finding solutions
+.. Yes, focus on task not being cohesive.
+.. No, it ensures effective decisions.
+** [hiddenAnswer]#b.#
 
 [#test2]
 == 2. Individual Behavior
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. Social facilitation: Other's presence is arousing and facilitates ...
+.. better performance.
+.. well-learned, dominant response.
+.. hard tasks, but easy tasks are impeded.
+.. deindividuation.
+** [hiddenAnswer]#b.#
+. What's not an explanation why other's presence can be arousing?
+.. Others distract us, causing conflict (what to pay attention to).
+.. Alert to anticipate what's next happening.
+.. More concerned about how we are being evaluated.
+.. We feel less accountable of our own actions.
+** [hiddenAnswer]#d.#
+. Which will lead to better performance in examination?
+.. Studying unfamiliar materials alone.
+.. Studying unfamiliar materials with classmates.
+.. Reviewing studied materials alone.
+.. Doing a practice test alone.
+** [hiddenAnswer]#a. (?)#
+. Women engage less likely in social loafing than men, why?
+.. They are lower in relational interdependence.
+.. They have no relational interdependence.
+.. They are higher in relational interdependence.
+.. They know that people will notice them
+** [hiddenAnswer]#c.#
+. Studying impact of deindividuation on helping. Enter a room alone OR with someone else. Half asked for name, others not. Who is least likely to help?
+.. Enter alone, asked for name.
+.. Enter alone, not asked name.
+.. Enter together, asked name.
+.. Enter together, not asked name.
+** [hiddenAnswer]#d.#
 
 [#test3]
 == 3. Group Decision

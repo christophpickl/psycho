@@ -9,7 +9,7 @@ Distort facts to confirm what we already believe in.
 .When everything you see validates your opinion (and everything else is filtered out).
 image::confirmation_bias.jpg[Confirmation Bias,500,100]
 
-We search for, interpret, focus, remember information so that it confirms our preconceptions.
+We search for, interpret, focus, remember information so that it confirms our preconceptions. We ignore anything that contradicts it. It's like putting on sunglasses with a specific tint: Everything you see is colored by your existing believes.
 
 It's just a part of our human nature: Our unconsciousness leads us to always try to confirm our own point of view. Very useful shortcuts in our brains, creating patterns (like stereotypes, generalized thoughts) which are stored in our unconsciousness.
 
@@ -22,6 +22,7 @@ We are basically all self-righteous hypocrites. Yet, good news there (as with al
 == Examples
 
 * "I have 1 mio results they don't, and 1 single it does", she takes the single document and says "I knew it" (from "link:https://youtu.be/yJD1Iwy5lUY?t=46[If Google was a guy]")
+* "Women with blonde hair are kind and thoughtful."
 
 == Further Reading
 

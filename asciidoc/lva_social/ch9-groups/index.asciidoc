@@ -11,16 +11,97 @@
 
 .Group
 ****
-People interacting who are "interdependent": needs/goals causes them to influence each other.
+Two or more people interacting who are "interdependent": needs/goals causes them to influence each other.
 ****
 
-* But six students studying independently in a library are _not_ a group.
-
-... PAGE 286 ...
+* Interdependent here means: You influence them, and they influence you.
+* Groups consist of people who have assembled for a common purpose.
+* Six students studying independently in a library are _not_ a group.
+** But if they meet to study together, they are.
+* If a group only consists of 2 people, it's usually called a _dyad_ instead.
 
 === Why we join groups
 
+* Fulfills a number of basic human needs; so basic, that there may be an innate need to belong to a group.
+** In our evolutionary past, it was a substantial survival advantage.
+** Get (hunt/grow) more food, find mates, and care for children.
+** Across all cultures, we form relationships, monitor their status in groups, and remain vigilant if they might get rejected.
+** Also, the need to feel distinctive from those who do _not_ belong to the same groups.
+** Especially small groups can give us both: sense of belonging and making us feel special (clubs, art organizations).
+* Important part of our (social) identity; helping us define who we are.
+** People are a good source of information to resolve ambiguity.
+** Think of people wearing clothes with the name of one of their groups (sports team, university, ...).
+* Source of social norms; explicit/implicit rules defining what's acceptable behavior.
+* Helping us to accomplish our goals which we wouldn't be able to do on our own otherwise.
+** Accomplish objectives, otherwise difficult/impossible to meet individually.
+** E.g. moving to another apartment is much quicker and less painful with the help of others.
+
 === Composition and Function
+
+* Most groups have 3-6 members.
+** If bigger, we cannot interact with all members anymore.
+
+==== Social Norms
+
+* Define behaviors which are acceptable, and all members are expected to obey (quiet in library.
+* Some vary from group to group (clothes at weddings vs funerals).
+* The power becomes clear once we violate them: shunned and pressured to leave the group.
+
+==== Social Roles
+
+.Social Roles
+****
+Shared expectations how particular people are supposed to behave.
+****
+
+* Norms specify how _all_ have to behave, roles are only for certain positions.
+** They are helpful because so we know what to expect from each other.
+** When the roles are clearly defined, we are satisfied and perform well.
+* In extreme cases, we lose our personalities if getting too far into a role.
+** Think of Zimbardo's (controversial) study to mock a prison at Stanford University's basement, the so-called link:../../phenomena/stanford_prison_experiment.html[Stanford Prison Experiment].
+** The source of evil, in prisons where there is secrecy and no accountability, allowing people to do things they would ordinarily not do.
+* Zimbardo's prison study and Milgram's obedience study shows us that most of us would not fully resist.
+** The social influences in these powerful situations would make us perform acts we thought never being capable of.
+
+==== Group Cohesiveness
+
+.Group Cohesiveness
+****
+Qualities that bind group members together, promote mutual liking.
+****
+
+* If a group was formed for social reasons (friends), then the more cohesion the better.
+** The more cohesive, the more likely members stay, take part in group activities, and recruit new like-minded members.
+* If a group was formed for work/solve problems (military, sales) things are more complicated...
+** Doing well on a task, leads to more cohesion, but not necessarily the other way round.
+** Cohesiveness causes a group to perform well only if the task requires close cooperation.
+** It will get in the way, if good relations are more important than finding good solutions.
+
+==== Group Diversity
+
+* A group's composition is also defined by its diversity: age, sex, beliefs, and opinions.
+* Two reasons for the homogeneity of groups:
+** Similarity attracts ("birds of a feather flock together" as in the English proverb).
+** Groups tend to operate in ways that encourage similarity.
+* We tend to gravitate toward groups with similar others, and such similarity predicts group cohesiveness.
+* Homogeneous groups are often cohesive, thus they like their fellow group members more if all the same, than if members are diverse.
+* Cohesive doesn't mean it is performing at its optimal level though!
+** Diverse groups (race, experience, education, attitude) can come up with more feasible and effective possibilities.
+** Diversity can come at the expense of cohesiveness and morale, yet leads to improved creativity, information sharing, and flexible problem-solving.
+** The friction caused by diversity can upend conformity and improve decision making.
+
+[NOTE.tryit,caption=TRENDING]
+====
+*Cooperative and Corruptive Tendencies*
+
+* East Asian countries are more cooperative but also have more corruption.
+** With cultural norms like respecting collective goals, they are more susceptible to corruption requests.
+** They prioritize collective goals and relational concerns; corruption that is collaborative in nature.
+* Social norms and interdependence of roles influence (un)ethical behaviors.
+* People engage more in dishonest conducts following their ingroup members.
+* Due to Asian's relational concerns, they more often imitate behaviors.
+* It's really a problem, as: "A bad apple spoils the bunch."
+====
 
 [NOTE.test,caption=REVIEW QUESTIONS]
 ====
@@ -29,13 +110,117 @@ link:test.html#test1[Test yourself]
 
 == Individual Behavior Within
 
+* The question is, how we perform differently when others are around us.
+** The effects of being in a group on the performance of individual  people.
+* Do we act differently? Like when we "choke" under the pressure of people watching us?
+* Under which circumstances do they increase/decrease our performance?
+
 === Social Facilitation
+
+* Others being present can mean A) doing the same thing with others, or B) having an audience observing you performing a task.
+* Study results are consistent: a simple, well-learned task, and presence improves our performance.
+** If we have studied hard, know the material well, better do that exam in a room full of people.
+* Studies have shown, that when other people (or other animals) are around, performing a _difficult task_ will decrease our performance.
+* Arousal and the dominant response:
+** The presence of others increases our physiological arousal (bodies become more energized).
+** This way, it is easier to perform a dominant response (e.g. something we are good at), but harder to do something complex, or learn something new.
+
+.Social Facilitation
+****
+The presence of others, improving performance on simple, worsen on complex tasks.
+****
+
+* Three theories on why other's presence causes arousal?
+** 1) Others make us alert/vigilant
+*** We need to be alert to the possibility that the other will do something that requires us to respond.
+*** People are less predictable than let's say a lamp, so we are in a state of greater alertness.
+** 2) Others make us more apprehensive about how we're being evaluated.
+*** We are often concerned about how others are evaluating us.
+*** We will feel embarrassed if we do poorly, and pleased if doing well.
+*** This evaluation apprehension (=concern about being judged) can cause arousal.
+** 3) Others distract us from the task at hand.
+*** We are being put in a state of conflict because it's difficult to pay attention to two things at the same time; divided attention.
 
 === Social Loafing
 
+* Or: When the presence of others relaxes us.
+* Sometimes, being surrounded by others allows us to slack off (or "loaf").
+* For example when our individual efforts cannot be distinguished from others (clapping after concert, play instrument in a band).
+** Situation is opposite than social facilitation: We merge into a group, become less noticeable, we relax; less evaluation apprehension.
+* Whether performance improves or worsens, depends on the task's complexity.
+* Experiment with pulling on a rope (1880s, French agricultural engineer, Max Ringelmann).
+** Each individual exerted less effort than when doing so alone (TEAM: Toll Ein Anderer Machts).
+
+.Social Loafing
+****
+Presence of others, and performance cannot be evaluated, performance worsens on simple, improves on complex/important tasks.
+****
+
+* Not only complexity of the task, but also how important it is to us, has an impact on our performance.
+
+=== Social Facilitation or Loafing
+
+* Both are distinguished by the variables of: evaluation, arousal and task-complexity.
+* If it can be evaluated: Social facilitation (alertness, evaluation apprehension, distraction-conflict; arousal).
+** If simple task: enhanced, if complex task: impaired.
+* If it cannot be evaluated: Social loafing (no evaluation apprehension; relaxation).
+** If simple task: impaired, if complex task: enhanced (vice versa than facilitation).
+
 === Gender and Culture
 
+* Men tend to slack more than women.
+* Women tend to be higher than men in _relational interdependence_: focus on/care about personal relationships with others.
+* Loafing is stronger in Western cultures than Asian ones (interdependent view of the self).
+** Might be due to different self-definitions prevalent in these cultures.
+* With similar others, we more easily develop bonds and a sense of accountability.
+** With dissimilar others, we expect less cooperation.
+
+=== Conclusion
+
+* To predict presence of others will help or not, know A) individual efforts evaluable and B) is the task simple or complex.
+** Implications on how groups should be organized.
+** E.g. working as a manager, give reward for simple problem to improve performance.
+
 === Deindividuation
+
+.Deindividuation
+****
+Loosening of normal constraints on behavior, when people can't be identified (in a crowd).
+****
+
+* "Getting lost in the crowd", thus feeling anonymous, can lead us to behave in ways we would never to by ourselves.
+* As a result something we sometimes refer to as "mob mentality".
+** Think of times of war, where people loot, and rape; or hysterical fans at rock concerts trampling each other to death.
+** Or white people (often cloaked in anonymity of hooded robes) lynching black people.
+** Warriors who hid their identities before a battle (masks, face/body paint) are significantly more likely to kill, torture, or mutilate captive prisoners.
+
+==== Less accountable
+
+* Why does it lead us to more impulsive, and often violent, acts?
+* Because of the reduced chances to be singled out/blamed for that act.
+
+==== More obedient to norms
+
+* Sometimes group norms conflict with norms of other groups or even society at large.
+** When deindividuated, we are more likely to act according to this group's norms than societal norms.
+** It increases adherence to the local group's norms.
+* Imagine a rowdy part, everyone dances wildly to loud music.
+** If it's dark, and you are dressed similarly than others, you will likely join the group and let loose dancing.
+** You would do so less if the light was bright and no one was dancing.
+* The specific group norm determines whether deindividuation leads to positive or negative behaviors.
+
+==== Online
+
+* Deindividuation is even stronger with less physical forms of interaction.
+** We feel less inhibited and more anonymous.
+* The internet "troll" is a modern example of deindividuation.
+** That's why so many forums deteriorate, by obscene comments and provocations.
+* A solution could be to require people to identify themselves/the information.
+** People would be more civil, and free of profanities.
+* Yet, online anonymous communication has also some advantages of course.
+** Free and open discussion of difficult topics is possible; at the costs of common civility.
+* If people were told that their parents might read their posts, it was a very effective tool to emphasize other influential norms (family).
+** It also reminds people of their own, unique personal identity.
 
 [NOTE.test,caption=REVIEW QUESTIONS]
 ====
@@ -44,11 +229,178 @@ link:test.html#test2[Test yourself]
 
 == Group Decisions
 
+* Is making decisions better as individuals or groups, and what's the impact of having a leader in groups?
+* We usually would assume that making decisions in groups are better than those as individuals.
+** Reasoning: An individual is subject to all sorts of whims and biases.
+** Several people can exchange ideas, catch each other's errors.
+** "Hm, that's a really good point, I never would have thought of that."
+** They freely contribute independent opinions from different viewpoints, using their unique areas of expertise.
+* Yet, several factors can cause groups to make worse decisions than individuals would.
+
 === Process Loss
+
+.Process Loss
+****
+Group interaction that inhibits good problem-solving.
+****
+
+* Most expert/talented members can convince others.
+* You may know how it feels like, trying to convince a group of your idea, be faced with opposition/disbelief, and watch how the make the wrong decision.
+* Groups don't try hard enough to find out who the most competent members are.
+** Instead, they rely on someone who really doesn't know what they are talking about (and maybe simply is charming/popular/sociable).
+* Also, communication problems arise: failure to listen, or allowing one person to dominate the discussion.
+
+==== Failure to share unique information
+
+* There is information we all know ("shared information") and bits only you know ("unique information").
+* Funny thing about groups: They tend to focus on what they already collectively know.
+** Unique information is usually shared later in the discussion; if it lasts long enough to go beyond the shared information.
+* Solutions:
+** Don't tell at the beginning what each member's personal preference is, otherwise they focus less on unique information.
+** Create break-out groups, assigning each sub-group a specific area of expertise; responsible for certain types of information.
+* In groups, learn who is responsible for what kinds of information (specialized individual), and take time to discuss unshared data.
+
+.Transactive Memory
+****
+Combined group memory which is more efficient than individual's memory.
+****
+
+==== Groupthink: Many heads, one mind
+
+.Groupthink
+****
+Group considers cohesiveness/solidarity more important than considering facts in a realistic manner.
+****
+
+* Group cohesiveness can get in the way of clear thinking and good decisions.
+* Especially under certain preconditions: Group is highly cohesive, isolated from contrary opinions, and ruled by a directive leader.
+* Groupthink is characterized by tight-knit, homogenous groups following the lead of a confident individual ("it was rarely questioned").
+* Symptoms: group feels invulnerable and can do no wrong.
+** People exercise self-censorship (say yes, think no), failing to voice contrary views (fear of dampening morale or being criticized).
+** If a contrary viewpoint is voiced, the group is quick to criticize, pressuring person to conform to majority view.
+** Creating an illusion of unanimity, looks like everyone agrees, under the surface/privately do not.
+* Groupthink leads to an inferior decision-making process.
+** They don't consider full range of alternatives, develop contingency plans, or adequately consider the risks of their choice.
+* How to make it less likely?
+** Remain impartial. A leader should not take a directive role
+** Seek outside opinions. Invite opinions from non-members (less concerned with cohesiveness).
+** Create subgroups. First meet separately, then meet together.
+** Seek anonymous opinions. Write down secretly on paper, uncensored by fear.
+
+The process:
+
+. Antecedents (considering facts in realistic manner)
+** highly cohesive: valued/attractive group, people want to be members
+** isolation: not hearing alternative viewpoints
+** directive leader: he controls the discussion, making own wishes
+** high stress: members perceive threats to the group
+** poor procedures: no standard methods to view alternative viewpoints
+. Symptoms (in believes in behavior)
+** illusion of invulnerability: feeling invincible, can't be wrong
+** moral correctness believe: "god is on our side"
+** stereotyped views of out-group: opposing sides are viewed simplistic
+** self-censorship: not to "rock the boat"
+** pressure on dissenters to conform to the majority
+** illusion of unanimity: everyone seems to agree; not calling on people known to disagree
+** mindguards: protecting leader form contrary viewpoints
+. Consequences (defective decision making)
+** incomplete survey of alternatives
+** failure examining risks of choice: focus on good things
+** poor information search: selective information gathering
+** failure developing contingency plan: not plan B
 
 === Polarization
 
+* "Risky shift": Groups make riskier decisions than individuals.
+** Individual members already lean towards a risky decision, the group discussion will exaggerate that tendency.
+** Also, when members are initially more conservative, the group will tend to be even more conservative than the individuals.
+
+.Group Polarization
+****
+Decisions are more extreme, than initial member's inclinations.
+****
+
+* Two reasons:
+** 1) *Persuasive arguments*: We are exposed to arguments we haven't thought of before.
+** 2) *Social comparison*: We first check how everyone else feels, the group value; effort fo fit in and be liked.
+*** We adapt to the group's opinion, but even a bit more extreme; present in positive light, being a "good" group member.
+* Politics in social media are very much polarized; getting ideologically further apart.
+* Individuals tend to underestimate the polarization effect; or are simply often unaware of it.
+
 === Leadership
+
+.Great Person Theory
+****
+Certain key personality traits make a person a good leader (regardless of the situation).
+****
+
+==== Personality
+
+* For example: intelligent, extraverted, charismatic, open to new experiences, confident, assertive.
+* When looking at US presidents, those who became effective leaders were: tall, from small families, and published books.
+
+==== Styles
+
+.Transactional Leaders
+****
+Set clear, short-term goals and reward people.
+****
+
+.Transformational Leaders
+****
+Inspire people to focus on common, long-term goals.
+****
+
+* Transactional leaders do a good job making things run smoothly.
+* Transformational leaders think out of the box; big-picture goals.
+
+==== Right Situation
+
+* In social psychology, we don't look only on personality, but also the situation the person is in.
+* Consider Steve Jobs:
+** When he was 21 and founded Apple Computer, he was  not a typical corporate leader.
+** He went to India to experiment with LSD, living on a communal fruit farm.
+** Only then he started a new industry and a billion-dollar company.
+** But his unorthodox style forced him 1985 out due to losses of the company.
+*** He co-founded Pixar in 1986, sold it to Disney 2006 for 8 billion.
+** 1990 Apple struggled, needing a new operating system, and hired Steve Jobs to do so.
+*** His ability to think creatively inspired his workforce to take risks and brought a new direction.
+* A comprehensive theory of leadership considers: leader, followers, and the situation.
+** Best known theory is the contingency theory of leadership.
+
+.Contingency Theory of Leadership
+****
+Effectiveness depends on 1) how task-/relationship-oriented and 2) amount of control over the group.
+****
+
+* Two kinds of leaders:
+
+.Task-Oriented Leaders
+****
+About getting the job done.
+****
+
+.Relationship-Oriented Leaders
+****
+About worker's feelings/relationships..
+****
+
+* Task-oriented leaders do well in _high-control work situations_; a powerful leader and work needs to be done in a structured and well-defined way.
+** Also doing well in _low-control work situations_, when not perceived as powerful, and less clearly defined work.
+** E.g. supervisor of a newly formed group of volunteers.
+* Relationship-oriented leaders are most effective in _moderate-control work situations_.
+** Wheels are turning smoothly, while job gets also done.
+
+==== Gender
+
+* Paradox of female leaders:
+** If good leaders (agentic/male-tyipcal traits (assertive, controlling, dominant, independent), forceful) perceived negatively (as women "should" act).
+** If good women, conform to society's expectation (warm, helpful, communal, affectionate), perceived low leadership potential.
+* Female CEOs are also very rare: 15% US, 5% Taiwan, 4% Japan; yet higher in Norway 47%, Sweden 34%, and France 34%.
+
+... PAGE 307 ...
+
+==== Culture
 
 [NOTE.test,caption=REVIEW QUESTIONS]
 ====
@@ -74,6 +426,10 @@ link:test.html#test4[Test yourself]
 ====
 link:test.html#test5[Test yourself]
 ====
+
+
+
+
 
 .Term
 ****

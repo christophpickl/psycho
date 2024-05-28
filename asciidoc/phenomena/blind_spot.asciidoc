@@ -1,3 +1,10 @@
 = Blind Spot
 
-* "I am less affected by cognitive biases than others"
+.Definition
+****
+Being unaware of one's own biases and assume others have more bias than ourselves
+****
+
+* "I am less affected by cognitive biases than others."
+* When we accuse others of having a confirmation bias, while ignoring our own.
+** Happens especially because they are unconscious.

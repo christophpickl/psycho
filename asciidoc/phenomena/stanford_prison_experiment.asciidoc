@@ -1,0 +1,18 @@
+= Stanford Prison Experiment
+
+* Philip Zimbardo paid students to play the role of guards or prisoners.
+* The plan was to observe them for 2 weeks, to see whether they will act like real prison guards/prisoners.
+* They actually indeed quickly assumed these roles, which made them end the experiment after only 6 days.
+* Reason being: Most guards became abusive, verbally harassing and humiliating the prisoners.
+** The prisoners became passive, helpless, and withdrawn
+** Some prisoners had to be released earlier because they became so anxious and depressed.
+* This all happened although everyone knew it was a psychology experiment.
+** This simple truth was overlooked, the make-believe was so compelling and powerful.
+* People's personal identities and sense of decency got lost.
+
+== Extra
+
+* Lots of criticism, not only obvious ethical questions, but also how the study was done.
+** Rumors say the researches influenced the participants, e.g. telling the guards exactly what they need to do/say.
+** Participants also knew what the study was about, and role-played in a manner they thought was expected of them.
+* Also see link:../lva_social/ch9-groups/index.html[Social Psychology, Chapter 9].

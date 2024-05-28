@@ -16,11 +16,16 @@
 
 Some human flaws and unique traits, thanks to social psychology, well known due to pop-psychology, a list of (more or less) funny effects, illusions & co. Useful to know for everyone to try to see a bit more clearly. Francis Bacon used to call cognitive biases also: "idols of the mind".
 
+They have developed as a result of evolutionary processes and social conditioning we all share. We are not irrational, flawed beings, but rather highlights the compelxity of human cognition and the importance of continuous learning and self-improvement.
+
+They can be observed in everyday life and have far-reaching consequences on individual and social level. Remember that no one is immune to cognitive biases, but being aware of them and taking active steps to mitigate their impact can lead to a more empathetic, inclusive, and well-rounded perspective.
+
 . link:actor_observer_bias.html[Actor Observer Bias] -- It's because of his personality, not due to the situation.
 . link:apophenia.html[Apophenia]
 . link:appeal_to_emotion.html[Appeal to emotion]
 . link:attentional_bias.html[Attentional Bias]
 . Attractiveness Bias
+. link:ambiguity_effect.html[Ambiguity Effect]
 . link:anchoring_bias.html[Anchoring Bias] -- initial price sets the baseline to compare (judge as high/low)
 . link:authority_bias.html[Authority Bias]
 . link:availability_bias.html[Availability Bias] -- If you can think of it, it must be important
@@ -29,11 +34,13 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 . link:bandwagon.html[Bandwagon Effect] -- Doing it, simply because others are doing it
 . Baby-face Bias
 . link:barnum_effect.html[Barnum Effect]
+. link:base_rate_fallacy.html[Base Rate Fallacy]
 . Baseline -- Very difficult for humans do by Kahnemann
 . link:ben_franklin.html[Ben Franklin Effect] -- Start to like someone to reduce dissonance
 . Bystander Effect
 . link:begging_the_question.html[Begging the Question]
 . link:blind_spot.html[Blind-spot] -- Thinking one is self affected by biases than others
+. link:cheerleader_effect.html[Cheerleader Effect]
 . link:change_blindness.html[Change Blindness] -- A perceptual illusion where visual changes pass unnoticed to the observer.
 . link:choice_supportive_bias.html[Choice-supportive Bias]
 . Cocktail Party effect
@@ -53,7 +60,10 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 . link:halo_effect.html[Halo Effect]
 . link:hawthorne_effect.html[Hawthorne Effect]
 . Illusory Superiority
+. link:hot_cold_empathy_gap.html[Hot-Cold Empathy Gap]
+. link:hot_hand_fallacy.html[Hot-Hand Fallacy]
 . link:illusory_truth_effect.html[Illusory Truth Effect]
+. link:illusion_of_control.html[Illusion of Control]
 . Illusion of explanatory depth (eg explain/draw bike, biro, toilet flush, zipper, lock, ...)
 . link:information_bias.html[Information Bias]
 . link:ingroup_bias.html[Ingroup Bias] (Ingroup Favoritism)
@@ -61,6 +71,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 . link:mcgurk_effect.html[McGurk Effect] -- A perceptual illusion where seeing and hearing influence each other.
 . Insufficient Justification Effect
 . link:looking_glass_self.html[Looking Glass Self]
+. link:loss_aversion.html[Loss Aversion]
 . link:mere_exposure_effect.html[Mere-Exposure Effect]
 . Memory Bias
 . link:mirrort_test.html[Mirror Test]
@@ -73,6 +84,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 . link:omission_bias.html[Omission Bias]
 . link:ostrich_bias.html[Ostrich Bias]
 . link:outcome_bias.html[Outcome Bias]
+. link:outgroup_homogeneity.html[Out-group Homogeneity Bias]
 . link:overconfidence_effect.html[Overconfidence Effect]
 . link:own_race_bias.html[Own-race bias]
 . link:peak_end_rule.html[Peak-end rule]
@@ -115,7 +127,7 @@ Some human flaws and unique traits, thanks to social psychology, well known due 
 * Pavlov's dog
 * Robber's Cave
 * Skinner's cat box
-* Stanford Prison Experiment: in-/outgroup bias in social psychology
+* link:stanford_prison_experiment.html[Stanford Prison Experiment]: in-/outgroup bias, power of social norms
 * Thorndike's puzzle box
 
 === Cases

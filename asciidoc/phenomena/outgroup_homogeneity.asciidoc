@@ -1,0 +1,4 @@
+= Out-group Homogeneity Bias
+
+* Members of other groups being more similar to each other than they actually are, while overlooking the diversity within our own group.
+* E.g. sports team fans assume that all opposing team share the same negative traits, even though there's a wide range of individual differences among them.

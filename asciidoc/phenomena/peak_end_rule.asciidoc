@@ -5,5 +5,10 @@
 We don't perceive the sum of an experience, but it's peak and end.
 ****
 
+.We judge by an experience's peak and ending, instead of its average.
+image::peak_end.png[Peak-end,500,100]
+
+* We judge experiences based on their most intense moments (=peaks), and also how they end rather than their overall duration or average intensity.
 * E.g. go to a dentist, and either A) end normally or B) have another totally useless treatment but with slightly less pain experienced then at the very end?
 ** B) is better the better choice, as it will be remembered better, although in total it would (objectively) lead in sum to more pain.
+* E.g. a roller-coaster with a thrilling ending will be remembered better, and shadow the maybe less enjoyable experience for the longest period of time.

@@ -1,10 +1,19 @@
 = Framing Effect
 
-* Drawing different conclusions from the same information, depending on its representation.
-** E.g. something is 80% healthy VS 20% unhealthy.
-* The phrasing is of relevance!
-** E.g. first let people read a list, group A words associated with age, group B not. Afterwards, group A is observed to walk slower on the corridor.
-** E.g. similar to this, let people interpret the word "bank" (financial or sitting), and changed only by presence of a suitcase in the room.
+.Definition
+****
+Drawing different conclusions from the same information, depending on its representation.
+****
+
+* When the way information is presented, influences our decision.
+** Even if the actual content remains the same.
+** The phrasing is of relevance!
+
+== Examples
+
+* Something is 80% healthy VS 20% unhealthy.
+* First let people read a list, group A words associated with age, group B not. Afterwards, group A is observed to walk slower on the corridor.
+* Similar to this, let people interpret the word "bank" (financial or sitting), and changed only by presence of a suitcase in the room.
 
 == Contrast Effect
 

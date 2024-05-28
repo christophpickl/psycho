@@ -1,0 +1,5 @@
+= Hot-Hand Fallacy
+
+* Believing that a sequence of wins (in gambling, a hot streak/run of good luck) will continue indefinitely.
+** Believing that one's current success is due to skill, rather than chance.
+* Although each turn (spin in roulette) is independent from each other.

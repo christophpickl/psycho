@@ -1,3 +1,15 @@
-= Actor Observer Bias
+= Actor-Observer Bias
 
-* When explaining other people's behavior, we overemphasize the personality, and underestimate the situation. Also to do the opposite for one's own behavior.
+.Definition
+****
+When explaining other people's behavior, we overemphasize the personality, and underestimate the situation, and the other way round for our own.
+****
+
+* When judging our own actions, we attribute them to situational factors.
+** When judging others, we focus more on their personal dispositions.
+* Remember: People are complex and influenced by both internal and external factors.
+* Also see link:confirmation_bias.html[Confirmation Bias].
+
+== Examples
+
+* "I was late because of traffic" - "He is always late"

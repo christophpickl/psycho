@@ -1,5 +1,10 @@
 = Projection Bias
 
+* We assume other people have the same beliefs/values/desires as ourselves.
+* E.g. believing most people enjoy spicy food, you project your own preference onto others, and make assumptions about their tastes without asking them directly.
+
+== Alternatively
+
 * Overestimate how much our future self will share our current preferences/thoughts/values.
 ** "I am never going to regret this when I'm older."
 * It leads to suboptimal choices.

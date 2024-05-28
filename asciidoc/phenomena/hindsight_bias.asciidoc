@@ -1,8 +1,14 @@
 = Hindsight Bias
 
+.Definition
+****
+The tendency to exaggerate, after learning an outcome, one's ability to have foreseen the outcome.
+****
+
 * Also called the "I knew-it-all-along effect" or "creeping determinism".
-* The tendency to exaggerate, after learning an outcome, one's ability to have foreseen the outcome (a general overconfidence in the certainty of one's judgments).
+* A general overconfidence in the certainty of one's judgments.
 ** Differently put: When people believe that an event is more predictable after it becomes known than it was before it became known.
+** It's like watching a movie in reverse, and feeling smarter than the characters because we know what's coming.
 * It contains three aspects:
 .. memory distortion
 .. beliefs about events' objective likelihoods, or

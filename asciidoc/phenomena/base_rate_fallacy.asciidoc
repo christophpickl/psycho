@@ -1,0 +1,9 @@
+= Base Rate Fallacy
+
+.Definition
+****
+When we focus too much on specific details and ignore overall probabilities.
+****
+
+* E.g. at a party, many people wearing red shirts, thus incorrectly assuming most guests are wearing red shirts.
+** Ignoring the base rate of various shirt colors in the population.

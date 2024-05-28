@@ -12,6 +12,7 @@ image::bandwagon_bus.png[Bandwagon,250,100]
 * A cognitive bias, where people "hop on the bandwagon" regardless of the underlying evidence.
 ** Do/believe what others do/believe. Following the rest without thinking -you sheep!
 ** As in: "_If he jumps out of the window, would you too?_"
+** We do so, even when we don't believe (or like) it ourselves.
 * Wanting to be part of the majority (meetings, voting, stock market).
 ** In social psychology called link:groupthink.html[groupthink]: 9 of 10 agree, and the last person won't speak up.
 ** Has to do with social conformity, as we want so much to "fit in" with peers.
@@ -20,6 +21,7 @@ image::bandwagon_bus.png[Bandwagon,250,100]
 * Areas where it happens: Politics, economics (financial markets, microeconomics), medicine, sports, social networking, fashion.
 * The reverse is also possible: *reverse bandwagon effect* (a.k.a. "snob effect")
 ** Avoid doing something, because others are doing it.
+* With today's social media influence, this phenomena can be observed very, very often.
 
 [#img-bandwagon_path]
 .Let yourself be guided by evidence, or simply do what the majority has done before?

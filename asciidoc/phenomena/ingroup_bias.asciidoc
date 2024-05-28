@@ -5,7 +5,9 @@
 Treat people better which we perceive to be members of our own group.
 ****
 
-* Alias "Ingroup Favoritism"
+* Alias "Ingroup Favoritism".
+* We favor members of our own group and discriminate against those who are not part of it.
+* Observable in all kinds of groups: Sports, politics, religion, ...
 
 == Reason
 

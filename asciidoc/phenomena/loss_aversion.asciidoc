@@ -1,0 +1,9 @@
+= Loss Aversion
+
+.Definition
+****
+Tendency to prefer avoiding losses to acquiring gains.
+****
+
+* Fear of loss - is bigger than - potential gain.
+* E.g. we work harder to avoid losing 5 euro, than to earn 5 euro.

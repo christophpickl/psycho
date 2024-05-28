@@ -1,14 +1,19 @@
 = Transparency Illusion
 
+.Definition
+****
+We overestimate how much others can infer about our internal mental states (thoughts/feelings) based on our observable behaviors/facial expressions.*
+****
+
 .How much you think people know, versus what they actually know about you
 image::transparency_illusion.jpg[Transparency Illusion,500,100]
 
-* A cognitive bias, also known as "The Illusion of Transparency".
-* Definition: *We overestimate how much others know about our mental states* (internal thoughts/emotions).
+* A cognitive bias, also known as "Illusion of Transparency".
 ** E.g. when you give a talk and are nervous, that others immediately will see that you are nervous (self- vs other-perception).
 ** Or when you are lying, how well others will be able to detect your lie.
 ** When you eat something that tastes bad, that your disgust will be apparent to others.
 * It's basically due to a natural egocentric bias; we see the world from our very own perspective and it's hard to adjust that.
+* You might think that your friends know when you are happy or sad, but in reality they are not able to read your emotions accurately.
 
 == Counteract
 

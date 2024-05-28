@@ -1,5 +1,12 @@
 = Fundamental Attribution Error
 
-* Social psychology
+.Definition
+****
+We overestimate internal, and underestimate situational factors, when explaining people's behavior.
+****
+
 * Also known as: "_correspondence bias_", or "_person bias_".
-* We overestimate internal, and underestimate situational factors, when explaining people's behavior.
+* We judge others based on their character/disposition, rather considering external factors influencing their behavior.
+* A phenomena in the field of social psychology.
+* Also see link:actor_observer_bias.html[Actor-Observer bias].
+* E.g. when someone is rude to us, we might assume they are just a grumpy person, without realizing there could be other explanations, like temporary stress or exhaustion.

@@ -2,7 +2,7 @@
 
 .Definition
 ****
-A cognitive bias where we pay attention to some, but totally ignore other perceptions. Not seeing what is due to attention blindness.
+A cognitive bias where we pay attention to some, but totally ignore other perceptions (information/stimuli). Not seeing what is due to attention blindness.
 ****
 
 * An altered perception, based on selective attention.
@@ -13,8 +13,9 @@ A cognitive bias where we pay attention to some, but totally ignore other percep
 ** E.g. Cigarette smoker wired to pay only attention to smoking-related cues.
 * Background:
 ** Adaptive in many situations: Our attention is a finite resource, we need to select what arrives in our working memory.
-** E.g. When there is a big threat, we hyper focus on that one ("tunnel vision").
+** E.g. When there is a big threat, we hyper-focus on that one ("tunnel vision").
 * Paying too much attention which are not a threat can lead to poor decisions and anxiety.
+* E.g. When you try to find your car keys but can only find one set of keys, you might continue searching in the same spot, even though they could be somewhere else due to attentional bias.
 
 // TODO incorporate https://www.verywellmind.com/what-is-an-attentional-bias-2795027 and https://thedecisionlab.com/biases/attentional-bias and wikipedia
 
