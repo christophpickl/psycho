@@ -43,8 +43,8 @@ Two or more people interacting who are "interdependent": needs/goals causes them
 
 ==== Social Norms
 
-* Define behaviors which are acceptable, and all members are expected to obey (quiet in library.
-* Some vary from group to group (clothes at weddings vs funerals).
+* Define behaviors which are acceptable, and all members are expected to obey (e.g. being quiet in the library).
+* Some vary from group to group (e.g. what clothes to wear at weddings vs funerals).
 * The power becomes clear once we violate them: shunned and pressured to leave the group.
 
 ==== Social Roles
@@ -88,7 +88,7 @@ Qualities that bind group members together, promote mutual liking.
 * Cohesive doesn't mean it is performing at its optimal level though!
 ** Diverse groups (race, experience, education, attitude) can come up with more feasible and effective possibilities.
 ** Diversity can come at the expense of cohesiveness and morale, yet leads to improved creativity, information sharing, and flexible problem-solving.
-** The friction caused by diversity can upend conformity and improve decision making.
+** The friction caused by diversity can upend conformity and improve decision-making.
 
 [NOTE.tryit,caption=TRENDING]
 ====
@@ -245,7 +245,7 @@ Group interaction that inhibits good problem-solving.
 ****
 
 * Most expert/talented members can convince others.
-* You may know how it feels like, trying to convince a group of your idea, be faced with opposition/disbelief, and watch how the make the wrong decision.
+* You may know how it feels like, trying to convince a group of your idea, be faced with opposition/disbelief, and watch how they make the wrong decision.
 * Groups don't try hard enough to find out who the most competent members are.
 ** Instead, they rely on someone who really doesn't know what they are talking about (and maybe simply is charming/popular/sociable).
 * Also, communication problems arise: failure to listen, or allowing one person to dominate the discussion.
@@ -382,7 +382,7 @@ About getting the job done.
 
 .Relationship-Oriented Leaders
 ****
-About worker's feelings/relationships..
+About worker's feelings/relationships.
 ****
 
 * Task-oriented leaders do well in _high-control work situations_; a powerful leader and work needs to be done in a structured and well-defined way.
@@ -397,10 +397,27 @@ About worker's feelings/relationships..
 ** If good leaders (agentic/male-tyipcal traits (assertive, controlling, dominant, independent), forceful) perceived negatively (as women "should" act).
 ** If good women, conform to society's expectation (warm, helpful, communal, affectionate), perceived low leadership potential.
 * Female CEOs are also very rare: 15% US, 5% Taiwan, 4% Japan; yet higher in Norway 47%, Sweden 34%, and France 34%.
+* Women are thought to be better at managing crises, especially interpersonal conflicts.
+** Seems good, but has a downside, as they are more likely be put in precarious/high-risk positions, difficult to succeed.
+** Even if women broke through the "glass ceiling" into top leadership positions: still being put in crisis/risk of failure is high.
 
-... PAGE 307 ...
+.Glass Cliff
+****
+Women put it high-risk positions because of their positive prejudgements.
+****
+
+* Good news: Prejudice against female leaders is lessening over time:
+** 1950: 66% prefer male, 5% female (25% don't care)
+** 2010: 32% prefer male, 22% female (46% don't care)
+* Women are more accepted to act in a stereotypically "male" way.
+** Growing recognition: Effective leaders must be communal as well as agentic.
 
 ==== Culture
+
+* Different cultures value different traits in leaders -not surprising.
+** Autonomous leadership (independent of superior, working alone): more valued in Europe than Latin America.
+** Universal agreement though: Charisma, and being team oriented.
+* Getting more and more attention (and importance) due to global economy, more diverse, different cultures more frequent contact.
 
 [NOTE.test,caption=REVIEW QUESTIONS]
 ====
@@ -409,11 +426,103 @@ link:test.html#test3[Test yourself]
 
 == Conflict and Cooperation
 
+* If we have incompatible goals, we have a conflict.
+** Sigmund Freud argued, a conflict is an inevitable by-product of individuals often clash with goals/needs with others.
+* Conflicts often erupt into open hostilities.
+** High divorce rate. Violence. Warfare between nations.
+
 === Social Dilemmas
+
+* What is good for one, is not often good for everyone (cause of conflicts).
+** Think of restaurants were you are free to pay as much as you want: If everyone stays stingy, the restaurant will go bankrupt.
+
+.Social Dilemma
+****
+In a conflict, the most beneficial option for one (if chosen by majority), will damage everyone.
+****
+
+* Prisoner's dilemma: Two (literal) partners in crime captured by police, held separately.
+** Betray your partner and receive a lighter sentence.
+** Both keep quiet (stay loyal), prison only short time (not enough evidence).
+** Both betray, longer in prison.
+** One betrays, he goes free and the other gets maximum prison time.
+** Similar experiment with winning money... Also: "The Public Goods Game"
+* To find a solution desirable for both, people must trust each other.
+** (In game theory, they figured through a bunch of simulations that tit-for-tat is the best working algorithm.)
+** Lack of trust leads to an escalating series of competitive moves; thus, in the end no one wins.
+* Like in a weapons race of countries; feel cannot afford to disarm out of fear other will take advantage.
+** Result: stockpile weapons, neither gaining superiority, spending money better spent to solve domestic problems.
+
+==== Increasing Cooperation
+
+* Such conflicts are common and not inevitable.
+** Question is, under which circumstances are people more willing to cooperate?
+* Turned out, if one expects to have a future with the other person (friend, partner).
+* Subtly changing the norms can have large effects.
+** E.g. changing the name from "Wall Street Game" to "Community Game" (cooperatively play from 33% to 71%).
+
+.Tit-for-Tat Strategy
+****
+Encouraging cooperation by first cooperate, then always respond what the other did before.
+****
+
+* This strategy communicates a willingness towards cooperation, and an unwillingness being exploited.
+** On international level, meaning not only matching military buildup but also any conciliatory gesture.
+* What also works is if we make individuals, instead of groups, resolve a conflict.
+** As discussed before in link:../ch8-conformity/index.html[chapter 8] about conformity, people deindividuate in groups, creating more extreme/polarized attitudes.
 
 === Threats
 
+* When in a conflict, we tend to use threats to make the other comply to our demands ("Speak softly and carry a big stick", Teddy Roosevelt).
+** Parents and teachers use it to make children behave, but also on an international scale.
+* Yet, studies have shown that threats are not an effective means of reducing conflict: The trucking game (by Deutsch and Krauss.
+** Both had to make money by taking the shortest route, but that was a one-land road.
+** Under first circumstance, they started to cooperate, taking turns and waiting for the other.
+** Under the second, one (or both) had a gate to block the other (threat), which they heavily used.
+** If both will lose (stalemate), we would expect to cooperate, but no: They lost even _more_ money in the bilateral threat condition, harming each other.
+
+[#img-trucking]
+.Map of the trucking game illustrating cooperative/competitive behaviour.
+image::images/trucking_game.jpg[Trucking Game,400,100]
+
+==== Effects of Communication
+
+* That game mentioned before doesn't reflect real life properly, as both sides were not allowed to communicate.
+** Alas, requiring people to communicate did not raise profits dramatically, as it didn't foster trust.
+** In fact, they used the opportunity to threaten each other.
+* In another version, the researches instructed the participants to use communication to work out a solution fair for both parties.
+** This time, verbal communication fostered trust and increased profits for both.
+
 === Negotiation and Bargaining
+
+.Negotiation
+****
+Communication of parties in conflict, using offers/counteroffers until agreed to a solution.
+****
+
+* In everyday life we have a wide array of options, esp. buying/selling.
+** Try to arrive at a satisfactory settlement by talking, bargaining, and negotiating.
+** Question is: How successful are we at negotiating mutually beneficial solutions?
+* Limiting assumption: Only one party can come out ahead.
+** We don't realize that a solution favorable to both parties is available.
+
+.Integrative Solution
+****
+A compromise, solution to a conflict, where parties make trade-offs, each conceding/yielding unimportant issues for them, but important to the other.
+****
+
+* The more for us is at stake, the more biased our perception of the other.
+** We will tend to distrust proposals by the other, and overlook common interests.
+** That's why it's always good to have a neutral mediator: They are able to recognize mutually agreeable solutions.
+* Style of communication is also critical developing trust.
+** More easily established in face-to-face negotiations (than any electronic communication).
+** Modern techniques have many advantages, but disadvantage is that it's harder to get to know people and learn to trust them.
+* Bottom line:
+** Try to gain the other person's trust first.
+** Take the other person's perspective.
+** Communicate your own interests in an open manner.
+** Know that integrative solutions are often available.
+** Remember both parties might construe the situation differently.
 
 [NOTE.test,caption=REVIEW QUESTIONS]
 ====
@@ -422,27 +531,46 @@ link:test.html#test4[Test yourself]
 
 == Summary
 
+* What are groups, why do we join them.
+** A group consists of 2+ interdependent people who interact.
+** We join for the (innate) need to belong.
+*** Allow to accomplish difficult objectives.
+*** Serve as a source of information (about the social world).
+*** Important to our social identity. Make use feel distinctive from members of other groups.
+*** For that, we are sensitive of rejection from groups.
+** Composition and function of groups:
+*** Homogeneous members, with social norms to obey.
+*** Well-defined social roles, shared expectations (how to behave); extreme: lose personal identity.
+*** Group cohesiveness: binding members together, promote liking.
+*** Diverse composition leading to negative morale but positive performance.
+* How individuals perform differently when others are around.
+** Social Facilitation: If efforts can be evaluated, simple task improve, complex tasks impaired.
+** Social Loafing: If efforts cannot be evaluated, relaxation, thus performance impaired on simple/unimportant, but improved on complex tasks.
+** Gender and Culture: Social loafing more prevalent among men (than women) and more in Western (than Asian) cultures.
+** Deindividuation: Loosening of normal constraints on behavior when we are in crowds.
+* Decision-making differences between individuals vs groups; impact of leadership in group outcomes.
+** Group decision: Are more heads leading to a better result? Not necessarily!
+** Process loss: When group interactions inhibit good problem-solving
+*** If good at pooling independent ideas, and listening to the expert members, they do better.
+*** Groups often focus on shared info, fail to share unique info.
+*** Groupthink: Tightly knit, cohesive groups, where cohesiveness/solidarity more important than considering the facts.
+** Group polarization: Going to extremes.
+*** Causing individuals to become more extreme than initial were.
+** Leadership:
+*** Little support for the ``great person theory''; leadership matter of right personality traits.
+*** Styles: transactional, or transformational.
+*** Women often face the ``glass cliff'', put in crisis with high risk of failure.
+*** Double bind for women: conform being warm, yet incompetent. Non-conform and be competent (forceful), not be a real women.
+* Factors whether group conflict escalates/resolves.
+** Especially when people have incompatible goals.
+** Social Dilemmas:
+*** Most beneficial action for individual, if chosen by majority, harmful for everyone.
+*** See for example also the prisoner's dilemma.
+*** Creating trust is crucial!
+** Threatening escalates, rather resolves; even more so if both parties have equal threat capacity.
+** When negotiating/bargaining, look for an integrative solution, consider dropping unimportant to you but important to the other.
+
 [NOTE.test,caption=REVIEW QUESTIONS]
 ====
 link:test.html#test5[Test yourself]
 ====
-
-
-
-
-
-.Term
-****
-Definition.
-****
-
-[NOTE.tryit,caption=TRY IT]
-====
-*Some Title*
-
-xxx
-====
-
-[#img-xxx]
-xxx
-image::images/xxx.jpg[xx,400,100]

@@ -51,5 +51,5 @@ Examples: Painkillers, codeine, morphine, oxycodone, heroin.
 
 Hallucinogens::
 
-Effects: Paranoi, depersonalization, hallucinations, erratic behavior, increased herat rate and blood pressure. +
+Effects: Paranoia, depersonalization, hallucinations, erratic behavior, increased herat rate and blood pressure. +
 Examples: Psilocybin, LSD, ketamine, PCP (phencyclidine), dextromethorphan, peyote (mescaline).

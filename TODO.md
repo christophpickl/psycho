@@ -3,6 +3,7 @@
 
 ## Content
 
+* ad phenomena: social dilemma experiments: prisoner's dilemma; pastry cows farming; "wall street game" a.k.a. "community game"
 * bias https://effectiviology.com/cognitive-debiasing-how-to-debias/ (see transparency illusion already started)
 * mental/psychological/behavior/brain disorder/illness - differences?
 * stories a la jorge, witz mit 3 therapys

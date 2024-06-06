@@ -1,0 +1,12 @@
+= Chemicals
+
+Neurotransmitters and hormones and everything in-between.
+
+See also link:../lva_introduction/ch4-neural/neurotransmitters.html[Introduction / Chapter 4 / Neurotransmitters].
+
+How to get the "happiness chemicals":
+
+* *Dopamine* (reward): 🍰😴🛁 eating food, achieving goals, sleeping enough, taking baths
+* *Endorphin* (painkiller): 💪🏻🤣🎶 exercising, laughing, music listening
+* *Oxytocin* (love): 🤗🐈⛑️ socializing, touch, petting animals, helping others
+* *Serotonin* (mood stabilizers): ☀️🧘🏻‍♀️🌳 sun exposure, mindfulness, nature walks

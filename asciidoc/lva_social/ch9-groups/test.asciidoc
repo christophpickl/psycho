@@ -71,29 +71,131 @@
 [#test3]
 == 3. Group Decision
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. What's _not_ process loss?
+.. Transactive memory
+.. Group polarization
+.. Failure to share uniquely held information
+.. Groupthink
+** [hiddenAnswer]#a.#
+. How reduce groupthink?
+.. strong, directive leader
+.. aloud votes
+.. create subgroups
+.. being more unanimous
+** [hiddenAnswer]#c.#
+. Why group polarization?
+.. If that trait is liked by the group, people want to be perceived having it even more extreme than initially.
+.. Everyone sharing unique knowledge, getting exposed to new ideas, which strengthens their position.
+.. Once decision arrived, want to believe it, by appearing a more extreme opinion than others.
+.. All above.
+** [hiddenAnswer]#a.#
+. Research on leadership and personality type shows:
+.. The great person theory is the best explanation for leadership success.
+.. Everyone can become successful leaders.
+.. Successful US presidents are: extraverted, open, empathetical.
+.. Most successful leaders embrace agentic, but avoid communal traits.
+** [hiddenAnswer]#c. (?)#
+. Boss wants to increase sales for this season. If make it, higher bonus, otherwise penalty. What kind of leader?
+.. transformational
+.. transactional
+.. task-oriented
+.. relationship-oriented
+** [hiddenAnswer]#b. (and c.?)#
 
 [#test4]
 == 4. Conflict and Cooperation
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. Social dilemmas:
+.. Cooperative strategy will always be more profitable, than selfish one.
+.. If most use best for individual self, harmful to all in the long run.
+.. One always has to win, other lose.
+.. Lab studies not useful in understanding group conflicts.
+** [hiddenAnswer]#b.#
+. In the prisoner's dilemma, you will receive the worst outcome if you are:
+.. cooperative and so is your partner
+.. cooperative but your partner isn't
+.. selfish and so is your partner
+.. selfish but your partner isn't
+** [hiddenAnswer]#b.#
+. In the trucking game (by Deutsch, Krauss), when communication made possible, why didn't profits increase?
+.. Communication didn't foster trust.
+.. Communication wasn't timely enough.
+.. Communication limited due language barriers/differences in goals.
+.. Communication only by select number of people, not everybody.
+** [hiddenAnswer]#a.#
+. Negotiation/bargaining:
+.. Most don't realize there are always solutions favorable to both parties.
+.. A neutral mediator is useful.
+.. Face-to-face is faster and easier.
+.. All of the above.
+** [hiddenAnswer]#d.#
+. According to Sigmund Freud, what is an inevitable by-product of civilization?
+.. negotiation
+.. conflict
+.. cooperation
+.. psychology
+** [hiddenAnswer]#b.#
 
 [#test5]
 == 5. Summary
 
-. x
-.. x
-.. x
-.. x
-.. x
-** [hiddenAnswer]#x.#
+. Why are groups homogenous?
+.. Similar people join the same groups.
+.. Evolutionary pressure caused people with similar genes to join groups, and dissimilar genes to avoid each other.
+.. Leads to increased productivity.
+.. Social loafing prevents us from new people/experiences.
+** [hiddenAnswer]#a.#
+. What are social norms?
+.. Behaviors expected when in a certain position.
+.. Behaviors that promote mutual liking, and bind members together.
+.. A powerful behavioral determinant.
+.. Member listening to each other's opinion.
+** [hiddenAnswer]#a.#
+. We perform better during a simple task in the _ of others, and a difficult task in the _.
+.. presence; absence of others
+.. absence; presence of others
+.. presence; same way
+.. absence; same way
+** [hiddenAnswer]#a.#
+. More likely social loafing in _ and also in _.
+.. men; Asia
+.. women; Asia
+.. men; Western
+.. women; Western
+** [hiddenAnswer]#c.#
+. Based on deindividuation: Under which circumstances, 7-year-old twins trick-or-treating, taking more candies than required?
+.. alone and anonymous
+.. group and anonymous
+.. alone, wearing costumes
+.. group, not wearing costumes
+** [hiddenAnswer]#b.#
+. Groupthink
+.. Togetherness/agreement more important finding optimal solution
+.. worse decisions as groups, than as individuals
+.. conversational process, recommending riskier decisions
+.. authoritarian style of leadership, leader imposing will on everyone, so others silence themselves
+** [hiddenAnswer]#a.#
+. What's _not_ a cause of groupthink?
+.. desire to appease a leader
+.. being anonymous
+.. overvaluing group cohesion
+.. being insulated from information outside the group
+** [hiddenAnswer]#b.#
+. Lead to process loss in a committee?
+.. members listen carefully to each other's opinions
+.. members are good friends
+.. individual members share info others lack
+.. most competent member feels free to speak up
+** [hiddenAnswer]#d.#
+. Leadership
+.. Females are more often put in high-risk positions, where it's difficult to succeed.
+.. Best leaders are born that way.
+.. All cultures value the same traits in leaders.
+.. Female leaders acting agentic, evaluated same as men.
+** [hiddenAnswer]#a.#
+. Strategies for negotiation
+.. integrative solutions are often available
+.. be respectful, take other's perspective into account
+.. meet face-to-face
+.. all of the above
+** [hiddenAnswer]#d.#

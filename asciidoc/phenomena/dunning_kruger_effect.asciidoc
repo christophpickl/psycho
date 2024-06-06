@@ -20,9 +20,14 @@ In order to unblock ourselves, it is necessary to admit that we actually don't k
 
 Watch the nicely animated movie down below, illustrating the birth of this effect by Arther Wheeler, the guy who thought he could make himself invisible with lemon juice and robbed a bank.
 
-.YouTube Video: "The Dunning-Kruger Effect - Cognitive Bias - Why Incompetent People Think They Are Competent", 9mins
+.YouTube Video: "The Dunning-Kruger Effect - Cognitive Bias - Why Incompetent People Think They Are Competent" by After Skool, 9mins
 [link=https://www.youtube.com/watch?v=y50i1bI2uN4]
 image::https://img.youtube.com/vi/y50i1bI2uN4/0.jpg[Dunning Kruger Effect,300]
+
+.YouTube Video: "The Dunning-Kruger Effect" by Aperture, 13mins
+[link=https://www.youtube.com/watch?v=Q9qjX1UhNo0]
+image::https://img.youtube.com/vi/Q9qjX1UhNo0/0.jpg[Dunning Kruger Effect,300]
+
 
 Further Reading::
 
