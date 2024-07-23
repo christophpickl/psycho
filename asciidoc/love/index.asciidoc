@@ -1,0 +1,13 @@
+= Love
+
+This is about romantic love only, how we find a partner, mating behavior, maintaining and breaking up relationships.
+
+Content:
+
+// TODO finish this one here
+* The link:types.html[types] of love
+* Healthy link:attachment.html[attachment] style
+* summarize chapter 11 of social psy
+* romanticism (alain du button)
+* school of life videos
+* healthy conflicts: https://www.youtube.com/watch?v=nBN9zG1JNPg

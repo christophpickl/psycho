@@ -1,0 +1,23 @@
+= Personal Incredulity
+
+* Also known as "argument from incredulity", "argument from personal incredulity", "appeal to common sense", or "the divine fallacy", is a fallacy in informal logic.
+
+.Definition
+****
+A proposition must be false because it contradicts your personal expectations/beliefs, or is difficult to imagine.
+****
+
+* Because you found something difficult to understand (unaware of how it works, or can't imagine it), you made out like it's probably not true.
+** Complex subjects like biological evolution through natural selection require some amount of understanding before one is able to make an informed judgement about the subject at hand.
+* This fallacy is usually used in place of that understanding.
+* It works both ways: A) cannot imagine it's true, thus it must be false, or B) cannot imagine it's false, thus it must be true.
+* It often arises from inappropriate emotional involvement, the conflation of fantasy and reality, a lack of understanding, or an instinctive "gut" reaction, especially where time is scarce.
+** Frequently used to argue that something must be supernatural in origin or even the contrary.
+
+== Example
+
+"A drew a picture of a fish and a human and with effusive disdain asked B if he really thought we were stupid enough to believe that a fish somehow turned into a human through just, like, random things happening over time."
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Argument_from_incredulity

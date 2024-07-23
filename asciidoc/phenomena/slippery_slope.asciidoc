@@ -1,0 +1,20 @@
+= Slippery Slope
+
+.Definition
+****
+Saying if A happens, B will eventually happen too, thus A should not happen.
+****
+
+* An argumentation strategy in which a course of action is rejected because the slippery slope advocate believes it will lead to a chain reaction resulting in an undesirable end.
+* The problem with this reasoning is that it avoids engaging with the issue at hand, and instead shifts attention to extreme hypotheticals.
+** Because no proof is presented to show that such extreme hypotheticals will in fact occur, this fallacy has the form of an appeal to emotion fallacy by leveraging fear.
+* In fact, the present argument is wrongly distorted by unfounded assumptions.
+
+== Example
+
+"Someone asserts that if we allow same-sex couples to marry, then the next thing we know we'll be allowing people to marry their parents, their cars and even monkeys."
+
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Slippery_slope

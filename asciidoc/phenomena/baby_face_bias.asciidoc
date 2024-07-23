@@ -1,0 +1,23 @@
+= Baby-Face Bias
+
+.Definition
+****
+People (and things) with baby-faced features are seen as more naive, helpless, kind, warm and honest.
+****
+
+* Or in short: "You look like a baby, you have the personality of a baby."
+* It's usually about round features, but to be more precise: high/smooth forehead, large eyes, small/upturned nose, protruding ears, short chin, lighter skin/hair.
+* Effective when used to in commercials to pretend innocence and honesty; e.g. for personal testimonials.
+** Toy producers use this to aim their products at children (dolls and toys with huge eyes).
+** Of disadvantage though when dealing with speaking authoritatively.
+* The bias is found across all age ranges, cultures, and many mammalian species.
+* It is related to the link:attractiveness_bias.html[attractiveness bias].
+
+[#img-anchoring_advert]
+.Using the anchoring effect to make people believe they save some money.
+image::baby_face.jpg[Face Structures,800,100]
+
+== Source
+
+* https://www.samnielson.com/artsammich/2015/03/baby-face-bias.html
+* https://medium.com/the-31-5-guy/the-attractiveness-bias-baby-face-bias-b0f23a35e5da

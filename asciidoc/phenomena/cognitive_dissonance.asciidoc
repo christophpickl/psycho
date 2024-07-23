@@ -1,5 +1,41 @@
 = Cognitive Dissonance
 
-* We experience discomfort when our old believes clash with new facts. We tend to bend reality a bit, so we feel comfortable again.
-* Originated from link:../people/festinger-leon.html[Leon Festinger].
+.Definition
+****
+We experience discomfort when our old believes clash with new facts. We tend to bend reality a bit, so we feel comfortable again.
+****
+
+* We hold different cognitions about our world/environment/personality. When something happens that clashes with those cognitions, we feel unsettled/tensed, which is then called cognitive dissonance.
+** We have innate drives to keep all our cognitions in harmony, and avoid a state of tension/dissonance.
+** To avoid it, we alter one of the involved cognitions -sometimes in rather perculiar ways.
+* Originated from link:../people/festinger-leon.html[Leon Festinger] in 1957.
 * https://en.wikipedia.org/wiki/Cognitive_dissonance
+
+== Festinger's Cognitive Dissonance Experiment
+
+* The classic experiment of Leon Festinger done in 1959 is disguised as a performance experiment and involved a lot of deception:
+** Not much explanation was given: two-hours, observe expectations-actual experience relation, do it in your own pace.
+** Subjects were instructed to do very simple and boring tasks; bored to hell.
+** A fake researcher was observing them and taking notes, apparently measuring the time.
+* Next step contained the actual deception, where subjects were told they have to on-board the next participant.
+** Had to lie that it was a great experience and fun to do the tasks.
+** Three groups: 1) control 2) 1 Dollar 2) 20 Dollars
+** Each of them were given a questionnaire (-5 disagree, +5 agree); here the result:
+
+[cols="8,2,2,2"]
+|===
+| Questions | Control | 1 USD | 20 USD
+
+| How enjoyable tasks | -0.45 | 1.35 | -0.05
+| How much learned | 3.08 | 2.80 | 3.15
+| Scientific importance | 5.60 | 6.45 | 5.18
+| Participate again | -0.62 | 1.20 | -0.25
+|===
+
+* The first row being the most interesting one.
+** People in the control group didn't enjoy it, but the 1 Dollar did significantly more.
+** The tasks were designed to be boring, but the 1 Dollar lead them to convince themselves to make themselves not finding it boring.
+** How else to justify telling someone that the tasks were great?! Doing something contrary to their own private opinion.
+*** It couldn't be the 1 Dollar, that's not enough.
+*** So they changed their own cognitions about the task (bending the truth), convincing themselves they actually liked it.
+** The 20 Dollars group could justify their lying by simply referring to the money they got.

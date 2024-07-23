@@ -1,6 +1,21 @@
 = Frequency Illusion
 
-* a.k.a. Baader-Meinhof Phenomenon
-* Something that recently came to one's attention, suddenly seems to appear with a very high frequency shortly afterwards.
-** Reality though is, we just ignored it before that.
-* E.g. buying a camper, and then we think "everyone else also suddenly bought campers", yet they were always there, we just weren't aware of them as they got filtered out as irrelevant.
+Also known as the  "Baader-Meinhof phenomenon".
+
+.Definition
+****
+Something that recently came to one's attention, suddenly seems to appear with a very high frequency shortly afterward.
+****
+
+* Cognitive bias where we notice a concept/word/product more frequently after recently becoming aware of it.
+* Reality though is, we just ignored it before that -our brain filtered out back then irrelevant sensory information.
+* Possible causes: selective attention, confirmation bias, recency illusion, or split-category effect.
+
+== Examples
+
+* You learned new word, suddenly it seems to appear everywhere -the brain being more aware of it.
+* You bought a camper (or shoes, brand, etc.), and then think "everyone else also suddenly bought a camper" as you see them every on the highway, yet they were always there, you just weren't aware of them as they got filtered out as irrelevant.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Frequency_illusion

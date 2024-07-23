@@ -1,0 +1,21 @@
+= Appeal to authority
+
+Also known as "argument from authority" (argumentum ab auctoritate), or "argumentum ad verecundiam".
+
+.Definition
+****
+A form of argument in which the opinion of an influential figure is used as evidence to support an argument.
+****
+
+* You said that because an authority thinks something, it must therefore be true.
+* It's important to note that this fallacy should not be used to dismiss the claims of experts, or scientific consensus.
+** Appeals to authority are not valid arguments, but nor is it reasonable to disregard the claims of experts who have a demonstrated depth of knowledge unless one has a similar level of understanding and/or access to empirical evidence.
+** However, it is entirely possible that the opinion of a person or institution of authority is wrong; therefore the authority that such a person or institution holds does not have any intrinsic bearing upon whether their claims are true or not.
+
+== Example
+
+"Not able to defend his position that evolution 'isn't true' A says that he knows a scientist who also questions evolution - and presumably isn't a primate."
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Argument_from_authority

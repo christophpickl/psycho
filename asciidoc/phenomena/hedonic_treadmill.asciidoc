@@ -1,0 +1,25 @@
+= Hedonic Treadmill
+
+* Also known as "hedonic adaptation".
+
+.Definition
+****
+We quickly return to a normal level of happiness, despite major positive/negative events.
+****
+
+* When we make more money, expectations and desires rise in tandem, which results in no permanent gain in happiness.
+** Thus, an increase in wealth does not increase the level of happiness.
+* The image of a treadmill is used, because no matter how hard we try to gain an increase in happiness, we will remain in the same place.
+** It involves a happiness "set point", meaning we generally maintain a constant level of happiness throughout our lives, despite events that occur.
+
+== Examples
+
+* Imagine two brothers, twins, both same upbringing, same social status, basically same lives and identical in regard to well-being.
+* One wins a lottery ticket, the other one has a car accident and can't walk anymore.
+** Of course, shortly after that, the first is super happy, the other depressed.
+* Interestingly though is, that after a year, both are again identical in regard to well-being, nothing has changed.
+* Remember: Winning a lottery ticket won't solve anything ;)
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Hedonic_treadmill

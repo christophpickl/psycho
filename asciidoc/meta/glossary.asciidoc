@@ -1,5 +1,38 @@
 = Glossary
 
+== Brainy
+
+The following terms are often used interchangeably and without proper, precise meaning assigned by most people. Yet, they do have distinct meanings.
+
+* *Cognitive*: Learning/acquiring knowledge, understanding through thought/experience/senses.
+** Including: Perception, memory, judgment, reasoning, problem-solving, decision-making.
+* *Intellectual*: The ability to think logically, reason, understand complex ideas.
+** Using higher-order thinking skills, critical analysis; engaging in a philosophical debate requires intellectual effort and analytical thinking.
+* *Mental*: All activities with the mind, a broader umbrella term including: Cognitive functions, emotions, attitudes and mental health.
+* *Psychological*: The study of the mind/behavior, encompassing mental/emotional states.
+** Covers: Cognition, emotion, behavior, personality, mental health.
+
+== Rationality
+
+Rationality and reason are closely related concepts, but they have distinct meanings and applications.
+
+* *Rationality*: Quality/state of being reasonable, based on facts/reason.
+** To adhere to logic and consistency, thinking coherently.
+** Using logic/evidence to make decisions/form beliefs.
+** Example: A rational person uses statistical data to make an informed decision about buying a car.
+* *Reason*: The ability of the mind to think/understand/form judgments logically.
+** The mental process of deriving logical conclusions from premises/evidence (drawing inferences, make sense of experiences, establish truth).
+** Using reason, we can deduce that you are mortal.
+
+Rationality is broader, about thinking quality and decision-making; consistency, coherence, using logic; adherence to logical principles.
+Reason means to think logically, understand, and form judgments. The actual mental activity of processing information logically to come to conclusions.
+
+Examples:
+
+* A person demonstrating rationality might avoid gambling because they understand the statistical improbability of winning.
+* A person using reason might analyze a set of arguments, weigh the evidence, and conclude which argument is more logically sound.
+
+
 == Science Terminology
 
 * *Hypothesis*: A statement which is possible and needs further validation to be proven.
@@ -9,6 +42,17 @@ Usually the conditions are stated as well which are needed for validation.
 
 == Logic
 
-* *Deduction*:
-* *Induction*:
+* *Deduction*: Drawing conclusions from a set of premises (which are assumed to be true). Reasoning from the general to the specific.
+** Example: Premise 1, all men are mortal; Premise 2, I am a man; Conclusion, therefore I am mortal.
+** IF the premises are true, AND the logic is valid, THEN the conclusion must be true.
+** It is very safe (compared to induction) yet doesn't lead to necessarily "groundbreaking" new insights. A more conservative approach.
+* *Induction*: Making generalizations based on specific observations/instances. Reasoning from the specific to the general.
+** Example: Observation 1, sun has risen everyday east; Observation 2, sun rose east today; Conclusion, sun will rise east tomorrow.
+** Inductive arguments provide probable conclusions (likely to be true, but not guaranteed).
+* Key differences Deduction/Induction:
+** Deduction: from general to specific (induction other way round).
+** Deduction has certainty, induction is probable (based on evidence).
+** Induction reveals new knowledge (deduction only scratches the surface a bit).
+** Deduction used in math, inductive reasoning in (empirical) sciences and everyday life (observing patters, formulate hypotheses).
+*** Induction example: I give her a rose, she looks angry, thus I conclude she doesn't like roses.
 * *Axiom* (postulate, assumption): A statement that is considered to be true, and to be used for further reasoning and arguments as a premise.

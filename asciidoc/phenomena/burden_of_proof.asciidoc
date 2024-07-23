@@ -1,0 +1,21 @@
+= Burden of Proof
+
+* Latin: "_Onus probandi, shortened from Onus probandi incumbit ei qui dicit, non ei qui negat_"; translation: "the burden of proof lies with the one who speaks, not the one who denies"
+
+.Definition
+****
+The obligation on a party in a dispute to provide sufficient warrant for its position.
+****
+
+* Basically claiming that the burden of proof lies not with the person making the claim, but with someone else to disprove.
+* The inability/disinclination to disprove a claim does not render that claim valid, nor give it any credence whatsoever.
+* It is important to note that we can never be certain of anything, and so we must assign value to any claim based on the available evidence, and to dismiss something on the basis that it hasn't been proven beyond all doubt is also fallacious reasoning.
+* Similar to link:hitchenss_razor.html[Hitchens's razor].
+
+== Example
+
+"Someone declares that a teapot is, at this very moment, in orbit around the Sun between the Earth and Mars, and that because no one can prove him wrong, his claim is therefore a valid one."
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Burden_of_proof

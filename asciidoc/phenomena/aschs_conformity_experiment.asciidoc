@@ -1,0 +1,41 @@
+= Asch's Conformity Experiment
+
+[#img-asch_line]
+.The cards used for the conformity experiment, showing on the left the reference line, and on the right one of three lines to choose from which is equal to the reference line.
+image::asch_line.png[Asch Line,400,100]
+
+* Look at the image above: You might think immediately that the answer is obvious, and when anyone who would be asked, would say C, but that's not so under all circumstances.
+* link:../people/asch-solomon.html[Solomon Asch] conducted 1951 an experiment which showed that peer pressure can be strong enough to change our perception, and make us believe things that are not true.
+** Each participant was sent into a room with a few other people which were actually confederates.
+** The whole group was shown two cards, similar as the one above.
+** Each person should then say out loud the answer, the real participant coming last.
+** After a while, the group started to give wrong answers, leaving a choice of either going against the group, or against the truth.
+*** All in order to avoid the discomfort of disagreeing with the group.
+* The result: 23% always gave the wrong answer, 72% conformed at least once, and 5% completely succumbed to peer pressure.
+** Yet, if there is only a single person giving the right answer, participants are way more likely to stay with the truth (having an allied).
+** Long story short: If 3 people say something obviously wrong, and no one disagrees with them, most of us will agree with the wrong statement, as we need to fit in.
+* It's especially having an effect among women and homogenous peer groups.
+** Question remains: How strong is this conformity effect on social media?
+* Two different types of conformity:
+** Informational: Agreeing with the group because they convinced us that they are right.
+** Normative: Agreeing with the group because we are afraid that they will disapprove of us being deviant.
+* Also, having to write down the answer (instead speaking out publicly) drastically decreases the pressure to conform.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Asch_conformity_experiments
+* https://www.simplypsychology.org/asch-conformity.html
+
+.YouTube Video: "Asch Conformity Experiment", original recording, 4mins
+[link=https://www.youtube.com/watch?v=TYIh4MkcfJA]
+image::https://img.youtube.com/vi/TYIh4MkcfJA/0.jpg[Asch Conformity recording,300]
+
+.YouTube Video: "Asch’s Conformity Experiment on Groupthink" by Sprouts, 6mins
+[link=https://www.youtube.com/watch?v=WkK5eA_qhFk]
+image::https://img.youtube.com/vi/WkK5eA_qhFk/0.jpg[Asch Conformity by Sprouts,300]
+
+.YouTube Video: "Asch conformity studies (Asch line studies)" by Khan Academy, 10mins
+[link=https://www.youtube.com/watch?v=p3MPAgnbMk8]
+image::https://img.youtube.com/vi/p3MPAgnbMk8/0.jpg[Asch Conformity by Sprouts,300]
+
+"_I wanted to comment on this. But then I saw all the other comments, and I didn't want to follow the herd._" (some YouTube comment)

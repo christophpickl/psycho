@@ -1,0 +1,27 @@
+= Appeal to Nature
+
+.Definition
+****
+Arguing that just something is considered to be "natural" it must be better.
+****
+
+* A rhetorical technique which proposes a rather bad argument as it implied primary premise "what is natural is good" has no factual meaning beyond rhetoric (in most contexts).
+** Formally expressed:
+
+ That which is natural is good or right.
+ N is natural.
+ Therefore, N is good or right.
+
+* Better in the sense of: (more) valid, justified, inevitable, good, or ideal.
+** Or also the reverse can be applied: Arguing because something is unnatural, thus it must be bad.
+* Naturalness itself doesn't make something good or bad.
+** E.g. murder could be seen as very natural (watch some discovery channel), but that doesn't mean it's good or justifiable.
+* In fact, nature (evolution) has no goal nor has it a sense of morality like humans do (construct).
+
+== Example
+
+The medicine man rolled into town on his bandwagon offering various natural remedies, such as very special plain water. He said that it was only natural that people should be wary of 'artificial' medicines such as antibiotics.
+
+== Resources
+
+https://en.wikipedia.org/wiki/Appeal_to_nature

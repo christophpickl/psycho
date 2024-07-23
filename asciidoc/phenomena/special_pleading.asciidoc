@@ -1,0 +1,21 @@
+= Special Pleading
+
+.Definition
+****
+Moving the goalposts (or making up an exception) when the claim was shown to be false.
+****
+
+* An informal fallacy which is the application of a double standard (implying that two things which are the same are measured by different standards).
+** You state that something is an exception to a general/universal principle, without justifying the special exception.
+* Humans are funny creatures and have a foolish aversion to being wrong.
+** Rather than appreciate the benefits of being able to change one's mind through better understanding, many will invent ways to cling to old beliefs.
+** One of the most common ways that people do this is to post-rationalize a reason why what they thought to be true must remain to be true.
+** It's usually very easy to find a reason to believe something that suits us, and it requires integrity and genuine honesty with oneself to examine one's own beliefs and motivations without falling into the trap of justifying our existing ways of seeing ourselves and the world around us.
+
+== Example
+
+"X claimed to be psychic, but when his 'abilities' were tested under proper scientific conditions, they magically disappeared. He explained this saying that one had to have faith in his abilities for them to work."
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Special_pleading

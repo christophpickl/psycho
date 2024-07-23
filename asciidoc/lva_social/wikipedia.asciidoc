@@ -1,0 +1,167 @@
+= Social Psychology on Wikipedia
+
+Based on the article: https://en.wikipedia.org/wiki/Social_psychology
+
+* The scientific study of: How thoughts/feelings/behaviors are influenced by (actual/imagined/implied presence of) others?
+** Study of social conditions where those occur, and how these variables influence social interactions.
+* Human behavior explained by: relation mental states and social situations.
+
+== History
+
+* Psychologists (individual behavior) and sociologists (large-scale of society) became too specialized and isolated, thus social psychology emerged.
+* Started with Norman Triplett's research of social facilitation 1898.
+** Trying to discover the concrete cause-and-effect relationships in social interactions.
+* Modern social psychology started 1924 with a textbook by Floyd Allport (the father of experimental social psychology).
+* Kurt Lewin studied persuasion and propaganda during World War II; later more social problems like gender and racial prejudice.
+* 1960s more interest in cognitive dissonance, bystander intervention, and aggression.
+* A bit later concerns about ethics in experimentation (Milgram's obedience and the Stanford prison experiment).
+* Situationism: Human behavior changes based on situational factors; challenging the relevance of the self and personality in psychology.
+* Today more ethical standards, pluralistic and multicultural perspectives.
+** Focus on: attribution, social cognition, and self-concept.
+
+== Core Theories and Concepts
+
+=== Attitudes
+
+* A learned/global evaluation influencing thought/action. Basic expressions of dis-/approval or dis-/likes.
+** General attitudes are not always good predictors of specific behavior; multiple factors influence us.
+** E.g. we value the environment, but throw away waste on the street.
+* Cognitive dissonance theory: most influential in 20th century.
+** Attitudes must be logically consistent with each other, otherwise discomfort/tension, motivating us to change attitudes/behavior.
+* Distinction between self-reported and implicit/unconscious attitudes (IAT).
+** We often have biases against other races, whereas we report impartiality.
+** Interracial interactions: Explicit attitudes correlate with verbal behavior, implicit attitudes nonverbal behavior.
+* Attitudes are also involved in: conformity, interpersonal attraction, social perception, and prejudice.
+
+=== Persuasion
+
+* Actively influencing to push people to adapt an attitude/idea/behavior by rational/emotive means.
+** Relying on appeals, not on strong pressure/brute force/threat (coercion).
+* Five categories of variables influence persuasion:
+.. Communication: credibility, expertise, trustworthiness, attractiveness
+.. Message: reason, emotion; one-/two-sided arguments
+.. Audience: demographics, personality traits, preferences
+.. Medium: printed word, radio/audio, television, internet, face-to-face
+.. Context: environment, group dynamics, preliminary information
+* Dual-process theory:
+** Central route: facts, longer-lasting change (if motivated)
+** Peripheral route:  superficial factors, shorter-lasting change
+
+=== Social Cognition
+
+* How we perceive/recognize/remember information about others (autistic people have a deficit here).
+* Three main research topics in social cognition: attribution, heuristics, and schemas.
+* Attribution
+** Are explanations of behavior (our own, or of others).
+** Cause of behavior can be internal (=dispositional; personality, character, ability) or external (=situational; e.g. weather).
+** It can be stable or unstable (repeated/changed under similar circumstances).
+** Or whether controllable or not (how much control over the situation).
+* Lots of biases exists around this:
+** Most prominent is the link:../phenomena/attribution_bias.html[Fundamental Attribution Error]: Making dispositional attributes to other's behavior.
+** The link:../phenomena/actor_observer_bias.html[Actor-Observer Bias] is an extension of the theory: Dispositional for other's, and situation attributions for one's own.
+** And with the link:../phenomena/self_serving_bias.html[Self-Serving Bias] we attribute dispositional causes for successes, and situational causes for failures (especially when our self-esteem is threatened).
+* Heuristics
+** Those are cognitive shortcuts, used to make decisions in line with our conscious reasoning.
+** The link:../phenomena/availability_bias.html[Availability Heuristic] makes use estimate the probability of something based on how easy we can imagine it.
+*** We think that vivid/highly memorable things will happen more likely, compared those harder to picture/difficult to understand.
+** The link:../phenomena/representativeness_heuristic.html[Representativeness Heuristic] is a shortcut we use to categorize something based on how similar it is to a prototype.
+** The link:../phenomena/hindsight_bias.html[Hindsight Bias] is a false memory, exaggerating our actual predictions after knowing about the result.
+** The most famous link:../phenomena/confirmation_bias.html[Confirmation Bias] leads us to search for/interpret information in a way that confirms our preconceptions.
+* Schemas
+** Generalized mental representations, organizing knowledge, guiding information processing.
+** Often operate automatically and unconsciously, thus biases in perception/memory.
+** Making us see something that's not there, due to induced expectations.
+*** E.g. more likely to see an item as a weapon if it's a black (vs a white) man.
+*** This type of schema is a stereotype, generalized believes about a group (when incorrect, leading to an "Ultimate Attribution Error").
+** Schemas for behaviors are called _scripts_ (going to a restaurant, doing laundry, etc.).
+
+=== Self-concept
+
+* All the beliefs we have about ourselves; it's made up by cognitive aspects called "self-schemas", helping process self-referential information.
+* We are all made up of different selves (the husband, the boss, the volunteer) and depending on which role we are, we process information differently.
+* There are many theories on the perception of our own behavior:
+** The social comparison theory (by link:../people/festinger-leon.html[Leon Festinger]) says that we evaluate our abilities/opinions by comparing them to others (in case we are uncertain of our abilities/opinions).
+** The self-perception theory claims that when internal cues are difficult to interpret, we gain self-insight by observing our own behavior.
+
+=== Social influence
+
+* An overarching term for how we influence each other, overlapping with attitudes/persuasion research, and related to group dynamics.
+* Three main areas are: conformity, compliance, and obedience.
+** Conformity: act/think like other group-members; Level of conformity dictated by: status, similarity, expertise, cohesion, accountability, and commitment.
+** Compliance: Change of behavior due to request/suggestion from someone else; e.g. the foot-in-the-door technique (first small request, then bigger).
+** Obedience: Change of behavior due to direct order/command from someone else; see Milgram's obedience study administering electrical shocks.
+* The self-fulfilling prophecy is a kind of social influence too: A prediction that, by being made, causes itself to become true. (expecting hostility in others, induces exactly that behavior)
+
+=== Group dynamics
+
+* A group (crowd) is 2+ people, connected via social relationships.
+** Interact/influence each other, share common identity.
+** Emergent qualities, distinguish from coincidental/temporary gathering ("social aggregates").
+* Terms:
+** Norms: Implicit rules/expectations for members to be followed.
+** Roles: Implicit rules/expectations for specific members within the group.
+** Relations: Patterns of liking within the group; differences in prestige/status.
+* Define oneself by membership of a group leads to intergroup discrimination:
+** Favorable perceptions/behaviors for in-group, negative ones for out-group people.
+* Groups often moderate/improve decision-making (reason why formed committees/juries).
+** Affecting performance/productive, as with social facilitation (worker harder/faster when others observe).
+* Deindividuation, reducing self-awareness because of anonymity; uninhibited/dangerous behavior in crowds/mobs, or by disguise/uniform/alcohol/dark environments/online anonymity.
+
+=== Interpersonal attraction
+
+* Dealing with the factors which predict whether people will like/love each other, or establish relationships.
+** Factors: Physical attractiveness (at the beginning in romances, with passion), similarity (! attitudes, background, environment, worldviews), propinquity, familiarity, complementarity, reciprocity, reinforcement.
+* Robert Sternberg three components of love: Intimacy, passion, commitment. All three = consummate love.
+* Social exchange theory: rational cost-benefit analysis. Also regarding what alternatives are out there.
+** Similar to the minimax principle (game theory), minimizing loss for worst case (maximal loss) scenario; vs maximin: maximize the minimum gain.
+* Over time, long-term relationships become communal (like family) rather simply based on exchange (cost-benefit).
+
+== Research
+
+=== Methods
+
+* Social psychology is an empirical science, figuring out human behavior, by testing hypotheses.
+** Attention to research design, sampling, and statistical analysis.
+* Relying on controlled experimentation; manipulation of independent variables to examine a dependent variable.
+** Experiments useful, as high in internal validity (cause and effect, free from confounding/extraneous variables).
+** Small samples lead though to low external validity (how much it can be generalized); impossible to test everyone.
+*** When external validity is important: surveys; descriptive/correlational research; no experimental control over variables.
+** Criticism that most research is done with university undergraduates in academic settings (70%), or crowdsourcing labor markets (Amazon Mechanical Turk); leading to a disproportional sampling set.
+* Statistical significance (5% or less due to chance) is important before evaluating an underlying hypothesis.
+** Replication testing also validates results (not due to chance).
+* Hazard in the field: Pressure to publish (leading to false positive conclusions) and the author's link:../phenomena/confirmation_bias.html[confirmation bias].
+
+=== Famous Experiments
+
+* Asch's conformity experiment
+** Task to estimate line-length, showing how we conform others in a small group (30%), although the answer is obviously wrong.
+** We conform less likely if at least one other member also disagrees; and we conform more likely if the group is bigger giving wrong answers.
+* Festinger cognitive dissonance experiments
+** Two groups were given a boring task, and later dishonestly give opinion about it; one group got a bit, other a lot of money.
+** The first group liked the task more, as the little money was not incentive enough, they experienced dissonance (discomfort/internal conflict).
+** The second group did not have to change their previously unfavorable attitudes about the task, the money was reason enough; no dissonance.
+* link:../phenomena/milgrams_experiment.html[Milgram experiment]
+** Showing how far people would go (even kill), giving electrical shocks to another person, while obeying an authority.
+* link:../phenomena/stanford_prison_experiment.html[Stanford prison experiment]
+** Zimbardo's study assigned one group as prison guards and the other as inmates, and people became very brutal and humiliating.
+** There is lots of criticism though, and trying to reproduce it lead to drastically different findings.
+* link:../phenomena/bobo_doll.html[Bandura's Bobo doll]
+** This experiment showed how agression is learned by imitation, by showing kids either aggressive or non-aggressive behavior towards a doll.
+** After left alone with it, children would imitate that behavior; boys more (if actor was same gender), and more physical, girls more verbal aggression.
+
+=== Ethics
+
+* Observing people can influence/alter their behavior, so it is necessary to use deception to conceal the study.
+** Using false cover stories, false participants (also called confederates, or stooges), false feedback, and more.
+** Some people argue that this might be unethical, yet alternatives (e.g. role-playing) yields different results than deception studies.
+** Especially when putting people in uncomfortable/embarrassing situations (Milgram obedience, Stanford prison) is often critized as unethical.
+* Today, all research must pass an ethical review (ethics committee/institutional review board), and things got way stricter than they were.
+** No harm, and benefits outweigh any possible risks/discomfort; informed consent, debriefing (reveal deceptions), etc.
+
+=== Replication Crisis
+
+* Issues ranging from publication bias to null-aversion have contributed to the current replication crisis.
+* There seem to be questionable research practices, yet not necessarily with any bad intent.
+** Manipulation of statistical analyses, sample sizes, or data management systems, to turn undesirable/insignificant to desirable/significant outcome.
+* It's also difficult to replicate the exact same conditions, as the people/environment has changed over the years.
+* Some areas which were once considered solid (social priming) are nowadays being checked thoroughly, due to failure to replicate findings.

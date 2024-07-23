@@ -1,0 +1,18 @@
+= Loaded Question
+
+.Definition
+****
+A form of complex question that contains a controversial assumption (e.g. a presumption of guilt).
+****
+
+* To ask a question that had a presumption built into it, so that it couldn't be answered without appearing guilty.
+* Loaded question fallacies are particularly effective at derailing rational debates because of their inflammatory nature.
+** The recipient of the loaded question is compelled to defend themselves and may appear flustered or on the back foot.
+
+== Example
+
+"A and B were both romantically interested in X. One day, with X sitting within earshot, A asked in an inquisitive tone whether B was still having problems with her drug habit."
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Loaded_question

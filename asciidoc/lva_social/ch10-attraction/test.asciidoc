@@ -1,0 +1,196 @@
+= Self-Test Attraction and Relationships
+
+[#test1]
+== 1. Predictors
+
+. Role of familiarity in propinquity effect?
+.. A sends invitation to B, because B sent invitation to A last month.
+.. Two people fall in love whose rooms are adjacent.
+.. Two people start dating after matching personalities/hobbies via a dating app.
+.. An introvert and an extrovert meet at a conference and find each other very interesting.
+** [hiddenAnswer]#b.#
+. Due to mere exposure effect?
+.. Concert attendees have favorable attitudes towards songs listened towards the end.
+.. A CEO prefers the company's new over the old slogan.
+.. Radio listeners like a song that was played often, compared to one played only twice.
+.. Someone remembers fun poems faster than dramatic ones.
+** [hiddenAnswer]#c.#
+. Which similarity dimension predicts attraction?
+.. attitudes
+.. attractiveness level
+.. genetics
+.. all of the above
+** [hiddenAnswer]#d. (a. and c.?)#
+. What's true?
+.. We like people genetically similar to us.
+.. We are attracted to people with similar life experiences.
+.. The more someone likes us, the more attractive we find them.
+.. all of the above
+** [hiddenAnswer]#d.#
+. What's _not_ a predictor of attraction in relationships?
+.. similarity
+.. reciprocity
+.. complementary
+.. propinquity
+** [hiddenAnswer]#c.#
+. Face's similarity is a predictor of attractiveness; explanation from evolutionary psychology?
+.. symmetrical faces remind us of ourselves
+.. a sign of health, potential mate with good genes
+.. western cultures value physical attractiveness more
+.. all of the above
+** [hiddenAnswer]#b.#
+. From evolutionary perspective, why do men and women differ looking for a partner?
+.. mend favor trustworthiness, women pleasant personality
+.. women favor physical attractiveness, men industriousness
+.. men favor reproductive capability, women resources
+.. women favor earning capacity, men ambitious
+** [hiddenAnswer]#c.#
+
+[#test2]
+== 2. Digital Connections
+
+. Phones and social interaction:
+.. no negative effect
+.. men more easily distracted
+.. distraction even if not used
+.. laptops/tablets distracting, phones are not
+** [hiddenAnswer]#c.#
+. Dating apps:
+.. more successful than traditional ways
+.. send messages to people "in the same league" (similar attractiveness/popularity)
+.. very popular among homo- but not heterosexuals
+.. the more you get to know someone you met online, the more you like them
+** [hiddenAnswer]#b. (also d.)#
+. Dating profiles:
+.. unintentional misinterpretations (especially women)
+.. accurate representations
+.. we find them reliable
+.. are harder to navigate/manipulate
+** [hiddenAnswer]#c. (?)#
+
+[#test3]
+== 3. Love and Close Relationships
+
+. The Triangular Theory of Love would describe a love for a prominent person as:
+.. Romantic love
+.. Fatuous love
+.. Companionate love
+.. Consummate love
+** [hiddenAnswer]#b.#
+. According to that theory, which is _not_ a component of love?
+.. Intimacy
+.. Passion
+.. Reciprocity
+.. Commitment
+** [hiddenAnswer]#c.#
+. The emotional state, when being taken care of by one's romantic partner, is known as:
+.. yuan
+.. gan qing
+.. amae
+.. jung
+** [hiddenAnswer]#c.#
+. Describe an anxious/ambivalent attachment style.
+.. Others are reluctant; partner won't love me/stay; I want to merge completely, and it scares people away.
+.. I am very close to some, but not to others; spend all my time with, but if disliked, avoid; happy having few close relationships.
+.. I'm uncomfortable being close; difficult to trust, to depend on others; nervous when someone gets close.
+.. Easy to get close, comfortable depending on them; don't worry being abandoned, or getting too close.
+** [hiddenAnswer]#a.#
+. The region getting activated when being in love, are the same as when?
+.. sleeping
+.. taking cocaine
+.. crying
+.. being anxious about being the focus of attention
+** [hiddenAnswer]#b.#
+
+[#test4]
+== 4. Assessing Relationships
+
+. According investment model: factor for commitment?
+.. family's attitude towards new partner
+.. proximity
+.. compassion vs companion love dominant
+.. relationship duration
+** [hiddenAnswer]#d.#
+. If relationship not equitable:
+.. overbenefited still be satisfied
+.. both satisfied
+.. both unsatisfied
+.. transform communal to exchange relationship
+** [hiddenAnswer]#c.#
+. What's not a dyadic/social phase of relationship dissolution?
+.. discussing whether staying friends afterward
+.. gossiping how dissatisfied you are
+.. updating family/friends relationship status
+.. get over breakup with distractions/hobbies
+** [hiddenAnswer]#d.#
+. What's true?
+.. initiate breakup is most stressful (than being broken up with)
+.. same- vs cross-sex relationships not same type/amount emotional responses
+.. staying friends can be good and bad after a breakup
+.. men are less upset by breakups
+** [hiddenAnswer]#c.#
+
+
+[#test5]
+== 5. Summary
+
+. Initially didn't like, see more often, suddenly do like:
+.. Investment model
+.. Secure attachment style
+.. Halo effect
+.. Mere exposure effect
+** [hiddenAnswer]#d.#
+. Benefit of online dating?
+.. Propinquity wider range of people
+.. Algorithm better matches
+.. More honest online
+.. We don't feel they are "out of my league"
+** [hiddenAnswer]#a.#
+. What's false?
+.. Communal relationship keep track of contributions.
+.. "Average faces" are more attractive.
+.. We like who likes us.
+.. The more we see them, the more we like them.
+** [hiddenAnswer]#a.#
+. Investment model: indication for intention to break up?
+.. Another guy is pursuing her.
+.. We have only recently started dating.
+.. She isn't happy, avoids spending time.
+.. All of the above.
+** [hiddenAnswer]#d.#
+. Which attachment style has difficulties because being rejected in the past?
+.. reciprocal
+.. avoidant
+.. anxious/ambivalent
+.. secure
+** [hiddenAnswer]#c.#
+. About attachment styles:
+.. Few (if any) change their style
+.. Majority are avoidant
+.. Style is shaped by partner's behavior/relationship type
+.. As infant, attachment little to do when adult
+** [hiddenAnswer]#c.#
+. Equity theory of relationship satisfaction:
+.. Stop helping him, because he never helps you as much.
+.. Help him, because you like him.
+.. Forget to help him, because you forgot (although asked for it).
+.. Let pay for your lunch.
+** [hiddenAnswer]#a.#
+. Secure attachment style:
+.. low anxiety, low avoidance
+.. high anxiety, low avoidance
+.. low anxiety, high avoidance
+.. high anxiety, high avoidance
+** [hiddenAnswer]#a.#
+. Considering breaking up, lots rewards and few costs, met someone new, even more rewards and fewer costs:
+.. low comparison, high alternatives
+.. high comparison, high alternatives
+.. low comparison, low alternatives
+.. high comparison, low alternatives
+** [hiddenAnswer]#b.#
+. Breakup as least stressful?
+.. breakers
+.. breakees
+.. mutuals
+.. avoidants
+** [hiddenAnswer]#d.#

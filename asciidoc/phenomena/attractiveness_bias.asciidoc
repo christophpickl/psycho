@@ -1,0 +1,44 @@
+= Attractiveness Bias
+
+.Definition
+****
+When attractive people get better treated because we think of them as better (intelligence, social competence, morality).
+****
+
+* A.k.a. "Physical attractiveness stereotype", or "physical attractiveness stereotype", or "beautiful-is-good stereotype", or "attractiveness halo".
+** Attractive = symmetry, averageness, health and fertility.
+*** Attractive bias: successful, dominant, sociable, trustworthy, mentally stable, intelligent, ...
+** For women: socially acknowledged features of sexuality (makeup, lipstick) and a waist-to-hip ratio of 0.70 (as seen in all advertisements; opposed to men's 0.90).
+*** Stereotypical feminine characteristics: thick mouth and upper lip, smaller lower faces, and prominent cheekbones.
+** For men: wealth and power (social status, high-paying job); expensive clothes, automobiles.
+*** Stereotypical masculine characteristics: broad jaw, pronounced brow ridge, and a wide nose and chin.
+** How to be perceived more intelligent (independent of attractiveness): enough sleep (eyelid openness!), (subtle) smile, grooming
+* Although we say to "not judge a book by its cover", we still do, and simply can't help it.
+** You may find it an unethical thing to do, yet you do it unconsciously and can't be blamed for it.
+** Even toddlers look longer on attractive faces (independent of age, race, or gender).
+** It is known to be a cross-cultural phenomena.
+* Facial cues guide our first impressions, thus also our decisions.
+** Some facial cues are actually valid indicators for things such as health or intelligence.
+** Pretty-privilege (social, economical, political): Attractive children get more affection from their mother, adults get more attention from the opposite sex, better job success, receive more leniency in court, ...
+** Disadvantage though if same-sex people have to judge a pretty person (removing potential "mating threat").
+* Experiment: application form (with picture, name, address) left in a phone booth.
+** Only difference was the picture: attractive or not, male or female, white or black.
+** As expected, the forms with the attractive pictures were more often returned.
+* Conclusion: If you are ugly, you are at a disadvantage.
+** But you can work out, dress nicely, and accumulate wealth and social status to stand a fighting chance in getting preferential treatment.
+
+== Relations
+
+* Related to the expectancy effect: the more expected, the better perform (self-fulfilling prophecy; pigmeleon effect = told students were intelligent, and became so)
+* Also see the related link:halo_effect.html[halo effect].
+* The gender bias is a subset of this bias, influencing your likelihood of getting a certain (male/female) job just because of your gender (perceived masculine/feminine characteristics).
+* It is further related to the link:baby_face_bias.html[baby face bias].
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Physical_attractiveness_stereotype
+* https://medium.com/@coffeeandjunk/cognitive-bias-attractiveness-bias-f892f81727ed
+
+.YouTube Video: "Blinded by beauty", TEDxTalk from Sean Talamas, 12mins
+[link=https://www.youtube.com/watch?v=Ay9cf8X9N4Q]
+image::https://img.youtube.com/vi/Ay9cf8X9N4Q/0.jpg[Blinded by beauty,300]

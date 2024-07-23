@@ -9,7 +9,7 @@ image::attribution_bias.jpg[Fundamental Attribution Bias,500,100]
 ** When *we succeed*, it must be because of us/*internally*, and when we *fail* we search for blame *externally*.
 ** When *others succeed*, it must be because of *external* reasons, and when they *fail* it must have to do with them/*internally*.
 * Thus it leads to systematic patterns of deviation from norm/rationality in judgement; perceptual distortions, inaccurate assessments, illogical interpretations of events/behaviors.
-* *Example*: When someone cuts us off, we have no possibility to figure out the real reason, instead we usually are inclined to guess it's because of his personality ("That driver is rude and incompetent ... and I'm so so much better of course"), instead of assuming situational circumstances ("That driver needs to bring urgently his pregnant wife to the hospital").
+* *Example*: When someone cuts us off, we have no possibility to figure out the real reason, instead we are usually inclined to guess it's because of his personality ("That driver is rude and incompetent ... and I'm so much better of course"), instead of assuming situational circumstances ("That driver needs to bring urgently his pregnant wife to the hospital").
 
 == Types
 

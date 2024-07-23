@@ -1,0 +1,21 @@
+= Anecdotal Evidence
+
+.Definition
+****
+Using a personal experience/an isolated example, instead of a sound argument/compelling evidence.
+****
+
+* It's often much easier for people to believe someone's testimony as opposed to understanding complex data and variation across a continuum.
+** Quantitative scientific measures are almost always more accurate than personal perceptions and experiences, but our inclination is to believe that which is tangible to us, and/or the word of someone we trust over a more 'abstract' statistical reality.
+* Sources can be:
+** Personal experiences or sense data, also called testimony, or a testimonial.
+** The words or experiences of another named person, sometimes called hearsay.
+** An account from a fictional source, or story with no attribution, also called an apocryphal saying, an old wives' tale, a myth, or folklore.
+
+== Example
+
+"X said that that was all cool and everything, but his grandfather smoked, like, 30 cigarettes a day and lived until 97 - so don't believe everything you read about meta analyses of methodologically sound studies showing proven causal relationships."
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Anecdotal_evidence

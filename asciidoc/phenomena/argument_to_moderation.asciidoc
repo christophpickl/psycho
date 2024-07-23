@@ -1,0 +1,15 @@
+= Argument to moderation
+
+Also known as the "false compromise", "argument from middle ground", "fallacy of gray", "middle ground fallacy", "golden mean fallacy" or Latin: "argumentum ad temperantiam".
+
+.Definition
+****
+Believing that the truth is always in the middle of two opposites.
+****
+
+* It's of course also not the case, that this fallacy is always fallacious.
+** The error is done when the position is argued for solely on the base _because_ it is in the middle.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Argument_to_moderation

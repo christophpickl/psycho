@@ -1,0 +1,153 @@
+= Prosocial Behavior
+
+* Think of the attack on the World Trade Center on September 11, 2001.
+** An incredible courage and sacrifice was made by people towards strangers.
+** 403 firefighters and police offers died trying to rescue people!
+
+== Motives
+
+.Prosocial Behavior
+****
+Behavior to benefit another person.
+****
+
+* Let's look at the basic motives underlying prosocial behavior, or short: Why do we help?
+** How can we explain acts of great self-sacrifice and heroism?
+** Especially considering that we also can be so uncaring and heartless at the same time.
+
+.Altruism
+****
+Wanting to help others, even if it is a "cost game".
+****
+
+* We might behave prosocial out of self-interest, secretly hoping we get something in return.
+** Altruism is about helping purely with benefit to the other, and none to oneself (maybe even at some cost).
+** The heroes of 9/11 are a clear example of that -the people they rescued were not even genetically related to them.
+
+=== Evolutionary Psychology - Instincts and Genes
+
+* How can evolutionary theory explain altruism?
+** If all is about our own survival (and reproduction), how does that fit in helping others (at costs for themselves)?
+** By putting ourselves at risk, we might produce fewer offspring than when acted selfishly.
+
+.Kin Selection
+****
+Natural selection made us help genetic relatives.
+****
+
+* We can increase the chances that our genes are passed, not only by our own children, but also by genetic relatives.
+** This phenomenon is not limited to one gender or a particular culture.
+** We seem (based on consistent, anecdotal evidence) to more likely save our sibling than our cousin.
+* We don't seem to consciously weight the biological importance, before deciding whether to help, of course.
+** It is very deeply ingrained in our human behavior.
+
+.Norm of Reciprocity
+****
+Helping others, in expectation they will help us back.
+****
+
+* This helps us to explain altruism further: We expect something back from others in the future (an investment).
+** Imagine being selfish individuals in a cave, it would be more difficult to survive (no fridge), compared cooperating in a group.
+** Of course, cooperating to easily might leave us vulnerable of being exploited.
+* For reciprocity to be regulated we feel a sensation of gratitude -positive feeling, when we perceive being helped by others.
+
+[NOTE.tryit,caption=TRY IT]
+====
+*The Dictator Game*
+
+* A study on human generosity.
+* An experimenter gives you 10 dollars:
+** Keep it all, or donate some to a stranger you will never see.
+** The donation will be put in an envelope, no one will ever know whether/how much you donated, and no contact between people happens.
+** How much (if any) would you donate?
+** On average, people gave 2.80 dollars.
+* Now a slight twist: The experimenter gives you an envelope with a donation from another participant.
+** The change here is, that people will give away roughly the same amount they received as a donation.
+** Conclusion: we help others to the same degree that they help us.
+
+See: https://en.wikipedia.org/wiki/Dictator_game
+====
+
+=== Social Exchange - Costs and Rewards
+
+* Social exchange theory: Altruistic behavior can be based on self-interest.
+** Desire to maximize rewards, minimize costs; just as in an economic marketplace for social rewards instead of money.
+* Helping can be rewarding in many ways:
+** Increasing the likelihood to be reciprocated, thus acting as an investment into the future.
+** It can relieve distress, e.g. of a bystander.
+** Receiving social approval from others, leading to an increased feeling of self-worth.
+* Helping can be of course costly.
+** Physical danger, resulting in pain or embarrassment, taking much time.
+* According to social exchange theory, _true altruism_ does not exist.
+** Yet, empathy-altruism hypothesis claims that we help out of strong feelings of empathy and compassion.
+* We can get gratification in many ways, and we should be thankful that one way is by helping others.
+* Prosocial acts help both, the giver and the recipient.
+** Still, some argue that all helping stems from self-interest.
+** Yet, some social psychologists say that we do have hearts of gold and sometimes help only for the sake of helping.
+
+=== Empathy and Altruism
+
+... PAGE 360 ...
+
+* The pure motive for helping.
+
+== Personal Qualities
+
+* Why do some people help more than others?
+* Personal qualities that influence whether a given individual will help.
+
+=== Altruistic Personality
+
+=== Gender Differences
+
+=== Cultural Differences
+
+=== Religion
+
+=== Effects of Mood
+
+== Situational Determinants
+
+* When will people help?
+
+=== Environment: Rural vs Urban
+
+=== Residential Mobility
+
+=== Bystander Effect
+
+=== Cyberspace and Diffusion of Responsibility
+
+=== Media: Video Games and Music Lyrics
+
+== Increasing It
+
+* How can helping be increased?
+
+=== Bystanders Intervening
+
+=== Volunteerism
+
+
+
+
+.Term
+****
+Definition.
+****
+
+[NOTE.tryit,caption=TRY IT]
+====
+*Some Title*
+
+xxx
+====
+
+[NOTE.test,caption=REVIEW QUESTIONS]
+====
+link:test.html#testX[Test yourself]
+====
+
+[#img-xxx]
+xxx
+image::images/xxx.jpg[xx,400,100]

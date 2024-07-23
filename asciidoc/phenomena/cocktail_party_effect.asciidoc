@@ -1,0 +1,23 @@
+= Cocktail Party Effect
+
+.Definition
+****
+Unconscious processing of stimuli for something outstanding which "wakes us up".
+****
+
+* A form of selective attention (usually hearing), where our brain focuses only on a particular (auditory) stimulus.
+** Thus excluding other stimuli from our conscious awareness.
+* Yet, once something significant is happening, we suddenly get aware of it.
+** Thus, unconsciously ALL stimuli must have been processed (pre-conscious perception).
+* Reason is due to our limited conscious perceptual/cognitive resources available.
+
+== Origin
+
+* Imagine you are at a cocktail party, where lots of conversations are going on in parallel.
+** Our brain focus on only a single conversation, that which we are directly engaged with.
+* Suddenly, someone uses our name, and we are fully aware of the other conversation.
+** Thus, something (unconscious) in our mind kept constant track of all the conversations going on in the room, scanning them for specific patterns (like our name, which seems important to us).
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Cocktail_party_effect

@@ -1,0 +1,19 @@
+= Genetic Fallacy
+
+* Also known as the "fallacy of origins" or "fallacy of virtue".
+
+.Definition
+****
+Judging something as either good/bad on the basis of where/from whom it comes from.
+****
+
+* This fallacy of irrelevance avoids the argument by shifting focus onto something's or someone's origins.
+* It's similar to an link:ad_hominem.html[Ad Hominem fallacy] in that it leverages existing negative perceptions to make someone's argument look bad, without actually presenting a case for why the argument itself lacks merit.
+
+== Example
+
+"Accused on the news of corruption and taking bribes, the senator said that we should all be very wary of the things we hear in the media, because we all know how very unreliable the media can be."
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Genetic_fallacy

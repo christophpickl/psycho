@@ -1,4 +1,20 @@
 = Ambiguity Effect
 
-* When we experience discomfort/uncertainty in making decisions, when the available information is vague/unclear.
-* E.g. if have to choose to buy one of two unknown soap brands, some people hesitate or even buy neither due to ambiguity.
+.Definition
+****
+Preferring options for which the probability of a favorable outcome is known, over an option for which the probability of a favorable outcome is unknown.
+****
+
+* This kind of decision-making is affected by a lack of information, or "ambiguity" (vague/unclear).
+** We use a double meaning or ambiguity of language to mislead or misrepresent the truth.
+** In such moments we experience some discomfort due to uncertainty.
+* Politicians are often guilty of using ambiguity to mislead and will later point to how they were technically not outright lying if they come under scrutiny.
+* If we have to choose to buy one of two unknown soap brands, some people hesitate or even buy neither due to ambiguity.
+
+== Example
+
+"When the judge asked the defendant why he hadn't paid his parking fines, he said that he shouldn't have to pay them because the sign said 'Fine for parking here', and so he naturally presumed that it would be fine to park there."
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Ambiguity_effect

@@ -6,9 +6,7 @@ And may this search lead us to less ignorance, as:
 
 "_We often fear what we don't *understand*. Our best defence is *knowledge*._"
 
-
 image::gestalt_cube.jpg[Negative space,300,100]
-
 
 == About
 
@@ -29,4 +27,5 @@ Currently most of the content exists for the following subjects:
 Everything else is mostly link:universiteit/index.html[university related] content, besides a list of very important link:people/index.html[people], as well as a collection of link:phenomena/index.html[phenomena] containing fascinating studies, experiments, real life cases, biases and other fascinating stuff.
 
 The link:meta/index.html[meta discussions] cover topics not directly related to psychology but still touch it on another level.
+And because as human, social beings, matters of the heart and link:love/index.html[love] seem to be of such an importance, a dedicated space was created for it.
 For any further reading have a look at the collection of link:resources/index.html[resources].

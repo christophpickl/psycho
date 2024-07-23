@@ -1,0 +1,22 @@
+= Regression toward the mean
+
+Also called "regression to the mean", "reversion to the mean", "reversion to mediocrity", or "return to average/normal".
+
+.Definition
+****
+Statistical phenomena when a random sample is extreme, the next sample is more likely to be closer to the mean.
+****
+
+* Simple speak: Things even out over time (where ever there is luck/chance/randomness involved).
+* Also made famous by psychologist Daniel Kahneman.
+
+== Example
+
+A sports coach congratulates his student, and everytime he does so, the student performs worse.
+On the other hand, every time he angrily criticises him, he does better next time.
+Is the correct conclusion to stop congratulating and only criticise them?
+No, as peak performance (whether extra-ordinarily good or bad) is due to an un/lucky day, so no matter the response to it, the next day it will most likely return to average performance.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Regression_toward_the_mean

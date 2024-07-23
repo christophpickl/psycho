@@ -14,3 +14,7 @@ Presenting a premise of an argument which contains (a in/direct) assumption that
 * Circular reasoning is bad mostly because it's not very good.
 * People have known for thousands of years that the earth is round. Therefore, the earth is round.
 * Coca Cola is the most popular soft drink in the world. Therefore, no other soft drink is as popular as Coca Cola.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Begging_the_question

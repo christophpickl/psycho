@@ -1,0 +1,21 @@
+= Fallacy of composition
+
+.Definition
+****
+Assuming that one part of something has to be applied to all, or other, parts of it; or that the whole must apply to its parts.
+****
+
+* Often when something is true for the part it does also apply to the whole, or vice versa, but the crucial difference is whether there exists good evidence to show that this is the case.
+** Because we observe consistencies in things, our thinking can become biased so that we presume consistency to exist where it does not.
+
+== Example
+
+"X was a precocious child and had a liking for logic. He reasoned that atoms are invisible, and that he was made of atoms and therefore invisible too. Unfortunately, despite his thinky skills, he lost the game of hide seek."
+
+Or more simply put: "This tire is made of rubber; therefore, the vehicle of which it is a part is also made of rubber."
+
+Or more real word applicable: "'Every man who exists has a mother... therefore the human race must have a mother'. This was intended to illustrate how cosmological arguments for God's existence commit the fallacy by assuming that the universe itself requires a cause or an explanation for its existence just because everything in the universe does."
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Fallacy_of_composition

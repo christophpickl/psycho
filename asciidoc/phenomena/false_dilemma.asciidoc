@@ -1,0 +1,28 @@
+= False Dilemma
+
+Also known as "black-or-white", "false dichotomy" or "false binary".
+
+.Definition
+****
+Being presented two alternative states as the only possibilities, when in fact more possibilities exist.
+****
+
+[#img-false_dilemma]
+.Young America's dilemma: Shall I be wise and great, or rich and powerful?
+image::false_dilemma.png[False Dilemma Fallacy,500,100]
+
+* An informal fallacy based on a premise that erroneously limits what options are available.
+** The source of the fallacy lies not in an invalid form of inference but in a false premise.
+** An insidious tactic which has the appearance of forming a logical argument, but under closer scrutiny it becomes evident that there are more possibilities than the either/or choice that is presented.
+* This premise has the form of a disjunctive claim: it asserts that one among a number of alternatives must be true.
+** This disjunction is problematic because it oversimplifies the choice by excluding viable alternatives, presenting the viewer with only two absolute choices when, in fact, there could be many.
+* Binary, black-or-white thinking doesn't allow for the many different variables, conditions, and contexts in which there would exist more than just the two possibilities put forth.
+* It frames the argument misleadingly and obscures rational, honest debate.
+
+== Example
+
+"Whilst rallying support for his plan to fundamentally undermine citizens' rights, the Supreme Leader told the people they were either on his side, or they were on the side of the enemy."
+
+== Resources
+
+* https://en.wikipedia.org/wiki/False_dilemma

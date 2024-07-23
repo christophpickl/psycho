@@ -1,0 +1,20 @@
+= Ad Hominem
+
+Latin for "to the person", short for "argumentum ad hominem".
+
+.Definition
+****
+A rhetorical strategy attacking the person making the argument instead of the argument itself.
+****
+
+* Attacking the opponent's character/personal traits in an attempt to undermine their argument.
+** Can take the form of overtly attacking somebody, or more subtly casting doubt on their character or personal attributes as a way to discredit their argument.
+** The result can be to undermine someone's case without actually having to engage with it.
+
+== Example
+
+"After A presents an eloquent and compelling case for a more equitable taxation system, B asks the audience whether we should believe anything from A who isn't married, was once arrested, and smells a bit weird."
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Ad_hominem

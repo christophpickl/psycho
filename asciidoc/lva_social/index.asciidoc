@@ -7,6 +7,8 @@ image::study_social.png[Study Social Psychology,400,100]
 
 "_It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own._" (Marcus Aurelius)
 
+Also interesting, what link:wikipedia.html[Wikipedia] has to say about social psychology.
+
 == Book
 
 [#id-introduction-book]
@@ -26,8 +28,8 @@ image::book_social_psychology.jpg[Social Psychology Book,200,100]
 . link:ch7-attitudes/index.html[Attitudes] -- Influencing Thoughts and Feelings
 . link:ch8-conformity/index.html[Conformity and Obedience] -- Influencing Behavior
 . link:ch9-groups/index.html[Group Process] -- Influence in Social Groups
-// . link:ch10-attraction/index.html[Interpersonal Attraction] -- From Initial Impressions to Long-Term Intimacy
-// . link:ch11-prosocial/index.html[Prosocial Behavior] -- Why Do People Help?
+. link:ch10-attraction/index.html[Attraction and Relationships] -- From Initial Impressions to Long-Term Intimacy
+. link:ch11-prosocial/index.html[Prosocial Behavior] -- Why Do People Help?
 // . link:ch12-aggression/index.html[Aggression] -- Why Do We Hurt Other People? Can We Prevent It?
 // . link:ch13-prejudice/index.html[Prejudice] -- Causes, Consequences, and Cures
 // . link:chA1-happiness/index.html[Action: Happiness] -- Using Social Psychology to Achieve a Sustainable and Happy Future

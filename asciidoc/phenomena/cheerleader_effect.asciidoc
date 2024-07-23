@@ -1,4 +1,17 @@
 = Cheerleader Effect
 
+* Also known as the "group attractiveness effect" or the "friend effect".
+
+.Definition
+****
+Perceiving individuals more attractive when seen in group (than alone).
+****
+
+* A cognitive bias based on evolutionary psychology for sexual selection based on physical attractiveness.
+** Explanation suggests that average faces are more attractive to us (health, fertility); cross-cultural phenomenon.
 * When our impression about people improves, when they are surrounded by "their fans" (who like/support them).
-* E.g. someone seems more attractive/charming in a group setting, being in-tuned with the positive reactions from others.
+** E.g. someone seems more attractive/charming in a group setting, being in-tuned with the positive reactions from others.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Cheerleader_effect

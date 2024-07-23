@@ -1,0 +1,20 @@
+= False Cause
+
+* Also known as "causal fallacy" or "non causa pro causa" ("non-cause for cause" in Latin).
+
+.Definition
+****
+You presumed that a real/perceived relationship between things means that one is the cause of the other.
+****
+
+* An informal fallacies in which the cause are incorrectly identified.
+*  Many people confuse correlation (things happening together or in sequence) for causation (that one thing actually causes the other to happen).
+** Sometimes correlation is coincidental, or it may be attributable to a common cause (a third variable, a confounder in causal inference, affecting the dependent as well as independent variable).
+
+== Example
+
+Pointing to a fancy chart, X shows how temperatures have been rising over the past few centuries, whilst at the same time the numbers of pirates have been decreasing; thus pirates cool the world and global warming is a hoax.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Questionable_cause

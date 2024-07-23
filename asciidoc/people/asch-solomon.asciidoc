@@ -12,6 +12,8 @@ image::asch-solomon.jpg[Solomon Asch,200,100]
 == Achievements
 
 * Social psychology's concept of link:https://en.wikipedia.org/wiki/Impression_formation[impression formation].
+* link:../phenomena/aschs_conformity_experiment.html[Experiment on conformity]
+** He famously said 1955: "__The tendency to conformity in our society is so strong that reasonably intelligent and well-meaning young people are willing to call white, black. This is a matter of concern. It raises questions about our ways of education and about the values that guide our conduct.__"
 
 == Links
 

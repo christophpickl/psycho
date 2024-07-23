@@ -1,0 +1,17 @@
+= Placebo (effect) by Proxy
+
+.Definition
+****
+When someone gets a placebo treatment and others' feelings/perceptions about that treatment influence their judgments about its effectiveness.
+****
+
+* A positive effect of a patient's treatment on persons in their surrounding (such as family members or healthcare providers), who feel better because the patient is being treated.
+* Even visible in pets like dogs, cats, horses, and rats: These animals feel better after receiving a placebo/fake-treatment.
+** Possible explanation: The owner trusts in the (not knowing) placebo and gets more relaxed, which has in turn a positive effect on the animal.
+* The proxy can also feel worse when a patient is treated, which then is called the "nocebo (effect) by proxy".
+* Placebo effect: The biopsychosocial process, which engages perceptual/cognitive processes that lead to therapeutic benefits associated with the administration of a placebo in the context of individuals being treated.
+** In contrast, the placebo effect needs to be distinguished from the placebo response, which includes all health outcomes that follow administration of an inactive treatment.
+
+== Resources
+
+* https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2020.00169/full

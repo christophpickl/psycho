@@ -1,8 +1,5 @@
 = Phenomena
 
-// https://science.howstuffworks.com/life/inside-the-mind/human-brain/10-types-study-bias.htm
-// https://conservapedia.com/Scientific_bias
-
  To know that you do not know is highest.
  To not know but think you know is flawed.
  Only when one recognizes the fault as a fault can one be without fault.
@@ -11,6 +8,10 @@
  That is why they are without fault.
 
 -- Laozi
+
+ Never attribute to malice that which is adequately explained by stupidity.
+
+-- Hanlon's razor
 
 == Biases, Fallacies, Effects, Heuristics, Phenomena
 
@@ -21,55 +22,67 @@ They have developed as a result of evolutionary processes and social conditionin
 They can be observed in everyday life and have far-reaching consequences on individual and social level. Remember that no one is immune to cognitive biases, but being aware of them and taking active steps to mitigate their impact can lead to a more empathetic, inclusive, and well-rounded perspective.
 
 . link:actor_observer_bias.html[Actor Observer Bias] -- It's because of his personality, not due to the situation.
+. link:ad_hominem.html[Ad Hominem]
 . link:apophenia.html[Apophenia]
+. link:appeal_to_authority.html[Appeal to authority] argument
 . link:appeal_to_emotion.html[Appeal to emotion]
+. link:appeal_to_nature.html[Appeal to nature]
 . link:attentional_bias.html[Attentional Bias]
-. Attractiveness Bias
+. link:attractiveness_bias.html[Attractiveness Bias]
 . link:ambiguity_effect.html[Ambiguity Effect]
 . link:anchoring_bias.html[Anchoring Bias] -- initial price sets the baseline to compare (judge as high/low)
+. link:anecdotal_evidence.html[Anecdotal Evidence]
+. link:argument_to_moderation.html[Argument to moderation]
 . link:authority_bias.html[Authority Bias]
 . link:availability_bias.html[Availability Bias] -- If you can think of it, it must be important
 . link:availability_cascade.html[Availability Cascade]
-. Baader-Meinhof Phenomenon -- Cognitive bias towards things we learnt recently; e.g. learned new word, suddenly seem to appear everywhere (brain being more aware of it)
 . link:bandwagon.html[Bandwagon Effect] -- Doing it, simply because others are doing it
-. Baby-face Bias
+. link:baby_face_bias.html[Baby-face Bias]
 . link:barnum_effect.html[Barnum Effect]
 . link:base_rate_fallacy.html[Base Rate Fallacy]
-. Baseline -- Very difficult for humans do by Kahnemann
 . link:ben_franklin.html[Ben Franklin Effect] -- Start to like someone to reduce dissonance
-. Bystander Effect
 . link:begging_the_question.html[Begging the Question]
-. link:blind_spot.html[Blind-spot] -- Thinking one is self affected by biases than others
+. link:blind_spot.html[Blind-spot] -- Thinking one is self-affected by biases than others
+. link:burden_of_proof.html[Burden of Proof]
+. link:bystander_effect.html[Bystander Effect]
 . link:cheerleader_effect.html[Cheerleader Effect]
 . link:change_blindness.html[Change Blindness] -- A perceptual illusion where visual changes pass unnoticed to the observer.
 . link:choice_supportive_bias.html[Choice-supportive Bias]
-. Cocktail Party effect
+. link:cocktail_party_effect.html[Cocktail Party Effect]
 . link:cognitive_dissonance.html[Cognitive Dissonance] (Theory)
 . link:confirmation_bias.html[Confirmation Bias]
+. link:composition_fallacy.html[Composition Fallacy]
 . link:decoy_effect.html[Decoy Effect]
 . link:door_in_the_face.html[Door-in-the-Face Technique]
-. link:dunning_kruger_effect.html[Dunning Kruger Effect] -- The tendency of beginners to overestimate their level of skill.
+. link:dunning_kruger_effect.html[Dunning-Kruger Effect] -- The tendency of beginners to overestimate their level of skill.
 . link:hindsight_bias.html[Hindsight Bias] -- Or: "I knew it all along"
 . link:egocentric_bias.html[Egocentric Bias]
+. link:false_dilemma.html[False Dilemma] Fallacy
+. link:false_cause.html[False Cause]
+. link:fallacy_fallacy.html[The Fallacy Fallacy]
 . link:frequency_illusion.html[Frequency Illusion] -- a.k.a. Baader-Meinhof Phenomenon
 . link:framing.html[Framing Effect] -- Loss aversion
 . link:foot_in_the_door.html[Foot-in-the-Door Technique]
 . link:fundamental_attribution_error.html[Fundamental Attribution Error] -- It must be because he is just like that, or maybe the situation?
 . link:gamblers_fallacy.html[Gambler's Fallacy] -- Past events have no impact on future probabilities.
+. link:genetic_fallacy.html[Genetic Fallacy]
 . link:groupthink.html[Groupthink]
 . link:halo_effect.html[Halo Effect]
 . link:hawthorne_effect.html[Hawthorne Effect]
-. Illusory Superiority
+. link:hedonic_treadmill.html[Hedonic Treadmill]
+. link:hitchenss_razor.html[Hitchens's Razor]
 . link:hot_cold_empathy_gap.html[Hot-Cold Empathy Gap]
 . link:hot_hand_fallacy.html[Hot-Hand Fallacy]
 . link:illusory_truth_effect.html[Illusory Truth Effect]
 . link:illusion_of_control.html[Illusion of Control]
 . Illusion of explanatory depth (eg explain/draw bike, biro, toilet flush, zipper, lock, ...)
+. Illusory Superiority
 . link:information_bias.html[Information Bias]
 . link:ingroup_bias.html[Ingroup Bias] (Ingroup Favoritism)
 . Interpretation Bias
-. link:mcgurk_effect.html[McGurk Effect] -- A perceptual illusion where seeing and hearing influence each other.
 . Insufficient Justification Effect
+. link:mcgurk_effect.html[McGurk Effect] -- A perceptual illusion where seeing and hearing influence each other.
+. link:loaded_question.html[Loaded Question] (rhetoric tool)
 . link:looking_glass_self.html[Looking Glass Self]
 . link:loss_aversion.html[Loss Aversion]
 . link:mere_exposure_effect.html[Mere-Exposure Effect]
@@ -88,8 +101,10 @@ They can be observed in everyday life and have far-reaching consequences on indi
 . link:overconfidence_effect.html[Overconfidence Effect]
 . link:own_race_bias.html[Own-race bias]
 . link:peak_end_rule.html[Peak-end rule]
+. link:personal_incredulity.html[Personal Incredulity] Argument
 . Person Bias; See Fundamental Attribution Error
 . link:picture_superiority_effect.html[Picture Superiority Effect] -- Concepts easier learned by graphics then text only.
+. link:placebo_by_proxy.html[Placebo by Proxy]
 . Planning fallacy (by Roger Buehler)
 . link:predictable_world_bias.html[Predictable World Bias]
 . link:priming.html[Priming]
@@ -98,27 +113,40 @@ They can be observed in everyday life and have far-reaching consequences on indi
 . link:pygmalion_effect.html[Pygmalion Effect]
 . link:recency_bias.html[Recency Bias]
 . link:reciprocity.html[Reciprocity]
+. link:red_herring.html[Red Herring]
+. link:regression_toward_the_mean.html[Regression toward the mean]
 . link:representativeness_heuristic.html[Representativeness Heuristic]
 . Scientific Bias
-. link:selective_perception_bias.html[Selective Perception Bias]
-. Selective Interpretation (heuristics; availability h., representative h., ...)
 . link:selection_bias.html[Selection Bias]
+. Selective Interpretation (heuristics; availability h., representative h., ...)
+. link:selective_perception_bias.html[Selective Perception Bias]
 . Self-Fulfilling prophecies (related to Pygmalion Effect)
 . link:self_serving_bias.html[Self-Serving Bias] -- Claiming more responsibility for successes than for failures
 . link:serial_position_effect.html[Serial-Position Effect]
 . similarity-attraction principle: sympathy is based on similarity; same stays with same; we like which reminds us of ourselves (same looks, thinking; even from same town)
+. link:slippery_slope.html[Slippery Slope] Argument
+. link:special_pleading.html[Special Pleading]
 . link:spotlight_effect.html[Spotlight Effect]
+. link:straw_man.html[Straw Man]
 . Sunk Cost Fallacy
 . link:survivorship_bias.html[Survivorship Bias]
 . link:strange_situation.html[Strange Situation] Experiment -- What's your attachment style when you were a child?
+. link:texas_sharpshooter.html[Texas Sharpshooter] Fallacy
 . link:transparency_illusion.html[Transparency Illusion] (or: Illusion of transparency)
+. link:tu_quoque.html[Tu quoque] argument
 . link:unit_bias.html[Unit Bias]
+
+Sources of fallacies:
+
+* https://en.wikipedia.org/wiki/List_of_fallacies
 
 == Experiments, Studies, Cases and Tests
 
+* Strange Situation experiment (attachment style)
+
 === The Classics
 
-* Asch's Conformity
+* link:aschs_conformity_experiment.html[Asch's Conformity Experiment]
 * link:bobo_doll.html[Bobo doll experiment]
 * link:clever_hans.html[Clever Hans] - The horse which could answer math problems
 * Harlow's Rhesus Monkey: Wire VS cloth mother and primate

@@ -1,9 +1,30 @@
 = Base Rate Fallacy
 
+Also called "base rate neglect" or "base rate bias".
+When used in legal context for statistical tests, it's also called "prosecutor's fallacy" or "defense attorney's fallacy".
+
 .Definition
 ****
 When we focus too much on specific details and ignore overall probabilities.
 ****
 
-* E.g. at a party, many people wearing red shirts, thus incorrectly assuming most guests are wearing red shirts.
+* We tend to ignore the base rate (general prevalence) in favor of the individuating information.
+* It's a specific form of the more general extension neglect
+
+
+== Examples
+
+* You hear that a friend is very shy and quiet.
+** You might think therefor that he is more likely to be a librarian than a salesperson.
+** Although there are far more salespeople than librarians overall.
+** Hence, making it more likely that the friend is actually a salesperson.
+* At a party, many people wearing red shirts, thus incorrectly assuming most guests are wearing red shirts.
 ** Ignoring the base rate of various shirt colors in the population.
+
+[#img-base_rate_covid]
+.A hospital receiving more vaccinated COVID-19 patients than unvaccinated ones might suggest that the vaccine is ineffective, such an imbalance is to be expected within a highly vaccinated population.
+image::base_rate_fallacy_covid.png[Base Rate Covid,400,100]
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Base_rate_fallacy

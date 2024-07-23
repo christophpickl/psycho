@@ -1,6 +1,22 @@
 = Illusory Truth Effect
 
+* Also known as "illusion of truth effect", "validity effect", "truth effect", or the "reiteration effect".
+
 .Definition
 ****
-We are more likely to identify as true statement those we have previously heard, even if we cannot consciously remember having heard them.
+We tend to believe false information if we are exposed to it repeatedly.
 ****
+
+[#img-false_dilemma]
+.Just be repeating a lie over and over again, it actually starts to feel more true.
+image::illusory_truth_effect.gif[Illusory Truth Effect,500,100]
+
+* When we assess truth, we either go for A) understanding it, using logic and how this new information compares to what we already know or B) how familiar it feels, as more repeated conclusions seem more truthful to us.
+** Thus, familiarity can overpower rationality.
+** Paradoxically, hearing repetitively that something is wrong, can lead to make use feel it's right.
+* It plays a significant role in fields such as advertising, news media, and political propaganda.
+* It is also linked to the link:hindsight_bias.html[hindsight bias], where we feel way more confident in our judgement/prediction after the truth has been received.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Illusory_truth_effect

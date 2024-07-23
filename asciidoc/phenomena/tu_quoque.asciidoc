@@ -1,0 +1,21 @@
+= Tu Quoque Argument
+
+* Also known as "the appeal to hypocrisy".
+** Pronounced too-kwo-kwee, literally translating from Latin as "you too" or "you also".
+
+.Definition
+****
+Avoiding having to engage with criticism by turning it back on the accuser - answering criticism with criticism.
+****
+
+* A fallacy (or discussion technique), trying to discredit the opponent's argument, by attacking his personal behavior/actions as inconsistent with their argument, making look hypocritical.
+** This seemingly plausible reasoning is a special type of link:ad_hominem.html[ad hominem] attack.
+* It is commonly employed as an effective link:red_herring.html[red herring] because it takes the heat off someone having to defend their argument, and instead shifts the focus back on to the person making the criticism.
+
+== Example
+
+"X identified that Y had committed a logical fallacy, but instead of addressing the substance of X's claim, Y accused X of committing a fallacy earlier on in the conversation."
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Tu_quoque

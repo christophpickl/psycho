@@ -1,0 +1,23 @@
+= The Fallacy Fallacy
+
+A formal, logical fallacy which is also known as the "argument from fallacy", "argument to logic", "the fallacist's fallacy", or "bad reasons fallacy".
+
+.Definition
+****
+Presuming that because a claim has been poorly argued, or a fallacy has been made, that the claim itself must be wrong.
+****
+
+* It is entirely possible to make a claim that is false yet argue with logical coherency for that claim.
+** Just as it is possible to make a claim that is true and justify it with various fallacies and poor arguments.
+
+ If P, then Q.
+ P is a fallacious argument.
+ Therefore, Q is false
+
+== Example
+
+"Recognising that A had committed a fallacy in arguing that we should eat healthy food because a nutritionist said it was popular, B said we should therefore eat bacon double cheeseburgers every day."
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Argument_from_fallacy

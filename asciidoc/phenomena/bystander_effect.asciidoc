@@ -1,6 +1,12 @@
 = Bystander Effect
 
-* Also known as "bystander apathy".
+Also known as "bystander apathy".
+
+.Definition
+****
+Individuals are less likely to offer help to a victim in presence of other people.
+****
+
 * A social psychological theory, that the more witnesses are present, the less likely they will help.
 * First proposed after 1964's murder of link:kitty_genovese.html[Kitty Genovese].
 
