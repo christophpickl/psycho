@@ -1,0 +1,16 @@
+= Planning fallacy
+
+.Definition
+****
+When we totally underestimate the time we need to complete a task.
+****
+
+* We even do that when we know, based on our past experiences, that we usually underestimate the time needed.
+* We do that only for our own tasks, not for others.
+** Outsiders usually have a pessimistic bias, overestimating the time needed.
+* An expanded definition includes that it not only concerns time, but also costs (cost overruns) and risks of future actions and  overestimate the benefits (benefit shortfalls).
+* Related to the link:optimism_bias.html[optimism bias].
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Planning_fallacy

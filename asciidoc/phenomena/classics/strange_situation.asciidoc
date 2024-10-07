@@ -1,6 +1,6 @@
 = Strange Situation Test
 
-* A procedure developed by link:../people/ainsworth-mary.html[Mary Ainsworth] to test their attachment style.
+* A procedure developed by link:../../people/ainsworth-mary.html[Mary Ainsworth] to test their attachment style.
 
 == The procedure
 

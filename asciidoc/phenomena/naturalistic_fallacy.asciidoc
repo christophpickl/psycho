@@ -1,0 +1,24 @@
+= Naturalistic Fallacy
+
+* For the claim that something is good or right because it is natural (or bad or wrong because it is unnatural), see link:appeal_to_nature.html[appeal to nature].
+
+.Definition
+****
+The claim that something can be defined as good in terms of being natural (pleasant, desirable).
+****
+
+* Falls more into philosophical ethics... This term was coined by Moore (Principia Ethica).
+* It is sometimes used to describe the deduction of an _ought_ from an _is_; the "is-ought problem" (by David Hume's A Treatise of Human Nature).
+* Also related to Kant's categorical imperative, deducing that experience was necessary for its application, but experience on its own could not possibly identify an act as being im/moral.
+* The inverse of the link:moralistic_fallacy.html[moralistic fallacy].
+
+== Examples
+
+* Warfare must be allowed because human violence is instinctive.
+* Veganism is foolish because humans have eaten meat for thousands of years.
+* Men and women should not have the same roles in society because men have more muscle mass and women can give birth.
+* Adultery is acceptable because people can naturally want more sexual partners.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Naturalistic_fallacy

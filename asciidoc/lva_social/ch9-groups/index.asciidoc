@@ -58,7 +58,7 @@ Shared expectations how particular people are supposed to behave.
 ** They are helpful because so we know what to expect from each other.
 ** When the roles are clearly defined, we are satisfied and perform well.
 * In extreme cases, we lose our personalities if getting too far into a role.
-** Think of Zimbardo's (controversial) study to mock a prison at Stanford University's basement, the so-called link:../../phenomena/stanford_prison_experiment.html[Stanford Prison Experiment].
+** Think of Zimbardo's (controversial) study to mock a prison at Stanford University's basement, the so-called link:../../phenomena/classics/stanford_prison_experiment.html[Stanford Prison Experiment].
 ** The source of evil, in prisons where there is secrecy and no accountability, allowing people to do things they would ordinarily not do.
 * Zimbardo's prison study and Milgram's obedience study shows us that most of us would not fully resist.
 ** The social influences in these powerful situations would make us perform acts we thought never being capable of.

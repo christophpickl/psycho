@@ -140,12 +140,12 @@ Based on the article: https://en.wikipedia.org/wiki/Social_psychology
 ** Two groups were given a boring task, and later dishonestly give opinion about it; one group got a bit, other a lot of money.
 ** The first group liked the task more, as the little money was not incentive enough, they experienced dissonance (discomfort/internal conflict).
 ** The second group did not have to change their previously unfavorable attitudes about the task, the money was reason enough; no dissonance.
-* link:../phenomena/milgrams_experiment.html[Milgram experiment]
+* link:../phenomena/classics/milgrams_experiment.html[Milgram experiment]
 ** Showing how far people would go (even kill), giving electrical shocks to another person, while obeying an authority.
-* link:../phenomena/stanford_prison_experiment.html[Stanford prison experiment]
+* link:../phenomena/classics/stanford_prison_experiment.html[Stanford prison experiment]
 ** Zimbardo's study assigned one group as prison guards and the other as inmates, and people became very brutal and humiliating.
 ** There is lots of criticism though, and trying to reproduce it lead to drastically different findings.
-* link:../phenomena/bobo_doll.html[Bandura's Bobo doll]
+* link:../phenomena/classics/bobo_doll.html[Bandura's Bobo doll]
 ** This experiment showed how agression is learned by imitation, by showing kids either aggressive or non-aggressive behavior towards a doll.
 ** After left alone with it, children would imitate that behavior; boys more (if actor was same gender), and more physical, girls more verbal aggression.
 

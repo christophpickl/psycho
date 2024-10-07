@@ -1,0 +1,15 @@
+= Insufficient Justification Effect
+
+.Definition
+****
+We are more likely to do things we don't believe in when given something small, rather big.
+****
+
+* The big reward minimizes our cognitive dissonance because it helps with our justification.
+* When the extrinsic motivation is low, we tend to reduce cognitive dissonance by generating an intrinsic motivation to explain our behavior.
+** We also tend to decline a desired activity, when the threat is mild instead of serious.
+* It happens when the reward (threat) is sufficient, so we do it (or not), but insufficient for us to conclude the situation caused our behavior.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Insufficient_justification

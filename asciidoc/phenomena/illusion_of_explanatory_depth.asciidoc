@@ -1,0 +1,16 @@
+= Illusion of explanatory depth
+
+.Definition
+****
+We think we understand something than we actually do.
+****
+
+* Or differently put: "We mistake our familiarity with a situation for an understanding of how it works".
+** As in: Psychology is a field that is "simple" and "obvious" anyhow.
+* This is especially the case for everyday mechanical/electrical devices, but also politics, mental disorders, natural phenomena, and  folk theories.
+** Just try to explain or draw bike, or how a biro works, toilet flush, zipper, lock, ...
+* This illusion/cognitive bias (also shortened as IOED) is related to the link:dunning_kruger_effect.html[Dunning-Kruger effect], but it not only affects those with low/moderate competence but everyone.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth

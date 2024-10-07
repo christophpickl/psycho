@@ -10,6 +10,7 @@ Subpages::
 * The link:big5.html[five-factor model of personality] in detail.
 * link:memory.html[Memory] and its subparts.
 * link:chemicals.html[Chemicals] like hormones and neurotransmitters.
+* link:self-compassion.html[Self-Compassion] based on (Mindful) Acceptance and Commitment Therapy
 
 Other pages::
 

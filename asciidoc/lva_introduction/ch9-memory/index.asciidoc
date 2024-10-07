@@ -27,7 +27,7 @@ image::images/mindmap.png[Mind Map,100%,100]
 
 == Content
 
-* Case of link:../../phenomena/HM.html[H.M.] who couldn't form new memory.
+* Case of link:../../phenomena/cases/HM.html[H.M.] who couldn't form new memory.
 
 === Information-Processing Model
 
@@ -102,7 +102,7 @@ image::images/multi_tasking_impact.png[multi tasking impact,400,100]
 * Working memory processes: Update, switch, inhibit
 * Self-regulation: Thoughts, behavior, emotions
 * See: Wisconsin Cards
-* See case of link:../../phenomena/phineas_gage.html[Phineas-Gage], when damage is done to the PFC
+* See case of link:../../phenomena/cases/phineas_gage.html[Phineas-Gage], when damage is done to the PFC
 ** Fail to plan, decide, regulate emotions, inhibit thoughts/behavior
 
 .Wisconsin Card Sorting Test: Sort by a dimension (e.g. color), then -without notice- being reinforced to sort by another dimension (e.g. shape). Number of errors after "switch" trials indicates executive function of switching.
@@ -119,7 +119,7 @@ image::images/wisconsin.png[wisconsin,400,100]
 *** Procedural: motor skills (bicycle riding)
 *** Priming
 * Neuropsychological
-** Temporal-lob amnesia as in the link:../../phenomena/HM.html[H.M. Case]
+** Temporal-lob amnesia as in the link:../../phenomena/cases/HM.html[H.M. Case]
 
 .Long-term memory types: Explicit versus implicit, each with different rules and neural brain systems.
 image::images/long_term_types.png[long-term memory types,400,100]

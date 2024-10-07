@@ -1,0 +1,28 @@
+= Optimism Bias
+
+Or the "optimistic bias", "delusional optimism", "unrealistic optimism" or "comparative optimism".
+
+.Definition
+****
+We believe that we are less likely to experience a negative event.
+****
+
+* Although this bias tends to also believing that positive events happen to us more often, it is much stronger for negative events.
+* Everyone is affected by it, independent of gender, ethnicity, nationality, age; even animals such as rats and birds.
+** Only exception are autistic people, they are less susceptible to it.
+* Four factors:
+.. desired end state
+.. cognitive mechanisms
+.. information available about ourselves versus others
+.. overall mood
+
+== Examples
+
+* People believing that they are less at risk of being a crime victim.
+* Smokers believing that they are less likely to contract lung cancer or disease than other smokers.
+* First-time bungee jumpers believing that they are less at risk of an injury than other jumpers.
+* Traders who think they are less exposed to potential losses in the markets.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Optimism_bias

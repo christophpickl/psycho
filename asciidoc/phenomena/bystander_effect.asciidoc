@@ -8,7 +8,7 @@ Individuals are less likely to offer help to a victim in presence of other peopl
 ****
 
 * A social psychological theory, that the more witnesses are present, the less likely they will help.
-* First proposed after 1964's murder of link:kitty_genovese.html[Kitty Genovese].
+* First proposed after 1964's murder of link:cases/kitty_genovese.html[Kitty Genovese].
 
  When confronted with a potential emergency, people typically play it cool, adopt a look of nonchalance, and monitor the reactions of others to determine if a crisis is really at hand. No one wants to overreact, after all, if it might not be a true emergency. However, because each individual holds back, looks nonchalant, and monitors the reactions of others, sometimes everyone concludes (perhaps erroneously) that the situation is not an emergency and hence does not require intervention.
 

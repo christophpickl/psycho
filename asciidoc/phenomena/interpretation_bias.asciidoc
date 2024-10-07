@@ -1,0 +1,20 @@
+= Interpretation Bias
+
+Or "interpretive bias".
+
+.Definition
+****
+Inappropriately analyze ambiguous stimuli/scenarios/events.
+****
+
+* For example the hostile attribution bias, perceiving ambiguous (or even benign)  behaviors as hostile.
+* People with anxiety have that more often, interpreting everything with the worst case scenario ("filling the gaps" with the mind, projecting their fears onto that unknown).
+** Socially anxious people tend more to perceive neutral faces as negative.
+
+== Examples
+
+A situation in which one friend walks past another without acknowledgement. The individual may interpret this behavior to mean that their friend is angry with them.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Interpretive_bias

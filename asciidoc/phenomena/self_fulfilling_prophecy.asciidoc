@@ -1,12 +1,16 @@
 = Self-Fulfilling Prophecy
 
-* Definition: A prediction coming true because of one's believe/expectations.
+.Definition
+****
+A prediction coming true because of one's believe/expectations.
+****
+
 * Three factors influence the chance such a prophecy comes true: appearance, perception, and belief.
 ** Many names for the same thing of "belief creates reality": SFP, expectancy confirmation, behavioral confirmation.
 ** Related to the link:pygmalion_effect.html[pygmalion effect].
 ** link:https://en.wikipedia.org/wiki/Behavioral_confirmation[Behavioral confirmation] is a type of SFP: Our expectations lead us to behave in ways, that cause others to confirm their expectations.
 * The *Thomas theorem* (or Thomas dictum) states: "_If men define situations as real, they are real in their consequences._"
-* See: https://en.wikipedia.org/wiki/Self-fulfilling_prophecy
+* Related to the link:pygmalion_effect.html[Pygmalion Effect]
 
 == The lucky ball
 
@@ -23,3 +27,7 @@ image::https://img.youtube.com/vi/B93ueYrgLks/0.jpg[Self-Fulfilling Prophecy,300
 * *Achievement motivation*: A sense of persistence/drive. Thinking of oneself as being lucky.
 * We make our own luck, by being more open to *unexpected opportunities*/new ideas.
 * Lucky people are also more *optimistic* (and more extroverted/open, less neurotic/tense/anxious).
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Selffulfilling_prophecy

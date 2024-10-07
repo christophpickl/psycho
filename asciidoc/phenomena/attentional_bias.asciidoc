@@ -27,7 +27,7 @@ A cognitive bias where we pay attention to some, but totally ignore other percep
 
 [#img-stroop-test]
 .Name the color of the written word. First 2 rows easy, last ones less (link:https://en.wikipedia.org/wiki/Stroop_effect[source]).
-image::stroop_test.png[Stroop test,240,100]
+image::attentional_bias-stroop_test.png[Stroop test,240,100]
 
 == Links
 

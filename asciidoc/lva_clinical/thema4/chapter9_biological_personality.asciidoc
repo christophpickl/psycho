@@ -21,7 +21,7 @@
 ** fMRI helped to identify brain arease for things like judgement about self/morality of actions (cognitive higher-level functions)
 * Plasticity: Potential to change in neurobiological systems (as a result of experience)
 ** Not only genetics, but also environment plays a role for personality
-* Sometimes scientific advances happen due to accidents, Newton's apple or the case of link:../../phenomena/phineas_gage.html[Phineas Gage]
+* Sometimes scientific advances happen due to accidents, Newton's apple or the case of link:../../phenomena/cases/phineas_gage.html[Phineas Gage]
 ** Gage's story shows us the interconnections between brain and personality functioning.
 
 == Definitions

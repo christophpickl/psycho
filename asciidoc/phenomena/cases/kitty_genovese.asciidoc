@@ -10,7 +10,7 @@
 
 == Insights
 
-* Because of it, the so-called link:bystander_effect.html[bystander effect] (or "Genovese syndrome") was introduced.
+* Because of it, the so-called link:../bystander_effect.html[bystander effect] (or "Genovese syndrome") was introduced.
 
 == Resources
 

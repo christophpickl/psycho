@@ -89,7 +89,7 @@ Ask the people then to explain the result. Afterwards ask whether it was surpris
 
 ==== Hypotheses based on personal observations
 
-* Take the example of the link:../../phenomena/kitty_genovese.html[murder of Kitty Genovese].
+* Take the example of the link:../../phenomena/cases/kitty_genovese.html[murder of Kitty Genovese].
 * The question of "why" do people not help the more other people are present emerged.
 * How can we display so much apathy, being indifferent to human suffering, and lack caring?
 * _Diffusion of responsibility_

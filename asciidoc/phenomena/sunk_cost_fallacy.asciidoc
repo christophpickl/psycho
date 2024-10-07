@@ -1,0 +1,22 @@
+= Sunk Cost Fallacy
+
+Also called the "Concorde fallacy": the British and French governments took their past expenses on the costly supersonic jet as a rationale for continuing the project, as opposed to "cutting their losses".
+
+.Definition
+****
+Believing that past investments (i.e., sunk costs) justify further expenditures into failed ventures.
+****
+
+* Throwing good money after bad, instead of cutting one's losses.
+* Of course, as stopping the investment, would mean to acknowledge our losses we already made, which is painful.
+** So we avoid experiencing this painful truth, and continue lying to ourselves.
+
+== Examples
+
+* We remain in failing relationships because we "have already invested too much to leave".
+* War must continue because lives will have been sacrificed in vain unless victory is achieved.
+
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Sunk_cost

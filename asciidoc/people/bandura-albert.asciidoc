@@ -13,7 +13,7 @@ image::bandura-albert.jpg[Albert Bandura,200,100]
 == Achievements
 
 * Social cognitive/learning theory, personality psychology, therapy
-* See: link:../phenomena/bobo_doll.html[bobo doll experiment]
+* See: link:../phenomena/classics/bobo_doll.html[bobo doll experiment]
 
 == Links
 

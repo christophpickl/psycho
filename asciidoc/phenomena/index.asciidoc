@@ -13,7 +13,11 @@
 
 -- Hanlon's razor
 
-== Biases, Fallacies, Effects, Heuristics, Phenomena
+ I wrote a book about cognitive biases, even won the nobel prize, and studying all those biases made me not a single bit less prone to making them. The only thing that would truly help is curiousity and humbleness.
+
+-- Daniel Kahneman
+
+== Biases, Fallacies, Effects, Heuristics, Phenomena, Mental Shortcuts and Other Mind Traps
 
 Some human flaws and unique traits, thanks to social psychology, well known due to pop-psychology, a list of (more or less) funny effects, illusions & co. Useful to know for everyone to try to see a bit more clearly. Francis Bacon used to call cognitive biases also: "idols of the mind".
 
@@ -23,46 +27,45 @@ They can be observed in everyday life and have far-reaching consequences on indi
 
 . link:actor_observer_bias.html[Actor Observer Bias] -- It's because of his personality, not due to the situation.
 . link:ad_hominem.html[Ad Hominem]
+. link:ambiguity_effect.html[Ambiguity Effect]
+. link:anchoring_bias.html[Anchoring Bias] -- initial price sets the baseline to compare (judge as high/low)
+. link:anecdotal_evidence.html[Anecdotal Evidence]
 . link:apophenia.html[Apophenia]
 . link:appeal_to_authority.html[Appeal to authority] argument
 . link:appeal_to_emotion.html[Appeal to emotion]
 . link:appeal_to_nature.html[Appeal to nature]
+. link:argument_to_moderation.html[Argument to moderation]
 . link:attentional_bias.html[Attentional Bias]
 . link:attractiveness_bias.html[Attractiveness Bias]
-. link:ambiguity_effect.html[Ambiguity Effect]
-. link:anchoring_bias.html[Anchoring Bias] -- initial price sets the baseline to compare (judge as high/low)
-. link:anecdotal_evidence.html[Anecdotal Evidence]
-. link:argument_to_moderation.html[Argument to moderation]
 . link:authority_bias.html[Authority Bias]
 . link:availability_bias.html[Availability Bias] -- If you can think of it, it must be important
 . link:availability_cascade.html[Availability Cascade]
-. link:bandwagon.html[Bandwagon Effect] -- Doing it, simply because others are doing it
 . link:baby_face_bias.html[Baby-face Bias]
+. link:bandwagon.html[Bandwagon Effect] -- Doing it, simply because others are doing it
 . link:barnum_effect.html[Barnum Effect]
 . link:base_rate_fallacy.html[Base Rate Fallacy]
-. link:ben_franklin.html[Ben Franklin Effect] -- Start to like someone to reduce dissonance
 . link:begging_the_question.html[Begging the Question]
+. link:ben_franklin.html[Ben Franklin Effect] -- Start to like someone to reduce dissonance
 . link:blind_spot.html[Blind-spot] -- Thinking one is self-affected by biases than others
 . link:burden_of_proof.html[Burden of Proof]
 . link:bystander_effect.html[Bystander Effect]
-. link:cheerleader_effect.html[Cheerleader Effect]
 . link:change_blindness.html[Change Blindness] -- A perceptual illusion where visual changes pass unnoticed to the observer.
+. link:cheerleader_effect.html[Cheerleader Effect]
 . link:choice_supportive_bias.html[Choice-supportive Bias]
 . link:cocktail_party_effect.html[Cocktail Party Effect]
 . link:cognitive_dissonance.html[Cognitive Dissonance] (Theory)
-. link:confirmation_bias.html[Confirmation Bias]
 . link:composition_fallacy.html[Composition Fallacy]
+. link:confirmation_bias.html[Confirmation Bias]
 . link:decoy_effect.html[Decoy Effect]
 . link:door_in_the_face.html[Door-in-the-Face Technique]
 . link:dunning_kruger_effect.html[Dunning-Kruger Effect] -- The tendency of beginners to overestimate their level of skill.
-. link:hindsight_bias.html[Hindsight Bias] -- Or: "I knew it all along"
 . link:egocentric_bias.html[Egocentric Bias]
-. link:false_dilemma.html[False Dilemma] Fallacy
-. link:false_cause.html[False Cause]
 . link:fallacy_fallacy.html[The Fallacy Fallacy]
-. link:frequency_illusion.html[Frequency Illusion] -- a.k.a. Baader-Meinhof Phenomenon
-. link:framing.html[Framing Effect] -- Loss aversion
+. link:false_cause.html[False Cause]
+. link:false_dilemma.html[False Dilemma] Fallacy
 . link:foot_in_the_door.html[Foot-in-the-Door Technique]
+. link:framing.html[Framing Effect] -- Loss aversion
+. link:frequency_illusion.html[Frequency Illusion] -- a.k.a. Baader-Meinhof Phenomenon
 . link:fundamental_attribution_error.html[Fundamental Attribution Error] -- It must be because he is just like that, or maybe the situation?
 . link:gamblers_fallacy.html[Gambler's Fallacy] -- Past events have no impact on future probabilities.
 . link:genetic_fallacy.html[Genetic Fallacy]
@@ -70,31 +73,33 @@ They can be observed in everyday life and have far-reaching consequences on indi
 . link:halo_effect.html[Halo Effect]
 . link:hawthorne_effect.html[Hawthorne Effect]
 . link:hedonic_treadmill.html[Hedonic Treadmill]
+. link:hindsight_bias.html[Hindsight Bias] -- Or: "I knew it all along"
 . link:hitchenss_razor.html[Hitchens's Razor]
 . link:hot_cold_empathy_gap.html[Hot-Cold Empathy Gap]
 . link:hot_hand_fallacy.html[Hot-Hand Fallacy]
-. link:illusory_truth_effect.html[Illusory Truth Effect]
+. link:illusion_of_explanatory_depth.html[Illusion of explanatory depth]
 . link:illusion_of_control.html[Illusion of Control]
-. Illusion of explanatory depth (eg explain/draw bike, biro, toilet flush, zipper, lock, ...)
-. Illusory Superiority
+. link:illusory_superiority.html[Illusory Superiority]
+. link:illusory_truth_effect.html[Illusory Truth Effect]
 . link:information_bias.html[Information Bias]
 . link:ingroup_bias.html[Ingroup Bias] (Ingroup Favoritism)
-. Interpretation Bias
-. Insufficient Justification Effect
-. link:mcgurk_effect.html[McGurk Effect] -- A perceptual illusion where seeing and hearing influence each other.
+. link:insufficient_justification_effect.html[Insufficient Justification Effect]
+. link:interpretation_bias.html[Interpretation Bias]
 . link:loaded_question.html[Loaded Question] (rhetoric tool)
 . link:looking_glass_self.html[Looking Glass Self]
 . link:loss_aversion.html[Loss Aversion]
+. link:mcgurk_effect.html[McGurk Effect] -- A perceptual illusion where seeing and hearing influence each other.
 . link:mere_exposure_effect.html[Mere-Exposure Effect]
-. Memory Bias
 . link:mirrort_test.html[Mirror Test]
-. Motive Attribution Asymmetry: enemies are always wrong and the opposite of us
 . link:moral_credential_effect.html[Moral Credential Effect] - Justifying future bads for past goods
-. Moralistic Fallacy
-. Naturalistic Fallacy
+. link:moralistic_fallacy.html[Moralistic Fallacy]
+. link:motive_attribution_asymmetry.html[Motive Attribution Asymmetry]
+// TODO mysight bias (confirmation bias like)
+. link:naturalistic_fallacy.html[Naturalistic Fallacy]
 . link:next_in_line_effect.html[Next-in-line Effect]
 . link:no_true_scotsman.html[No true Scotsman]
 . link:omission_bias.html[Omission Bias]
+. link:optimism_bias.html[Optimism Bias]
 . link:ostrich_bias.html[Ostrich Bias]
 . link:outcome_bias.html[Outcome Bias]
 . link:outgroup_homogeneity.html[Out-group Homogeneity Bias]
@@ -102,10 +107,10 @@ They can be observed in everyday life and have far-reaching consequences on indi
 . link:own_race_bias.html[Own-race bias]
 . link:peak_end_rule.html[Peak-end rule]
 . link:personal_incredulity.html[Personal Incredulity] Argument
-. Person Bias; See Fundamental Attribution Error
+. Person Bias - See link:fundamental_attribution_error.html[Fundamental Attribution Error]
 . link:picture_superiority_effect.html[Picture Superiority Effect] -- Concepts easier learned by graphics then text only.
 . link:placebo_by_proxy.html[Placebo by Proxy]
-. Planning fallacy (by Roger Buehler)
+. link:planning_fallacy.html[Planning fallacy]
 . link:predictable_world_bias.html[Predictable World Bias]
 . link:priming.html[Priming]
 . link:projection_bias.html[Projection Bias]
@@ -116,29 +121,22 @@ They can be observed in everyday life and have far-reaching consequences on indi
 . link:red_herring.html[Red Herring]
 . link:regression_toward_the_mean.html[Regression toward the mean]
 . link:representativeness_heuristic.html[Representativeness Heuristic]
-. Scientific Bias
 . link:selection_bias.html[Selection Bias]
-. Selective Interpretation (heuristics; availability h., representative h., ...)
 . link:selective_perception_bias.html[Selective Perception Bias]
-. Self-Fulfilling prophecies (related to Pygmalion Effect)
+. link:self_fulfilling_prophecy.html[Self-Fulfilling Prophecy] (related to Pygmalion Effect)
 . link:self_serving_bias.html[Self-Serving Bias] -- Claiming more responsibility for successes than for failures
 . link:serial_position_effect.html[Serial-Position Effect]
-. similarity-attraction principle: sympathy is based on similarity; same stays with same; we like which reminds us of ourselves (same looks, thinking; even from same town)
+. link:similarity_attraction_effect.html[Similarity-Attraction Effect]
 . link:slippery_slope.html[Slippery Slope] Argument
 . link:special_pleading.html[Special Pleading]
 . link:spotlight_effect.html[Spotlight Effect]
 . link:straw_man.html[Straw Man]
-. Sunk Cost Fallacy
+. link:sunk_cost_fallacy.html[Sunk Cost Fallacy]
 . link:survivorship_bias.html[Survivorship Bias]
-. link:strange_situation.html[Strange Situation] Experiment -- What's your attachment style when you were a child?
 . link:texas_sharpshooter.html[Texas Sharpshooter] Fallacy
 . link:transparency_illusion.html[Transparency Illusion] (or: Illusion of transparency)
 . link:tu_quoque.html[Tu quoque] argument
 . link:unit_bias.html[Unit Bias]
-
-Sources of fallacies:
-
-* https://en.wikipedia.org/wiki/List_of_fallacies
 
 == Experiments, Studies, Cases and Tests
 
@@ -146,26 +144,36 @@ Sources of fallacies:
 
 === The Classics
 
-* link:aschs_conformity_experiment.html[Asch's Conformity Experiment]
-* link:bobo_doll.html[Bobo doll experiment]
-* link:clever_hans.html[Clever Hans] - The horse which could answer math problems
+The classics among psychological studies.
+Some of them were done in times were ethical standards were lower than those of today.
+That gave them the advantage to have possibilities we don't have today.
+Yet of course, all for the good of being ethical correct.
+
+Watch out though, some of them do not comply with today's standards about proper research methods.
+Some of them could not be reproduced anymore, raising a question of their validity.
+Up to concerns about whether researches deliberately manipulated, or at least unconsciously led their confirmation bias and their desire to prove themselves right to wrong conclusions.
+
+* link:classics/aschs_conformity_experiment.html[Asch's Conformity Experiment]
+* link:classics/bobo_doll.html[Bobo doll experiment]
+* link:classics/clever_hans.html[Clever Hans] - The horse which could answer math problems
+* link:classics/little_albert.html[Little Albert] - Torturing a baby so it dislikes teddies
+* link:classics/milgrams_experiment.html[Milgram's Obedience Experiment] - When authorities force us to deliver electrical shocks
+* link:classics/stanford_prison_experiment.html[Stanford Prison Experiment]: in-/outgroup bias, power of social norms
+. link:classics/strange_situation.html[Strange Situation] Experiment -- What's your attachment style when you were a child?
 * Harlow's Rhesus Monkey: Wire VS cloth mother and primate
-* link:little_albert.html[Little Albert] - Torturing a baby so it dislikes teddies
-* link:milgrams_experiment.html[Milgram's Obedience Experiment] - When authorities force us to deliver electrical shocks
 * Pavlov's dog
 * Robber's Cave
 * Skinner's cat box
-* link:stanford_prison_experiment.html[Stanford Prison Experiment]: in-/outgroup bias, power of social norms
 * Thorndike's puzzle box
 
 === Cases
 
 Some people's medical cases (accidents and other abnormalities in medical history) have lead to a leap in the understanding of the mind. These "unintentional experiments" would have been otherwise impossible to do, due to ethical restrictions. On the one hand fascinating from the standpoint of science, on the other hand tragic stories from an empathetical standpoint.
 
-* link:HM.html[H.M.] -- The man who was unable to form new memory. Memento anyone?
-* link:phineas_gage.html[Phineas Gage] -- Blast an iron stick through the brain, survive, and become a legend.
-* link:kitty_genovese.html[Kitty Genovese] -- Getting murdered and no one cares
-* Metro station on fire -- No one felt responsible
+* link:cases/HM.html[H.M.] -- The man who was unable to form new memory. Memento anyone?
+* link:cases/phineas_gage.html[Phineas Gage] -- Blast an iron stick through the brain, survive, and become a legend.
+* link:cases/kitty_genovese.html[Kitty Genovese] -- Getting murdered and no one cares
+// TODO * Metro station on fire -- No one felt responsible
 
 === Miscellaneous
 
@@ -191,9 +199,10 @@ Some people's medical cases (accidents and other abnormalities in medical histor
 
 == Resources
 
-* https://yourbias.is/
-* https://effectiviology.com/
+* https://yourbias.is
+* https://effectiviology.com
 * https://en.wikipedia.org/wiki/List_of_cognitive_biases
+* https://en.wikipedia.org/wiki/List_of_fallacies
 * https://www.scribbr.com/research-bias/
 
 German books:
@@ -206,6 +215,5 @@ Second order resources:
 
 * https://builtin.com/diversity-inclusion/unconscious-bias-examples
 * https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763
-* https://www.youtube.com/watch?v=wEwGBIr_RIw
 * https://www.youtube.com/watch?v=8SbV1jN12RY - Every Bias Explained in 8 Minutes
 * https://www.youtube.com/watch?v=wEwGBIr_RIw - 12 Cognitive Biases Explained - How to Think Better and More Logically Removing Bias

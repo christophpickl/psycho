@@ -1,0 +1,26 @@
+= Moralistic fallacy
+
+.Definition
+****
+We think that something of nature cannot exist, if it has socially unpleasant consequences.
+****
+
+* Thus: "If X were true, then Z would happen! Thus, X is false"
+** Z = morally, socially or politically undesirable thing
+* The inverse of the link:naturalistic_fallacy.html[naturalistic fallacy].
+
+== Examples
+
+* "Warfare is destructive and tragic, and so it is not of human nature."
+* "Eating meat harms animals and the environment, and so eating meat is unnatural."
+* "Unfaithfulness is immoral, and so it is unnatural to feel desire for others when in a monogamous relationship."
+
+== Steven Pinker says
+
+"_The naturalistic fallacy is the idea that what is found in nature is good. It was the basis for social Darwinism, the belief that helping the poor and sick would get in the way of evolution, which depends on the survival of the fittest. Today, biologists denounce the naturalistic fallacy because they want to describe the natural world honestly, without people deriving morals about how we ought to behave (as in: If birds and beasts engage in adultery, infanticide, cannibalism, it must be OK)._"
+
+Pinker goes on to explain that "_the moralistic fallacy is that what is good is found in nature. It lies behind the bad science in nature-documentary voiceovers: lions are mercy-killers of the weak and sick, mice feel no pain when cats eat them, dung beetles recycle dung to benefit the ecosystem and so on. It also lies behind the romantic belief that humans cannot harbor desires to kill, rape, lie, or steal because that would be too depressing or reactionary._"
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Moralistic_fallacy

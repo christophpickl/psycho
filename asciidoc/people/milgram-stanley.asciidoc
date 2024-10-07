@@ -12,7 +12,7 @@ image::milgram-stanley.jpg[Stanley Milgram,200,100]
 
 == Achievements
 
-* Best known for his controversial experiments on obedience: link:../phenomena/milgrams_experiment.html[Milgram's Obedience Experiment]
+* Best known for his controversial experiments on obedience: link:../phenomena/classics/milgrams_experiment.html[Milgram's Obedience Experiment]
 
 == Links
 

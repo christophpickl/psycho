@@ -1,0 +1,16 @@
+= Illusory Superiority
+
+Also known as "above-average effect", "the superiority bias", "the leniency error", "the sense of relative superiority", "the primus inter pares effect", and the "Lake Wobegon effect" (a fictional town where all children are above average).
+
+.Definition
+****
+We overestimate our qualities/abilities compared to others.
+****
+
+* A positive illusion (cognitive bias) relating to the self to have desirable personal characteristics, like intelligence.
+** Overestimation of abilities compared to an objective measure is known as the link:overconfidence_effect.html[overconfidence effect].
+* The link:dunning_kruger_effect.html[Dunning-Kruger effect] is a form of illusory superiority shown by people on a task where their level of skill is low.
+
+== Resources
+
+* https://en.wikipedia.org/wiki/Illusory_superiority

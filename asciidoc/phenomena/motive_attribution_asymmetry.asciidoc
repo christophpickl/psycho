@@ -1,0 +1,19 @@
+= Motive Attribution Asymmetry
+
+Motive attribution asymmetry for love vs. hate drives intractable conflict
+
+.Definition
+****
+We attribute our own group's aggression more to love than to hate, but the other group's aggression more to hate than to love.
+****
+
+* Or differently put: We attribute our ingroup's action to ingroup love more than outgroup hate, and attribute their outgroup's actions to outgroup hate more than ingroup love.
+** Or simply put: The enemies are always wrong and the opposite of us.
+* This leads us to a belief that makes us unwilling to negotiate and vote for compromise solutions.
+* Examples are political discussions (left/right, conservative/liberal, democrats/republicans) or national conflicts (Israel/Palestine) despite the availability of reasonable compromise solutions.
+** Understanding this bias and how to resolve it can contribute to conflict resolution on a global scale.
+
+
+== Resources
+
+* https://www.pnas.org/doi/10.1073/pnas.1414146111

@@ -28,6 +28,6 @@ image::https://img.youtube.com/vi/hTghEXKNj7g/0.jpg[Pygmalion Effect,300]
 . *Feedback*: Students are more praised (positively reinforced) for right answer.
 
 
-== Further Reading
+== Resources
 
 * https://en.wikipedia.org/wiki/Pygmalion_effect

@@ -2,11 +2,13 @@
 
 == TODO
 
-ctd: https://www.youtube.com/watch?v=9UHI-ra70X0
+ctd: https://www.youtube.com/watch?v=9UHI-ra70X0&t=3607s
+
 https://www.youtube.com/watch?v=cU2HfjWbVlE
 https://www.youtube.com/watch?v=pYt2p5LulTw
 medi: https://www.youtube.com/watch?v=gY-Tr2hpTug
 series: https://www.youtube.com/watch?v=7fVlZNXRf-g&list=PLcB3trehXswjLCIdQqZcCBwfp4_qOPCaH
+https://www.youtube.com/watch?v=ZT5-TNqUg-w
 
 == Background
 
@@ -19,7 +21,7 @@ These are some signs indicating that you are insecurely attached:
 * Need for frequent *validation*/praise
 ** Words of appreciation; giving love in order to get love back -be frustrated if not
 * Feeling *insecure* for no obvious reason
-* Being hyper-vigilant, mind-reading, *psychoanalysing
+* Being hyper-vigilant, mind-reading, *psychoanalysing*
 ** Looking for any subtle cue, out of fear, to be abandoned
 * Staying in *unhealthy* relationships
 
@@ -64,7 +66,7 @@ Order: 1) me within myself 2) I do it to others 3) I ask it from others.
 * Have healthy *boundaries* with reciprocal adjustments
 ** Don't overwhelm others with my love/needs (iina); *moderation*!
 
-=== Find Stability Within
+=== Find Stability/Safety Within
 
 To start to learn what a healthy relationship feels like, develop a *secure attachment* with myself:
 
@@ -79,10 +81,11 @@ To start to learn what a healthy relationship feels like, develop a *secure atta
 * Be *safe*, by setting healthy boundaries/realistic expectations
 * Be unconditionally *loving* to myself
 
-=== Find Stability with Others
+=== Find Stability/Safety with Others
 
-* *Friends* are people with whom I do not have sex with.
-* To *reach out* when in needs; e.g.: brunch with friend was very good.
+* Find support people (2 or more) who can be called when getting overwhelmed.
+** *Friends* are people with whom I do not have sex with!
+** To *reach out* when in needs; e.g.: brunch with friend was very good.
 * "_Nachlehrung_": Gain correcting relationship *experiences*.
 ** In childhood were some impairments...
 ** *Self-efficacy* available, now I can decide based on this knowledge/insight.
@@ -97,10 +100,97 @@ To start to learn what a healthy relationship feels like, develop a *secure atta
 * Heart Coherence exercise (6-1 cycle)
 ** e.g. https://www.youtube.com/watch?v=fAI1OH1NNlU&list=PL9rlR6zIwFY4ZoOJMdLo-3Fl1PvPAeN6-&index=1
 
+=== Distress Regulation
+
+ABCDEFs when getting triggered:
+
+* Awareness: stay mindful of how feel, acknowledge/validate
+* Breathing: focused, breathing app (with fitness tracker can do biofeedback, heart-rate; also diverts attention), lower HPA-axis
+* Cued progressive muscular relaxation: like body-scan, but tense and relax each part
+** Say with every relaxation a word (cue) like "breathe", or "it's all good" (condition yourself)
+* Developed Distress Tolerant thoughts: talk about when feeling anxious, sit with the emotion (not getting overwhelmed), takes a while for feelings to move on
+* Express: journal/articulate your feelings (call/text someone); not means scream
+* Focus: guided imagery to distract, instead of hyper-focus on anxiety; e.g. knob (turn volume town), shelving (take the issue in a box and put it on a shelf to park it)
+** Parking: When in fight-flight mode, full of adrenaline, first down-regulate, then address it when calmed down.
+* Scheduling your "worry time": time box it, like self-pity, go full in, and then stop
+** Take back the parked boxes, process anxiety and examine thoughts
+
+=== Counteract 4 Unhelpful Thinking Styles
+
+Also called cognitive distortions in CBT:
+
+* *Personalization*: taking it personally ("I'm useless! I'm a failure!")
+** Function: Self-protective, keeping from being harmed
+** Alternative:
+*** Separate person and behavior (see: link:../phenomena/fundamental_attribution_error.html[Fundamental Attribution Error]); say "I am a successful person, but failed at ..." (some behavior, instead as a human being)
+*** Think of three others reasons of a certain behavior; not everything is about me, sometimes people are not even aware of me; we are all too busy with ourselves.
+* *Mind reading* (assuming I know what the other is thinking) / jumping to conclusions:
+** Function: Believe predict future to prepare ahead of time (using outdated information/old memories)
+** Get the _facts_! Ask by doing a reality check, and challenge your assumptions you take for granted.
+*** It's not necessarily true that I will get abandoned; she likes someone more than me; she's annoyed by me...
+* *Catastrophizing* (fatalism): facts/control/probability; protecting from being caught off-guard and abandoned
+** "This person is going to leave me, and I'm going to be alone forever and always" (quick downwards spiral)
+*** Solution: Acknowledge the FACTS (a quick fight, but it will pass, we will stay)
+** Get back some CONTROL over how you respond, for self-regulation
+* *Over-generalizations*: bad things stick better in our memory; keeping us safe remembering it
+** When it gets too much like "all people will always leave me";
+** Function: Helps us to predict the future, in order to protect ourselves
+** Solution: Be more specific in each situation, are there any exceptions (try to disprove myself)
+*** Not all people will always leave, there is some stability, and you DO have friends
+
+=== ABCs for Abandonment Anxiety
+
+* *A*ctivating event: What happened that triggered the anxiety?
+** E.g. not getting back a message response in time, and now feeling insecure
+* *B*eliefs: Reflect on the automatic thoughts/convictions, that lead to the anxiety?
+* *C*onsequences: Anxiety triggered resulting in drawback and shutdown.
+* *D*isputing the beliefs: sometimes right, sometimes wrong.
+** What are the facts in context that lead to your belief? (stay rational)
+** What are the controllable aspects in this situation? (use communication skills)
+** What is the realistic probability that the activating event leads to abandonment? (accurate, less extreme)
+* *E*valuating the reaction
+** Is the reaction (anxiety) an effective/helpful response to leading to my goal?
+
+Write those down (activating events) whenever this anxiety comes up.
+Having some kind of history which events trigger it.
+To get some more control back in life through being more mindful.
+
+=== Information Gathering
+
+Furthermore, write down:
+
+* Name the problem, describe the symptoms:
+** physically
+** affectively/emotions
+** the impact on health and well-being
+*** impact on sense of safety
+*** impact on relationships (co-workers, friends, lovers, partners)
+* Course of the problem:
+** When did it start? (child, teenager, adult?)
+** What may have triggered it? (traumatic events with parents)
+** What beliefs held which contribute to the problem?
+*** Write down, or record voice (use transcription software); free associatively
+*** Examine each belief, accuracy/helpfulness
+
+Explore core beliefs:
+
+* The messages received from parents
+** "useless child", "stupid child", being ignored (only attention when doing something wrong)
+** Am I loveable? Am I good enough?
+** What was the parents' relationship like? (observed, and forming template of idea of relationships)
+*** Learning safety and trustworthiness of other people
+
+TODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODO here continue
+
+=== Basic Social Skills
+
+* Validate people's emotions (acceptance, recognition; being seen/heard), even if you don't agree.
+* Learn how to listen in order to understand, be curious (empathy).
+
 === Journal Prompts
 
 * Similarities *bad* relationships? How *avoid*/address those pitfalls?
-** Need to be needed to avoid abandonment: "I'm unloveable, thus people are only going to be with me when they need me", making the dependent on me.
+** Need to be needed to avoid abandonment: "I'm unlovable, thus people are only going to be with me when they need me", making the dependent on me.
 * *Good* ones, how were they different?
 * What does *trust* mean to me?
 * What do I *need* in relationships to feel safe?
