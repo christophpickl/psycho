@@ -9,7 +9,8 @@ CURRENTLY WORKING:
 * social psy book ...
 
 ## Content
-
+* defense mechanisms overview, next to biaseshttps://youtu.be/JPx8J65zGfU?si=7suQ57BC0sU8ac6j
+* ad phenomena: highlight diff bias from argument tactics
 * gaslighting phenomenon
 * ! finish "intro psy"
 * ad neurotransmitters: endo-cannabinoids
