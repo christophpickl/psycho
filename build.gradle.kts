@@ -10,7 +10,7 @@ repositories {
 }
 
 plugins {
-    id("org.asciidoctor.jvm.convert") version "3.1.0"
+    id("org.asciidoctor.jvm.convert") version "4.0.3"
 //    id("com.github.christophpickl.linkchecker") version "1.0"
 }
 
